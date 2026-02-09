@@ -10,6 +10,7 @@ tags:
   - ciência
   - metafisica
   - deus
+  - descartes
 draft: false
 date: 2026-02-07
 ---

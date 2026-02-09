@@ -8,6 +8,7 @@ aliases:
 tags:
   - filosofia
   - computer-science
+  - descartes
 draft: false
 date: 2026-02-09
 ---

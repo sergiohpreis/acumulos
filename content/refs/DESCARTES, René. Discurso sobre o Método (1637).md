@@ -1,18 +1,26 @@
 ---
-date created: Saturday, February 7th 2026, 1:57:32 pm
-date modified: Saturday, February 7th 2026, 2:34:27 pm
-title: Anotações sobre o método cartesiano exposto em "Discurso do Método"
-description: Anotações sobre o método cartesiano exposto em "Discurso do Método"
-permalink:
-aliases:
+date created: Friday, February 6th 2026, 9:21:10 pm
+date modified: Wednesday, February 11th 2026, 2:15:16 am
+started_at: 2026-02-06T21:00:00
+finished_at: 2026-02-07T13:40:00
+status:
+  - finished
+author:
+  - Descartes
+type:
+  - book
 tags:
   - filosofia
-  - ciência
   - metafisica
-  - deus
   - descartes
+  - idealismo
+  - racionalismo
+title: DESCARTES, René. Discurso sobre o Método (1637)
+description:
+permalink:
+aliases:
 draft: false
-date: 2026-02-07
+date: 2026-02-11
 ---
 
 ##  2026-02-07 - Impressões de uma primeira leitura de "Discurso do Método"

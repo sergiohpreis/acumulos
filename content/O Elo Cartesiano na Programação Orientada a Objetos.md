@@ -13,10 +13,10 @@ draft: false
 date: 2026-02-09
 ---
 
-Durante a leitura da 3ª Meditação em [[Meditações Metafísicas, Descartes, 1641]], notei que ele utiliza o conceito de "composição", vejamos o seguinte trecho onde ele reflete sobre o que uma pedra necessita para "ser"
+Durante a leitura da 3ª Meditação em [[DESCARTES, René. Meditações Metafísicas (1641)]], notei que ele utiliza o conceito de "composição", vejamos o seguinte trecho onde ele reflete sobre o que uma pedra necessita para "ser"
 
 > para a pedra começar a ser, ela precisa ter sido **originada** de uma coisa que tem em si **formalmente** ou **eminentemente**, tudo o que participa da composicão da pedra, isto é, que contém em si a mesmas coisas ou outras mais excelentes do que as que estão presentes na pedra
-> [[Meditações Metafísicas, Descartes, 1641]]
+> [[DESCARTES, René. Meditações Metafísicas (1641)]]
 
 Na filosofia cartesiana, nós obtemos apenas idéias das coisas materiais, e essas idéias podem ser mais certas ou menos certas. Quanto mais substancial a idéia (como por exemplo, as teorias matemáticas), mais essa idéia pode ser encontrada formalmente em outros objetos.
 

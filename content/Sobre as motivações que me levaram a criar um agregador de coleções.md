@@ -12,7 +12,7 @@ draft: false
 date: 2026-02-07
 ---
 
-Há algum tempo que eu tenho o hábito de registrar o tempo das minhas sessões de leituras... eu sempre penso que isso é um tanto quanto "neurótico" (eu não sei se é a melhor palavra), mas lendo [[Como Fazer uma Monografia, Délcio Vieira Salomon, 2004]] ele sugere um método para aprimorar a leitura que se baseia também em cronometrar. Mas além disso, eu acho interessante ver como a leitura se faz presente ao longo da minha vida.
+Há algum tempo que eu tenho o hábito de registrar o tempo das minhas sessões de leituras... eu sempre penso que isso é um tanto quanto "neurótico" (eu não sei se é a melhor palavra), mas lendo [[SALOMON Délcio Vieira. Como Fazer uma Monografia (2004)]] ele sugere um método para aprimorar a leitura que se baseia também em cronometrar. Mas além disso, eu acho interessante ver como a leitura se faz presente ao longo da minha vida.
 
 Tudo isso me levou a crer que é interessante a idéia de ter uma espécie de "diário de colecionador", onde eu registro as interações. O letterboxd é uma plataforma que propõe isso no ambito dos filmes, você não apenas cataloga o que você já assistiu, mas também, quando assistiu e quais eram as suas percepções no momento.
 

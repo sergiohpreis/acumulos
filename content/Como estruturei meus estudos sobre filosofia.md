@@ -16,6 +16,6 @@ Já faz algum tempo que tenho vontade de estudar filosofia de maneira autodidata
 1. Baixei a [Grade Curricular do Bacharelado em Filosofia 2026 da FFLCH da USP](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=8&codcur=8010&codhab=104&tipo=N) assim como a [Ementa da Disciplina FLF0113 - Introdução à Filosofia](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FLF0113&codcur=8010&codhab=104)
 2. Criei um projeto no [Claude](https://claude.ai) intitulado "Estudos Filosóficos", alimentando-o com esses dois arquivos, e pedi ajuda para criar um plano de estudos.
 3. Estou testando interagir também com o NotebookLM, onde posso inserir a ementa, a grade, e inúmeras referências para dialogar, levar minhas anotações e etc.
-	1. Inclusive, utilizei uma versão em PDF do [[Como Fazer uma Monografia, Délcio Vieira Salomon, 2004]] para me ajudar com meus fichamentos e etc
+	1. Inclusive, utilizei uma versão em PDF do [[SALOMON Délcio Vieira. Como Fazer uma Monografia (2004)]] para me ajudar com meus fichamentos e etc
 
 Assim, posso ir lendo e tirando dúvidas, avançando de maneira assistida.

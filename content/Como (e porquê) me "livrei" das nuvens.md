@@ -9,7 +9,7 @@ tags:
   - self-hosted
   - computer-science
 draft: true
-date: 2026-02-09
+date: 2026-02-11
 ---
 
 Falar sobre a miinha experiência autohospedando alguns serviços como immich, nextcloud, homebox e etc...

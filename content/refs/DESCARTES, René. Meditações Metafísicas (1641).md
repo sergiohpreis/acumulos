@@ -12,7 +12,7 @@ tags:
   - filosofia
   - metafisica
   - descartes
-title: DESCARTES, René. Discurso sobre o Método (1637)
+title: DESCARTES, René. Meditações Metafísicas (1641)
 description:
 permalink:
 aliases:

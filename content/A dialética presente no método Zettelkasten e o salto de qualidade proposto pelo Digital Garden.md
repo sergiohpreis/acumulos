@@ -9,7 +9,7 @@ tags:
   - zettelkasten
   - digital-garden
 draft: true
-date: 2026-02-07
+date: 2026-02-14
 ---
 
 TBD

@@ -1,6 +1,6 @@
 ---
 date created: Saturday, February 7th 2026, 4:02:28 pm
-date modified: Wednesday, February 11th 2026, 2:25:25 am
+date modified: Wednesday, February 11th 2026, 11:27:54 pm
 author:
   - Délcio Vieira Salomon
 year: "2004"
@@ -24,8 +24,6 @@ https://ria.ufrn.br/jspui/handle/123456789/1278
 
 ---
 
-![[Pasted image 20260126120007.png|400]]
-
 ## 26/01/2026 - 12:03
 
 A parte que mais me interessa é a **PRIMEIRA PARTE**, que mais fala sobre o processo de **coleta de informação**. Em outro momento sim, vou querer visitar a parte que fala sobre produção de informação
@@ -33,11 +31,6 @@ A parte que mais me interessa é a **PRIMEIRA PARTE**, que mais fala sobre o pro
 ## Sobre o método "global - parcial - global"
 
 *Páginas 40 e 41*
-
-![[Pasted image 20260126203415.png|400]]
-![[Pasted image 20260126203444.png|400]]
-![[Pasted image 20260126203510.png|400]]
-![[Pasted image 20260126203524.png|400]]
 
 > O processamento global - parcial - global segue o principio geral que rege a evolução biológica: o do desenvolvimento "difuso-analítico-sintético".
 
@@ -63,12 +56,7 @@ A partir da P71 o autor propõe um tipo de treinamento
 
 ## 27/01/2026
 
-No capítulo 4, "A prática da documentaçnao pessoal", o autor fala sobre alguns métodos de catalogação, e esses métodos me lembraram os conceitos do Zettelkasten (ver mais em [[A dialética presente no método Zettelkasten]])
-
-- P122,P2
-	- ![[Pasted image 20260127182259.png]]
-- P123,P1
-	- ![[Pasted image 20260127182238.png|300]]
+No capítulo 4, "A prática da documentação pessoal", o autor fala sobre alguns métodos de catalogação, e esses métodos me lembraram os conceitos do Zettelkasten (ver mais em [[A dialética presente no método Zettelkasten e o salto de qualidade proposto pelo Digital Garden]])
 
 Em algum momento vou retornar com calma as suas sugestões de sistemas de fichas, fiquei interessado no sistema misto 
 

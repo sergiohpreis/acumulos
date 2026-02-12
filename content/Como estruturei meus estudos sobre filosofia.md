@@ -1,6 +1,6 @@
 ---
 date created: Saturday, February 7th 2026, 10:09:55 am
-date modified: Monday, February 9th 2026, 8:57:21 am
+date modified: Wednesday, February 11th 2026, 5:49:13 pm
 title: Como estruturei meus estudos sobre filosofia
 description: Como estruturei meus estudos sobre filosofia
 permalink:
@@ -19,3 +19,7 @@ Já faz algum tempo que tenho vontade de estudar filosofia de maneira autodidata
 	1. Inclusive, utilizei uma versão em PDF do [[SALOMON Délcio Vieira. Como Fazer uma Monografia (2004)]] para me ajudar com meus fichamentos e etc
 
 Assim, posso ir lendo e tirando dúvidas, avançando de maneira assistida.
+
+---
+
+Fiquei pensando que isso poderia ser matar uma formiga com uma metralhadora, sendo assim, comecei a pensar em uma [[Plano para uma compreensão da base filosófica de Yuk Hui]]

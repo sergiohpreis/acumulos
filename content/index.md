@@ -6,7 +6,6 @@ description: Tela de boas vindas aos meus acúmulos
 permalink:
 aliases:
 tags:
-  - zettelkasten
 draft: false
 date: 2026-02-09
 ---

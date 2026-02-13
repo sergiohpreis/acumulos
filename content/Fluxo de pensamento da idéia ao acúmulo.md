@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 13th 2026, 2:47:54 am
-date modified: Friday, February 13th 2026, 3:55:28 am
+date modified: Friday, February 13th 2026, 4:27:37 am
 title: CFluxo de pensamento
 description:
 permalink:
@@ -9,7 +9,7 @@ tags:
   - digital-garden
   - jardim-digital
 draft: false
-date: 2026-02-13
+date: 2026-02-13T04:26:00
 ---
 
 A primeira coisa que eu faço quando eu penso em algo que eu quero escrever (que podemos chamar de idéia), é:
@@ -46,11 +46,11 @@ Esse fluxo permite que ao rever uma idéia que se encontra no `inbox` (ou até m
 ```mermaid
 flowchart LR
 
-idea --> validation
-validation --> exclusion
-validation --> outbox[("outbox (acúmulos)")]
+ideia --> validar
+validar --> excluir
+validar --> outbox[("outbox (acúmulo)")]
 
-style exclusion fill:red
+style excluir fill:red
 style outbox fill:green
 ```
 

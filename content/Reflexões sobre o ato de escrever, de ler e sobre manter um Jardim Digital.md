@@ -1,18 +1,14 @@
 ---
 date created: Friday, February 13th 2026, 12:32:40 am
-date modified: Friday, February 13th 2026, 12:14:18 pm
+date modified: Friday, February 13th 2026, 4:03:18 pm
 title: Reflexões sobre o ato de escrever, de ler e sobre manter um Jardim Digital
-description: Profunda reflexão sobre o que significa o ato de escrever
+description: Profunda reflexão sobre o que significa o ato de escrever, de ler e sobre manter um Jardim Digital
 permalink:
 aliases:
 tags:
-  - yuk-hui
-  - metodologia-cientifica
-  - sentimento
   - jardim-digital
   - digital-garden
-  - capitalismo
-  - ensaio
+  - reflexões
 draft: false
 date: 2026-02-13T01:46:00
 ---
@@ -24,21 +20,16 @@ date: 2026-02-13T01:46:00
 > [!info] Observação sobre a dissociação
 > Sei que agora, dia **2026-02-13, as 01:54** eu estou muito propenso a dissociar, por N motivos, então cabe refletir sobre o quanto dissociativo esse texto pode ser, embora tenha me esforçado para refletir criticamente sobre o que eu escrevia, sinto que escrevi mais livremente que o normal
 
-> [!info] .... 02:13
-
-![[Pasted image 20260213021312.png]]
-
 ---
 
 Ontem eu fiz a minha sessão de terapia e nela falei sobre o quanto a atividade de ler e escrever me trazia prazer.
 
 Acho que cabe um print, de maneira introdutória e com um óbvio objetivo de causar choque ao mesmo tempo que mostra uma parte da realidade no qual me encontrei nos últimos dias
 
-![[Pasted image 20260213011857.png]]
+![[Pasted image 20260213160307.png]]
+![[Pasted image 20260213160318.png]]
 
 Essas são as métricas dos últimos 30 dias (esse é o meu app, se quiser saber mais leia [[Sobre as motivações que me levaram a criar um agregador de coleções]])
-
-![[Pasted image 20260213012002.png]]
 
 ## O que me levou ao hiperfoco na leitura
 

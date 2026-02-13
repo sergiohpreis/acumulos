@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 13th 2026, 2:47:54 am
-date modified: Friday, February 13th 2026, 3:29:27 am
+date modified: Friday, February 13th 2026, 3:55:28 am
 title: CFluxo de pensamento
 description:
 permalink:
@@ -38,6 +38,23 @@ De tempos em tempos eu reviso tudo que está em `draft`.
 E ai através de `rm -rf content/* && cp -R ../brain/outbox/* content && npx quartz build --serve` eu consigo ter uma prévia
 
 Através de  `rm -rf content/* && cp -R ../brain/outbox/* content && npx quartz sync` eu faço a publicação
+
+## A outra parte do processo
+
+Esse fluxo permite que ao rever uma idéia que se encontra no `inbox` (ou até mesmo em `particular`).
+
+```mermaid
+flowchart LR
+
+idea --> validation
+validation --> exclusion
+validation --> outbox[("outbox (acúmulos)")]
+
+style exclusion fill:red
+style outbox fill:green
+```
+
+Ou seja, algo que era uma idéia é validado e tem dois destinos: a exclusão ou a sua publicação (enquanto um [acúmulo](/))
 
 ## Refs
 

@@ -1,6 +1,6 @@
 ---
 date created: Thursday, February 5th 2026, 12:12:13 pm
-date modified: Monday, February 9th 2026, 9:12:50 am
+date modified: Friday, February 13th 2026, 2:59:18 am
 title: Porque eu decidi criar um Digital Garden
 description: Aqui eu falo sobre o porquê eu decidi começar a manter um Jardim Digital (Digital Garden)
 permalink:
@@ -22,7 +22,7 @@ Eu havia lido o livro [[SÖNKE Ahrens. How to Take Smart Notes (2017)]] e me fas
 Discordo bastante quando o [jzhao](https://jzhao.xyz/) diz que o Zettelkasten não funcionou para ele, porque acho que isso é uma boa evolução do Zettelkasten, saindo de uma esfera privada e tornando a construção do conhecimento pública e coletiva de alguma maneira—afinal, estamos dialogando.
 > As a result, existing formal organizing systems like Zettelkasten or the hierarchical folder structures of Notion don't work well for me. There is way too much upfront friction that by the time I've thought about how to organize my thought into folders categories, I've lost it.
 
-Falarei mais sobre isso em [[A dialética presente no método Zettelkasten e o salto de qualidade proposto pelo Digital Garden]]
+Falarei mais sobre isso em [[A dialética presente no método Zettelkasten e o salto de qualidade presente no Jardim Digital]]
 
 ---
 

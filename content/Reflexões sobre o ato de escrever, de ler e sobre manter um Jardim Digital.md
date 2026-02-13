@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 13th 2026, 12:32:40 am
-date modified: Friday, February 13th 2026, 2:39:46 am
+date modified: Friday, February 13th 2026, 3:19:39 am
 title: Reflexões sobre o ato de escrever, de ler e sobre manter um Jardim Digital
 description: Profunda reflexão sobre o que significa o ato de escrever
 permalink:
@@ -12,6 +12,8 @@ tags:
   - sentimento
   - jardim-digital
   - digital-garden
+  - capitalismo
+  - ensaio
 draft: false
 date: 2026-02-13T01:46:00
 ---
@@ -52,7 +54,7 @@ Eu amo muito o vídeo do professor Clovis de Barros onde ele fala sobre a necess
 Sinto uma necessidade de estar isolado de tudo para escrever, quase como em uma meditação cartesiana mas com a clareza de que o próprio método ja esta superado.
 
 Sem romantizações, tenho me isolado em excesso, Hoje enquanto escrevo esse texto deixei de ir a uma festa que comprei o ingresso e no qual eu estava genuinamente interessado em ir, só que entretanto, preferi ficar em casa fazendo %PARTICULAR%. 
-Esses %PARTICULAR% que estou fazendo, acho que estou fazendo muito (reflexões para outro momento)... 
+Esse %PARTICULAR% que estou fazendo, acho que estou fazendo em excesso (reflexões para outro momento)... 
 
 Penso que o trabalho remoto impulsionou uma tendência ao isolamento, de varias maneiras e também penso que que se puxarmos os dados vamos ver que o consumo de redes sociais, plataformas e etc se elevando exponencialmente (ainda que isso por si só não diga muito, traz que cabe ser analisado e aprofundado)
 

@@ -1,6 +1,6 @@
 ---
 date created: Saturday, February 7th 2026, 4:02:28 pm
-date modified: Wednesday, February 11th 2026, 11:27:54 pm
+date modified: Friday, February 13th 2026, 2:59:00 am
 author:
   - Délcio Vieira Salomon
 year: "2004"
@@ -56,7 +56,7 @@ A partir da P71 o autor propõe um tipo de treinamento
 
 ## 27/01/2026
 
-No capítulo 4, "A prática da documentação pessoal", o autor fala sobre alguns métodos de catalogação, e esses métodos me lembraram os conceitos do Zettelkasten (ver mais em [[A dialética presente no método Zettelkasten e o salto de qualidade proposto pelo Digital Garden]])
+No capítulo 4, "A prática da documentação pessoal", o autor fala sobre alguns métodos de catalogação, e esses métodos me lembraram os conceitos do Zettelkasten (ver mais em [[A dialética presente no método Zettelkasten e o salto de qualidade presente no Jardim Digital]])
 
 Em algum momento vou retornar com calma as suas sugestões de sistemas de fichas, fiquei interessado no sistema misto 
 

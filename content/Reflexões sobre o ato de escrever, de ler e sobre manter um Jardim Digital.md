@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 13th 2026, 12:32:40 am
-date modified: Friday, February 13th 2026, 2:33:39 am
+date modified: Friday, February 13th 2026, 2:39:46 am
 title: Reflexões sobre o ato de escrever, de ler e sobre manter um Jardim Digital
 description: Profunda reflexão sobre o que significa o ato de escrever
 permalink:
@@ -59,6 +59,9 @@ Penso que o trabalho remoto impulsionou uma tendência ao isolamento, de varias 
 Sei que sou uma vítima desse processo adoecedor, mas ao mesmo tempo também sei que não posso simplesmente me tornar um telespectador da realidade, não posso ignorar "o papel do indivíduo na história", que no fundo é **participar do processo de transformação da sociedade em algum grau que seja**...
 
 ## O jardim digital enquanto um meio facilitador a crítica
+
+> [!info] O que me motivou a ter um jardim digital
+> Falo sobre em [[Porque eu decidi criar um Digital Garden]]
 
 Acho que a leitura de [[MARK Fisher. Realismo Capitalista (2009)]] também me incentivou a externalizar mais, pois ele mantinha um blog e eu acho que isso é algo que eu sempre quis fazer. 
 

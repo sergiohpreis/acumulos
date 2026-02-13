@@ -16,7 +16,7 @@ title: HUI Yuk. Tecnodiversidade (2020)
 description: Anotações do "HUI Yuk. Tecnodiversidade (2020)"
 permalink:
 aliases:
-draft: true
+draft: false
 date: 2026-02-11
 ---
 

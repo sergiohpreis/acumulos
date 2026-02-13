@@ -12,7 +12,7 @@ title: Plano para uma compreensão da base filosófica de Yuk Hui
 description:
 permalink:
 aliases:
-draft: true
+draft: false
 date: 2026-02-11
 ---
 

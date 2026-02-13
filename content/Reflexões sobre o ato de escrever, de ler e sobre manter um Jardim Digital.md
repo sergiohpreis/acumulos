@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 13th 2026, 12:32:40 am
-date modified: Friday, February 13th 2026, 3:19:39 am
+date modified: Friday, February 13th 2026, 12:14:18 pm
 title: Reflexões sobre o ato de escrever, de ler e sobre manter um Jardim Digital
 description: Profunda reflexão sobre o que significa o ato de escrever
 permalink:
@@ -8,7 +8,6 @@ aliases:
 tags:
   - yuk-hui
   - metodologia-cientifica
-  - psicoanalise
   - sentimento
   - jardim-digital
   - digital-garden
@@ -19,7 +18,7 @@ date: 2026-02-13T01:46:00
 ---
 
 > [!info] O que escuto enquanto escrevo
-> *Daft Punk - Discovery (Full Album)*
+> *Daft Punk - Discovery (Full Album)*  
 > Créditos ao [DJ Diablo](https://www.youtube.com/@djdiablo2619) por ter upado essa maravilha
 
 > [!info] Observação sobre a dissociação

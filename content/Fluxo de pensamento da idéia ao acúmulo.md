@@ -1,7 +1,7 @@
 ---
 date created: Friday, February 13th 2026, 2:47:54 am
 date modified: Friday, February 13th 2026, 4:27:37 am
-title: CFluxo de pensamento
+title: Fluxo de pensamento da idéia ao acúmulo
 description:
 permalink:
 aliases:

@@ -1,7 +1,7 @@
 ---
 date created: Friday, February 13th 2026, 2:47:54 am
-date modified: Friday, February 13th 2026, 2:54:41 am
-title: Como tem se dado o meu fluxo de pensamento
+date modified: Friday, February 13th 2026, 3:29:27 am
+title: CFluxo de pensamento
 description:
 permalink:
 aliases:

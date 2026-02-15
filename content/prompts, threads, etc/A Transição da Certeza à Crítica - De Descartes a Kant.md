@@ -1,6 +1,6 @@
 ---
 date created: Sunday, February 15th 2026, 5:37:52 pm
-date modified: Sunday, February 15th 2026, 5:42:01 pm
+date modified: Sunday, February 15th 2026, 5:48:43 pm
 ia:
   - gemini
 source: https://gemini.google.com/app/bcbf93cc9fff033e
@@ -61,4 +61,6 @@ A base que você está construindo é o que permite entender o salto para a téc
 
 ---
 
-> **Nota de Estudo:** "Ler os Prolegômenos não é apenas aprender sobre metafísica, é entender os limites da 'máquina' biológica e racional que usamos para processar o universo."
+> [!info] Notas de Estudos
+> - *"Ler os Prolegômenos não é apenas aprender sobre metafísica, é entender os limites da 'máquina' biológica e racional que usamos para processar o universo."* (por Gemini). 
+> - Ver mais em [[Plano para uma compreensão da base filosófica de Yuk Hui]]

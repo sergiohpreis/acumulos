@@ -8,6 +8,7 @@ tags:
   - filosofia
   - estudos
   - yuk-hui
+  - claude
 title: Plano para uma compreensão da base filosófica de Yuk Hui
 description:
 permalink:

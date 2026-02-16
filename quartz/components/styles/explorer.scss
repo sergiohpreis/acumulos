@@ -116,6 +116,8 @@ button.desktop-explorer {
   overflow: hidden;
   overflow-y: auto;
   margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  padding-left: 0.5rem;
 
   & ul {
     list-style: none;
@@ -124,6 +126,12 @@ button.desktop-explorer {
 
     &.explorer-ul {
       overscroll-behavior: contain;
+    }
+
+    & li {
+      margin-bottom: 0.7rem;
+      line-height: 1rem;
+      font-size: 0.85rem
     }
 
     & li > a {

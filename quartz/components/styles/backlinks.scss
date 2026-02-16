@@ -4,7 +4,7 @@
   flex-direction: column;
 
   & > h3 {
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin: 0;
   }
 
@@ -16,6 +16,10 @@
     overscroll-behavior: contain;
 
     & > li {
+      margin-bottom: 0.7rem;
+      line-height: 1rem;
+      font-size: 0.85rem;
+
       & > a {
         background-color: transparent;
       }

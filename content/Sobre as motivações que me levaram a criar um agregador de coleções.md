@@ -5,9 +5,6 @@ tags:
   - ideias
   - colecionismo
 title: Sobre as motivações que me levaram a criar um agregador de coleções
-description: Sobre as motivações que me levaram a criar um agregador de coleções
-permalink:
-aliases:
 draft: false
 date: 2026-02-07
 ---

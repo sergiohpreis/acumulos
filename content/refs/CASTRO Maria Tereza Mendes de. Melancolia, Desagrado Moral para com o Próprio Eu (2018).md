@@ -11,9 +11,9 @@ status:
 year: "2018"
 tags:
   - melancolia
-draft: true
-title: de CASTRO Maria Tereza Mendes. Melancolia, Desagrado Moral para com o Próprio Eu (2018)
+title: CASTRO Maria Tereza Mendes de. Melancolia, Desagrado Moral para com o Próprio Eu (2018)
 description:
+draft: false
 date: 2026-02-13T04:05:00
 ---
 

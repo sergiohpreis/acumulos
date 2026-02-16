@@ -1,21 +1,56 @@
 ---
 date created: Wednesday, June 25th 2025, 12:52:21 pm
-date modified: Friday, January 30th 2026, 12:59:40 pm
-status:
-  - pending
+date modified: Monday, February 16th 2026, 8:01:57 am
 tags:
   - spec-driven
   - computer-science
-draft: true
+  - tecnologia
+title: O desenvolvimento da profissão do programador ao longo do tempo
+draft: false
+date: 2025-06-25T12:52:00
 ---
 
-Eu tenho uma concepção de que a introdução da Inteligência Artificial no fluxo de trabalho dos programadores é, na verdade, mais um momento onde a interface entre o ser humano e o computador muda.
+Penso que [[Escrever código significa manifestar as suas intenções por meio de uma linguagem]], nesse sentido, me parece que a introdução das inteligências artificiais no fluxo de trabalho dos programadores é mais um momento onde acontece uma mudança na linguagem utilizada para realizar essa intenção.
 
-Penso isso porque nos primórdios, para ser escrever um programa, era necessário um amplo conhecimento de Ciência da Computação e Matemática. Depois, as linguagens que eram de baixo nível começaram a se tornar cada vez mais de alto nível e agora chegamos em um momento onde a interface entre o homem e o computador é a uma IA, e a linguagem portanto, linguagem natural.
+Para se escrever um programa, no início da computação, era necessário um profundo conhecimento matemático (a linguagem portanto seria a matemática?). As linguagens de baixo nível surgiram, e com o passar dos anos, as linguagens de programação tornaram-se cada vez mais próxima a linguagem natural.
 
-Existe para onde ir dai? Seria esse um momento de virada? Quero explorar mais essa idéia...
+| **Era**                     | **Linguagem Primária**    | **Foco do Programador**       |
+| --------------------------- | ------------------------- | ----------------------------- |
+| **Baixo Nível**             | Binário / Assembly        | Gestão de memória e CPU       |
+| **Alto Nível (JS, Python)** | Lógica Computacional      | Algoritmos e Fluxos           |
+| **Spec-Driven**             | Linguagem Natural / Specs | Intenção, Regras e Resultados |
 
-## 30.01.2026
+Por exemplo:
 
-- [[Escrever código significa manifestar as suas intenções em uma linguagem]]
-- Será que [[Spec driver development pode ajudar programadores com TDAH?]]
+```js
+foodsAvailable = 10;
+hungry = true
+while (hungry && foodsAvailable > 0) {
+	eat();
+}
+```
+
+Se eu explicar para alguém que é leigo em programação que `&&` significa justamente a conjunção lógica "e", é possível inferir que esse trecho escrito em uma linguagem de programação chamada Javascript significa: "enquanto eu estiver com fome e tiver comida disponível, como".
+
+Através do spec-driven, podemos dizer:
+
+```markdown
+# Spec: Rotina de Alimentação
+
+**Contexto:** Garantir que o indivíduo se alimente enquanto houver necessidade e recursos.
+
+**Critérios de Sucesso:**
+1. A ação `comer` deve ser executada repetidamente.
+2. **Condição de Parada A:** O estado de `fome` ser alterado para falso.
+3. **Condição de Parada B:** O estoque de `comida` chegar a zero.
+
+**Restrições:**
+- Não iniciar a ação se não houver comida disponível.
+- Interromper imediatamente se o recurso se esgotar durante o processo.
+```
+
+Essa transição é uma mudança de "como fazer" (imperativo) para "o que deve acontecer" (declarativo / intensional). A especificação deixa de ser um manual de instruções e passa a ser um contrato de realidade, e ainda, parece que com relação a carga cognitiva existe um deslocamento da sintaxe para a funcionalidade.
+
+---
+
+- Será que [[Spec driven development pode ajudar programadores com TDAH?]]

@@ -1,9 +1,11 @@
 ---
 date created: Thursday, January 29th 2026, 9:08:15 pm
-date modified: Friday, January 30th 2026, 12:50:35 pm
+date modified: Monday, February 16th 2026, 8:04:43 am
 tags:
   - spec-driven
-draft: true
+title: O não determinismo na programação é realmente um problema introduzido pelo spec-driven development?
+draft: false
+date: 2026-01-29T09:00:00
 ---
 
 Não acho que eu tenha uma oposição na verdade, lendo [[Spec-driven development with AI - Get started with a new open source toolkit (2026)]] é proposto a seguinte definição para spec-driven development:
@@ -17,6 +19,5 @@ Em [[Understanding Spec-Driven-Development - Kiro, spec-kit, and Tessl (2026)]],
 > With LLMs, we are not constrained by a predefined and parseable spec language anymore, and we don’t have to build elaborate code generators. The price for that is LLMs’ non-determinism of course... I wonder if spec-as-source, and even spec-anchoring, might end up with the downsides of both MDD and LLMs: Inflexibility _and_ non-determinism.
 
 A questão central é: o quanto a programação é realmente determinística?
-
 - Será que um código mal escrito não abre margem para a introdução de novos bugs e cenários não previstos?
 - Porque documentos como [[Architecture decision record (ADR)]] surgiram?

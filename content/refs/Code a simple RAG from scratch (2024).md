@@ -13,7 +13,7 @@ year: "2024"
 source: https://huggingface.co/blog/ngxson/make-your-own-rag
 draft: false
 date: 2025-12-16
-title: Code a simple RAG from scratch
+title: Code a simple RAG from scratch (2024)
 description:
 ---
 

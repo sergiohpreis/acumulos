@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Monday, February 16th 2026, 3:13:06 pm
+date modified: Monday, February 16th 2026, 6:10:58 pm
 tags:
   - kant
   - idealismo-alemão
@@ -70,3 +70,88 @@ Uma vez que Kant resolveu esse problema de Hume, para toda a faculdade da razão
 Essa determinação é a que se propõe a "Crítica da Razão Pura", apontando a necessidade de uma crítica ser inteiramente completa, e ainda que é essa obra que "exibe a faculdade da razão em toda sua extensão e fronteiras". A "Crítica da Razão Pura" é a fundamentação a qual os "Prolegômenos" se referem apenas como **exercícios preliminares**.
 
 Kant afirma que a Crítica exigia uma "exatidão escolástica" que a tornava prolixa e obscura. Para os Prolegômenos, ele propõe um plano onde expõe o conhecimento "segundo o **método analítico**, já que o próprio trabalho a Crítica "tinha de ser inteiramente composto à maneira sintética". Isso significa que os Prolegômenos partem de fatos dados (como a existência da matemática e da física pura) para descobrir as condições de sua possibilidade, tornando a leitura mais acessível.
+
+## Prolegômenos. Retrospectiva do que é peculiar a toda cognição metafísica
+
+### §1 - Das fontes da metafísica
+
+- Não podem ser empíricas (definido pelo conceito)
+	- seus princípios portanto não podem ser tirados da experiência
+		- é necessário que seja uma cognição metafísica e não física, portanto, além da experiência
+- nem a experiência exterior (física) nem a experiência interior (psicológica empírica) podem ser a sua base
+- é portanto cognição a priori
+	- que provém do puro entendimento e da pura razão
+	- não há nada que a diferencie da matemática pura
+
+>[!note] Sintetizando
+> As fontes da metafísica não podem ser empíricas. Uma vez que é necessário uma cognição **metafísica**, e não **física**, seus princípios não podem ser, portanto, tirados de nenhuma experiência tanto exterior (domínio da física) quanto interior (domínio da psicologia). Portanto, é cognição a priori, que provém do puro entendimento e da pura razão, e que não há nada que a diferencie da cognição da matemática pura.
+
+### §2 - Da única espécie de cognição que pode ser chamada metafísica
+
+#### a) Da diferença entre juízos sintéticos e analíticos em geral (P34)
+
+Kant classifica os juízos com relação ao seu conteúdo em:
+- juízos analíticos: simplesmente explicativos e nada acrescentam ao conteúdo da cognição
+	- exemplo: todos os corpos são extensos
+- juízos sintéticos: juízos ampliativos que aumentam a cognição dada
+	- exemplo: alguns corpos são pesados
+
+> Juízos analíticos não dizem, no **predicado**, nada que já não estivesse efetivamente pensado no conceito do **sujeito**, ainda que não de forma tão clara e com igual consciência (P34)
+
+#### b) O princípio comum de todos os juízos analíticos é o princípio de contradição (P34)
+
+Para Kant, os juízos analíticos são **cognições a priori** devido a sua própria natureza, pois:
+
+- o predicado de um **juízo analítico afirmativo** já esta de antemão pensado no conceito do sujeito (ex: todo corpo é extenso)
+	- portanto aquele não pode ser negado deste sem **contradição**
+
+- o mesmo acontece com um juízo analítico negativo, que é necessariamente negado do sujeito (ex: nenhum corpo é inextenso)
+	- também de acordo com o principio da **contradição**
+
+Todas as proposições analíticas são juízos a priori, ainda que seus conceitos sejam empíricos.
+
+Portanto, para Kant, a marca de um juízo analítico é que sua negação resulta em um absurdo lógico.
+
+#### c) Juízos sintéticos exigem um princípio distinto do princípio de contradição (P35)
+
+Kant distingue os juízos sintéticos com relação a sua origem em:
+- a **posteriori**: origem empírica
+- a **priori**: do puro entendimento e razão
+
+Kant afirma que 
+> "jamais podem originar-se do princípio fundamental da análise, isto é, do princípio de contradição, mas exigem, além disso, um **princípio inteiramente diferente**, se bem que, seja qual for esse princípio, tenham sempre de ser derivados em conformidade com o princípio de contradição" (P35)
+
+>[!info]
+> A frase afirma que os **juízos sintéticos** (que ampliam nosso conhecimento) não podem ser deduzidos por mera análise lógica de conceitos (pois isso seria tautologia), exigindo assim uma base externa à lógica (como a intuição ou a experiência). No entanto, qualquer conhecimento novo que essa base externa forneça **deve respeitar a lógica**; ele não pode ser ilógico ou contraditório, sob pena de ser aniquilado como conhecimento válido
+
+#### Classificação dos juízos sintéticos
+
+**Juízos de Experiência**
+Kant diz que é um disparate fundar um juízo analítico na experiência, portanto, sua definição é que ele é sempre **sintético a posteriori**.
+
+**Juízos Matemáticos**
+Seguem-se do **princípio da contradição** por conta de sua natureza *[apodítica](<https://sites.google.com/view/sbgdicionariodefilosofia/apod%C3%ADtica)>)*, entretanto, suas proposições fundamentais não podem ser conhecidas a partir desse mesmo princípio, pois
+> uma proposição sintética pode, é certo, ser apreendida a partir do princípio de contradição, mas apenas quando se pressupõe outra proposição sintética da qual ela decorre, nunca, porém, por si mesma (P36)
+
+Proposições matemáticas genuínas são sempre **juízos a priori** e **não empíricos** pois trazem consigo **necessidade**, que é algo que não pode ser obtido da experiência.
+
+Kant demonstra sobre como a proposição aritmética é sempre sintética, entretanto valendo-se do **auxílio da intuição**. Kant conclui que o predicado se liga aos conceitos não imediatamente, mas por meio de uma **intuição**
+
+O que é essencial e distintivo da pura cognição matemática em relação a todas as demais cognições a priori é que ela deve proceder inteiramente, não a partir de conceitos, mas sempre apenas pela construção de conceitos (P37), portanto, como deve ir além do conceito em direção ao que está contido na intuição, suas proposições não podem ser obtidas analiticamente, apenas de maneira sintética.
+
+Kant aponta que esse erro que Hume cometeu achando que as proposições matemáticas poderiam ser conhecidas através do princípio da contradição, *"foi exatamente como se houvesse dito que a matemática pura contém apenas proposições analíticas, e a metafísica, por sua vez, proposições sintéticas a priori"* o que o impediu de ter *"ampliado sua questão sobre a origem de nossos juízos sintéticos para muito além de seu conceito metafísico de causalidade, estendendo-o até a possibilidade da matemática a priori, pois teria de tomá-la igualmente como sintética"*.
+
+**Juízos propriamente metafísicos**
+
+Kant afirma que existem muitos juízos analíticos que pertencem a metafísica e são como um meio para os juízos propriamente metafísicas, estes sim, o objetivo da ciência. A metafísica tem algo de especial e peculiar na produção de suas cognições a priori. Tomemos como exemplo a seguinte proposição sintética e caracteristicamente metafísica:
+> "tudo o que, nas coisas, é substância, persiste"
+
+Dentro as proposições relacionadas a metafísica, temos proposições analíticas pertencentes a metafísica e proposições sintéticas das quais a própria metafísica se compõe. Portanto, pode-se afirmar que a metafísica possui **proposições sintéticas a priori**, que uma vez que requerem muita analise dos seus conceitos, muitos juízos analíticos são produzidos como fruto dessas decomposições do conceito.
+
+> "A análise de um puro conceito do entendimento (tais como os contidos na metafísica) não procede de maneira diversa da decomposição de quaisquer outros conceitos... o juízo analítico não é caracteristicamente metafísico, ainda que o conceito o seja" (P39)
+
+> é a **produção da cognição a priori**, tanto a partir da **intuição** quanto de **conceitos**, e, por fim, também de **proposições sintéticas a priori**, especificamente na cognição filosófica, que faz **o conteúdo essencial da metafísica** (P40)
+
+### §3 - Observação sobre a classificação geral dos juízos em analíticos e sintéticos
+
+Nessa sessão, aponta sobre a falha dos filósofos dogmáticos, que buscaram as fontes dos juízos metafísicos na própria metafísica, mas não fora dela (como exemplo, Wolff e Baumgarten). Por outro lado, afirma que os conceitos sobre juízos analíticos e juízos sintéticos a priori poderia ser encontrado em Locke, embora de maneira muito limitada.

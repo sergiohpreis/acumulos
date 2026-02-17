@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 13th 2026, 2:47:54 am
-date modified: Friday, February 13th 2026, 4:27:37 am
+date modified: Tuesday, February 17th 2026, 9:24:33 am
 title: Fluxo de pensamento da idéia ao acúmulo
 description:
 permalink:

@@ -3,10 +3,15 @@ date created: Friday, February 6th 2026, 9:21:10 pm
 date modified: Wednesday, February 11th 2026, 2:15:16 am
 started_at: 2026-02-06T21:00:00
 finished_at: 2026-02-07T13:40:00
+categories:
+  - Filosofia
+  - Descartes
+  - Metafísica
+  - Deus
+  - Idealismo
+  - Racionalismo
 status:
   - finished
-author:
-  - Descartes
 type:
   - book
 tags:
@@ -15,12 +20,15 @@ tags:
   - descartes
   - idealismo
   - racionalismo
+  - deus
 title: DESCARTES, René. Discurso sobre o Método (1637)
 description:
 permalink:
 aliases:
 draft: false
 date: 2026-02-11
+authors:
+  - Descartes
 ---
 
 ##  2026-02-07 - Impressões de uma primeira leitura de "Discurso do Método"

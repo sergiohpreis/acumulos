@@ -4,8 +4,6 @@ date modified: Thursday, January 29th 2026, 9:08:49 pm
 source: https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
 status:
   - finished
-author:
-  - Birgitta Böckeler
 finished_at: 2026-01-29T20:46:00
 release_at: 2025-10-15
 type:
@@ -16,6 +14,8 @@ tags:
 title:
 draft: false
 date: 2026-01-29T08:23:00
+authors:
+  - Birgitta Böckeler
 ---
 
 > A spec is a structured, behavior-oriented artifact - or a set of related artifacts - written in natural language that expresses software functionality and serves as guidance to AI coding agents.

@@ -10,7 +10,7 @@ tags:
   - brasil
 draft: false
 title: Panorama Global das Privatizações e Reestatizações (1980–Presente)
-date: 0202-05-02T02:03:00
+date: 2025-05-02T02:03:00
 ---
 
 Perfeito. Vou preparar um panorama global das privatizações e reestatizações nos últimos anos, abrangendo todos os setores principais como energia, saneamento, transportes, saúde e outros serviços públicos. Vou incluir dados sobre os países que mais têm recorrido à reestatização, suas motivações e os impactos percebidos. Já volto com os resultados.

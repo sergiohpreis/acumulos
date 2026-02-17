@@ -5,8 +5,6 @@ tags:
   - RAG
 type:
   - article
-author:
-  - Hugging Face
 status:
   - finished
 year: "2024"
@@ -15,6 +13,8 @@ draft: false
 date: 2025-12-16
 title: Code a simple RAG from scratch (2024)
 description:
+authors:
+  - Hugging Face
 ---
 
 Indicação de um grande amigo, esse é o link:

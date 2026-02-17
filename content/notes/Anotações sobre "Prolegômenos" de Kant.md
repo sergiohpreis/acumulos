@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Monday, February 16th 2026, 10:51:03 pm
+date modified: Tuesday, February 17th 2026, 8:29:22 am
 tags:
   - kant
   - idealismo-alemão
@@ -163,3 +163,34 @@ Nessa sessão, aponta sobre a falha dos filósofos dogmáticos, que buscaram as 
 Através de um exame da metafísica em seus tempos atuais, Kant argumenta novamente sobre o fato de que na metafísica embora possam existir muitas proposições apoditicamente certas, essas são, entretanto, todas analíticas (ao contrário do que se busca, que são as proposições sintéticas a priori). Aponta a necessidade de superar o dogmatismo e o ceticismo e buscar responder a questão se *"É afinal possível a metafísica"*, não com as respostas já existentes do **ceticismo** e **dogmatismo**, mas sim **a partir do conceito** ainda problemático de tal ciência, empreitada que Kant tentou fazer em "Crítica da Razão Pura" de maneira sintética. 
 
 No Prolegômenos, de maneira analítica, parte-se já da existência de uma cognição pura sintética dada a priori, a saber, a **matemática pura** e a **ciência pura da natureza**. Essa é a garantia de uma cognição sintética a priori incontestada.
+
+## Prolegômenos. Questão geral. Como é possível uma cognição pela razão pura?
+
+### §5
+
+Kant usará o método analítico para investigar o fundamento das proposições sintéticas a priori, respondendo a questão central: *"Como são possíveis proposições sintéticas a priori?"*, e uma vez que essa cognição seja possível, será também possível
+> determinar, a partir dos princípios de sua possibilidade, as condições de seu uso, sua extensão e suas fronteiras (P47)
+
+ Para Kant, sem que essa questão fosse respondida, a metafísica sequer seria possível enquanto ciência, mas apenas como uma *"arte de saudáveis persuasões"*. Reafirma que aos metafísicos cabe a tarefa de se apropriar dessa filosofia especulativa para responder tal pergunta. 
+> depende inteiramente da solução desse problema que a metafísica se ponha de pé ou tombe por terra, e, portanto, sua **própria existência** (P48)
+
+Ainda que se criem cognições a priori não apenas analisando os conceitos dados mas 
+alegando novas conexões que não estão baseadas no princípio da contradição de maneira que seja possível o entendimento independente da experiência, para Kant, sem a resposta de tal pergunta, tais cognições não poderiam ser válidas. David Hume levantou a dúvida sobre a existência dessas cognições colocando em dúvida o princípio da causalidade (mais detalhes na P49) afirmando que tais cognições não seria possíveis sem a experiência, e que portanto essas cognições resultavam de se tomar a necessidade subjetiva por objetiva. Entretanto, Hume não expôs a questão em sua generalidade (para todos os casos), que é o objetivo dessa empreitada
+
+Para Kant a **filosofia transcendental** precede necessariamente a qualquer metafísica e é ela própria a solução completa da questão, embora apresentada em ordem sistemática e com todos os detalhes, portanto, o que recebe esse nome é na verdade "uma parta da metafísica". A possibilidade da metafísica precisa ser estabelecida por uma "ciência que deve, pois precedê-la". Portanto, se faz necessário "uma ciência absolutamente desprovida da assistência de todas as demais".
+
+Para Kant, a **matemática pura** e a **ciência pura da natureza** são as duas ciências que comportam a **cognição teórica** (cognições a partir da pura razão), pois
+
+> só estas nos podem apresentar os objetos na **intuição** e com isso, caso contenham uma cognição a priori, mostrar-nos sua verdade ou c**orrespondência com o objeto in concreto**, isto é, sua **realidade**, da qual se pode, então, proceder pela via analítica até o **fundamento da sua possibilidade** (P51)
+
+Portanto, Kant dividirá a "questão transcendental principal" (o que da origem e subjaz as cognições a priori) em quatro outras questões:
+
+1. Como é possível a matemática pura?
+2. Como é possível a ciência pura da natureza?
+3. Como é possível a metafísica em geral?
+4. Como é possível a metafísica como ciência?
+
+A solução desses problemas consistem no conteúdo essencial da "Crítica", entretanto, possui algo de distinto (pelo próprio método analítico), que é o poder de
+> buscar na própria razão as fontes das ciências dadas, para, desse modo, por meio de seu próprio ato, investigar e mensurar seu poder de conhecer algo a priori
+
+A partir da origem comum a esses cognições, poderemos esclarecer melhor a sua própria natureza

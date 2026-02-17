@@ -1,14 +1,14 @@
 ---
 date created: Friday, February 13th 2026, 3:10:50 am
 date modified: Friday, February 13th 2026, 3:10:53 am
+authors:
+  - Guy Besse
+  - Maurice Caveing
+year: "1978"
 tags:
   - filosofia
   - materialismo-histórico-dialético
   - marxismo
-author:
-  - Guy Besse
-  - Maurice Caveing
-year: "1978"
 type:
   - book
 status:

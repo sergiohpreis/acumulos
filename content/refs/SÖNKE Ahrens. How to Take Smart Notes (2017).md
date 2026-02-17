@@ -1,8 +1,6 @@
 ---
 date created: Monday, February 9th 2026, 9:11:43 am
 date modified: Monday, February 9th 2026, 9:22:56 am
-author:
-  - Ahrens Sönke
 type:
   - ebook
 status:
@@ -16,6 +14,8 @@ permalink:
 aliases:
 draft: false
 date: 2026-02-11
+authors:
+  - Ahrens Sönke
 ---
 
 Saiba mais em:  

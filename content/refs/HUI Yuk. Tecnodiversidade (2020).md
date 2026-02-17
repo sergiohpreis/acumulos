@@ -5,8 +5,6 @@ status:
   - finished
 started_at: 2026-01-28T22:30:00
 finished_at: 2026-02-02T14:00:00
-author:
-  - Yuk Hui
 year: "2020"
 tags:
   - cosmotecnica
@@ -18,6 +16,10 @@ permalink:
 aliases:
 draft: false
 date: 2026-02-11
+authors:
+  - Yuk Hui
+type:
+  - book
 ---
 
 ## 2026-01-30

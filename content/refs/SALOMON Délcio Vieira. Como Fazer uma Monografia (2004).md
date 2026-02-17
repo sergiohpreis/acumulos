@@ -1,8 +1,6 @@
 ---
 date created: Saturday, February 7th 2026, 4:02:28 pm
 date modified: Friday, February 13th 2026, 2:59:00 am
-author:
-  - Délcio Vieira Salomon
 year: "2004"
 publisher: WMF Martins Fontes
 status:
@@ -17,6 +15,8 @@ permalink:
 aliases:
 draft: false
 date: 2026-02-11
+authors:
+  - Délcio Vieira Salomon
 ---
 
 Mais detalhes no Repositório de Informação Acessível (RIA):  

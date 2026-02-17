@@ -1,17 +1,36 @@
 ---
 date created: Wednesday, February 11th 2026, 2:29:48 am
 date modified: Wednesday, February 11th 2026, 3:01:12 am
-status:
-  - finished
-finished_at: 2026-02-07T13:40:00
-author:
-  - Descartes
 type:
   - book
+finished_at: 2026-02-07T13:40:00
+year: 1641
+authors:
+  - Descartes
+categories:
+  - Filosofia
+  - Descartes
+  - Metafísica
+  - Deus
+  - Idealismo
+  - Racionalismo
+status:
+  - READ
+format:
+  - PHYSICAL
+language:
+  - Português
+shelf:
+  - Filosofia
+published_year: 1639
+edition_year: 1641
 tags:
   - filosofia
   - metafisica
   - descartes
+  - deus
+  - idealismo
+  - racionalismo
 title: DESCARTES, René. Meditações Metafísicas (1641)
 description:
 permalink:

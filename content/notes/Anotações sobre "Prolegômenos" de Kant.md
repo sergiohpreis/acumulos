@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Tuesday, February 17th 2026, 12:00:24 pm
+date modified: Tuesday, February 17th 2026, 12:04:52 pm
 tags:
   - kant
   - idealismo-alemão
@@ -252,4 +252,9 @@ Kant chega através dessa conclusão refletindo que se pode saber a priori é qu
 
 ### §10
 
-TBD (Já grifado nas páginas, apenas falta passar para cá)
+- TBD (Já grifado nas páginas, apenas falta passar para cá)
+
+### Etc
+
+Falta resumir / fichar: §11, §12, §13, Observação I, Observação II, Observação III
+P55-P68

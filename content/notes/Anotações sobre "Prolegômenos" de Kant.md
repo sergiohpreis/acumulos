@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Tuesday, February 17th 2026, 11:12:45 am
+date modified: Tuesday, February 17th 2026, 12:00:24 pm
 tags:
   - kant
   - idealismo-alemão
@@ -226,3 +226,30 @@ Ao fazer a distinção entre a **intuição empírica** e a **intuição pura**,
 
 Em contrapartida, os juízos que fazemos pela intuição pura devem ser certos a **priori** e **apodítico** (§6 sobre as certezas apodíticas) , pois deve conter necessariamente o que se encontra na intuição pura, e sendo a priori, esta ligada ao conceito antes de toda a **experiência** ou **percepção particular**.
 
+### §8
+
+Ao refletir sobre a como seria possível intuir alguma coisa a priori, Kant investiga a distinção entre uma intuição e um conceito.
+
+Para Kant, a **Intuição** é uma representação, e portanto, depende imediatamente da presença de um objeto ao passo que sendo possível intuir a priori essa intuição deveria ter lugar sem que um objeto ao qual ela pudesse se referir estivesse presente.
+
+Para Kant, um **Conceito** é de tal natureza que claramente pode ser formado a priori, pois pode  conter "apenas o pensamento de um objeto geral, sem estarmos em relação direta com o objeto", como por exemplo, os conceitos de "causa" e "quantidade", dentre outros. Entretanto, Kant nota que mesmos os conceitos precisam de um determinado **uso in concreto** (aplicação a alguma intuição pela qual um objeto desses conceitos nos seja dado) para que possam ser providos de significado e sentido
+
+Fruto dessa investigação, Kant chega a outra dúvida:
+> como pode a intuição do objeto vir antes do próprio objeto (P55)
+
+### §9
+
+Kant concede a possibilidade de que as intuições empíricas sejam capazes de representar as coisas "tal como são em si mesmas" para justificar que ainda assim, tal intuição não seria a priori, pois dependeria que o objeto lhe fosse apresentado para que fosse possível conceber algum fundamento da relação entre ele e a representação.
+
+> [!info]
+- Para Kant a priori significa "antes que o objeto me fosse apresentado" (ver grifo em P55)
+
+A partir dessa conclusão, Kant afirma que existe uma única condição para que a sua "intuição preceda a presença real do objeto e tenha lugar como cognição a priori":
+> se ela não contém nada mais que a **forma da sensibilidade**, que em mim, enquanto **sujeito**, precede todas as impressões reais com que sou afetado por objetos
+
+Kant chega através dessa conclusão refletindo que se pode saber a priori é que os objetos do sentido só podem ser intuídos de acordo com essa **forma de sensibilidade**. Portanto, proposições referente a essa forma da **intuição sensorial** só serão possíveis e válidas para os **objetos do sentido**, portanto a conclusão a que Kant chega é:
+> intuições que são possíveis a priori **não podem jamais dizer a respeito a outras coisas além dos objetos de nossos sentidos** (P55)
+
+### §10
+
+TBD (Já grifado nas páginas, apenas falta passar para cá)

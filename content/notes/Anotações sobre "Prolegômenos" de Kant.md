@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Tuesday, February 17th 2026, 8:29:22 am
+date modified: Tuesday, February 17th 2026, 11:04:31 am
 tags:
   - kant
   - idealismo-alemão
@@ -194,3 +194,35 @@ A solução desses problemas consistem no conteúdo essencial da "Crítica", ent
 > buscar na própria razão as fontes das ciências dadas, para, desse modo, por meio de seu próprio ato, investigar e mensurar seu poder de conhecer algo a priori
 
 A partir da origem comum a esses cognições, poderemos esclarecer melhor a sua própria natureza
+
+## Primeira parte da questão transcendental principal. Como é possível a matemática pura?
+
+### §6
+
+Kant justifica que a matemática é um vasto e bem comprovado domínio de cognições, e afirma que essas cognições matemáticas trazem consigo
+
+> uma certeza inteiramente apodítica, ou seja, necessidade absoluta, e não tem, portanto, seu fundamento na experiência, é um puro produto da razão e além disso é inteiramente sintético
+
+Portanto, questiona se essa faculdade possui algum fundamento a priori que poderia "revelar-se por esses seus efeitos" ao rastrear-se seus primeiros inícios.
+
+### §7
+
+**Particularidade e fundamento das cognições matemáticas**
+Para Kant, as cognições matemáticas devem ter como seu **fundamento**:
+> alguma **intuição pura** na qual possa representar todos seus conceitos in concreto e ainda assim a priori, ou, como se diz, construí-los
+
+**Diferença dos juízos da matemática e dos juízos da filosofia**
+Para Kant, os juízos da matemática são sempre **intuitivos**, ao passo que a filosofia
+> deve satisfazer-se com juízos **discursivos a partir de simples conceitos**, e, embora possa **ilustrar** suas doutrinas apodíticas pela intuição, jamais pode **derivá-las** dela (P53)
+
+Portanto, descobrir essa intuição pura e sua possibilidade é um pré requisito para *"explicar daí como são possíveis proposições sintéticas a priori na matemática pura, e também como essa própria ciência é possível"*
+
+**Distinções entre a intuição pura e a intuição empírica**
+
+Ao fazer a distinção entre a **intuição empírica** e a **intuição pura**, Kant nota que através da intuição empírica, um conceito (juízo) que fazemos de um objeto da intuição é "ampliado **sinteticamente** na experiência por novos predicados que essa própria intuição oferece". Portanto, os juízos que fazemos através da intuição empírica são certos a **posteriori**, pois contém apenas o que se encontra na "**intuição empírica contingente**"
+
+> [!note] Significado de "Contingente" de acordo com [[Dicionário de Fiosofia]]
+> EPIST. E META. "O que não é de necessidade lógica"
+
+Em contrapartida, os juízos que fazemos pela intuição pura devem ser certos a **priori** e **apodítico** (§6 sobre as certezas apodíticas) , pois deve conter necessariamente o que se encontra na intuição pura, e sendo a priori, esta ligada ao conceito antes de toda a **experiência** ou **percepção particular**.
+

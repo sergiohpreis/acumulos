@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Monday, February 16th 2026, 6:10:58 pm
+date modified: Monday, February 16th 2026, 10:51:03 pm
 tags:
   - kant
   - idealismo-alemão
@@ -155,3 +155,11 @@ Dentro as proposições relacionadas a metafísica, temos proposições analíti
 ### §3 - Observação sobre a classificação geral dos juízos em analíticos e sintéticos
 
 Nessa sessão, aponta sobre a falha dos filósofos dogmáticos, que buscaram as fontes dos juízos metafísicos na própria metafísica, mas não fora dela (como exemplo, Wolff e Baumgarten). Por outro lado, afirma que os conceitos sobre juízos analíticos e juízos sintéticos a priori poderia ser encontrado em Locke, embora de maneira muito limitada.
+
+## A questão geral dos Prolegômenos. É afinal possível a metafísica ?
+
+### §4
+
+Através de um exame da metafísica em seus tempos atuais, Kant argumenta novamente sobre o fato de que na metafísica embora possam existir muitas proposições apoditicamente certas, essas são, entretanto, todas analíticas (ao contrário do que se busca, que são as proposições sintéticas a priori). Aponta a necessidade de superar o dogmatismo e o ceticismo e buscar responder a questão se *"É afinal possível a metafísica"*, não com as respostas já existentes do **ceticismo** e **dogmatismo**, mas sim **a partir do conceito** ainda problemático de tal ciência, empreitada que Kant tentou fazer em "Crítica da Razão Pura" de maneira sintética. 
+
+No Prolegômenos, de maneira analítica, parte-se já da existência de uma cognição pura sintética dada a priori, a saber, a **matemática pura** e a **ciência pura da natureza**. Essa é a garantia de uma cognição sintética a priori incontestada.

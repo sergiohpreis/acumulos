@@ -1,6 +1,6 @@
 ---
 date created: Thursday, February 5th 2026, 12:12:13 pm
-date modified: Tuesday, February 17th 2026, 9:23:56 am
+date modified: Tuesday, February 17th 2026, 9:30:53 am
 title: Acúmulos
 description: Tela de boas vindas aos meus acúmulos
 permalink:
@@ -10,7 +10,7 @@ tags:
   - tecnologia
   - capitalismo
   - matemática
-  - tdah
+  - marxismo
 draft: false
 date: 2026-02-17T09:30:00
 ---

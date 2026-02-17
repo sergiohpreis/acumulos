@@ -1,13 +1,13 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Tuesday, February 17th 2026, 11:04:31 am
+date modified: Tuesday, February 17th 2026, 11:12:45 am
 tags:
   - kant
   - idealismo-alemão
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-16T13:30:00
+date: 2026-02-17T11:15:00
 ---
 
 ## Resumo da Apresentação do Tradutor

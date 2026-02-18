@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Tuesday, February 17th 2026, 12:04:52 pm
+date modified: Wednesday, February 18th 2026, 1:24:14 pm
 tags:
   - kant
   - idealismo-alemão
@@ -252,9 +252,60 @@ Kant chega através dessa conclusão refletindo que se pode saber a priori é qu
 
 ### §10
 
-- TBD (Já grifado nas páginas, apenas falta passar para cá)
+Uma vez que é possível intuir coisas a priori apenas por meio da **forma da intuição sensorial**, podemos conhecer os objetos tal como eles podem **aparecer** para nós (para nossos sentidos), e não como podem **ser em si** mesmos.
 
-### Etc
+Para Kant, espaço e tempo são as intuições que fundamentam todas as cognições e juízos matemáticos (apodíticos e necessários).
 
-Falta resumir / fichar: §11, §12, §13, Observação I, Observação II, Observação III
-P55-P68
+> [!note] Qual é a diferença entre cognição e juízo para Kant?
+> A **cognição** refere-se a todo ato de conhecer um objeto determinado, exigindo a união de intuição (conteúdo) e conceito. O **juízo**, por sua vez, é a ação lógica do entendimento que conecta essas representações. Na matemática, os juízos geram cognição porque os conceitos são conectados a intuições puras (espaço e tempo).
+
+> [!note] Matemática vs Matemática Pura, qual a distinção nas suas intuições.
+> Diferente da filosofia, que trabalha discursivamente com conceitos, a **matemática pura** procede pela **construção de conceitos**. Isso significa que ela deve exibir seus objetos a priori na **intuição pura** (e não empírica). A frase de Kant indica que, sem o fundamento do Espaço e do Tempo como intuições puras a priori, a matemática não teria onde 'desenhar' suas verdades necessárias; ela ficaria presa a meras definições lógicas sem conseguir ampliar nosso conhecimento (juízos sintéticos)
+
+Como a matemática não procede analiticamente (por decomposição de conceitos), mas apenas sinteticamente, não pode dar um único passo enquanto lhe faltar a intuição pura, pois o material para os juízos sintéticos a priori só pode ser dado por meio dela. 
+
+Alguns exemplos:
+- a geometria: toma como fundamento a intuição pura do **espaço**
+- a aritmética: forma seus conceitos numéricos por adição sucessiva das unidades no **tempo**
+- a mecânica pura: só pode formar seus conceitos de movimento por meio da representação de **tempo**
+
+Kant conclui que essas **representações** (espaço e tempo) são intuições pois se retirarmos da intuição empírica dos corpos e suas alterações (movimento) tudo o que é **empírico** (que pertence a sensação), restam ainda **tempo** e **espaço**, portanto, essas são intuições puras nas quais as intuições empíricas se fundam a priori, sendo essas intuições puras a priori, são formas da sensibilidade e procedem a toda intuição empírica (percepção de objetos reais). Ou seja, os objetos podem ser conhecidos a priori, entretanto, apenas como aparecem para nós.
+
+### §11
+
+Kant conclui que o problema dessa sessão ("Como é possível a matemática pura?") esta solucionado e essa é síntese de Kant sobre a solução:
+
+> A matemática pura, enquanto **cognição sintética a priori**, só é possível porque não se refere a nada mais que meros **objetos do sentido** cuja **intuição empírica** está a priori fundada em uma **intuição pura** (do **espaço** e do **tempo**), e pode fundar-se desse modo porque não é senão a mera **forma da sensibilidade** que precede o **aparecimento** real de objetos, na medida em que ela é o que, em primeiro lugar, o torna possível.
+
+Ao refletir sobre a **faculdade de intuir a priori**, Kant nota que essa não diz respeito à matéria do aparecimento (aquilo que nele é sensação e portanto constitui o empírico), mas apenas à sua **forma**, **espaço** e **tempo**.
+
+Essas são determinações que pertencem não as **coisas em si mesmas**, mas na **relação destas com a sensibilidade**.  Se o espaço e o tempo fossem propriedades das _coisas em si_, nós teríamos que esperar o objeto ser dado (experiência) para conhecer suas propriedades, portanto, se tomarmos o espaço e o tempo como **condições formais da nossa sensibilidade** e os objetos como **aparecimentos**, a intuição pura (**forma do aparecimento**) pode ser representada a partir de nós mesmos (ou seja, a **priori**).
+
+### §12
+
+Kant afirma que a matemática pura jamais poderia ser compreendida (apenas admitida) sem a **dedução transcendental dos conceitos de espaço e tempo** e sem a noção de que *"tudo que pode ser dado a nossos sentidos (aos sentidos externos no espaço e ao sentido interno no tempo) é intuído por nós apenas da maneira como nos **aparece**, não como é em **si mesmo**"*
+
+Para titulo de elucidação e confirmação, Kant analisa o procedimento "costumeiro e inevitavelmente necessário" dos geômetras através de três exemplos, que mostram:
+- uma **proposição sintética apoiada na intuição imediata** (prova da igualdade das figuras dadas)
+- proposição que não podem ser demonstradas a partir de **conceitos**, mas apoiando-se na **intuição pura a priori** (a possibilidade de apenas três linhas poderem se interceptar em um ponto formando um angulo reto)
+- proposição que pressupõe uma **representação de espaço e tempo** (sobre uma linha traçada ao infinito)
+
+### §13
+
+Kant busca apresentar o "rebaixamento do espaço e do tempo a meras formas de nossa intuição sensorial" através de um paradoxo, para provar que não é possível tomar como inteligível a diferença entre coisas similares e iguais, mas incongruentes, mediante nenhum conceito, mas apenas pela relação com a nossa intuição.
+
+> Se duas coisas são exatamente as mesmas em todas as partes que se pode conhecer de cada uma em si própria (em todas as determinações relativas a grandeza e qualidade), deve seguir-se que uma pode ser colocada no lugar da outra em todos os casos e sob todos os aspectos, sem que essa mudança produza a mínima diferença reconhecível. (P58,P59)
+
+Ao analisar as **figuras geométricas esféricas**, como por exemplo, dois triângulos esféricos, embora sejam completamente iguais quando descritos de forma isolada e completa, existe uma diferença intrínseca entre os dois que *"só se revela por meio da relação exterior no espaço"*. Para mostrar mais casos, Kant usa como exemplo a nossa imagem no espelho, embora não exista nenhuma diferença intrínsecas, existe uma diferença interna que os sentidos são capazes de nos mostrar (pois sabemos que por exemplo, a luva da mão direita não cabe na esquerda).
+
+Portanto, esses objetos não são representações das coisas como são em si mesmas, mas sim aparecimentos que são possíveis devido a *"relação entre certas coisas, em si mesmas desconhecidas, e algo mais, a saber, nossa **sensibilidade**"*. A parte só é possível através do todo, e mesmo que isso nunca ocorra com as coisas em si mesmas, enquanto objetos do mero entendimento, mas pode ocorrer com os aparecimentos. 
+
+> o espaço é a forma da intuição externa dessa sensibilidade, e a determinação interna de qualquer espaço só é possível com pela determinação de sua relação externa com o espaço como um todo do qual ele é parte... (P59)
+
+### Observação 1
+
+### Observação 2
+
+### Observação 3
+
+## TBD - Próximo capítulo

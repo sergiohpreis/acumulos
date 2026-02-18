@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Wednesday, February 18th 2026, 2:08:47 pm
+date modified: Wednesday, February 18th 2026, 6:01:54 pm
 tags:
   - kant
   - idealismo-alemão
@@ -311,6 +311,23 @@ Aqui Kant busca argumentar a cerca da **realidade objetiva indubitável das prop
 A partir da dúvida levantada por alguns filósofos matemáticos a cerca da **validade objetiva** e da **aplicabilidade a natureza** das proposições geométricas, Kant demonstra que as proposições do geômetra não são extraídas de conceitos fictícios, mas sim do *fundamento **subjetivo** de todos os aparecimentos externos, a saber, da própria sensibilidade*. Todos os objetos no espaço são simples aparecimentos (representações de nossa intuição sensorial) e não as coisas em si mesmas, portanto *"é esse espaço no pensamento que torna possível o próprio espaço físico, isto é, a extensão da matéria"*.
 
 ### Observação 2
+
+Para Kant, o entendimento não intui nada, ele apenas reflete e portanto os corpos são "representações da sensibilidade":
+> "todos os corpos, juntamente com o espaço em que se encontram, não devem ser tomados como nada senão meras representações em nós, e não existem em parte alguma exceto apenas em nossos pensamentos" (P62)
+
+A partir dessa reflexão se questiona se sua doutrina pode ser chamada de idealista, e o idealismo Kant define da seguinte maneira:
+
+> O idealismo consiste na asserção de que **não há nada além de seres pensantes**; as outras coisas que acreditamos perceber na intuição seriam apenas **representações nos seres pensantes,** às quais de fato não corresponderia nenhum objeto situado fora deles (P63)
+
+Kant argumenta que essas ideias ja eram aceitas muito antes do tempo de Locke, e mais ainda depois disso, e busca distinguir a sua doutrina do idealismo argumentando que:
+
+- diferentemente dos idealistas, para Kant existem coisas além de seres pensantes, coisas das quais conhecemos apenas seus "aparecimentos"
+- as qualidades primarias dos corpos (extensão, lugar, espaço em geral, e etc) também não são propriedades ligadas ao objeto em si, mas também são aparecimentos (modificações do sentido da visão)
+- além disso, considera que não só essas, como "todas as propriedades que compõem a intuição de um corpo pertencem apenas a seu aparecimento", sendo assim, a existência da coisa que aparece não fica cancelada (como no idealismo), apenas se mostra que pelos sentidos não poderemos conhecer como ela é em si mesma
+
+>[!note] Isso é o que separa o **Idealismo Transcendental** (ou Crítico/Formal) de Kant do **Idealismo Material** (Berkeley).
+
+Kant chega a conclusão de que as suas asserções, para que não contivessem nenhum idealismo, deveriam não só dizer que "a representação do espaço está em plena conformidade com a relação que nossa sensibilidade mantém com os objetos", mas também que "ela seria completamente semelhante ao objeto", uma asserção que não é possível em sua opinião dar nenhum sentido.
 
 ### Observação 3
 

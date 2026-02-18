@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, February 11th 2026, 2:29:48 am
-date modified: Wednesday, February 11th 2026, 3:01:12 am
+date modified: Wednesday, February 18th 2026, 6:44:419 pm
 type:
   - book
 finished_at: 2026-02-07T13:40:00
@@ -31,7 +31,7 @@ tags:
   - deus
   - idealismo
   - racionalismo
-title: DESCARTES, René. Meditações Metafísicas (1641)
+title: Anotações sobre "Meditações Metafísicas" de Descartes
 description:
 permalink:
 aliases:

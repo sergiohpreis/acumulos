@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, February 11th 2026, 2:29:48 am
-date modified: Wednesday, February 18th 2026, 6:44:419 pm
+date modified: Wednesday, February 18th 2026, 6:51:16 pm
 type:
   - book
 finished_at: 2026-02-07T13:40:00
@@ -38,6 +38,8 @@ aliases:
 draft: false
 date: 2026-02-11
 ---
+
+Ref: [[DESCARTES René. Meditações Metafísicas (1641)]]
 
 ## Primeira Meditação, Das coisas que se podem pôr em dúvida
 

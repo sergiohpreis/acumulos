@@ -24,5 +24,5 @@ O idealismo transcendental afirma que todo conhecimento, embora contenha element
 ## Refs
 
 - [[A Transição da Certeza à Crítica - De Descartes a Kant]]
-- [[DESCARTES, René. Meditações Metafísicas (1641)]]
+- [[DESCARTES René. Meditações Metafísicas (1641)]]
 - [[DESCARTES, René. Discurso sobre o Método (1637)]]

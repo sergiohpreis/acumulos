@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 9th 2026, 12:25:05 pm
-date modified: Monday, February 9th 2026, 1:53:27 pm
+date modified: Wednesday, February 18th 2026, 6:53:23 pm
 title: O Elo Cartesiano na Programação Orientada a Objetos
 description: O Elo Cartesiano na Programação Orientada a Objetos
 permalink:
@@ -13,7 +13,7 @@ draft: false
 date: 2026-02-09
 ---
 
-Durante a leitura da 3ª Meditação em [[DESCARTES, René. Meditações Metafísicas (1641)]], notei que ele utiliza o conceito de "composição", vejamos o seguinte trecho onde ele reflete sobre o que uma pedra necessita para "ser"
+Durante a leitura da 3ª Meditação em [[DESCARTES René. Meditações Metafísicas (1641)]], notei que ele utiliza o conceito de "composição", vejamos o seguinte trecho onde ele reflete sobre o que uma pedra necessita para "ser"
 
 > para a pedra começar a ser, ela precisa ter sido **originada** de uma coisa que tem em si **formalmente** ou **eminentemente**, tudo o que participa da composicão da pedra, isto é, que contém em si a mesmas coisas ou outras mais excelentes do que as que estão presentes na pedra
 > [[DESCARTES, René. Meditações Metafísicas (1641)]]

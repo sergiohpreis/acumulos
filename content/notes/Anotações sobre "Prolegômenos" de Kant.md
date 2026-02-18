@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Wednesday, February 18th 2026, 1:24:14 pm
+date modified: Wednesday, February 18th 2026, 2:08:47 pm
 tags:
   - kant
   - idealismo-alemão
@@ -303,6 +303,12 @@ Portanto, esses objetos não são representações das coisas como são em si me
 > o espaço é a forma da intuição externa dessa sensibilidade, e a determinação interna de qualquer espaço só é possível com pela determinação de sua relação externa com o espaço como um todo do qual ele é parte... (P59)
 
 ### Observação 1
+
+Aqui Kant busca argumentar a cerca da **realidade objetiva indubitável das proposições da geometria**.Uma vez que todas as proposições da geometria valem necessariamente para o espaço e *"o espaço nada mais é que a forma de todos os aparecimentos externos, e apenas sob essa forma os objetos dos sentidos nos podem ser dados"*, Kant afirma que:
+
+> A sensibilidade, cuja forma está na base da geometria, é aquilo em que repousa a **possibilidade de aparecimentos externos** (P60)
+
+A partir da dúvida levantada por alguns filósofos matemáticos a cerca da **validade objetiva** e da **aplicabilidade a natureza** das proposições geométricas, Kant demonstra que as proposições do geômetra não são extraídas de conceitos fictícios, mas sim do *fundamento **subjetivo** de todos os aparecimentos externos, a saber, da própria sensibilidade*. Todos os objetos no espaço são simples aparecimentos (representações de nossa intuição sensorial) e não as coisas em si mesmas, portanto *"é esse espaço no pensamento que torna possível o próprio espaço físico, isto é, a extensão da matéria"*.
 
 ### Observação 2
 

@@ -1,14 +1,18 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Thursday, February 19th 2026, 12:15:44 am
+date modified: Thursday, February 19th 2026, 12:43:19 am
 tags:
   - kant
   - idealismo-alemão
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-19T00:30:00
+date: 2026-02-19T00:50:00
 ---
+
+>[!info] Uso do NotebookLM na validação dos resumos e fichamentos
+> Para acompanhar esse estudo, eu estou utilizando o NotebookLM com o objetivo de validar os meus entendimentos a cerca da obra, por isso, estou utilizando o seguinte prompt para validar esse resumo:
+> "Produzi o documento "Anotações sobre "Prolegômenos" de Kant", que ainda esta em andamento, poderia revisar e ver se por hora existe alguma correção a ser feita?"
 
 ## Resumo da Apresentação do Tradutor
 
@@ -72,6 +76,16 @@ Essa determinação é a que se propõe a "Crítica da Razão Pura", apontando a
 Kant afirma que a Crítica exigia uma "exatidão escolástica" que a tornava prolixa e obscura. Para os Prolegômenos, ele propõe um plano onde expõe o conhecimento "segundo o **método analítico**, já que o próprio trabalho a Crítica "tinha de ser inteiramente composto à maneira sintética". Isso significa que os Prolegômenos partem de fatos dados (como a existência da matemática e da física pura) para descobrir as condições de sua possibilidade, tornando a leitura mais acessível.
 
 ## Prolegômenos. Retrospectiva do que é peculiar a toda cognição metafísica
+
+> [!note] TL;DR
+> Nessa retrospectiva, Kant buscará sistematizar a cognição metafísica através de suas peculiaridades, chegando a diversas conclusões como:
+> - as cognições metafísicas são a priori, portanto provém do puro entendimento e da pura razão
+> - irá categorizar os juízos em **analíticos** (explicativos) e **sintéticos** (ampliativos) e as suas relações com o **princípio da contradição**
+> - Classificação os juízos sintéticos em 3 tipos com relação as cognições que podem produzir, são esses os juízos
+> 	- de **Experiência**: sintéticos a **posteriori**
+> 	- **Matemáticos**: sintéticos a **priori** (é nesse momento que Kant apontará a **necessidade da intuição** nos juízos matemáticos)
+> 	- **propriamente metafísicos**: sintéticos a priori (produzidas tanto a partir da intuição como a partir de conceitos)
+> - Crítica os filósofos **dogmáticos** e aponta as limitações em **Locke**
 
 ### §1 - Das fontes da metafísica
 
@@ -137,7 +151,7 @@ Proposições matemáticas genuínas são sempre **juízos a priori** e **não e
 
 Kant demonstra sobre como a proposição aritmética é sempre sintética, entretanto valendo-se do **auxílio da intuição**. Kant conclui que o predicado se liga aos conceitos não imediatamente, mas por meio de uma **intuição**
 
-O que é essencial e distintivo da pura cognição matemática em relação a todas as demais cognições a priori é que ela deve proceder inteiramente, não a partir de conceitos, mas sempre apenas pela construção de conceitos (P37), portanto, como deve ir além do conceito em direção ao que está contido na intuição, suas proposições não podem ser obtidas analiticamente, apenas de maneira sintética.
+O que é essencial e distintivo da pura cognição matemática em relação a todas as demais cognições a priori é que ela deve proceder inteiramente, não a partir de conceitos, mas sempre apenas pela **construção de conceitos** (P37), portanto, como deve ir além do conceito em direção ao que está contido na intuição, suas proposições **não podem ser obtidas analiticamente**, **apenas de maneira sintética**.
 
 Kant aponta que esse erro que Hume cometeu achando que as proposições matemáticas poderiam ser conhecidas através do princípio da contradição, *"foi exatamente como se houvesse dito que a matemática pura contém apenas proposições analíticas, e a metafísica, por sua vez, proposições sintéticas a priori"* o que o impediu de ter *"ampliado sua questão sobre a origem de nossos juízos sintéticos para muito além de seu conceito metafísico de causalidade, estendendo-o até a possibilidade da matemática a priori, pois teria de tomá-la igualmente como sintética"*.
 

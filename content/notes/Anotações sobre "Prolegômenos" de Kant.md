@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Thursday, February 19th 2026, 1:23:11 am
+date modified: Thursday, February 19th 2026, 1:45:07 am
 tags:
   - kant
   - idealismo-alemão
@@ -224,6 +224,19 @@ A solução desses problemas consistem no conteúdo essencial da "Crítica", ent
 A partir da origem comum a esses cognições, poderemos esclarecer melhor a sua própria natureza
 
 ## Primeira parte da questão transcendental principal. Como é possível a matemática pura?
+
+> [!note] TL;DR
+> O cerne da questão esta na diferença entre os **aparecimentos** e as **coisas em si**, e sobre **espaço** e **tempo** enquanto intuições fundamentais de todas as cognições matemáticas, e ainda:
+> 1. justifica o porque buscará na matemática algum fundamento a priori através de suas **particularidades** e do **fundamento** das cognições matemáticas
+> 2. distingue os juízos da matemática dos juízos da filosofia
+> 3. distingue entre a **intuição pura** e a **intuição empírica**
+> 4. diferencia entre **intuição** e **conceito**
+> 5. define a intuição como uma **"forma de sensibilidade"**
+> 6. distingue os **"aparecimentos"** do **"ser em si"**
+> 7. estabelece **espaço** e **tempo** como as intuições fundamentais de todas as cognições e juízos matemáticos, exemplificando através da geometria (noção de espaço), aritmética (noção de tempo) e física pura (noção de tempo)
+> 8. argumenta sobre a realidade objetiva indubitável das **proposições da geometria**
+> 9. busca afastar a sua "doutrina da idealidade do espaço e tempo" dos idealismos de **Descartes** e **Berkley** autodenominando-se "idealismo crítico"
+> 10. argumenta contra a objeção de que sua doutrina transformaria todo o mundo sensível em pura **ilusão**
 
 ### §6
 

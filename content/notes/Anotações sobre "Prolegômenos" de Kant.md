@@ -7,7 +7,7 @@ tags:
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-19T11:40:00
+date: 2026-02-19T18:40:00
 ---
 
 ## Resumo da Apresentação do Tradutor

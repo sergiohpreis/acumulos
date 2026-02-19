@@ -1,13 +1,13 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Thursday, February 19th 2026, 12:06:24 am
+date modified: Thursday, February 19th 2026, 12:15:44 am
 tags:
   - kant
   - idealismo-alemão
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-19T00:10:00
+date: 2026-02-19T00:30:00
 ---
 
 ## Resumo da Apresentação do Tradutor
@@ -359,4 +359,8 @@ Kant prefere que sua teoria seja chamada de "idealismo crítico", e reafirma que
 
 ## Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?
 
-- Páginas: 69 até 106
+>[!info] Dados para planejamento das sessões com base nas minhas sessões (em [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]) 
+> Páginas: 69 até 106
+> - Considerando as minhas últimas sessões de fichamento, tenho levado aproximadamente 15 minutos por página, portanto, 38 páginas levarão aproximadamente **9 horas e 30 minutos**
+> - As sessões costumam durar entre 30 e 60 minutos. Para bater essa meta, será necessário aproximadamente 12 a 15 sessões de estudo.
+

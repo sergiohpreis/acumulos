@@ -7,7 +7,7 @@ tags:
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-19T01:00:00
+date: 2026-02-19T01:45:00
 ---
 
 >[!info] Uso do NotebookLM na validação dos resumos e fichamentos

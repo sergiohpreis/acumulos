@@ -1,13 +1,13 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Wednesday, February 18th 2026, 6:01:54 pm
+date modified: Thursday, February 19th 2026, 12:06:24 am
 tags:
   - kant
   - idealismo-alemão
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-17T11:15:00
+date: 2026-02-19T00:10:00
 ---
 
 ## Resumo da Apresentação do Tradutor
@@ -331,4 +331,32 @@ Kant chega a conclusão de que as suas asserções, para que não contivessem ne
 
 ### Observação 3
 
-## TBD - Próximo capítulo
+Kant aprofunda a sua doutrina da idealidade do tempo e do espaço a partir de uma objeção de que ela transformaria todo o mundo sensível em pura ilusão, tal objeção é levantada mediante uma noção errada, onde se tomava a sensibilidade "simplesmente como um modo confuso de representação" das coisas em si. Para Kant, a cognição sensorial apenas representa a maneira como como as coisas afetam os nossos sentidos, e não como são em si, e portanto, a sensibilidade consiste não em uma "diferença lógica de claridade e obscuridade" mas sim, na "diferença genética da origem da própria cognição".
+
+Enquanto o aparecimento depende dos sentidos, o juízo depende do entendimento, a questão que se coloca é "se há ou não verdade na determinação do objeto". Para Kant, a diferença entre verdade e sonho não se da no caráter das representações, mas sim 
+
+> pela conexão delas segundo as regras que determinam a combinação das representações no conceito de um objeto e em que medida podem manter-se juntar em uma experiência ou não (P64)
+
+Kant afirma que um juízo falso pode facilmente surgir se esse modo subjetivo de representação (apresentação) seja tomado como objetivo (coisa em si), apenas o entendimento pode pronunciar um juízo objetivo (possível de ser falso) a partir do aparecimento, portanto, esses erros resultam do "uso de representações sensoriais no entendimento e não de sua origem".
+
+Para Kant, relacionar as representações do sentido juntamente com a sua forma a experiência possível evita o erro, pois ainda que essas representações sejam aparecimentos podem "coalescer corretamente na experiência segundo regras da verdade". Nesse sentido são reafirmadas a validade das proposições da geometria, ainda que se considerasse o espaço como algo inerente as coisas em si, mas mantendo se o limite da experiência possível.
+
+Se espaço e tempo são tomados além da experiência possível (como qualidades inerentes às coisas em si) um grave erro surge amparado por uma ilusão que é gerada ao se tomar uma condição da intuição totalmente relativa ao sujeito (subjetiva) como algo universalmente válido (objetivo) não se restringindo as condições da experiência.
+
+Kant afirma que a sua doutrina da idealidade do espaço e do tempo, longe de converter todo o mundo sensível em mera ilusão, é antes:
+
+1. o único meio de assegurar a aplicação das cognições matemáticas a objetos reais uma vez que os objetos do mundo sensível são tomados como aparecimentos e não como coisas das quais não corresponderiam nenhum objeto. 
+2. o único meio de evitar a ilusão transcendental da qual a metafísica sempre foi vitima, pois os aparecimentos, quando tomados como coisas em si mesmas, produziu todas as ocorrência da antinomia da razão
+
+> o aparecimento gera verdade quando usado na experiência, mas, tão logo avança além da fronteira desta e se torna **transcendente**, nada produz senão pura ilusão (P66)
+
+Kant busca obter um afastamento da sua teoria (que ele mesmo denominou de "idealismo transcendental") ao "idealismo empírico de Descartes" e ao "idealismo místico e visionário" de Berkley, afirmando que seu idealismo não diz respeito a existência das coisas, mas sim a representação sensorial das coisas, a qual pertencem sobretudo espaço e tempo, que como todos os aparecimento, não são coisas, e tão pouco determinações pertencentes as coisas em si, mas meros modos de representação.
+
+> [!info] Significado da palavra "Transcendental" para Kant
+> "nunca significa uma relação de nossa cognição com coisas, mas apenas com nossa faculdade de cognição" (P67)
+
+Kant prefere que sua teoria seja chamada de "idealismo crítico", e reafirma que para ele o erro não esta em "converter as coisas reais (não aparecimentos) em representações", mas sim, "converter representações em coisas"
+
+## Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?
+
+- Páginas: 69 até 106

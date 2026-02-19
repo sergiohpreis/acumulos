@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Thursday, February 19th 2026, 12:43:19 am
+date modified: Thursday, February 19th 2026, 12:54:33 am
 tags:
   - kant
   - idealismo-alemão
@@ -95,7 +95,10 @@ Kant afirma que a Crítica exigia uma "exatidão escolástica" que a tornava pro
 - nem a experiência exterior (física) nem a experiência interior (psicológica empírica) podem ser a sua base
 - é portanto cognição a priori
 	- que provém do puro entendimento e da pura razão
-	- não há nada que a diferencie da matemática pura
+	- não há nada que a diferencie da matemática pura quanto a sua origem
+
+>[!note] Nota sobre a distinção entre metafísica e matemática
+> A distinção entre a matemática e a metafísica esta no método, pois enquanto uma constrói conceitos na intuição, a outra é discursiva (trabalha apenas com conceitos). Isso é crucial para entender porque a metafísica tem dificuldades que a matemática não tem
 
 >[!note] Sintetizando
 > As fontes da metafísica não podem ser empíricas. Uma vez que é necessário uma cognição **metafísica**, e não **física**, seus princípios não podem ser, portanto, tirados de nenhuma experiência tanto exterior (domínio da física) quanto interior (domínio da psicologia). Portanto, é cognição a priori, que provém do puro entendimento e da pura razão, e que não há nada que a diferencie da cognição da matemática pura.

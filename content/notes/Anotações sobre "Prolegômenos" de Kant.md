@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Thursday, February 19th 2026, 11:36:35 am
+date modified: Thursday, February 19th 2026, 6:34:57 pm
 tags:
   - kant
   - idealismo-alemão
@@ -428,6 +428,36 @@ Kant busca estabelecer um outro significado para a palavra natureza, um que dete
 > *"Materialiter"* é um termo latino que significa "materialmente" ou "quanto à matéria". Ele faz essa distinção para diferenciar o **conteúdo** (os objetos que podemos perceber) da **forma** (a conformidade a leis ou regras, discutida nos parágrafos anteriores). Ou seja, quando Kant fala de natureza _materialiter_, ele está se referindo a **tudo aquilo que pode ser dado aos nossos sentidos** dentro de uma experiência possível.
 
 Apenas os **objetos da experiência** são alvo de interesse, pois coisas que não podem ser objetos de uma experiência não são passíveis de terem a sua realidade (se efetivamente se referem a objetos ou são meros entes do pensamento) decidida. A cognição de algo que não pode ser um objeto da experiência seria hiperfísica, e a realidade da cognição da natureza pelo contrário *"pode ser confirmada pela experiência, ainda que seja possível a priori e preceda toda a experiência"*
+
+### §17
+
+Kant reafirma que o **elemento formal** da natureza, nesse sentido mais estrito é "a **necessária conformidade** (necessária pois essa conformidade é conhecida a priori) de todos os objetos da experiência a leis"
+
+Kant denomina natureza como **a soma dessas coisas que são "objetos de uma experiência possível"** e uma vez que buscamos saber se é possível uma cognição a priori da natureza, a questão pode ser formulada das seguintes maneiras (que não alteram a solução do problema):
+
+> como é possível conhecer a priori a **conformidade necessária** a leis das coisas enquanto objetos da experiência ? (P71,P72)
+
+> como é possível conhecer a priori a **conformidade necessária** a leis da experiência ela própria em relação a todos os seus objetos em geral? (P72)
+
+Para Kant, "sem relação com uma experiência possível não seremos capazes de estudar a priori a natureza das coisas..." a não ser "investigando as condições e leis universais (embora subjetivas) unicamente sob as quais essa cognição é possível enquanto experiência". Portanto, o que nos é dado a priori não é uma **cognição das leis** sob as quais os objetos estão sujeitos em si mesmo, mas sim, a cognição das "**condições necessárias para que uma experiência de objetos seja possível**".
+
+Uma vez que a natureza pode ser denominada enquanto "o inteiro objeto de toda experiência possível", portanto, se trata de se **limitar a experiência e as condições universais** dadas a priori de sua possibilidade. Kant não entende essa limitação como **regras** para a observação de uma natureza ja dada (que pressupõe experiência), e nem de se aprender (por experiência) as leis a partir da natureza, mas sim "como condições a priori da possibilidade da experiência", pois para ele essas condições são "as **fontes** das quais todas as leis universais da natureza devem ser derivadas".
+
+### §18
+
+Kant irá fazer aqui a distinção entre **juízos de experiência** e **juízos de percepção**, e ainda que ambos sejam *empíricos*:
+
+> Juízos empíricos, na medida em que têm validade **objetiva**, são juízos de **experiência**; aqueles, entretanto, que são válidos apenas **subjetivamente** denomino simples juízos de **percepção** (P73)
+
+Os juízos de percepção não precisam de nenhum conceito puro do entendimento, apenas da conexão lógica da percepção em um sujeito pensante, enquanto os juízos de experiência "exigem certos conceitos gerados originalmente no entendimento" para que sejam objetivamente válidos.
+
+Para Kant, todos os nossos juízos a princípio são simples juízos de percepção (subjetivos), entretanto, que quando atribuídos a um objeto, pretende-se que esse juízo não seja mais valido apenas de maneira subjetiva, mas sim para todos os tempos e igualmente para todas as pessoas, pois "se um juízo concorda com um objeto, todos os juízos sobre o mesmo objeto devem concordar entre si (P73)". Nesse sentido, a validade objetiva de um juízo de experiência é nada mais que a sua **validade universal necessária**, sendo assim,  portanto, um juízo **"objetivo"** (*"que não expressa somente a referência da percepção a um sujeito, mas uma **qualidade do objeto**"*). Pois os diversos juízos concordam entre si devido "a **unidade** do objeto ao qual todos referem".
+
+### §19
+
+Kant afirma que "validade objetiva" e "validade universal necessária" são conceitos intercambiáveis, pois os objetos são determinado  pelas conexões de representações enquanto universalmente válidas pelo conceito do entendimento
+
+> O objeto permanece sempre desconhecido em si mesmo, mas, quando a **conexão de representações** que são dadas por ele a nossa sensibilidade é determinada pelo **conceito do entendimento** como universalmente valida, o objeto se determina por essa relação e o juízo é objetivo (P74)
 
 ---
 

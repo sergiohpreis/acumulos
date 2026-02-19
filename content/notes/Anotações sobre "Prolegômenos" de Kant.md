@@ -1,13 +1,13 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Thursday, February 19th 2026, 3:59:02 am
+date modified: Thursday, February 19th 2026, 11:36:35 am
 tags:
   - kant
   - idealismo-alemão
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-19T04:00:00
+date: 2026-02-19T11:40:00
 ---
 
 ## Resumo da Apresentação do Tradutor
@@ -403,6 +403,31 @@ Kant prefere que sua teoria seja chamada de "idealismo crítico", e reafirma que
 > Páginas: 69 até 106
 > - Considerando as minhas últimas sessões de fichamento, tenho levado aproximadamente 15 minutos por página, portanto, 38 páginas levarão aproximadamente **9 horas e 30 minutos**
 > - As sessões costumam durar entre 30 e 60 minutos. Para bater essa meta, será necessário aproximadamente 12 a 15 sessões de estudo.
+
+### §14
+
+> Natureza é a existência de coisas enquanto **determinada segundo leis universais**. Se natureza significasse a existência das coisas em si mesmas, não poderíamos jamais conhecê-la, nem a priori, nem a posteriori (P69)
+
+Kant irá começar definindo o significado de natureza e argumentando sobre a impossibilidade de conhecê-la em si mesma através da experiência (tanto a priori, quanto posteriori), pois a mesma jamais pode informar sobre a natureza das coisas em si e só pode mostrar "o que existe e como existe", mas nunca sobre o modo dessa existência (existir daquele modo e não de outro).
+
+### §15
+
+Kant se propõe a examinar mais detalhadamente a chamada "ciência universal da natureza" que precede toda a física (que se funda em princípios empíricos), observando que nessa ciência se encontram a matemática aplicada a aparecimentos e também princípios meramente discursivos (a partir de conceitos), entretanto, nota que existem coisas que não são inteiramente puras e independentes de fonte de experiência, como por exemplo, o conceito de movimento, de impenetrabilidade (sobre o qual se funda o conceito de matéria), inércia e etc, portanto, isso impede que seja chamada de ciência natural inteiramente pura. 
+
+Kant também aponta que essa ciência lida com objetos do sentido externo, e portanto, não constitui em sentido estrito uma ciência universal da natureza, pois ela deve subsumir a leis universais a natureza em geral, ainda que se refira ao sentido interno ou externo.
+
+Ainda assim, entre os princípios dessa "física universal" podemos encontrar proposições que possuem a universalidade exigida e que subsistem inteiramente a priori, o que leva a conclusão que há uma ciência pura da natureza, entretanto, abrindo uma nova pergunta: como ela é possível?
+
+### §16
+
+Kant busca estabelecer um outro significado para a palavra natureza, um que determine o objeto e não apenas indique a conformidade as leis das determinações da existência das coisas em geral (como o conceito anterior).
+
+> Natureza, considerada **materialiter**, é, portanto, **a soma de todos os objetos da experiência** (P71)
+
+>[!question] O que é materialiter?
+> *"Materialiter"* é um termo latino que significa "materialmente" ou "quanto à matéria". Ele faz essa distinção para diferenciar o **conteúdo** (os objetos que podemos perceber) da **forma** (a conformidade a leis ou regras, discutida nos parágrafos anteriores). Ou seja, quando Kant fala de natureza _materialiter_, ele está se referindo a **tudo aquilo que pode ser dado aos nossos sentidos** dentro de uma experiência possível.
+
+Apenas os **objetos da experiência** são alvo de interesse, pois coisas que não podem ser objetos de uma experiência não são passíveis de terem a sua realidade (se efetivamente se referem a objetos ou são meros entes do pensamento) decidida. A cognição de algo que não pode ser um objeto da experiência seria hiperfísica, e a realidade da cognição da natureza pelo contrário *"pode ser confirmada pela experiência, ainda que seja possível a priori e preceda toda a experiência"*
 
 ---
 

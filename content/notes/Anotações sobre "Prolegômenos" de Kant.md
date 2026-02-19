@@ -1,18 +1,14 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Thursday, February 19th 2026, 1:45:07 am
+date modified: Thursday, February 19th 2026, 3:59:02 am
 tags:
   - kant
   - idealismo-alemão
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-19T01:45:00
+date: 2026-02-19T04:00:00
 ---
-
->[!info] Uso do NotebookLM na validação dos resumos e fichamentos
-> Para acompanhar esse estudo, eu estou utilizando o NotebookLM com o objetivo de validar os meus entendimentos a cerca da obra, por isso, estou utilizando o seguinte prompt para validar esse resumo:
->*"Produzi o documento "Anotações sobre "Prolegômenos" de Kant", que ainda esta em andamento, poderia revisar e ver se por hora existe alguma correção a ser feita?"*
 
 ## Resumo da Apresentação do Tradutor
 
@@ -186,11 +182,14 @@ No Prolegômenos, de maneira analítica, parte-se já da existência de uma cogn
 ## Prolegômenos. Questão geral. Como é possível uma cognição pela razão pura?
 
 > [!info] TL;DR
-> A partir dessa questão, Kant aponta
-> - que responder a essa questão é condição fundamental para que as cognições metafísicas sejam válidas, caso contrário *"a metafísica sequer seria possível enquanto ciência"*
-> - os méritos e as limitações do ceticismo de Hume
-> - justifica porque a matemática pura e a ciência pura comportam cognições teóricas (cognições a partir da pura razão)
-> - divide a "questão transcendental principal" (o que da origem e subjaz as cognições a priori) em quatro outras questões
+> A partir dessa questão, Kant aponta que responder a essa questão é condição fundamental para que as cognições metafísicas sejam válidas, caso contrário *"a metafísica sequer seria possível enquanto **ciência**"*. Além disso:
+> - aponta os méritos e as limitações do ceticismo de **Hume**
+> - justifica porque a matemática pura e a ciência pura comportam **cognições teóricas** (cognições a partir da pura razão)
+> - divide a "**questão transcendental principal**" (o que da origem e subjaz as cognições a priori) em quatro outras questões:
+> 	 1. Como é possível a matemática pura?
+> 	 2. Como é possível a ciência pura da natureza?
+> 	 3. Como é possível a metafísica em geral?
+> 	 4. Como é possível a metafísica como ciência?
 
 ### §5
 
@@ -405,3 +404,8 @@ Kant prefere que sua teoria seja chamada de "idealismo crítico", e reafirma que
 > - Considerando as minhas últimas sessões de fichamento, tenho levado aproximadamente 15 minutos por página, portanto, 38 páginas levarão aproximadamente **9 horas e 30 minutos**
 > - As sessões costumam durar entre 30 e 60 minutos. Para bater essa meta, será necessário aproximadamente 12 a 15 sessões de estudo.
 
+---
+
+>[!info] Uso do NotebookLM na validação dos resumos e fichamentos
+> Para acompanhar esse estudo, eu estou utilizando o NotebookLM com o objetivo de validar os meus entendimentos a cerca da obra, por isso, estou utilizando o seguinte prompt para validar esse resumo:
+>*"Produzi o documento "Anotações sobre "Prolegômenos" de Kant", que ainda esta em andamento, poderia revisar e ver se por hora existe alguma correção a ser feita?"*

@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Thursday, February 19th 2026, 12:54:33 am
+date modified: Thursday, February 19th 2026, 1:03:56 am
 tags:
   - kant
   - idealismo-alemão
@@ -78,14 +78,14 @@ Kant afirma que a Crítica exigia uma "exatidão escolástica" que a tornava pro
 ## Prolegômenos. Retrospectiva do que é peculiar a toda cognição metafísica
 
 > [!note] TL;DR
-> Nessa retrospectiva, Kant buscará sistematizar a cognição metafísica através de suas peculiaridades, chegando a diversas conclusões como:
-> - as cognições metafísicas são a priori, portanto provém do puro entendimento e da pura razão
-> - irá categorizar os juízos em **analíticos** (explicativos) e **sintéticos** (ampliativos) e as suas relações com o **princípio da contradição**
-> - Classificação os juízos sintéticos em 3 tipos com relação as cognições que podem produzir, são esses os juízos
-> 	- de **Experiência**: sintéticos a **posteriori**
-> 	- **Matemáticos**: sintéticos a **priori** (é nesse momento que Kant apontará a **necessidade da intuição** nos juízos matemáticos)
-> 	- **propriamente metafísicos**: sintéticos a priori (produzidas tanto a partir da intuição como a partir de conceitos)
-> - Crítica os filósofos **dogmáticos** e aponta as limitações em **Locke**
+> Nessa retrospectiva, Kant buscará sistematizar a cognição metafísica através de suas peculiaridades, então:
+> - conclui que as **cognições metafísicas** são a **priori**, portanto provém do puro entendimento e da pura razão
+> - categoriza os juízos em **analíticos** (explicativos) e **sintéticos** (ampliativos) e também através de suas relações com o **princípio da contradição**
+> - classifica os juízos sintéticos em três tipos com relação as cognições que podem produzir, sendo eles os juízos
+> 	- de experiência: a posteriori
+> 	- matemáticos: a priori (é nesse momento que Kant apontará a **necessidade da intuição** nos juízos matemáticos)
+> 	- **propriamente metafísicos**: a priori (produzidas tanto a partir da intuição como a partir de conceitos, diferente da matemática que produz apenas a partir da intuição)
+> - faz uma crítica aos filósofos **dogmáticos** (pois buscaram as fontes dos juízos metafísicos na própria metafísica) e aponta as limitações em **Locke** com relação aos conceitos sobre juízos analíticos e juízos sintéticos a priori que ali podiam já serem encontrados
 
 ### §1 - Das fontes da metafísica
 

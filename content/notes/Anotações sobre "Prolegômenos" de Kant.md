@@ -1,13 +1,13 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Friday, February 20th 2026, 3:30:01 pm
+date modified: Friday, February 20th 2026, 7:54:34 pm
 tags:
   - kant
   - idealismo-alemão
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-20T00:55:00
+date: 2026-02-20T19:55:00
 ---
 
 ## Resumo da Apresentação do Tradutor
@@ -524,6 +524,56 @@ Kant explica o que constitui a doutrina fisiológica do método ("distinção en
 - conexão: ligação com o material dos sentidos e da percepção
 
 ### §26
+
+#### O fundamento da prova
+
+Para Kant, o que torna a sua tábua dos princípios superior é que todos os princípios sintéticos a priori estão de acordo com o **principio da faculdade de julgar em geral** (essência da experiencia com respeito ao entendimento).
+
+Entretanto, acredita que o maior mérito da tábua esta no **fundamento da prova**, pois esse:
+- revela a possibilidade dessa cognição a priori
+- limita todos os princípios a única condição de "que contenham apenas a condição da experiencia possível em geral, na medida em que esta se submete a leis a priori (P85)". 
+
+Para Kant, é impossível uma **conexão sintética entre puros conceitos** pois é necessário a referência a **intuição sensorial** e a conexão com a **experiência possível**, portanto, **não podemos atribuir esses puros conceitos as coisas em si mesmas,** e essa, é a limitação essencial dos conceitos nos princípios:
+
+> "todas as coisas estão sujeitas necessariamente a priori às mencionadas condições apenas enquanto **objetos da experiência** (P85)"
+
+#### A aplicação da matemática à natureza é possível e determinada
+
+Kant busca provar também de outro modo:
+
+- os princípios não se referem diretamente a aparecimentos e sua relação, mas sim a uma **possibilidade da experiência** da qual os aparecimentos constituem apenas a **matéria**, mas não a **forma**
+- os princípios se referem a **"proposições sintéticas objetiva e universalmente validas"**, e é isso que diferencia os **juízos de experiência** e os **juízos de percepção**
+- os aparecimentos são intuições que ocupam uma porção do espaço e tempo
+	- subordinam-se ao conceito de **grandeza**, que une sinteticamente e a priori o múltiplo de de intuições segundo regras
+-a percepção contem além da intuição a sensação, da qual entre ela e o seu desaparecimento sempre tem uma transição por diminuição (**grau**)
+	- como a sensação não tem ocupa nenhuma porção de espaço e tempo, se deduz que o que é real no aparecimento deve ter um **grau**
+- a sensação, jamais pode ser conhecida a priori, mas pode em uma experiencia em geral, se distinguir intensivamente de outras sensações (enquanto **grandeza da percepção**)
+
+Por isso, **a aplicação da matemática à natureza**, no que respeita à intuição sensorial através da qual ela nos é dada, é em primeiro lugar tornada possível e determinada
+
+#### O modo de prova dos princípios (Analogias da experiência)
+
+Diferente da aplicação da matemática a ciência da natureza em geral, que concerne a geração de intuições, os princípios da terceira tábua se referem a **conexão de sua existência em uma experiência** (existência no tempo de acordo com leis necessárias, que a tornam objetivamente valida, portanto uma experiência)
+
+> ... a prova não diz respeito, portanto, à unidade sintética na conexão das **coisas em si** mesmas, mas sim das percepções, e, mesmo quanto a estas, não em vista de seu conteúdo, mas da **determinação no tempo** e da **relação da existência necessária** segundo leis universais (P87)
+
+Essa leis que contem a necessidade da determinação da existência no tempo em geral (de acordo com uma regra do entendimento a priori), para que a determinação empírica no tempo relativo seja objetivamente valida, e assim, experiencia.
+
+Portanto, **experiencia não é uma composição meramente empírica de percepções**, pois
+	- ela fornece validade universal a juízos empíricos
+	- necessita de uma unidade pura do entendimento que a preceda a priori
+
+### Material de apoio a §24, §25 e §26
+
+> [!note]
+> Em uma nota no início do §24, Kant diz que os próximos três parágrafos "dificilmente poderão ser compreendidos de maneira adequada se não se tiver a mão o que diz a Crítica sobre os princípios". Nesse sentido, produzi uma síntese focada no "Sistema de todos os princípios do entendimento puro"
+
+**Conexão com a Crítica da Razão Pura: O Sistema dos Princípios** Na _Crítica_, Kant detalha que as regras do nosso entendimento operam na natureza de duas formas principais:
+
+1. **Correspondente ao §24 (Princípios Matemáticos):** Na CRP, dividem-se em _Axiomas da Intuição_ e _Antecipações da Percepção_. Eles lidam com a intuição e garantem que tudo o que aparece tem uma grandeza extensiva (espaço/tempo) e uma grandeza intensiva (grau de sensação). Eles são constitutivos e justificam a aplicação da matemática aos fenômenos.
+2. **Correspondente ao §25 (Princípios Dinâmicos):** Na CRP, dividem-se em _Analogias da Experiência_ e _Postulados do Pensamento Empírico_. Eles não lidam com medidas matemáticas, mas regulam a **existência** das coisas e como elas se relacionam no tempo (permanência da substância, causa/efeito e comunidade).
+
+**Correspondente ao §26 (O Limite da Prova):** A _Crítica_ demonstra exaustivamente que é impossível provar esses princípios de forma dogmática (apenas analisando conceitos puros). A única prova válida é a de que sem eles a experiência seria impossível. Por isso, o uso dessas regras é **estritamente imanente**, ou seja, serve apenas para os objetos da experiência e nunca para as coisas em si mesmas.
 
 ---
 

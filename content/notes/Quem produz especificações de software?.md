@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 20th 2026, 3:51:30 pm
-date modified: Friday, February 20th 2026, 4:17:27 pm
+date modified: Friday, February 20th 2026, 4:29:28 pm
 draft: false
 date: 2026-02-20T16:20:00
 tags:
@@ -17,6 +17,6 @@ Não sei se é certo que a linguagem natural livre seja ambígua demais, mas est
 
 A própria especificação é produzida sobre a base de inúmeros conceitos de ciência da computação como: Imutabilidade, Protocolo de Transferência de Hipertexto (HTTP), Latência de Rede, Serialização JSON, Testes Unitários, Arvore de Dependência e etc.
 
-Não imagino que o artigo de Akita tenha a pretenção de dizer que as cognições em engenharia de softwares se tornarão obsoletas com o passar dos anos, mas acho que é importante essa reflexão de que, um bom engenheiro de software conseguirá produzir melhores especificações (com as mais corretas intenções), porquê para isso, é necessário uma habilidade técnica que pertence aos engenheiros de sofware.
+Não imagino que o artigo de Akita tenha a pretenção de dizer que as cognições em engenharia de softwares se tornarão obsoletas com o passar dos anos, mas acho que é importante essa reflexão de que, um bom engenheiro de software conseguirá produzir melhores especificações (portanto, com as mais corretas intenções), porquê para isso é necessário uma habilidade técnica que pertence ao universo da ciência da computação / engenharia de software.
 
 O desenvolvimento orientado a especificações tem ganhado cada vez mais espaço na produção de sofware, entretanto, não enxergo que o que esteja acontecendo seja uma mudança de cognições, mas sim, uma mudança na forma de escrever software, uma mudança no meio entre a implementação e a intenção.

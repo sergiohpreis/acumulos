@@ -1,13 +1,13 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Thursday, February 19th 2026, 6:34:57 pm
+date modified: Friday, February 20th 2026, 12:53:19 am
 tags:
   - kant
   - idealismo-alemão
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-19T18:40:00
+date: 2026-02-20T00:55:00
 ---
 
 ## Resumo da Apresentação do Tradutor
@@ -458,6 +458,56 @@ Para Kant, todos os nossos juízos a princípio são simples juízos de percepç
 Kant afirma que "validade objetiva" e "validade universal necessária" são conceitos intercambiáveis, pois os objetos são determinado  pelas conexões de representações enquanto universalmente válidas pelo conceito do entendimento
 
 > O objeto permanece sempre desconhecido em si mesmo, mas, quando a **conexão de representações** que são dadas por ele a nossa sensibilidade é determinada pelo **conceito do entendimento** como universalmente valida, o objeto se determina por essa relação e o juízo é objetivo (P74)
+
+### §20
+
+Kant busca analisar a experiência em geral para ver o que esta contido nesse produto dos sentidos e do entendimento, e entender inclusive como o próprio juízo de experiência é possível. Na base desse produto está
+- a percepção (que diz respeito apenas ao sentido) e é uma intuição da qual estou consciente
+- o juízo (que diz respeito apenas ao entendimento)
+
+Quando as percepções são comparadas e reunidas em uma consciência do meu estado, e não em uma consciência em geral, o juízo gerado é um juízo de percepção apenas com validade subjetiva, pois para que um juízo possa constituir uma experiência é necessário que dele decorra uma validade **universal e necessária**.
+
+> A intuição dada deve ser **subsumida a um conceito** que determina a **forma do juízo** em geral com relação a **intuição**, conecta a consciência empírica desta última em uma consciência em geral e, com isso, dota os juízos empíricos de validade universal (P76)
+
+Conceito esse que é um puro conceito a priori do entendimento e que vai "determinar, para uma intuição, a maneira geral pela qual ela pode servir para julgar" ou seja, servindo apenas para "determinar a representação que está contida sob ele em relação ao juízo em geral", sendo assim, um juízo de experiência é **precedido por certos juízos** que fazem essa subsunção.
+
+> antes que um juízo de percepção possa tornar-se um juízo de experiência, requer-se primeiramente que a percepção seja subsumida a um conceito do entendimento deste tipo (P76)
+
+Ao analisar os juízos sintéticos, Kant chega a conclusão de que jamais consistem de meras intuições, conectadas a um único juízo mediante comparações, mas sim, com o acréscimo aos conceitos abstratos da intuição de um puro conceito do entendimento ao qual aqueles conceitos são subsumidos e conectados em um juízo objetivamente válido. Kant demonstra como isso se aplica até mesmo para os juízos da matemática pura.
+
+### §21
+
+Kant busca representar em uma tábua completa o que pertence aos **juízos em geral** e os diversos **momentos do entendimento** nos mesmos. Os conceitos puros do entendimento vão dispor-se de maneira exatamente **paralela** à esses momentos
+
+>[!note] Sobre os conceitos puros do entendimento e suas relações com os momentos
+> Esses são conceitos de intuições em geral, na medida em que estas, relativamente a um ou a outro desses momentos, são **determinadas em si mesmas** **necessariamente** e com validade **universal** em juízos
+
+### §21a
+
+Kant não levanta questões a cerca da "gênese da experiência", mas sim do que nela esta contido, e sendo assim, consolidando que além da intuição sensorial e de sua conexão lógica em um juízo (depois de tornado geral por comparação), o juízo de experiência deve acrescentar algo que determina o juízo sintético como necessário, e esse algo é justamente o conceito que representa a intuição como determinada em si mesma com respeito a uma forma de juízo mais do que outra, isto é
+> um conceito daquela **unidade sintética das intuições** que só pode ser representada por uma dada função lógica dos juízos (P81)
+
+### §22
+
+Kant resume tudo o que foi concluído até aqui, onde a função dos sentidos é intuir e a função do entendimento é pensar.
+
+### §23
+
+Kant explica que juízos são regras (condição da união de representações dadas em uma consciência), como essas regras são necessárias, são regras a priori, como não existem outras regras acima delas, são **princípios**. Como não há condições dos juízos de experiência acima daquelas que subsumem os aparecimentos, uma vez que esses conceitos puros, tornam os juízos empíricos objetivamente válidos, e portanto, estes são, portanto **os princípios a priori da experiência possível**. Com essa noção de que esses princípios da experiência possível são ao mesmo tempo leis universais da natureza, podemos dizer que é possível uma ciência pura da natureza. 
+
+Kant busca explicar a sua sistematização, que é requerida para a "forma de uma ciência".
+1. As regras (que são as condições formais dos juízos em geral) constituem um sistema lógico
+2. Os conceitos fundados nesse sistema, que "contém as condições a priori para todos os juízos sintéticos e necessários" constituem um sistema transcendental
+3. Os princípios por meio dos quais todos os aparecimentos são subsumidos constituem um sistema fisiológico, ou seja, um sistema da natureza que procede toda a cognição empírica, e é isso que torna essa natureza possível
+
+### §24
+
+O primeiro princípio fisiológico subsume todos os aparecimentos, enquanto intuições no espaço e tempo ao conceito de grandeza (esse é o princípio que permite a aplicação da matemática a experiência)
+
+O segundo princípio fisiológico não subsume a sensação (que é propriamente empírica) diretamente ao conceito de grandeza (sensação não é uma intuição que contenha espaço e tempo), entretanto, subsume indiretamente a esse conceito, pois não é possível nenhuma percepção que exiba uma **absoluta ausência,** portanto, o entendimento pode antecipar até mesmo as sensações, pois todas elas, tem **graus** (portanto, relação indireta ao conceito de grandeza), inclusive, sendo a segunda aplicação da matemática (mathesis intensorum) a ciência da natureza.
+
+> [!info] Mathesis Intensorum (com auxílio de IA)
+> "A mathesis intensorum (ou mathesis intensiva) é um conceito filosófico, historicamente associado a Alexander Baumgarten e discutido no contexto da filosofia kantiana, que trata da aplicação de princípios matemáticos ou de medição a grandezas intensivas (graus de qualidade, como intensidade da luz ou calor) em contraste com as grandezas extensivas (espaço/tempo)"
 
 ---
 

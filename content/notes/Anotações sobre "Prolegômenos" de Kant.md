@@ -1,13 +1,13 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Friday, February 20th 2026, 8:49:26 pm
+date modified: Friday, February 20th 2026, 8:58:40 pm
 tags:
   - kant
   - idealismo-alemão
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-20T20:50:00
+date: 2026-02-20T21:00:00
 ---
 
 ## Resumo da Apresentação do Tradutor
@@ -400,9 +400,18 @@ Kant prefere que sua teoria seja chamada de "idealismo crítico", e reafirma que
 ## Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?
 
 >[!info] Dados para planejamento das sessões com base nas minhas sessões (em [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]) 
-> Páginas: 69 até 106
-> - Considerando as minhas últimas sessões de fichamento, tenho levado aproximadamente 15 minutos por página, portanto, 38 páginas levarão aproximadamente **9 horas e 30 minutos**
-> - As sessões costumam durar entre 30 e 60 minutos. Para bater essa meta, será necessário aproximadamente 12 a 15 sessões de estudo.
+> **Análise de Desempenho (Últimas Sessões) Média Atual**
+> - Total de páginas lidas: 21 páginas
+> - Tempo total investido: 363 minutos (6 horas e 3 minutos)
+> - Ritmo médio por página: ~17,3 minutos
+> - Velocidade de leitura/fichamento: ~3,5 páginas por hora
+> Estimativa para o §40 (Próximas 16 páginas), mantendo o rigor do método de leitura e fichamento, a previsão é a seguinte:
+>
+> **Tempo total estimado: Aproximadamente 4 horas e 37 minutos.**
+> Distribuição sugerida: Se mantiver sessões de cerca de 45 minutos (sua média atual), precisará de mais 6 sessões para concluir essa parte.
+>
+> **Observações sobre o Ritmo**
+> A sessão mais rápida foi de 10 minutos por página (§21-21a) e a mais densa chegou a quase 30 minutos por página (§26). Como Kant costuma aumentar a complexidade à medida que a "exposição transcendental" avança, trabalhar com a margem de 4h 40m é o caminho mais seguro para não comprometer a qualidade do resumo.
 
 ### §14
 

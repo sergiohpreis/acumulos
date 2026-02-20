@@ -1,13 +1,13 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Friday, February 20th 2026, 7:54:34 pm
+date modified: Friday, February 20th 2026, 8:49:26 pm
 tags:
   - kant
   - idealismo-alemão
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-20T19:55:00
+date: 2026-02-20T20:50:00
 ---
 
 ## Resumo da Apresentação do Tradutor
@@ -574,6 +574,53 @@ Portanto, **experiencia não é uma composição meramente empírica de percepç
 2. **Correspondente ao §25 (Princípios Dinâmicos):** Na CRP, dividem-se em _Analogias da Experiência_ e _Postulados do Pensamento Empírico_. Eles não lidam com medidas matemáticas, mas regulam a **existência** das coisas e como elas se relacionam no tempo (permanência da substância, causa/efeito e comunidade).
 
 **Correspondente ao §26 (O Limite da Prova):** A _Crítica_ demonstra exaustivamente que é impossível provar esses princípios de forma dogmática (apenas analisando conceitos puros). A única prova válida é a de que sem eles a experiência seria impossível. Por isso, o uso dessas regras é **estritamente imanente**, ou seja, serve apenas para os objetos da experiência e nunca para as coisas em si mesmas.
+
+### §27
+
+Kant tem como objetivo "arrancar pela raiz a dúvida humeana". Aponta que Hume estava certo quando afirmou que
+> não podemos de modo algum compreender pela razão a **possibilidade da causalidade**
+
+Kant afirma que os seguintes conceitos não são compreensíveis por nós:
+- conceito de subsistência (nem sequer algum conceito de sua possibilidade)
+- comunidade de coisas
+
+Kant não toma esses conceitos como "derivados tão somente da experiência" e a necessidade que neles se representa como fictícia e mera ilusão, pelo contrário, mostrou que
+
+> "tanto eles como os princípios que deles se extraem valem a priori **antes de toda experiência**, e têm uma indubitável correção objetiva, embora, é certo, apenas **em relação à experiência** (P88)"
+
+### §28
+
+Para Kant, temos em nossos juízos em geral um um conceito de uma conexão de representações, que são como representações participam de formas diferentes nos tipos de juízos
+- como um sujeito em relação a um predicado
+- como fundamento em relação à consequência
+- como partes que, juntas, compõem uma cognição possível como um todo
+
+A representação de um objeto é determinada em relação a um ou outro desses momentos, do contrário, não seria possível nenhuma cognição válida para o objeto
+
+Se o objetivo fosse o objeto em si mesmo, não haveria nenhuma característica singular que tornasse possível reconhecer esse objeto como determinado em relação a um desses momentos (substância, causa, comunidade).
+
+Para Kant, a questão é como a cognição de coisas pela experiência esta determinada em relação aos mencionados juízos, ou seja:
+> como coisas enquanto objetos de experiência podem e devem ser subsumidas a esses conceitos do entendimento (P89)
+
+A partir disso, subsume todos os aparecimento a esses conceitos, empregando-os como **princípios da possibilidade de experiência**
+
+### §29
+
+Para pôr a prova o conceito de causa problemático de Hume, Kant:
+
+Através da **lógica** encontra um **juízo condicional em geral** (o uso de uma dada cognição como fundamento e outra como consequência) e através da **percepção** encontra uma **regra da relação** que diga que certo aparecimento é constantemente seguido por outro (embora não de modo inverso) que usará como **um juízo hipotético**
+> se um corpo é iluminado pelo Sol por um tempo suficiente, então ele se aquece
+
+Para que a proposição encontrada seja uma **proposição de experiência** e não apenas uma **conexão subjetiva de percepções**, ela deve ser considerada como válida de maneira necessária e universal, portanto, essa proposição seria
+> o Sol, mediante sua luz, é a causa do calor
+
+Essa regra empírica é considerada como uma lei não valendo apenas para **aparecimentos**, mas para aparecimentos com vistas a uma **experiência possível**, que necessita de **regras válidas de forma geral**, e portanto **necessariamente**
+
+Portanto, Kant compreende *"o conceito de causa como pertencendo à mera forma da experiência e sua possibilidade como uma união sintética das percepções em uma consciência em geral"* mas não *"a possibilidade de uma coisa em geral como causa, porque o conceito de causa indica uma condição que não se liga de nenhum modo às coisas, mas apenas à experiência"*.
+
+Esta só pode ser uma cognição objetivamente válida de aparecimentos e de sua sucessão no tempo se o aparecimento antecedente puder ser conjugado ao aparecimento subsequente de acordo com a regra dos juízos hipotéticos.
+
+### §30
 
 ---
 

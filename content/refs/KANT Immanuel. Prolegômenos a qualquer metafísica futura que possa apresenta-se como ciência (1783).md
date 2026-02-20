@@ -22,6 +22,7 @@ shelf:
   - Filosofia
 format:
   - PHYSICAL
+finish_date: 2026-02-16
 edition_year: 2022
 tags:
   - idealismo
@@ -30,21 +31,36 @@ tags:
   - kant
   - filosofia-alemã
 draft: false
-date: 2026-02-20T16:20:00
+date: 2026-02-20T20:50:00
+date created: Friday, February 20th 2026, 8:52:08 pm
+date modified: Friday, February 20th 2026, 8:53:13 pm
 ---
 
 ## Resumo
 
-- Sessões: 30
-- Páginas lidas: 245
-- Tempo total: 15h 34m
+- Sessões: 42
+- Páginas lidas: 275
+- Tempo total: 22h 46m
 - Avaliação: ⭐⭐⭐⭐ (4/5)
 - Autores: Immanuel Kant
 - Status: READING
 - Total de páginas: 171
+- Finalizado em: 16/02/2026
 
 ## Sessions
 
+- **2026-02-20 19:59 - 20:50** - Pages 87-90 (3 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §27, §28 e §29 - 0h51m
+- **2026-02-20 18:44 - 19:43** - Pages 85-87 (2 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §26 - 0h59m
+- **2026-02-20 14:54 - 15:30** - Pages 84-85 (1 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §25 - 0h35m
+- **2026-02-20 00:13 - 00:53** - Pages 81-84 (3 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §22, §23 e §24 - 0h39m
+- **2026-02-19 21:58 - 22:29** - Pages 78-81 (3 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §21 e §21a - 0h31m
+- **2026-02-19 20:28 - 21:11** - Pages 75-78 (3 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §20 - 0h42m
+- **2026-02-19 18:06 - 18:38** - Pages 73-75 (2 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §18 e §19 - 0h32m
+- **2026-02-19 17:07 - 17:38** - Pages 71-73 (2 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §17 - 0h31m
+- **2026-02-19 10:55 - 11:38** - Pages 69-71 (2 pages) - Iniciando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §14, §15 e §16 - 0h43m
+- **2026-02-19 01:25 - 01:50** - Produzindo TLDR para “Primeira parte da questão transcendental principal. Como é possível a matemática pura?” - 0h25m
+- **2026-02-19 01:00 - 01:25** - Produzindo TL;DR para "Prolegômenos. Questão geral. Como é possível uma cognição pela razão pura?" - 0h25m
+- **2026-02-19 00:20 - 00:39** - Produzindo TL;DR para "Prolegômenos. Retrospectiva do que é peculiar a toda cognição metafísica" - 0h19m
 - **2026-02-18 22:55 - 00:04** - Pages 63-68 (5 pages) - Finalizando a leitura + fichamento de "Primeira parte da questão transcendental principal. Como é possível a matemática pura?". Li e resumi "Observações III" - 1h09m
 - **2026-02-18 17:27 - 18:03** - Pages 62-63 (1 pages) - Continuando a leitura + fichamento de "Primeira parte da questão transcendental principal. Como é possível a matemática pura?". Li e resumi "Observações II" - 0h35m
 - **2026-02-18 13:46 - 14:10** - Pages 60-62 (2 pages) - Continuando a leitura + fichamento de "Primeira parte da questão transcendental principal. Como é possível a matemática pura?". Li e resumi "Observações I" - 0h23m
@@ -79,14 +95,17 @@ date: 2026-02-20T16:20:00
 ## Notes
 
 ### 2026-02-16 12:38
+
 Com base nessa última sessão (16 de fev. de 2026, 12:20 - 12:35), me parece que um dos grandes méritos de Kant foi ter estabelecido as bases para uma metafísica possível, e não a matou.
 
 ### 2026-02-16 10:33
+
 Conforme a nota que fiz em "16 de fev. de 2026, 09:58 - 10:32", estou refletindo sobre a estratégia para o entendimento de Kant.
 
 Eu deveria ler "Crítica da Razão Pura" de maneira global? Eu deveria voltar a "Hume"? Ou eu deveria após essa leitura, pegar e ler algum comentador?
 
 ### 2026-02-15 23:53
+
 De acordo com uma busca no Google:
 
 "O princípio da contradição em Kant

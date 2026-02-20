@@ -30,7 +30,7 @@ tags:
   - kant
   - filosofia-alemã
 draft: false
-date: 2026-06-19T00:10:00
+date: 2026-02-20T16:20:00
 ---
 
 ## Resumo

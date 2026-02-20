@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Friday, February 20th 2026, 12:53:19 am
+date modified: Friday, February 20th 2026, 3:30:01 pm
 tags:
   - kant
   - idealismo-alemão
@@ -508,6 +508,22 @@ O segundo princípio fisiológico não subsume a sensação (que é propriamente
 
 > [!info] Mathesis Intensorum (com auxílio de IA)
 > "A mathesis intensorum (ou mathesis intensiva) é um conceito filosófico, historicamente associado a Alexander Baumgarten e discutido no contexto da filosofia kantiana, que trata da aplicação de princípios matemáticos ou de medição a grandezas intensivas (graus de qualidade, como intensidade da luz ou calor) em contraste com as grandezas extensivas (espaço/tempo)"
+
+### §25
+
+Kant irá demonstrar que determinação da relação dos aparecimentos com seus princípios a priori não é matemática, mas sim dinâmica.  Para isso, irá subsumir alguns conceitos a priori:
+
+- aparecimentos: deve ser subsumido ao conceito de substância, pois uma vez que é o conceito da própria coisa é a base de todas as determinações de existência
+- eventos (sucessão de aparecimentos no tempo): subsumido ao conceito de um efeito em relação a uma causa
+- existência simultânea: subsumido ao conceito de comunidade / recriprocidade
+
+Uma vez que esses princípios estão na base de juízos empíricos e objetivamente válidos, são a base da possibilidade da experiência (que busca conectar objetos na natureza segundo a sua existência). Portanto, esses princípios são as leis, da natureza, e podem ser chamados dinâmicos.
+
+Kant explica o que constitui a doutrina fisiológica do método ("distinção entre verdade e hipóteses, e as fronteiras da confiabilidade destas últimas") afirmando que as cognições de concordância e conexão também pertencem aos juízos de experiência, não tanto na relação desses aparecimentos entre si na experiência, mas de sua relação com a experiência em geral (sendo possível que ambos ocorram).
+- concordância: concordância com as condições formais conhecidas pelo entendimento
+- conexão: ligação com o material dos sentidos e da percepção
+
+### §26
 
 ---
 

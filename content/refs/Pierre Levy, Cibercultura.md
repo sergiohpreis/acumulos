@@ -1,14 +1,21 @@
 ---
 date created: Saturday, December 21st 2024, 12:18:14 am
-date modified: Saturday, December 21st 2024, 1:28:10 am
-tags:
-  - internet
-type:
-  - book
-draft: true
+date modified: Saturday, February 21st 2026, 11:10:37 am
 authors:
   - Pierry Levy
+status:
+  - READ
+tags:
+  - internet
+  - cibercultura
+type:
+  - book
+draft: false
+date: 2024-12-21T12:18:00
 ---
+
+> [!note] Informações obtidas com IA
+> Essas informações foram obtidas em uma conversa e não **necessariamente** são verdadeiras. Já li o livro, há algum tempo, portanto, preciso revisitar
 
 O livro *Cibercultura* de Pierre Lévy discute como as novas tecnologias de informação e comunicação (TICs), especialmente a internet, transformam a cultura e a sociedade. O autor propõe que estamos vivendo uma nova era, que ele chama de "Cibercultura", onde a internet e as redes digitais redefinem a forma de pensar, de se comunicar e de interagir com o conhecimento. Aqui estão alguns dos principais pontos abordados na obra:
 

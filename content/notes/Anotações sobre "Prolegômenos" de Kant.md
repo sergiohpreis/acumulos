@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Friday, February 20th 2026, 8:58:40 pm
+date modified: Saturday, February 21st 2026, 10:51:13 am
 tags:
   - kant
   - idealismo-alemão
@@ -630,6 +630,60 @@ Portanto, Kant compreende *"o conceito de causa como pertencendo à mera forma d
 Esta só pode ser uma cognição objetivamente válida de aparecimentos e de sua sucessão no tempo se o aparecimento antecedente puder ser conjugado ao aparecimento subsequente de acordo com a regra dos juízos hipotéticos.
 
 ### §30
+
+Kant irá apresentar uma completa solução para o problema de Hume, que contrária as suas expectativas, ao limitar o uso das leis universais da natureza apenas a experiência,  fundando a sua possibilidade apenas na relação do entendimento com a experiência, de forma que esses conceitos não se derivem da experiência mas a experiência deles.
+
+Kant portanto atribui o seguinte resultado a todas as investigações precedentes:
+
+> "Todos os princípios sintéticos a priori nada mais são que princípios da **experiência possível**", e jamais podem se referir a **coisas em si mesmas**, mas apenas a **aparecimentos** enquanto **objetos da experiência**. Consequentemente, mesmo a matemática pura, assim como a ciência pura da natureza, jamais podem dizer respeito senão a simples aparecimentos, e só podem representar ou aquilo que **torna possível a experiência em geral**, ou aquilo que, na medida em que se deriva desses princípios, deve sempre **poder ser representado em alguma experiência possível**. (P91)
+
+### §31
+
+Kant aponta as falhas e os limites dos pensadores dogmáticos e daqueles que apenas fazem o uso do bom senso que nunca se quer pensaram nesse tipo de entendimento puro com relação a experiência, ao contrário do que Kant denominará "naturalistas da razão pura" (pensadores que sem ciência alguma confiam em si mesmos para decidir questões de metafísica), que tiveram conhecimento desse tipo de noção mas se valem de princípios a priori independentes da experiência, e portanto, chegara em infundadas alegações (erro), justamente por não possui o rigor do método crítico para traçar a fronteira exata desse limite da experiência.
+
+### §32
+
+Kant aponta o erro dos filósofos antigos em julgar que além do mundo sensível  constituído por seres do sentido ou aparecimentos (**phenomena**) existe um mundo inteligível composto por seres do entendimento (**noumena**), atribuindo realidade apenas aos seres do entendimento ao tomar **aparecimento e ilusão como similares**.
+
+A dedução crítica de Kant não exclui os noumena, apenas "limita os princípios da estética", tornando-os válidos apenas para objetos de uma experiência possível, ou seja, seres do entendimento são admitidos, com a clareza de que não podemos conhecer nada de determinado sobre esses, pois nosso entendimento e intuição pura dizem respeito apenas a objetos da experiência possível, ou seja, a meros seres do sentido, e uma vez que nos afastamos destes, não restam aos outros conceitos o menor significado.
+
+### §33
+
+Kant aponta que existem características nos conceitos puros do entendimento que podem levar a uma tentação de seu uso transcendente (uso que ultrapassa toda experiência possível), pois
+- são completamente independentes da experiência
+- não contém nenhum aparecimento dos sentidos (parecem-se referir a coisas em si mesmas, noumena)
+- contêm em si uma necessidade de determinação que a experiência jamais atinge
+
+Dessa forma, o entendimento inadvertidamente pode transgredir as fronteiras de seu uso (transcender).
+
+### §34
+
+>[!question] Nota sobre o método de anotação
+> Estou pensando que embora rico, minhas anotações estão levando muito tempo (ver os registros em [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]), acho que vou tentar ser mais rápido (e tão preciso quanto)
+
+Kant apresenta duas investigações importantes feitas em [[KANT Immanuel. Crítica da Razão Pura (1781)]]
+
+#### 1ª Investigação
+
+Os sentidos não fornecem os **conceitos** puros do entendimento, apenas o **esquema** para seu uso
+- o **objeto** a que ele se conforma encontra-se apenas na **experiência**
+	- **produto** do entendimento **a partir dos materiais** da sensibilidade
+
+#### 2ª Investigação
+
+Nada que ultrapasse o campo da experiência pode ser pensado por meio dos conceitos e princípios puros do entendimento
+- tudo que pode fazer é somente determinar **a forma lógica** do juízo acerca das intuições dadas
+- uma vez que não há nenhuma intuição fora do campo da sensibilidade, não há nenhum **meio de exibi-los** em concreto ao extrapolar esse campo
+	- pois estariam desprovidos de significado
+
+> [!note] Mundo Inteligível vs Mundo Intelectual
+> Na nota de roda da P94, Kant faz uma distinção entre mundo intelectual e mundo inteligível a partir dessa necessidade de representação
+
+Tanto os noumena quanto seu conjunto (mundo inteligível) são representações de um **problema possível** mas de **solução impossível** devido a natureza de nosso entendimento
+- o entendimento não é uma faculdade de intuição, mas apenas de conexão de intuições dadas em uma **experiência**
+	- que deve conter, portanto, todos os objetos para nossos conceitos
+- fora da experiência, todos os conceitos serão sem significado
+	- pois não há nenhuma intuição que lhes possa servir de base
 
 ---
 

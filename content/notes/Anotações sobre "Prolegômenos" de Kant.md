@@ -1,13 +1,13 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Saturday, February 21st 2026, 10:51:13 am
+date modified: Saturday, February 21st 2026, 2:56:15 pm
 tags:
   - kant
   - idealismo-alemão
   - metafísica
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-20T21:00:00
+date: 2026-02-21T15:00:00
 ---
 
 ## Resumo da Apresentação do Tradutor
@@ -684,6 +684,78 @@ Tanto os noumena quanto seu conjunto (mundo inteligível) são representações 
 	- que deve conter, portanto, todos os objetos para nossos conceitos
 - fora da experiência, todos os conceitos serão sem significado
 	- pois não há nenhuma intuição que lhes possa servir de base
+
+### §35
+
+> [!info] lassidão (por Gemini)
+> Lassidão é um estado de exaustão, cansaço físico ou mental, caracterizado por falta de ânimo, prostração e enfado. Derivado do latim *lassitudo*, o termo descreve um esgotamento de energia, apatia ou languidez. Pode ser um sintoma físico de esforço prolongado ou doença, bem como uma sensação de tédio ou desânimo, frequentemente associada ao "languishing" ou vazio emocional.
+
+> sempre mais fácil moderar sua ousadia que remediar sua lassidão (P95)
+
+Entretanto, embora seja perdoável o devaneio da imaginação (que de alguma maneira pode sair fortalecida), esse não é o caso para o devaneio do entendimento, justamente porque o papel desse é justamente o de "impor fronteiras, quando necessário, aos devaneios da imaginação". E o entendimento pode divagar quando
+
+1. traz-se luz as cognições elementares, que devem necessariamente ter uma aplicação na experiência
+2. remove gradualmente essas restrições e passa a se dirigir as forças recém-inventadas na natureza
+3. em seguida, parte para seres fora da natureza
+	1. supridos por uma **fértil invenção**
+	2. embora não possam ser comprovados pela experiência, jamais podem ser refutados por ela
+
+
+Kant aponta que o apreço de jovens pensadores pela metafísica esta relacionado a criação dessas **férteis ilusões irrefutáveis.** Portanto, não adianta "querer moderar esses infrutíferos esforços da razão pura", por inúmeros meios. É necessário **demonstrar a impossibilidade** de tais esforços e tornar o autoconhecimento da razão uma **verdadeira ciência**, para que o campo de seu uso legítimo se distinga claramente do seu uso "vazio e estéril", do contrário, esses esforços jamais serão abandonados.
+
+### §36 - Como é possível a própria natureza
+
+Essa questão deve ser encarada como a "fronteira e conclusão" da filosofia transcendental, seu ponto mais alto, e contém duas questões
+
+#### 1ª questão (Estética Transcendental)
+
+> Como é possível a natureza no significado **material** a saber, segundo a intuição, enquanto o conjunto dos aparecimentos; como são possíveis o espaço, o tempo e aquilo que preenche ambos, o objeto da sensação? (P96)
+
+Mediante a constituição de nossa sensibilidade
+
+Essa é a resposta que em [[KANT Immanuel. Crítica da Razão Pura (1781)]] é dada em Estética transcendental, mas aqui, na solução da [[#Primeira parte da questão transcendental principal. Como é possível a matemática pura?]]
+
+#### 2ª questão (Lógica Transcendental)
+
+> Como é possível a natureza no significado **formal**, enquanto conjunto das regras às quais todos os **aparecimentos** devem estar subordinados para que possam ser pensados como **conectados em uma experiência** (P96)
+
+Mediante a constituição de nosso entendimento
+
+Essa é a resposta que em [[KANT Immanuel. Crítica da Razão Pura (1781)]] é dada em Lógica transcendental, mas aqui, na solução da [[#Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?]]
+
+#### A lei universal da natureza
+
+A questão de como é possível que a peculiar propriedade de nossa sensibilidade
+e da necessária apercepção que subjaz ao nosso entendimento e a todo pensamento não pode ser respondida e analisada pois sempre ela é necessária para toda resposta e para todo pensamento sobre objetos.
+
+A **possibilidade da experiência em geral** é a **lei universal da natureza** que é constituída pelos princípios dessa possibilidade, portanto estes, sua lei. Este são as condições da **unificação necessária em uma consciência**, unificação essa que constitui a **possibilidade da experiência**
+
+Para Kant, a mais alta legislação da natureza deve estar em nós mesmos (pois podemos conhecer a priori leis universais da natureza), entretanto, não devemos obter essas leis universais a **partir da natureza por meio da experiência**, mas sim procurar a natureza, no que respeito a sua conformidade universal a leis, apenas nas condições da possibilidade da experiência que se encontram em nossa sensibilidade e entendimento. 
+
+> [!info] As leis como **genuínas amplificações sintéticas**
+> Kant afirma que de maneira diferente, não seria possível conhecer algo a priori pois "não são algo como leis da cognição analíticas, mas genuínas amplificações sintéticas"
+> O que Kant está dizendo é: as leis universais da natureza (como "toda causa tem um efeito") não são apenas regras lógicas vazias (analíticas). Elas nos dão informações reais e novas sobre como a natureza funciona (são sintéticas).
+
+Kant pressupõe duas razões que tornam possível a concordância necessária entre os princípios da experiência possível com as leis da possibilidade da natureza, chegando a uma conclusão de que **a natureza é derivada das leis da possibilidade da experiência em geral, conformando-se as leis universais**, pois a possibilidade de que essas leis fossem obtidas da natureza por meio da experiência é contraditória, uma vez que as leis naturais universais podem e devem ser conhecidas a priori e postas como fundamento da experiência.
+
+Para Kant, devemos distinguir entre leis empíricas da natureza e leis naturais puras ou universais:
+- leis empíricas da natureza
+	- pressupõem percepções particulares
+- leis naturais puras ou universais
+	- sem estarem fundadas em percepções particulares, contém as condições para necessária unificação destas em uma experiência
+	- natureza e experiência possível são uma e a mesma coisa
+
+> O entendimento não extrai suas leis (a priori) da natureza, mas as prescreve a ela (P98)
+
+Para que uma experiência seja conforme as leis, é necessário que se funde em uma conexão necessária dos aparecimentos em uma experiência, consequentemente nas leis originais do entendimento
+
+### §37
+
+Kant buscará elucidar a proposição de que "o entendimento não extrai suas leis (a priori) da natureza, mas as prescreve a ela" através de um exemplo sobre as leis descobertas em objetos da intuição sensorial.
+
+### §38
+
+### §39
 
 ---
 

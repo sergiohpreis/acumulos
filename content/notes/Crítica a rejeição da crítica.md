@@ -59,4 +59,4 @@ Na lógica dialética e no espírito do esclarecimento kantiano, **opor-se publi
 
 ## Refs
 
-- [[BESSE Guy, CAVEING Maurice. Princípios Fundamentais de Filosofia (1978)]]
+- [[BESSE Guy, CAVEING Maurice. Politzer, Princípios Fundamentais de Filosofia (1978)]]

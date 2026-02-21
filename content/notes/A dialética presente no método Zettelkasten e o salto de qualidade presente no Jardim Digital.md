@@ -12,7 +12,7 @@ draft: false
 date: 2026-02-13
 ---
 
-Enquanto eu estudava sobre o materialismo histórico dialético em [[BESSE Guy, CAVEING Maurice. Princípios Fundamentais de Filosofia (1978)]] por algum motivo me lembrei de [[SÖNKE Ahrens. How to Take Smart Notes (2017)]], onde é demonstrado o método Zettelkasten.
+Enquanto eu estudava sobre o materialismo histórico dialético em [[BESSE Guy, CAVEING Maurice. Politzer, Princípios Fundamentais de Filosofia (1978)]] por algum motivo me lembrei de [[SÖNKE Ahrens. How to Take Smart Notes (2017)]], onde é demonstrado o método Zettelkasten.
 
 O método Zettelkasten tem como objetivo estabelecer um processo para uma organização da informação, considerando que os conhecimentos e saberes não tem uma caixa distinta e portanto podem se acumular. Isso inclusive me parece um princípio da metodologia científica, em [[SALOMON Délcio Vieira. Como Fazer uma Monografia (2004)]] fala um pouco sobre isso, se não me engano, ao falar sobre o hábito e a tarefa de documentar o conhecimento (que inclusive quero ler mais).
 

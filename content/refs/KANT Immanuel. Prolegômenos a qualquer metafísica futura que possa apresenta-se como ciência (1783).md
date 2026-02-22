@@ -31,16 +31,16 @@ tags:
   - kant
   - filosofia-alemã
 draft: false
-date: 2026-02-20T20:50:00
-date created: Friday, February 20th 2026, 8:52:08 pm
-date modified: Friday, February 20th 2026, 8:53:13 pm
+date: 2026-02-22T13:45:00
+date created: Sunday, February 22nd 2026, 1:42:27 pm
+date modified: Sunday, February 22nd 2026, 1:43:52 pm
 ---
 
 ## Resumo
 
-- Sessões: 42
-- Páginas lidas: 275
-- Tempo total: 22h 46m
+- Sessões: 50
+- Páginas lidas: 294
+- Tempo total: 28h 40m
 - Avaliação: ⭐⭐⭐⭐ (4/5)
 - Autores: Immanuel Kant
 - Status: READING
@@ -49,6 +49,14 @@ date modified: Friday, February 20th 2026, 8:53:13 pm
 
 ## Sessions
 
+- **2026-02-22 12:07 - 13:16** - Finalizando TLDR para “Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?” (Transcrevendo do §14 ao §24 e produzindo do §25 ao §39) - 1h09m
+- **2026-02-22 11:49 - 12:07** - Produzindo TLDR para “Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?” (Revisando do §20 ao §24) - 0h18m
+- **2026-02-22 11:10 - 11:40** - Produzindo TLDR para “Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?” (Revisando do §1 ao §20) - 0h30m
+- **2026-02-22 09:16 - 09:59** - Pages 101-105 (4 pages) - Finalizando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §39 - 0h43m
+- **2026-02-21 18:37 - 19:19** - Pages 99-101 (2 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §38 - 0h42m
+- **2026-02-21 13:34 - 14:55** - Pages 95-98 (3 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §35, §36 e §37 - 1h21m
+- **2026-02-21 10:29 - 10:52** - Pages 94-95 (1 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §34 - 0h22m
+- **2026-02-21 08:16 - 09:05** - Pages 90-94 (4 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §30, §31, §32 e §33 - 0h49m
 - **2026-02-20 19:59 - 20:50** - Pages 87-90 (3 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §27, §28 e §29 - 0h51m
 - **2026-02-20 18:44 - 19:43** - Pages 85-87 (2 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §26 - 0h59m
 - **2026-02-20 14:54 - 15:30** - Pages 84-85 (1 pages) - Continuando a leitura + fichamento de "Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?". Li e resumi §25 - 0h35m

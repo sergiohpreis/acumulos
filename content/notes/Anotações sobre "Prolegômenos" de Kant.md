@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Sunday, February 22nd 2026, 1:37:17 pm
+date modified: Sunday, February 22nd 2026, 2:02:32 pm
 tags:
   - kant
   - idealismo-alemão
@@ -408,52 +408,52 @@ Kant prefere que sua teoria seja chamada de "idealismo crítico", e reafirma que
 
 ### (TL;DR)
 
-> - através da experiência é possível conhecer o que existe e como existe, sendo [[#§14|impossível conhecer a natureza em si]] (modo da existência)
-> - a existência de coisas que não são **inteiramente puras** e **independentes** de fonte de **experiência** impede que a "ciência universal da natureza" que precede a física seja chamada de [[#§15|ciência inteiramente pura]]
-> - A natureza como a [[#§16|soma de todos os objetos da experiência]] (_Materialiter_)
-> - Não existe uma cognição das leis sob os quais os objetos estão sujeitos em si, mas sim, a cognição das [[#§17|condições necessárias para que uma experiência de objetos seja possível]]
-> 	- A **necessária conformidade** é o [[#§17|elemento formal]] da natureza
-> - Divisão dos juízos empíricos em [[#§18|juízos de percepção e juízos de experiência]]. Os juízos de experiência (objetivos) exigem conceitos puros do entendimento ao contrário dos juízos de percepção (subjetivos)
-> - Quando um conceito do entendimento [[#§19|determina a conexão de representações dadas]] por um objeto como universalmente válidas, o juízo é objetivo
-> - A intuição quando determinada pelos puros conceitos do entendimento [[#§20|deixa de ser um juízo de percepção e torna-se um juízo de experiência e nisso consistem os juízos sintéticos]]
-> 	- determina-se a maneira geral pela qual ela pode servir para julgar
-> - A [[#§21|tábua dos juízos em geral e os momentos do entendimento]]
-> - O juízo sintético é [[#§21a|determinado como necessário pelo juízo de experiência]] através da adição dos puros conceitos do entendimento
-> 	- uma unidade sintética de intuições em uma dada [[#§21a|função lógica]] dos juízos
-> 		- o conceito que representa a intuição como determinada em si mesma com respeito a uma forma de juízo mais do que outra
-> 	- a isso referem-se questões não sobre a gênese da experiência, mas sim a seu conteúdo
-> - Resumidamente: [[#§22|a função dos sentidos é intuir e a do entendimento é pensar]]
-> - Os juízos de experiência sendo como regras a priori e necessárias, são portanto [[#§23|princípios a priori da experiência possível]], portanto, [[#§23|leis universais da natureza]] que tornam possível uma ciência pura da natureza
-> 	- explicação de sua [[#§23|sistematização]], requerida para a "forma de uma ciência"
-> - Como [[#§24|o conceito de grandeza subsume diretamente os aparecimento e indiretamente as sensações]] através do primeiro e segundo dos princípios fisiológicos
-> 	- mathesis intensorum
-> - Demonstrar que a [[#§25|relação dos aparecimentos com seus princípios a priori não é matemática, mas sim dinâmica ]]
-> 	- aparecimentos subsumidos ao conceito de substância, eventos subsumidos ao conceito de causalidade, existência simultânea subsumido ao conceito de comunidade / reciprocidade
-> 	- explicar como pertencem as [[#§25|cognições de concordância e conexão aos juízos de experiência]]
-> - Apresenta o maior mérito de sua tábua ([[#§26#O fundamento da prova|o fundamento da prova]])
-> 	- Demonstração da [[#§26#A aplicação da matemática à natureza é possível e determinada|possibilidade aplicação da matemática à natureza, no que respeita à intuição sensorial]]
-> 	- A experiencia [[#§26#O modo de prova dos princípios (Analogias da experiência)|não é uma composição meramente empírica de percepções]]
-> - Material de apoio [[#Material de apoio a §24, §25 e §26|aos três últimos tópicos]]
-> - Como Kant irá [[#§27|arrancar pela raiz a dúvida humeana]]
-> - Como a cognição de coisas pela experiência [[#§28|esta determinada em relação aos princípios da possibilidade de experiência ]]
-> - Como colocar a prova o [[#§29|conceito de causa problemático de Hume]]
-> - Apresentação da [[#§30|completa solução para o problema de Hume]] limitando o uso das leis universais da natureza apenas a experiência
-> - As [[#§31|falhas e os limites]] dos pensadores dogmáticos, daqueles que apenas fazem o uso do bom senso e dos naturalistas da razão pura
-> - A [[#§32|erro dos filósofos antigos]] em suas interpretações de **phenomena** e **noumena**
-> - Características dos conceitos puros do entendimento que podem levar a uma [[#§33|tentação de seu uso transcendente (uso que ultrapassa toda experiência possível)]]
-> - Apresentação de duas importantes investigações feitas em [[KANT Immanuel. Crítica da Razão Pura (1781)]] para um [[#§34|"problema possível de solução impossível"]]
-> 	1. Os sentidos fornecem o [[#§34#1ª Investigação|esquema para o uso dos conceitos puros]] do entendimento
-> 	2. [[#§34#2ª Investigação|Nada que ultrapasse o campo da experiência]] pode ser pensado por meio dos conceitos e princípios puros do entendimento
-> 	- Também faz uma distinção entre [[#§34|Mundo Inteligível vs Mundo Intelectual ]]
-> - Como o [[#§35|apreço dos jovens pensadores pela metafísica]] esta relacionado a [[#§35|férteis ilusões irrefutáveis]]
-> - A apresentação da questão [[#§36 - Como é possível a própria natureza|Como é possível a própria natureza]] como fronteira e conclusão da filosofia transcedental, e suas duas questões
-> 	1. [[#§36 - Como é possível a própria natureza#1ª questão (Estética Transcendental)|Estética Transcendental]], que é tratada em [[#Primeira parte da questão transcendental principal. Como é possível a matemática pura?]]
-> 	2. [[#§36 - Como é possível a própria natureza#2ª questão (Lógica Transcendental)|Lógica Transcendental]], na própria solução e curso da [[#Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?]]
-> 	- Conclusão: [[#§36 - Como é possível a própria natureza#A lei universal da natureza|O entendimento não extrai suas leis (a priori) da natureza, mas as prescreve a ela]]
-> - Kant irá [[#§37|elucidar]] que "o entendimento não extrai suas leis (a priori) da natureza, mas as prescreve a ela", concluindo que o entendimento é a [[#§38|origem da ordem universal da natureza ]]
-> - Apresentação da [[#§39|necessidade e dos benefícios do sistema de categorias]] desenvolvido
-> 	- A utilidades das [[#§39|categorias aristotélicas e as suas limitações]]
-> 	- Breve introdução aos [[#§39|"conceitos de reflexão"]] (expostos em[[KANT Immanuel. Crítica da Razão Pura (1781)]]) e como através dele se produzirá a **"tábua dos conceitos transcendentais da razão"**
+- através da experiência é possível conhecer o que existe e como existe, sendo [[#§14|impossível conhecer a natureza em si]] (modo da existência)
+- a existência de coisas que não são **inteiramente puras** e **independentes** de fonte de **experiência** impede que a "ciência universal da natureza" que precede a física seja chamada de [[#§15|ciência inteiramente pura]]
+- A natureza como a [[#§16|soma de todos os objetos da experiência]] (_Materialiter_)
+- Não existe uma cognição das leis sob os quais os objetos estão sujeitos em si, mas sim, a cognição das [[#§17|condições necessárias para que uma experiência de objetos seja possível]]
+	- A **necessária conformidade** é o [[#§17|elemento formal]] da natureza
+- Divisão dos juízos empíricos em [[#§18|juízos de percepção e juízos de experiência]]. Os juízos de experiência (objetivos) exigem conceitos puros do entendimento ao contrário dos juízos de percepção (subjetivos)
+- Quando um conceito do entendimento [[#§19|determina a conexão de representações dadas]] por um objeto como universalmente válidas, o juízo é objetivo
+- A intuição quando determinada pelos puros conceitos do entendimento [[#§20|deixa de ser um juízo de percepção e torna-se um juízo de experiência e nisso consistem os juízos sintéticos]]
+	- determina-se a maneira geral pela qual ela pode servir para julgar
+- A [[#§21|tábua dos juízos em geral e os momentos do entendimento]]
+- O juízo sintético é [[#§21a|determinado como necessário pelo juízo de experiência]] através da adição dos puros conceitos do entendimento
+	- uma unidade sintética de intuições em uma dada [[#§21a|função lógica]] dos juízos
+	- o conceito que representa a intuição como determinada em si mesma com respeito a uma forma de juízo mais do que outra
+	- a isso referem-se questões não sobre a gênese da experiência, mas sim a seu conteúdo
+- [[#§22|A função dos sentidos é intuir e a do entendimento é pensar]]
+- Os juízos de experiência sendo como regras a priori e necessárias, são portanto [[#§23|princípios a priori da experiência possível]], portanto, [[#§23|leis universais da natureza]] que tornam possível uma ciência pura da natureza
+	- explicação de sua [[#§23|sistematização]], requerida para a "forma de uma ciência"
+- Como [[#§24|o conceito de grandeza subsume diretamente os aparecimento e indiretamente as sensações]] através do primeiro e segundo dos princípios fisiológicos
+	- mathesis intensorum
+- Demonstrar que a [[#§25|relação dos aparecimentos com seus princípios a priori não é matemática, mas sim dinâmica ]]
+	- aparecimentos subsumidos ao conceito de substância, eventos subsumidos ao conceito de causalidade, existência simultânea subsumido ao conceito de comunidade / reciprocidade
+	- explicar como pertencem as [[#§25|cognições de concordância e conexão aos juízos de experiência]]
+- Apresenta o maior mérito de sua tábua ([[#§26#O fundamento da prova|o fundamento da prova]])
+	- Demonstração da [[#§26#A aplicação da matemática à natureza é possível e determinada|possibilidade aplicação da matemática à natureza, no que respeita à intuição sensorial]]
+	- A experiencia [[#§26#O modo de prova dos princípios (Analogias da experiência)|não é uma composição meramente empírica de percepções]]
+- Material de apoio [[#Material de apoio a §24, §25 e §26|aos três últimos tópicos]]
+- Como Kant irá [[#§27|arrancar pela raiz a dúvida humeana]]
+- Como a cognição de coisas pela experiência [[#§28|esta determinada em relação aos princípios da possibilidade de experiência ]]
+- Como colocar a prova o [[#§29|conceito de causa problemático de Hume]]
+- Apresentação da [[#§30|completa solução para o problema de Hume]] limitando o uso das leis universais da natureza apenas a experiência
+- As [[#§31|falhas e os limites]] dos pensadores dogmáticos, daqueles que apenas fazem o uso do bom senso e dos naturalistas da razão pura
+- A [[#§32|erro dos filósofos antigos]] em suas interpretações de **phenomena** e **noumena**
+- Características dos conceitos puros do entendimento que podem levar a uma [[#§33|tentação de seu uso transcendente (uso que ultrapassa toda experiência possível)]]
+- Apresentação de duas importantes investigações feitas em [[KANT Immanuel. Crítica da Razão Pura (1781)]] para um [[#§34|"problema possível de solução impossível"]]
+	1. Os sentidos fornecem o [[#§34#1ª Investigação|esquema para o uso dos conceitos puros]] do entendimento
+	2. [[#§34#2ª Investigação|Nada que ultrapasse o campo da experiência]] pode ser pensado por meio dos conceitos e princípios puros do entendimento
+	- Também faz uma distinção entre [[#§34|Mundo Inteligível vs Mundo Intelectual ]]
+- Como o [[#§35|apreço dos jovens pensadores pela metafísica]] esta relacionado a [[#§35|férteis ilusões irrefutáveis]]
+- A apresentação da questão [[#§36 - Como é possível a própria natureza|Como é possível a própria natureza]] como fronteira e conclusão da filosofia transcedental, e suas duas questões
+	1. [[#§36 - Como é possível a própria natureza#1ª questão (Estética Transcendental)|Estética Transcendental]], que é tratada em [[#Primeira parte da questão transcendental principal. Como é possível a matemática pura?]
+	2. [[#§36 - Como é possível a própria natureza#2ª questão (Lógica Transcendental)|Lógica Transcendental]], na própria solução e curso da [[#Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?]]
+	 - Conclusão: [[#§36 - Como é possível a própria natureza#A lei universal da natureza|O entendimento não extrai suas leis (a priori) da natureza, mas as prescreve a ela]]
+- Kant irá [[#§37|elucidar]] que "o entendimento não extrai suas leis (a priori) da natureza, mas as prescreve a ela", concluindo que o entendimento é a [[#§38|origem da ordem universal da natureza ]]
+- Apresentação da [[#§39|necessidade e dos benefícios do sistema de categorias]] desenvolvido
+	- A utilidades das [[#§39|categorias aristotélicas e as suas limitações]]
+	- Breve introdução aos [[#§39|"conceitos de reflexão"]] (expostos em[[KANT Immanuel. Crítica da Razão Pura (1781)]]) e como através dele se produzirá a **"tábua dos conceitos transcendentais da razão"**
 
 ### §14
 
@@ -825,6 +825,30 @@ Kant irá descrever como desenvolveu e estruturou o seu sistema de categorias e 
 Kant defende que através desse sistema (fio condutor), é possível conhecer o objeto de um conceito puro do entendimento ou da razão, sem dúvidas, formando um "círculo fechado". Além disso, esse sistema é capaz de repelir "conceitos estranhos", que poderiam "misturar-se a esses conceitos puros", esses conceitos Kant denomina "conceitos de reflexão" e expôs em uma tábua em [[KANT Immanuel. Crítica da Razão Pura (1781)]]
 
 Kant aponta também que a utilidade dessa distinta tábua se dará na separação das categorias e na construção da "tábua dos conceitos transcendentais da razão", necessária a qualquer sistema de metafísica
+
+## Terceira parte da questão transcendental principal. Como é possível a metafísica em geral?
+
+>[!info] Estimativas de Leitura com Google Gemini
+> **Análise do seu Ritmo Atual**
+> Com base nos dados que você forneceu:
+> - **Total de páginas lidas:** 35 páginas (da 69 à 105, com pequenos saltos). 
+> - **Total de tempo gasto:** 600 minutos (exatas 10 horas).    
+> - **Média por página:** Aproximadamente **17,1 minutos**.
+> - **Média por parágrafo (§):** Você leu 26 seções em 600 minutos, o que dá cerca de **23 minutos por parágrafo**.
+> 
+> **Projeção para o Próximo Bloco (p. 107-132)**
+> Este trecho compreende a "Terceira Parte da Questão Transcendental Principal" (Como é possível a metafísica em geral?), onde Kant trata das Ideias da Razão Pura e da Dialética.
+> - **Volume:** 25 a 26 páginas. 
+> - **Complexidade:** §40 ao §57 (18 parágrafos).
+**Previsão Média:** Você levará aproximadamente **7 horas e 10 minutos** para concluir este trecho com a mesma qualidade de fichamento.  
+>
+> **Sugestão de Cronograma**
+> Considerando que sua produtividade média por sessão é de cerca de **45 minutos**, você precisará de aproximadamente **9 a 10 sessões** de leitura para cobrir esse conteúdo.
+> - **Se quiser terminar em 2 dias:** 5 sessões por dia (aprox. 3h45m de estudo diário). 
+> - **Se quiser terminar em 3 dias:** 3 sessões por dia (aprox. 2h20m de estudo diário).
+> **Observação importante:** A partir do §40, o texto entra na _Dialética Transcendental_ (a alma, o mundo e Deus). Historicamente, essa parte costuma gerar parágrafos um pouco mais densos e discussões mais longas sobre as antinomias. Se sentir que o ritmo caiu, não se assuste; é a natureza do tema.
+
+### §40
 
 ---
 

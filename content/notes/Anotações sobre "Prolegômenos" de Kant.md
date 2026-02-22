@@ -1,13 +1,14 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Saturday, February 21st 2026, 2:56:15 pm
+date modified: Sunday, February 22nd 2026, 10:18:59 am
 tags:
   - kant
   - idealismo-alemão
   - metafísica
+  - idealismo
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-21T15:00:00
+date: 2026-02-22T10:15:00
 ---
 
 ## Resumo da Apresentação do Tradutor
@@ -224,6 +225,8 @@ A partir da origem comum a esses cognições, poderemos esclarecer melhor a sua 
 
 ## Primeira parte da questão transcendental principal. Como é possível a matemática pura?
 
+### (TL;DR)
+
 > [!note] TL;DR
 > O cerne da questão esta na diferença entre os **aparecimentos** e as **coisas em si**, e sobre **espaço** e **tempo** enquanto intuições fundamentais de todas as cognições matemáticas, e ainda:
 > 1. justifica o porque buscará na matemática algum fundamento a priori através de suas **particularidades** e do **fundamento** das cognições matemáticas
@@ -399,19 +402,9 @@ Kant prefere que sua teoria seja chamada de "idealismo crítico", e reafirma que
 
 ## Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?
 
->[!info] Dados para planejamento das sessões com base nas minhas sessões (em [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]) 
-> **Análise de Desempenho (Últimas Sessões) Média Atual**
-> - Total de páginas lidas: 21 páginas
-> - Tempo total investido: 363 minutos (6 horas e 3 minutos)
-> - Ritmo médio por página: ~17,3 minutos
-> - Velocidade de leitura/fichamento: ~3,5 páginas por hora
-> Estimativa para o §40 (Próximas 16 páginas), mantendo o rigor do método de leitura e fichamento, a previsão é a seguinte:
->
-> **Tempo total estimado: Aproximadamente 4 horas e 37 minutos.**
-> Distribuição sugerida: Se mantiver sessões de cerca de 45 minutos (sua média atual), precisará de mais 6 sessões para concluir essa parte.
->
-> **Observações sobre o Ritmo**
-> A sessão mais rápida foi de 10 minutos por página (§21-21a) e a mais densa chegou a quase 30 minutos por página (§26). Como Kant costuma aumentar a complexidade à medida que a "exposição transcendental" avança, trabalhar com a margem de 4h 40m é o caminho mais seguro para não comprometer a qualidade do resumo.
+### (TL;DR)
+
+TBD
 
 ### §14
 
@@ -755,7 +748,32 @@ Kant buscará elucidar a proposição de que "o entendimento não extrai suas le
 
 ### §38
 
+Através de uma lei das propriedades do círculo, Kant demonstra que só é possível derivar as provas dessa lei da condição que o entendimento tomou como base, portanto, não é o círculo que contem si mesmo o fundamento dessa lei, esse fundamento é proveniente do entendimento, fruto da própria construção. Por mais simples que sejam suas fontes, a consequência dessa lei é valiosa com respeito a variedade e regularidade de sua concordância, por isso, pode ser concebida como apropriada ao sistema do mundo.
+
+A partir desse exemplo de uma "natureza fundada em leis que o entendimento conhece a priori e, em especial, a partir de princípios universais da determinação do espaço", Kant levanta outras questões:
+- estão essas leis da natureza no espaço, e o entendimento as descobre... ?
+- estão essas leis no entendimento, na maneira pela qual este determina o espaço de acordo com as condições da unidade sintética para a qual todos os seus conceitos estão dirigidos?
+
+Kant justifica que uma vez que o espaço é tão uniforme e indeterminado que não se pode buscar nele um repositório de leis naturais, é o entendimento que contém o fundamento da unidade de construção dessas figuras. Por tanto, Kant irá definir a **forma universal** da intuição denominada espaço como:
+> o substrato de todas as **intuições determináveis em objetos particulares**, e nele se encontra, sem dúvida, a **condição da possibilidade e variedade** dessas intuições, mas a **unidade dos objetos** é determinada apenas **por meio do entendimento** e, com efeito **segundo condições** que residem na sua própria natureza; (P100)
+
+Portanto, o entendimento é a "origem da ordem universal da natureza", produzindo, em primeiro lugar, experiência a priori (com respeito a forma), pois tudo que deve ser conhecido por meio da experiência precisa estar subordinado as suas lei, uma vez que não estamos lidando com as coisas em si mesmas, independentes de condições do sentido e do entendimento, mas com a natureza enquanto **objeto de uma experiência possível**.
+
+> o entendimento, ao tornar a experiência possível, faz, ao mesmo tempo, com que o mundo sensível ou não seja nenhum objeto da experiência, ou seja uma natureza (P101)
+
 ### §39
+
+Kant apresenta a necessidade e os benefícios do sistema de categorias desenvolvido (comparando com a gramática inclusive, que fornece as regras para formação da linguagem).
+
+Kant aponta as utilidades das categorias aristotélicas, que serviram como "pista para futuras investigações", apontando os critérios que o levaram a excluir as categorias de "tempo", "lugar" e "posição" como conceitos puros do entendimento e as limitações que o levaram a não considerar as demais categorias (porque elas já foram provadas como sendo formas puras da sensibilidade, e não funções lógicas do pensamento)
+
+Kant irá descrever como desenvolveu e estruturou o seu sistema de categorias e seus componentes, apontando o que é essencial nesse sistema e o que o difere do sistema aristotélicos, justificando como o mesmo torna possível os juízos de experiência em geral. Para Kant, sem restringir o uso das categorias aristotélicas apenas à experiência, as mesmas são *"inúteis e não passam de uma reles lista de nomes, sem explicação ou regra para seu uso (P103)"*
+
+> Ora, esse sistema das categorias, por sua vez, sistematiza o tratamento de qualquer objeto da razão pura, provendo uma **indubitável indicação ou fio condutor** sobre como, e através de **quais etapas de investigação**, uma **consideração metafísica** deve ser dirigida para torna-se completa, pois ele exaure todos os momentos do entendimento aos quais se subsumem todos os conceitos (P104)
+
+Kant defende que através desse sistema (fio condutor), é possível conhecer o objeto de um conceito puro do entendimento ou da razão, sem dúvidas, formando um "círculo fechado". Além disso, esse sistema é capaz de repelir "conceitos estranhos", que poderiam "misturar-se a esses conceitos puros", esses conceitos Kant denomina "conceitos de reflexão" e expôs em uma tábua em [[KANT Immanuel. Crítica da Razão Pura (1781)]]
+
+Kant aponta também que a utilidade dessa distinta tábua se dará na separação das categorias e na construção da "tábua dos conceitos transcendentais da razão", necessária a qualquer sistema de metafísica
 
 ---
 

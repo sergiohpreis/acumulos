@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Sunday, February 22nd 2026, 10:18:59 am
+date modified: Sunday, February 22nd 2026, 1:37:17 pm
 tags:
   - kant
   - idealismo-alemão
@@ -8,7 +8,7 @@ tags:
   - idealismo
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-22T10:15:00
+date: 2026-02-22T13:40:00
 ---
 
 ## Resumo da Apresentação do Tradutor
@@ -227,18 +227,22 @@ A partir da origem comum a esses cognições, poderemos esclarecer melhor a sua 
 
 ### (TL;DR)
 
-> [!note] TL;DR
-> O cerne da questão esta na diferença entre os **aparecimentos** e as **coisas em si**, e sobre **espaço** e **tempo** enquanto intuições fundamentais de todas as cognições matemáticas, e ainda:
-> 1. justifica o porque buscará na matemática algum fundamento a priori através de suas **particularidades** e do **fundamento** das cognições matemáticas
-> 2. distingue os juízos da matemática dos juízos da filosofia
-> 3. distingue entre a **intuição pura** e a **intuição empírica**
-> 4. diferencia entre **intuição** e **conceito**
-> 5. define a intuição como uma **"forma de sensibilidade"**
-> 6. distingue os **"aparecimentos"** do **"ser em si"**
-> 7. estabelece **espaço** e **tempo** como as intuições fundamentais de todas as cognições e juízos matemáticos, exemplificando através da geometria (noção de espaço), aritmética (noção de tempo) e física pura (noção de tempo)
-> 8. argumenta sobre a realidade objetiva indubitável das **proposições da geometria**
-> 9. busca afastar a sua "doutrina da idealidade do espaço e tempo" dos idealismos de **Descartes** e **Berkley** autodenominando-se "idealismo crítico"
-> 10. argumenta contra a objeção de que sua doutrina transformaria todo o mundo sensível em pura **ilusão**
+O cerne da questão esta na **diferença entre os aparecimentos e as coisas em si**, e sobre **espaço e tempo enquanto intuições fundamentais de todas as cognições matemáticas**, e ainda:
+
+- justifica o porque [[#§6|buscará na matemática algum fundamento a priori]] através de suas particularidades e do fundamento das cognições matemáticas
+- distingue os [[#§7|juízos da matemática dos juízos da filosofia ]]
+	- distingue entre a [[#§7|intuição pura e a intuição empírica]]
+- diferencia entre [[#§8|intuição e conceito]]
+- define a [[#§9|intuição como uma forma de sensibilidade]]
+- estabelece [[#§10|espaço e tempo como as intuições fundamentais de todas as cognições e juízos matemáticos]], exemplificando através da geometria (noção de espaço), aritmética (noção de tempo) e física pura (noção de tempo)
+	- distingue [[#§10|os "aparecimentos" do "ser em si"]]
+- [[#§11|Síntese da solução do problema]] "Como é possível a matemática pura?"
+- Analise do [[#§12|procedimento dos geômetras]]
+- Como acontece o [[#§13|rebaixamento do espaço e do tempo a meras formas de nossa intuição sensorial]]
+- Argumentação sobre a [[#Observação 1|realidade objetiva indubitável das proposições da geometria]]
+- Explora [[#Observação 2|o que separa o Idealismo Transcendental (ou Crítico/Formal) de Kant do Idealismo Material]]
+- **[[#Observação 3|Argumentação contra a objeção]]** de que sua doutrina transformaria todo o mundo sensível em pura ilusão 
+	- afastamento de [[#Observação 3|Descartes]] e reafirmação do afastamento de [[#Observação 3|Berkley]]
 
 ### §6
 
@@ -404,21 +408,66 @@ Kant prefere que sua teoria seja chamada de "idealismo crítico", e reafirma que
 
 ### (TL;DR)
 
-TBD
+> - através da experiência é possível conhecer o que existe e como existe, sendo [[#§14|impossível conhecer a natureza em si]] (modo da existência)
+> - a existência de coisas que não são **inteiramente puras** e **independentes** de fonte de **experiência** impede que a "ciência universal da natureza" que precede a física seja chamada de [[#§15|ciência inteiramente pura]]
+> - A natureza como a [[#§16|soma de todos os objetos da experiência]] (_Materialiter_)
+> - Não existe uma cognição das leis sob os quais os objetos estão sujeitos em si, mas sim, a cognição das [[#§17|condições necessárias para que uma experiência de objetos seja possível]]
+> 	- A **necessária conformidade** é o [[#§17|elemento formal]] da natureza
+> - Divisão dos juízos empíricos em [[#§18|juízos de percepção e juízos de experiência]]. Os juízos de experiência (objetivos) exigem conceitos puros do entendimento ao contrário dos juízos de percepção (subjetivos)
+> - Quando um conceito do entendimento [[#§19|determina a conexão de representações dadas]] por um objeto como universalmente válidas, o juízo é objetivo
+> - A intuição quando determinada pelos puros conceitos do entendimento [[#§20|deixa de ser um juízo de percepção e torna-se um juízo de experiência e nisso consistem os juízos sintéticos]]
+> 	- determina-se a maneira geral pela qual ela pode servir para julgar
+> - A [[#§21|tábua dos juízos em geral e os momentos do entendimento]]
+> - O juízo sintético é [[#§21a|determinado como necessário pelo juízo de experiência]] através da adição dos puros conceitos do entendimento
+> 	- uma unidade sintética de intuições em uma dada [[#§21a|função lógica]] dos juízos
+> 		- o conceito que representa a intuição como determinada em si mesma com respeito a uma forma de juízo mais do que outra
+> 	- a isso referem-se questões não sobre a gênese da experiência, mas sim a seu conteúdo
+> - Resumidamente: [[#§22|a função dos sentidos é intuir e a do entendimento é pensar]]
+> - Os juízos de experiência sendo como regras a priori e necessárias, são portanto [[#§23|princípios a priori da experiência possível]], portanto, [[#§23|leis universais da natureza]] que tornam possível uma ciência pura da natureza
+> 	- explicação de sua [[#§23|sistematização]], requerida para a "forma de uma ciência"
+> - Como [[#§24|o conceito de grandeza subsume diretamente os aparecimento e indiretamente as sensações]] através do primeiro e segundo dos princípios fisiológicos
+> 	- mathesis intensorum
+> - Demonstrar que a [[#§25|relação dos aparecimentos com seus princípios a priori não é matemática, mas sim dinâmica ]]
+> 	- aparecimentos subsumidos ao conceito de substância, eventos subsumidos ao conceito de causalidade, existência simultânea subsumido ao conceito de comunidade / reciprocidade
+> 	- explicar como pertencem as [[#§25|cognições de concordância e conexão aos juízos de experiência]]
+> - Apresenta o maior mérito de sua tábua ([[#§26#O fundamento da prova|o fundamento da prova]])
+> 	- Demonstração da [[#§26#A aplicação da matemática à natureza é possível e determinada|possibilidade aplicação da matemática à natureza, no que respeita à intuição sensorial]]
+> 	- A experiencia [[#§26#O modo de prova dos princípios (Analogias da experiência)|não é uma composição meramente empírica de percepções]]
+> - Material de apoio [[#Material de apoio a §24, §25 e §26|aos três últimos tópicos]]
+> - Como Kant irá [[#§27|arrancar pela raiz a dúvida humeana]]
+> - Como a cognição de coisas pela experiência [[#§28|esta determinada em relação aos princípios da possibilidade de experiência ]]
+> - Como colocar a prova o [[#§29|conceito de causa problemático de Hume]]
+> - Apresentação da [[#§30|completa solução para o problema de Hume]] limitando o uso das leis universais da natureza apenas a experiência
+> - As [[#§31|falhas e os limites]] dos pensadores dogmáticos, daqueles que apenas fazem o uso do bom senso e dos naturalistas da razão pura
+> - A [[#§32|erro dos filósofos antigos]] em suas interpretações de **phenomena** e **noumena**
+> - Características dos conceitos puros do entendimento que podem levar a uma [[#§33|tentação de seu uso transcendente (uso que ultrapassa toda experiência possível)]]
+> - Apresentação de duas importantes investigações feitas em [[KANT Immanuel. Crítica da Razão Pura (1781)]] para um [[#§34|"problema possível de solução impossível"]]
+> 	1. Os sentidos fornecem o [[#§34#1ª Investigação|esquema para o uso dos conceitos puros]] do entendimento
+> 	2. [[#§34#2ª Investigação|Nada que ultrapasse o campo da experiência]] pode ser pensado por meio dos conceitos e princípios puros do entendimento
+> 	- Também faz uma distinção entre [[#§34|Mundo Inteligível vs Mundo Intelectual ]]
+> - Como o [[#§35|apreço dos jovens pensadores pela metafísica]] esta relacionado a [[#§35|férteis ilusões irrefutáveis]]
+> - A apresentação da questão [[#§36 - Como é possível a própria natureza|Como é possível a própria natureza]] como fronteira e conclusão da filosofia transcedental, e suas duas questões
+> 	1. [[#§36 - Como é possível a própria natureza#1ª questão (Estética Transcendental)|Estética Transcendental]], que é tratada em [[#Primeira parte da questão transcendental principal. Como é possível a matemática pura?]]
+> 	2. [[#§36 - Como é possível a própria natureza#2ª questão (Lógica Transcendental)|Lógica Transcendental]], na própria solução e curso da [[#Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?]]
+> 	- Conclusão: [[#§36 - Como é possível a própria natureza#A lei universal da natureza|O entendimento não extrai suas leis (a priori) da natureza, mas as prescreve a ela]]
+> - Kant irá [[#§37|elucidar]] que "o entendimento não extrai suas leis (a priori) da natureza, mas as prescreve a ela", concluindo que o entendimento é a [[#§38|origem da ordem universal da natureza ]]
+> - Apresentação da [[#§39|necessidade e dos benefícios do sistema de categorias]] desenvolvido
+> 	- A utilidades das [[#§39|categorias aristotélicas e as suas limitações]]
+> 	- Breve introdução aos [[#§39|"conceitos de reflexão"]] (expostos em[[KANT Immanuel. Crítica da Razão Pura (1781)]]) e como através dele se produzirá a **"tábua dos conceitos transcendentais da razão"**
 
 ### §14
 
-> Natureza é a existência de coisas enquanto **determinada segundo leis universais**. Se natureza significasse a existência das coisas em si mesmas, não poderíamos jamais conhecê-la, nem a priori, nem a posteriori (P69)
+> Natureza é a existência de coisas enquanto **determinada segundo leis universais**. Se natureza significasse a existência das coisas **em si mesmas**, não poderíamos jamais conhecê-la, nem a priori, nem a posteriori (P69)
 
-Kant irá começar definindo o significado de natureza e argumentando sobre a impossibilidade de conhecê-la em si mesma através da experiência (tanto a priori, quanto posteriori), pois a mesma jamais pode informar sobre a natureza das coisas em si e só pode mostrar "o que existe e como existe", mas nunca sobre o modo dessa existência (existir daquele modo e não de outro).
+Kant irá começar definindo o significado de natureza e argumentando sobre a impossibilidade de conhecê-la em **si mesma** através da experiência (tanto a priori, quanto posteriori), pois a mesma jamais pode informar sobre a natureza das coisas em si e só pode mostrar "o que existe e como existe", mas nunca sobre o modo dessa existência (existir daquele modo e não de outro).
 
 ### §15
 
-Kant se propõe a examinar mais detalhadamente a chamada "ciência universal da natureza" que precede toda a física (que se funda em princípios empíricos), observando que nessa ciência se encontram a matemática aplicada a aparecimentos e também princípios meramente discursivos (a partir de conceitos), entretanto, nota que existem coisas que não são inteiramente puras e independentes de fonte de experiência, como por exemplo, o conceito de movimento, de impenetrabilidade (sobre o qual se funda o conceito de matéria), inércia e etc, portanto, isso impede que seja chamada de ciência natural inteiramente pura. 
+Kant se propõe a examinar mais detalhadamente a chamada "**ciência universal da natureza**" que precede toda a física (que se funda em princípios empíricos), observando que nessa ciência **se encontram a matemática aplicada a aparecimentos** e também **princípios meramente discursivos (a partir de conceitos)**, entretanto, nota que existem coisas que não são inteiramente puras e independentes de fonte de experiência, como por exemplo, o conceito de movimento, de impenetrabilidade (sobre o qual se funda o conceito de matéria), inércia e etc, portanto, isso impede que seja chamada de **ciência natural inteiramente pura**. 
 
-Kant também aponta que essa ciência lida com objetos do sentido externo, e portanto, não constitui em sentido estrito uma ciência universal da natureza, pois ela deve subsumir a leis universais a natureza em geral, ainda que se refira ao sentido interno ou externo.
+Kant também aponta que essa ciência lida com objetos do sentido **externo**, e portanto, não constitui em sentido estrito uma ciência universal da natureza, pois ela deve subsumir a leis universais a natureza em geral, ainda que se refira ao sentido interno ou externo.
 
-Ainda assim, entre os princípios dessa "física universal" podemos encontrar proposições que possuem a universalidade exigida e que subsistem inteiramente a priori, o que leva a conclusão que há uma ciência pura da natureza, entretanto, abrindo uma nova pergunta: como ela é possível?
+Ainda assim, entre os princípios dessa "física universal" podemos encontrar proposições que possuem a **universalidade** exigida e que subsistem inteiramente **a priori**, o que leva a conclusão que há uma **ciência pura da natureza**, entretanto, abrindo uma nova pergunta: como ela é possível?
 
 ### §16
 
@@ -451,31 +500,33 @@ Kant irá fazer aqui a distinção entre **juízos de experiência** e **juízos
 
 > Juízos empíricos, na medida em que têm validade **objetiva**, são juízos de **experiência**; aqueles, entretanto, que são válidos apenas **subjetivamente** denomino simples juízos de **percepção** (P73)
 
-Os juízos de percepção não precisam de nenhum conceito puro do entendimento, apenas da conexão lógica da percepção em um sujeito pensante, enquanto os juízos de experiência "exigem certos conceitos gerados originalmente no entendimento" para que sejam objetivamente válidos.
+Os juízos de **percepção** não precisam de nenhum conceito puro do entendimento, apenas da **conexão lógica da percepção em um sujeito pensante**, enquanto os juízos de **experiência** "**exigem certos conceitos gerados originalmente no entendimento**" para que sejam objetivamente válidos.
 
-Para Kant, todos os nossos juízos a princípio são simples juízos de percepção (subjetivos), entretanto, que quando atribuídos a um objeto, pretende-se que esse juízo não seja mais valido apenas de maneira subjetiva, mas sim para todos os tempos e igualmente para todas as pessoas, pois "se um juízo concorda com um objeto, todos os juízos sobre o mesmo objeto devem concordar entre si (P73)". Nesse sentido, a validade objetiva de um juízo de experiência é nada mais que a sua **validade universal necessária**, sendo assim,  portanto, um juízo **"objetivo"** (*"que não expressa somente a referência da percepção a um sujeito, mas uma **qualidade do objeto**"*). Pois os diversos juízos concordam entre si devido "a **unidade** do objeto ao qual todos referem".
+Para Kant, todos os nossos juízos a princípio são simples juízos de percepção (subjetivos), entretanto, que quando atribuídos a um objeto, pretende-se que esse juízo não seja mais valido apenas de maneira subjetiva, mas sim para todos os tempos e igualmente para todas as pessoas, pois *"se um juízo concorda com um objeto, todos os juízos sobre o mesmo objeto devem concordar entre si (P73)"*. 
+
+Nesse sentido, a validade objetiva de um juízo de experiência é nada mais que a sua **validade universal necessária**, sendo assim,  portanto, um juízo **"objetivo"** (*"que não expressa somente a referência da percepção a um sujeito, mas uma **qualidade do objeto**"*). Pois os diversos juízos concordam entre si devido "a **unidade** do objeto ao qual todos referem".
 
 ### §19
 
-Kant afirma que "validade objetiva" e "validade universal necessária" são conceitos intercambiáveis, pois os objetos são determinado  pelas conexões de representações enquanto universalmente válidas pelo conceito do entendimento
+Kant afirma que "**validade objetiva**" e "**validade universal necessária**" são conceitos intercambiáveis, pois os objetos são determinados pelas **conexões de representações** enquanto universalmente válidas pelo conceito do entendimento
 
-> O objeto permanece sempre desconhecido em si mesmo, mas, quando a **conexão de representações** que são dadas por ele a nossa sensibilidade é determinada pelo **conceito do entendimento** como universalmente valida, o objeto se determina por essa relação e o juízo é objetivo (P74)
+> O objeto permanece sempre desconhecido em si mesmo, mas, quando a **conexão de representações** que são dadas por ele a nossa sensibilidade é determinada pelo **conceito do entendimento** como universalmente valida, o objeto **se determina por essa relação** e o juízo é objetivo (P74)
 
 ### §20
 
-Kant busca analisar a experiência em geral para ver o que esta contido nesse produto dos sentidos e do entendimento, e entender inclusive como o próprio juízo de experiência é possível. Na base desse produto está
-- a percepção (que diz respeito apenas ao sentido) e é uma intuição da qual estou consciente
-- o juízo (que diz respeito apenas ao entendimento)
+Kant busca analisar a **experiência** em geral para ver o que esta contido nesse **produto dos sentidos e do entendimento**, e entender inclusive como o próprio juízo de experiência é possível. Na **base** desse produto está
+- a **percepção** (que diz respeito apenas ao sentido) e é uma intuição da qual estou consciente
+- o **juízo** (que diz respeito apenas ao entendimento)
 
 Quando as percepções são comparadas e reunidas em uma consciência do meu estado, e não em uma consciência em geral, o juízo gerado é um juízo de percepção apenas com validade subjetiva, pois para que um juízo possa constituir uma experiência é necessário que dele decorra uma validade **universal e necessária**.
 
-> A intuição dada deve ser **subsumida a um conceito** que determina a **forma do juízo** em geral com relação a **intuição**, conecta a consciência empírica desta última em uma consciência em geral e, com isso, dota os juízos empíricos de validade universal (P76)
+> A intuição dada deve ser **subsumida a um conceito** que determina a **forma do juízo** em geral com relação a **intuição**, conecta a consciência empírica desta última em uma consciência em geral e, com isso, dota os juízos empíricos de **validade universal** (P76)
 
-Conceito esse que é um puro conceito a priori do entendimento e que vai "determinar, para uma intuição, a maneira geral pela qual ela pode servir para julgar" ou seja, servindo apenas para "determinar a representação que está contida sob ele em relação ao juízo em geral", sendo assim, um juízo de experiência é **precedido por certos juízos** que fazem essa subsunção.
+Conceito esse que é um puro conceito a priori do entendimento e que vai *"determinar, para uma intuição, a maneira geral pela qual ela pode servir para julgar"* ou seja, servindo apenas para "determinar a representação que está contida sob ele em relação ao juízo em geral", sendo assim, um juízo de experiência é **precedido por certos juízos** que fazem essa subsunção.
 
 > antes que um juízo de percepção possa tornar-se um juízo de experiência, requer-se primeiramente que a percepção seja subsumida a um conceito do entendimento deste tipo (P76)
 
-Ao analisar os juízos sintéticos, Kant chega a conclusão de que jamais consistem de meras intuições, conectadas a um único juízo mediante comparações, mas sim, com o acréscimo aos conceitos abstratos da intuição de um puro conceito do entendimento ao qual aqueles conceitos são subsumidos e conectados em um juízo objetivamente válido. Kant demonstra como isso se aplica até mesmo para os juízos da matemática pura.
+Ao analisar os **juízos sintéticos**, Kant chega a conclusão de que jamais consistem de meras intuições, conectadas a um único juízo mediante comparações, mas sim, com o acréscimo aos conceitos abstratos da intuição de um puro conceito do entendimento ao qual aqueles conceitos são subsumidos e conectados em um juízo objetivamente válido. Kant demonstra como isso se aplica até mesmo para os juízos da matemática pura.
 
 ### §21
 
@@ -487,7 +538,7 @@ Kant busca representar em uma tábua completa o que pertence aos **juízos em ge
 ### §21a
 
 Kant não levanta questões a cerca da "gênese da experiência", mas sim do que nela esta contido, e sendo assim, consolidando que além da intuição sensorial e de sua conexão lógica em um juízo (depois de tornado geral por comparação), o juízo de experiência deve acrescentar algo que determina o juízo sintético como necessário, e esse algo é justamente o conceito que representa a intuição como determinada em si mesma com respeito a uma forma de juízo mais do que outra, isto é
-> um conceito daquela **unidade sintética das intuições** que só pode ser representada por uma dada função lógica dos juízos (P81)
+> um conceito daquela **unidade sintética das intuições** que só pode ser representada por uma dada **função lógica** dos juízos (P81)
 
 ### §22
 
@@ -495,7 +546,7 @@ Kant resume tudo o que foi concluído até aqui, onde a função dos sentidos é
 
 ### §23
 
-Kant explica que juízos são regras (condição da união de representações dadas em uma consciência), como essas regras são necessárias, são regras a priori, como não existem outras regras acima delas, são **princípios**. Como não há condições dos juízos de experiência acima daquelas que subsumem os aparecimentos, uma vez que esses conceitos puros, tornam os juízos empíricos objetivamente válidos, e portanto, estes são, portanto **os princípios a priori da experiência possível**. Com essa noção de que esses princípios da experiência possível são ao mesmo tempo leis universais da natureza, podemos dizer que é possível uma ciência pura da natureza. 
+Kant explica que esses juízos são **regras** (condição da união de representações dadas em uma consciência), como essas regras são **necessárias**, são regras a **priori**, como não existem outras regras acima delas, são **princípios**. Como não há condições dos juízos de experiência acima daquelas que subsumem os aparecimentos, uma vez que esses conceitos puros, tornam os juízos empíricos objetivamente válidos, e portanto, estes são, portanto **os princípios a priori da experiência possível**. Com essa noção de que esses princípios da experiência possível são ao mesmo tempo **leis universais da natureza**, podemos dizer que é possível uma ciência pura da natureza. 
 
 Kant busca explicar a sua sistematização, que é requerida para a "forma de uma ciência".
 1. As regras (que são as condições formais dos juízos em geral) constituem um sistema lógico
@@ -504,24 +555,24 @@ Kant busca explicar a sua sistematização, que é requerida para a "forma de um
 
 ### §24
 
-O primeiro princípio fisiológico subsume todos os aparecimentos, enquanto intuições no espaço e tempo ao conceito de grandeza (esse é o princípio que permite a aplicação da matemática a experiência)
+O **primeiro princípio fisiológico** subsume todos os aparecimentos, enquanto **intuições no espaço e tempo** ao conceito de **grandeza** (esse é o princípio que permite a aplicação da matemática a experiência)
 
-O segundo princípio fisiológico não subsume a sensação (que é propriamente empírica) diretamente ao conceito de grandeza (sensação não é uma intuição que contenha espaço e tempo), entretanto, subsume indiretamente a esse conceito, pois não é possível nenhuma percepção que exiba uma **absoluta ausência,** portanto, o entendimento pode antecipar até mesmo as sensações, pois todas elas, tem **graus** (portanto, relação indireta ao conceito de grandeza), inclusive, sendo a segunda aplicação da matemática (mathesis intensorum) a ciência da natureza.
+O **segundo princípio fisiológico** não subsume a sensação (que é propriamente empírica) diretamente ao conceito de grandeza (sensação não é uma intuição que contenha espaço e tempo), entretanto, subsume **indiretamente** a esse conceito, pois não é possível nenhuma percepção que exiba uma **absoluta ausência,** portanto, o entendimento pode antecipar até mesmo as sensações, pois todas elas, tem **graus** (portanto, relação indireta ao conceito de grandeza), inclusive, sendo a segunda aplicação da matemática (**mathesis intensorum**) a ciência da natureza.
 
 > [!info] Mathesis Intensorum (com auxílio de IA)
 > "A mathesis intensorum (ou mathesis intensiva) é um conceito filosófico, historicamente associado a Alexander Baumgarten e discutido no contexto da filosofia kantiana, que trata da aplicação de princípios matemáticos ou de medição a grandezas intensivas (graus de qualidade, como intensidade da luz ou calor) em contraste com as grandezas extensivas (espaço/tempo)"
 
 ### §25
 
-Kant irá demonstrar que determinação da relação dos aparecimentos com seus princípios a priori não é matemática, mas sim dinâmica.  Para isso, irá subsumir alguns conceitos a priori:
+Kant irá demonstrar que a determinação da relação dos aparecimentos com seus princípios a priori não é matemática, mas sim dinâmica.  Para isso, irá **subsumir alguns conceitos a priori**:
 
-- aparecimentos: deve ser subsumido ao conceito de substância, pois uma vez que é o conceito da própria coisa é a base de todas as determinações de existência
-- eventos (sucessão de aparecimentos no tempo): subsumido ao conceito de um efeito em relação a uma causa
-- existência simultânea: subsumido ao conceito de comunidade / recriprocidade
+- **aparecimentos**: deve ser subsumido ao conceito de **substância**, pois uma vez que é o conceito da própria coisa é a base de todas as determinações de existência
+- **eventos** (sucessão de aparecimentos no tempo): subsumido ao conceito de um **efeito em relação a uma causa**
+- existência simultânea: subsumido ao conceito de **comunidade** / **recriprocidade**
 
-Uma vez que esses princípios estão na base de juízos empíricos e objetivamente válidos, são a base da possibilidade da experiência (que busca conectar objetos na natureza segundo a sua existência). Portanto, esses princípios são as leis, da natureza, e podem ser chamados dinâmicos.
+Uma vez que esses princípios estão na base de juízos empíricos e objetivamente válidos, são a **base da possibilidade da experiência** (que busca conectar objetos na natureza segundo a sua existência). Portanto, esses princípios são as leis, da natureza, e podem ser chamados **dinâmicos**.
 
-Kant explica o que constitui a doutrina fisiológica do método ("distinção entre verdade e hipóteses, e as fronteiras da confiabilidade destas últimas") afirmando que as cognições de concordância e conexão também pertencem aos juízos de experiência, não tanto na relação desses aparecimentos entre si na experiência, mas de sua relação com a experiência em geral (sendo possível que ambos ocorram).
+Kant explica o que constitui a **doutrina fisiológica do método** ("distinção entre verdade e hipóteses, e as fronteiras da confiabilidade destas últimas") afirmando que as cognições de **concordância** e **conexão** também pertencem aos **juízos de experiência**, não tanto na relação desses aparecimentos entre si na experiência, mas de sua relação com a experiência em geral (sendo possível que ambos ocorram).
 - concordância: concordância com as condições formais conhecidas pelo entendimento
 - conexão: ligação com o material dos sentidos e da percepção
 
@@ -547,7 +598,7 @@ Kant busca provar também de outro modo:
 - os princípios se referem a **"proposições sintéticas objetiva e universalmente validas"**, e é isso que diferencia os **juízos de experiência** e os **juízos de percepção**
 - os aparecimentos são intuições que ocupam uma porção do espaço e tempo
 	- subordinam-se ao conceito de **grandeza**, que une sinteticamente e a priori o múltiplo de de intuições segundo regras
--a percepção contem além da intuição a sensação, da qual entre ela e o seu desaparecimento sempre tem uma transição por diminuição (**grau**)
+- a percepção contem além da intuição a sensação, da qual entre ela e o seu desaparecimento sempre tem uma transição por diminuição (**grau**)
 	- como a sensação não tem ocupa nenhuma porção de espaço e tempo, se deduz que o que é real no aparecimento deve ter um **grau**
 - a sensação, jamais pode ser conhecida a priori, mas pode em uma experiencia em geral, se distinguir intensivamente de outras sensações (enquanto **grandeza da percepção**)
 
@@ -592,12 +643,12 @@ Kant não toma esses conceitos como "derivados tão somente da experiência" e a
 
 ### §28
 
-Para Kant, temos em nossos juízos em geral um um conceito de uma conexão de representações, que são como representações participam de formas diferentes nos tipos de juízos
+Para Kant, temos em nossos juízos em geral um um conceito de uma **conexão de representações**, que são como representações participam de formas diferentes nos tipos de juízos
 - como um sujeito em relação a um predicado
 - como fundamento em relação à consequência
 - como partes que, juntas, compõem uma cognição possível como um todo
 
-A representação de um objeto é determinada em relação a um ou outro desses momentos, do contrário, não seria possível nenhuma cognição válida para o objeto
+A representação de um objeto **é determinada em relação a um ou outro desses momentos**, do contrário, não seria possível nenhuma cognição válida para o objeto.
 
 Se o objetivo fosse o objeto em si mesmo, não haveria nenhuma característica singular que tornasse possível reconhecer esse objeto como determinado em relação a um desses momentos (substância, causa, comunidade).
 
@@ -636,7 +687,7 @@ Kant aponta as falhas e os limites dos pensadores dogmáticos e daqueles que ape
 
 ### §32
 
-Kant aponta o erro dos filósofos antigos em julgar que além do mundo sensível  constituído por seres do sentido ou aparecimentos (**phenomena**) existe um mundo inteligível composto por seres do entendimento (**noumena**), atribuindo realidade apenas aos seres do entendimento ao tomar **aparecimento e ilusão como similares**.
+Kant aponta **o erro dos filósofos antigos** em julgar que além do mundo sensível  constituído por seres do sentido ou aparecimentos (**phenomena**) existe um mundo inteligível composto por seres do entendimento (**noumena**), atribuindo realidade apenas aos seres do entendimento ao tomar **aparecimento e ilusão como similares**.
 
 A dedução crítica de Kant não exclui os noumena, apenas "limita os princípios da estética", tornando-os válidos apenas para objetos de uma experiência possível, ou seja, seres do entendimento são admitidos, com a clareza de que não podemos conhecer nada de determinado sobre esses, pois nosso entendimento e intuição pura dizem respeito apenas a objetos da experiência possível, ou seja, a meros seres do sentido, e uma vez que nos afastamos destes, não restam aos outros conceitos o menor significado.
 
@@ -723,7 +774,7 @@ e da necessária apercepção que subjaz ao nosso entendimento e a todo pensamen
 
 A **possibilidade da experiência em geral** é a **lei universal da natureza** que é constituída pelos princípios dessa possibilidade, portanto estes, sua lei. Este são as condições da **unificação necessária em uma consciência**, unificação essa que constitui a **possibilidade da experiência**
 
-Para Kant, a mais alta legislação da natureza deve estar em nós mesmos (pois podemos conhecer a priori leis universais da natureza), entretanto, não devemos obter essas leis universais a **partir da natureza por meio da experiência**, mas sim procurar a natureza, no que respeito a sua conformidade universal a leis, apenas nas condições da possibilidade da experiência que se encontram em nossa sensibilidade e entendimento. 
+Para Kant, a mais alta legislação da natureza deve estar em nós mesmos (pois podemos conhecer a priori leis universais da natureza), entretanto, não devemos obter essas leis universais a **partir da natureza por meio da experiência**, mas sim procurar a natureza, no que respeito a sua **conformidade universal a leis**, apenas nas **condições da possibilidade da experiência** que se encontram em nossa sensibilidade e entendimento. 
 
 > [!info] As leis como **genuínas amplificações sintéticas**
 > Kant afirma que de maneira diferente, não seria possível conhecer algo a priori pois "não são algo como leis da cognição analíticas, mas genuínas amplificações sintéticas"
@@ -763,9 +814,9 @@ Portanto, o entendimento é a "origem da ordem universal da natureza", produzind
 
 ### §39
 
-Kant apresenta a necessidade e os benefícios do sistema de categorias desenvolvido (comparando com a gramática inclusive, que fornece as regras para formação da linguagem).
+Kant apresenta a **necessidade** e os **benefícios** do sistema de categorias desenvolvido (comparando com a gramática inclusive, que fornece as regras para formação da linguagem).
 
-Kant aponta as utilidades das categorias aristotélicas, que serviram como "pista para futuras investigações", apontando os critérios que o levaram a excluir as categorias de "tempo", "lugar" e "posição" como conceitos puros do entendimento e as limitações que o levaram a não considerar as demais categorias (porque elas já foram provadas como sendo formas puras da sensibilidade, e não funções lógicas do pensamento)
+Kant aponta as **utilidades das categorias aristotélicas**, que serviram como "pista para futuras investigações", apontando os critérios que o levaram a excluir as categorias de "tempo", "lugar" e "posição" como conceitos puros do entendimento e as limitações que o levaram a não considerar as demais categorias (porque elas já foram provadas como sendo formas puras da sensibilidade, e não funções lógicas do pensamento)
 
 Kant irá descrever como desenvolveu e estruturou o seu sistema de categorias e seus componentes, apontando o que é essencial nesse sistema e o que o difere do sistema aristotélicos, justificando como o mesmo torna possível os juízos de experiência em geral. Para Kant, sem restringir o uso das categorias aristotélicas apenas à experiência, as mesmas são *"inúteis e não passam de uma reles lista de nomes, sem explicação ou regra para seu uso (P103)"*
 

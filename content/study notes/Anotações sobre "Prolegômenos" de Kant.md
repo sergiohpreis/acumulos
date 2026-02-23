@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Monday, February 23rd 2026, 9:23:34 am
+date modified: Monday, February 23rd 2026, 4:39:08 pm
 tags:
   - kant
   - idealismo-alemão

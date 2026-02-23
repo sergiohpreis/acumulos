@@ -30,10 +30,13 @@ tags:
   - filosofia
   - kant
   - filosofia-alemã
+  - livros
 draft: false
 date: 2026-02-22T13:45:00
 date created: Sunday, February 22nd 2026, 1:42:27 pm
 date modified: Sunday, February 22nd 2026, 1:43:52 pm
+type:
+  - livro
 ---
 
 ## Resumo

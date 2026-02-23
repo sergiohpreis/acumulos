@@ -22,9 +22,12 @@ edition_year: 2007
 tags:
   - marxismo
   - capitalismo
+  - livros
 description:
 draft: false
 date: 2026-02-15T14:40:00
+type:
+  - livro
 ---
 
 ## Notes

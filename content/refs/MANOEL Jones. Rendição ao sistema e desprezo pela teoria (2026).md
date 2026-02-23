@@ -6,6 +6,8 @@ draft: false
 date: 2026-02-20T22:50:00
 tags:
   - vídeo
+type:
+  - video
 ---
 
 >[!note] Link

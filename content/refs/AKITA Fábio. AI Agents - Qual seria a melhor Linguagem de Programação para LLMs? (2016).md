@@ -2,7 +2,7 @@
 date created: Friday, February 20th 2026, 11:43:18 am
 date modified: Friday, February 20th 2026, 4:19:51 pm
 type:
-  - article
+  - texto
 source: https://akitaonrails.com/2026/02/09/ai-agents-qual-seria-a-melhor-linguagem-de-programacao-para-llms/
 status:
   - READ

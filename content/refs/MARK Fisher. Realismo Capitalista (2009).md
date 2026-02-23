@@ -5,7 +5,7 @@ year: 2009
 started_at: 2026-02-02T20:15:00
 finished_at: 2026-02-06T16:00:00
 type:
-  - book
+  - livro
 title: FISHER Mark. Realismo Capitalista (2009)
 authors:
   - Mark Fisher
@@ -30,6 +30,7 @@ edition_year: 2020
 tags:
   - história
   - capitalismo
+  - livros
 description: Anotações do "MARK Fisher. Realismo Capitalista (2009)"
 permalink:
 aliases:

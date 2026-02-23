@@ -4,7 +4,7 @@ date modified: Friday, February 13th 2026, 3:22:11 am
 tags:
   - RAG
 type:
-  - article
+  - texto
 status:
   - finished
 year: "2024"

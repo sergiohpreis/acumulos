@@ -2,12 +2,13 @@
 date created: Monday, February 9th 2026, 9:11:43 am
 date modified: Monday, February 9th 2026, 9:22:56 am
 type:
-  - ebook
+  - livro
 status:
   - finished
 year: "2017"
 tags:
   - zettelkasten
+  - livros
 title: SÖNKE Ahrens. How to Take Smart Notes (2017)
 description: Anotações de "SÖNKE Ahrens. How to Take Smart Notes (2017)"
 permalink:

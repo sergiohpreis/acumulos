@@ -5,10 +5,11 @@ author:
   - The Tri Continental
 status:
 type:
-  - article
+  - artigo
 source: https://thetricontinental.org/wp-content/uploads/2023/12/20230324_Artigo-Final_Levante_Aprovado.pdf
 tags:
   - privatizacoes
+  - artigos
 draft: false
 date: 2025-05-03T20:00:00
 ---

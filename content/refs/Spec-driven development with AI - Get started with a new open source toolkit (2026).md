@@ -7,7 +7,7 @@ status:
 finished_at: 2026-01-30T13:00:00
 release_at: 2025-09-20
 type:
-  - article
+  - texto
 published_year: "2026"
 tags:
   - ia

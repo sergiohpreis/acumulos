@@ -22,8 +22,11 @@ tags:
   - biografias
   - marxismo
   - marxismo-leninismo
+  - livros
 draft: false
 date: 2025-02-14
+type:
+  - livro
 ---
 
 ## Resumo

@@ -8,8 +8,9 @@ status:
 tags:
   - internet
   - cibercultura
+  - livros
 type:
-  - book
+  - livro
 draft: false
 date: 2024-12-21T12:18:00
 ---

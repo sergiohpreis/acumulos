@@ -25,8 +25,9 @@ tags:
   - materialismo-histórico-dialético
   - marxismo
   - filosofia
+  - livros
 type:
-  - book
+  - livro
 draft: false
 date: 2026-02-21T18:21:00
 date created: Saturday, February 21st 2026, 6:19:51 pm

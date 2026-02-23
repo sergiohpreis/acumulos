@@ -10,6 +10,7 @@ tags:
   - cosmotecnica
   - filosofia
   - técnica
+  - livros
 title: HUI Yuk. Tecnodiversidade (2020)
 description: Anotações do "HUI Yuk. Tecnodiversidade (2020)"
 permalink:
@@ -19,7 +20,7 @@ date: 2026-02-11
 authors:
   - Yuk Hui
 type:
-  - book
+  - livro
 ---
 
 ## 2026-01-30

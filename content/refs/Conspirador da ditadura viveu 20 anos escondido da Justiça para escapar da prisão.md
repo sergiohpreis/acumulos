@@ -7,6 +7,9 @@ tags:
   - brasil
   - história
 date: 2026-02-22
+draft: true
+type:
+  - matéria
 ---
 
 >[!info] https://www.intercept.com.br/2025/01/07/conspirador-ditadura-gilberto-huber/

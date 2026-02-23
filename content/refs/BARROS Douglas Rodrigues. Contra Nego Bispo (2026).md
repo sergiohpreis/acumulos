@@ -10,6 +10,8 @@ draft: true
 date: 2026-02-20T14:45:00
 status:
   - READING
+type:
+  - texto
 ---
 
 > [!note] Fonte

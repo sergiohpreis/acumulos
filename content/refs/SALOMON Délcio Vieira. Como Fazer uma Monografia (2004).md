@@ -6,11 +6,12 @@ publisher: WMF Martins Fontes
 status:
   - paused
 type:
-  - book
+  - livro
 authors:
   - Délcio Vieira Salomon
 tags:
   - metodologia-cientifica
+  - livros
 title: SALOMON Délcio Vieira. Como Fazer uma Monografia (2004)
 description: Anotações do "SALOMON Délcio Vieira. Como Fazer uma Monografia (2004)"
 permalink:

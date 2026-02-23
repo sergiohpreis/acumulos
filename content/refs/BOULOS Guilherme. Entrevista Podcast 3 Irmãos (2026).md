@@ -6,6 +6,8 @@ date: 2026-02-20T22:40:00
 source: https://www.youtube.com/watch?v=-x_cdGCnq-A
 tags:
   - vídeo
+type:
+  - video
 ---
 
 > [!note] Link

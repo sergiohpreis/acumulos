@@ -24,8 +24,11 @@ edition_year: 2020
 tags:
   - semiótica
   - sociologia
+  - livros
 draft: false
 date: 2026-02-03T08:28:00
+type:
+  - livro
 ---
 
 ## Notes

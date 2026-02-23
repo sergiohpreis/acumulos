@@ -13,7 +13,7 @@ categories:
 status:
   - finished
 type:
-  - book
+  - livro
 tags:
   - filosofia
   - metafisica
@@ -21,6 +21,7 @@ tags:
   - idealismo
   - racionalismo
   - deus
+  - livros
 title: DESCARTES, René. Discurso sobre o Método (1637)
 description:
 permalink:

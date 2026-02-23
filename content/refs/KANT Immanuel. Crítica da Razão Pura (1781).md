@@ -5,6 +5,9 @@ tags:
   - filosofia
   - filosofia-alemã
   - kant
+  - livros
 draft: false
 date: 2026-02-21T10:38:00
+type:
+  - livro
 ---

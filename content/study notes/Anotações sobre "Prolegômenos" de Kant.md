@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Sunday, February 22nd 2026, 10:02:39 pm
+date modified: Monday, February 23rd 2026, 9:23:34 am
 tags:
   - kant
   - idealismo-alemão
@@ -1081,6 +1081,79 @@ Uma antinomia, de modo algum inventada, mas fundada na natureza da razão humana
 | 4   | Na série de causas no mundo há algum ser necessário                | Não há nela nada necessário, mas, nessa série, tudo é contingente | 
 
 ### §52
+
+Kant fala sobre o inesperado conflito que se produz e que jamais pode ser resolvido pela via dogmática usual, e aponta a diferença na posição do cético e do filósofo crítico
+
+> tanto a **tese** quanto a **antítese** podem ser demonstradas mediante provas igualmente evidentes, claras e incontestáveis... a razão se vê, portanto, dividida contra si mesma (P121)
+
+### §52b
+
+Kant demonstra como a razão revela a contragosto a **ilusão dialética da razão pura** (a qual representa falsamente como dogma), através das quatro ideias naturais da razão que resultam em tese e antítese, ambas seguindo consistentemente de princípios universalmente aceitos, portanto revela uma **falha oculta nas pressuposições da razão**:
+
+> Duas proposições mutuamente contraditórias não podem ambas ser falsas, exceto se o conceito que subjaz às duas for ele próprio contraditório (P122)
+
+Para Kant esta é uma prova decisiva que revela uma falha oculta nas pressuposições da razão, a **marca lógica da impossibilidade de um conceito**
+- justamente que sob a pressuposição desse conceito, duas proposições contraditórias seriam simultaneamente falsas. Dado que entre estas não se pode pensar nenhuma terceira proposição, absolutamente nada é pensado mediante esse conceito
+
+### §52c
+
+Denomina as duas primeiras antinomias como **matemáticas**.
+
+Kant busca explicar sobre um **conceito contraditório** presente nas duas primeiras antinomias (que denomina matemática), e também, explicando como vem a ocorrer que tanto a tese como a antítese sejam ambas falsas.
+
+Refletindo sobre os objetos no tempo e no espaço, enquanto modo de representação, seria contraditório dizer que exista fora da representação
+- os objetos do sentido, portanto, existem apenas na experiência
+
+1ª: Quanto a **grandeza do mundo no espaço e no tempo**, demonstra como nenhuma alternativa pode estar contida na experiência (pois são apenas ideias). O conceito de um mundo sensível existindo por si mesmo é autocontraditório, portanto, o problema de sua grandeza sempre será falso.
+
+2ª: O mesmo conceito autocontraditório vale para a segunda antinomia (**divisão dos aparecimentos**), pois estes são meras representações e não há como afirmar que meras representações existem antes de serem encontradas na faculdade de representação
+
+### §53
+
+Em que consiste a falsidade das pressuposições na primeira (1ª e 2ª antinomias) e na segunda classe *(3ª e 4ª antinomias)* da antinomia 
+- 1ª classe (matemática): algo autocontraditório (um aparecimento enquanto coisa em si mesma) era representado em um conceito como compatível
+	- ambas as asserções opostas são falsas
+- 2ª classe (dinâmica): aquilo que é compatível é representado como contraditório
+	- ambas as asserções opostas são verdadeiras
+
+Com relação a homogeneidade nas conexões
+- a conexão matemática necessariamente pressupõe a homogeneidade das coisas conectadas (no conceito de grandeza)
+	- quando se trata da grandeza de algo extenso, todas as partes devem ser homogêneas entre si e com o todo
+- a conexão **dinâmica** não exige isso de modo algum
+	- na **conexão de causa e efeito**, também se pode encontrar homogeneidade, mas ela não é necessária, pois o conceito de causalidade, ao menos, não a requer
+
+Levaria a **contradições inevitáveis:**
+- Se os objetos do **mundo sensível** fossem tomados como coisas em si mesmas, assim como as leis acima mencionada como leis das coisas em si mesmas
+- Se o **sujeito da liberdade**, representado a **semelhança dos demais objetos**, como um mero **aparecimento**, pois a mesma coisa estaria sendo simultaneamente a afirmada e negada de um mesmo objeto no mesmo sentido
+
+Portanto, nenhuma contradição se produz, desde que admitidos ou assumidos os dois tipos de causalidades (por mais difícil que seja assumir uma de ultimo tipo):
+- **necessidade natural**: refere-se apenas aos **aparecimentos**
+- **liberdade**: refere-se apenas as **coisas em si mesmas**
+
+No aparecimento, todo efeito é um **evento** (algo que **acontece** no tempo), que de acordo com a lei universal da natureza, deve ser precedido por uma **determinação da causalidade de sua causa**, da qual ele se segue por uma lei constante.
+- essa determinação também deve ser algo que se passa ou **acontece**
+	- a causa deve ter começado, pois de outro modo, não poderia pensar nenhuma sucessão no tempo entre ela e o efeito
+		- **o efeito teria sempre existido, bem como a causalidade da causa** (regressão ao infinito)
+
+A necessidade natural deve, portanto, ser a condição pela qual as causas eficientes são determinadas, do contrário, se a liberdade fosse propriedade de certas causas de aparecimentos, em relação a esses, enquanto eventos, a liberdade deveria ser uma faculdade de dar inicio a eles por si mesma (sponte)
+	- sem que a causalidade da causa tivesse ela própria que começar
+	- sem necessidade de fundamento para determinar seu início
+
+Dessa forma, tanto a **causa** quanto sua **causalidade** não deveriam estar submetida a determinação temporal do seu estado (não deveria ser absolutamente um aparecimento)
+- teria de ser tomada como uma coisa em si mesmas, apenas os efeitos como aparecimentos
+
+Se **a influencia de seres inteligíveis em aparecimentos** puder ser pensada sem contradição
+- **necessidade natural** estará de fato associada a toda conexão de causa e efeito no mundo sensível
+- a **liberdade** devera ser atribuída a essa causa que não é ela própria nenhum aparecimento
+
+Disso se concluiria que **natureza** e **liberdade** podem ser atribuidas sem contradição a mesma coisa, mas em diferentes relações
+- natureza: como aparecimento
+- liberdade: como uma coisa em si mesma
+
+>[!note] Notas sobre a ideia de liberdade
+> Kant afirma ali que a ideia de liberdade só tem lugar na relação entre uma causa intelectual (inteligível) e um efeito no aparecimento. A liberdade não dita leis para a natureza física, mas nos dá a capacidade prática de agir de forma autônoma (moralidade).
+
+> [!note] Pensar na liberdade da razão como "uma força fora do tempo que empurra o primeiro dominó no mundo físico"
 
 TBD
 

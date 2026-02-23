@@ -6,12 +6,13 @@ publisher: Editora Moderna
 status:
   - pending
 type:
-  - book
+  - livro
 tags:
   - filosofia
   - descartes
   - metafisica
   - idealismo
+  - livros
 title: SILVA, Franklin Leopoldo e. Descartes, A metafísica da modernidade (1993)
 description: Anotações do "SILVA, Franklin Leopoldo e. Descartes, A metafísica da modernidade (1993)"
 permalink:

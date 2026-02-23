@@ -29,9 +29,12 @@ tags:
   - idealismo
   - marxismo
   - religião
+  - livros
 title: ENGELS Friedrich. Ludwig Feuerbach e o fim da Filosofia Clássica Alemã (1886)
 draft: false
 date: 2024-12-04T07:58:00
+type:
+  - livro
 ---
 
 ## Notes

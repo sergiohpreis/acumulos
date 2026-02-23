@@ -7,7 +7,7 @@ status:
 finished_at: 2026-01-29T20:46:00
 release_at: 2025-10-15
 type:
-  - article
+  - texto
 published_year: 2026
 tags:
   - spec-driven

@@ -22,8 +22,11 @@ format:
 edition_year: 2008
 tags:
   - metodologia-científica
+  - livros
 draft: false
 date: 2026-01-28
+type:
+  - livro
 ---
 
 ## Resumo

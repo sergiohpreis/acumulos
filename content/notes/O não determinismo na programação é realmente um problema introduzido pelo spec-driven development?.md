@@ -1,6 +1,6 @@
 ---
 date created: Thursday, January 29th 2026, 9:08:15 pm
-date modified: Monday, February 16th 2026, 8:04:43 am
+date modified: Sunday, February 22nd 2026, 10:46:13 pm
 tags:
   - spec-driven
 title: O não determinismo na programação é realmente um problema introduzido pelo spec-driven development?
@@ -21,3 +21,4 @@ Em [[Understanding Spec-Driven-Development - Kiro, spec-kit, and Tessl (2026)]],
 A questão central é: o quanto a programação é realmente determinística?
 - Será que um código mal escrito não abre margem para a introdução de novos bugs e cenários não previstos?
 - Porque documentos como [[Architecture decision record (ADR)]] surgiram?
+- Existem testes que falham de maneira não determinísticas

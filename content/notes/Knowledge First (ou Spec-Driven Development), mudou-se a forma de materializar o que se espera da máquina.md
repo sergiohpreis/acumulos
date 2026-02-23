@@ -5,8 +5,8 @@ tags:
   - tecnologia
   - spec-driven
 title: Knowledge First (ou Spec-Driven Development), mudou-se a forma de materializar o que se espera da máquina
-date: 2026-02-16T03:45:00
 draft: false
+date: 2026-02-16T03:45:00
 ---
 
 Existem alguns artigos falando sobre Spec-Driven Developments:

@@ -1,6 +1,6 @@
 ---
 date created: Saturday, January 17th 2026, 7:11:33 pm
-date modified: Monday, February 16th 2026, 8:03:12 am
+date modified: Sunday, February 22nd 2026, 10:43:16 pm
 tags:
   - spec-driven
   - tdah
@@ -18,6 +18,8 @@ As vezes eu penso que sim, pois por exemplo, o fluxo para escrever um código é
 3. Valida se funciona, refatora até funcionar
 
 Os pontos 2 e 3 me parecem ser grandes possibilidades de dispersão, pois facilmente, ao escrever o código, podemos acabar caindo em loops de refatorações e etc. Quando dialogando com um agente (ou escrevendo uma especificação), me parece que fica mais dificil de dispersar
+
+[[Knowledge First (ou Spec-Driven Development), mudou-se a forma de materializar o que se espera da máquina]]
 
 ---
 

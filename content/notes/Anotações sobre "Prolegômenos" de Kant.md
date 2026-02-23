@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Sunday, February 22nd 2026, 2:02:32 pm
+date modified: Sunday, February 22nd 2026, 9:37:22 pm
 tags:
   - kant
   - idealismo-alemão
@@ -8,7 +8,7 @@ tags:
   - idealismo
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-22T13:40:00
+date: 2026-02-22T21:40:00
 ---
 
 ## Resumo da Apresentação do Tradutor
@@ -849,6 +849,237 @@ Kant aponta também que a utilidade dessa distinta tábua se dará na separaçã
 > **Observação importante:** A partir do §40, o texto entra na _Dialética Transcendental_ (a alma, o mundo e Deus). Historicamente, essa parte costuma gerar parágrafos um pouco mais densos e discussões mais longas sobre as antinomias. Se sentir que o ritmo caiu, não se assuste; é a natureza do tema.
 
 ### §40
+
+Kant afirma que as investigações precedentes foram necessárias não para os seus alvos (a [[#Primeira parte da questão transcendental principal. Como é possível a matemática pura?|matemática pura]] e a [[#Segunda parte da questão transcendental principal. Como é possível a ciência pura da natureza?|ciência pura da natureza]]), mas sim a própria metafísica.
+
+A metafísica ocupa-se não só dos conceitos próprios da natureza, mas também dos conceitos puros da razão, que **jamais são dados em nenhuma experiência possível**:
+> conceitos cuja realidade objetiva (o fato de que não são meras fantasias) e asserções cuja verdade ou falsidade não podem ser confirmadas ou descobertas por nenhuma experiência (P107)
+
+Esses conceitos constituem o seu fim essencial, o seu núcleo, a sua marca característica, resumida por Kant como
+> a ocupação da razão simplesmente consigo mesma e a familiaridade com objetos que se presume surgir imediatamente do fato de que ela **incuba seus próprios conceitos sem necessitar da intermediação da experiência**, e que sequer pode ser alcançada de algum modo por meio desta (P107,P108)
+
+>[!note] Nota sobre o porque perguntar como a metafísica é objetivamente possível (ainda que subjetivamente real)
+
+Cada experiência individual é apenas uma **parte** de toda a esfera de seu domínio, a **totalidade absoluta** de toda experiência possível não é, ela própria uma experiência
+
+A metafísica portanto, necessita de conceitos inteiramente diferente dos conceitos puros do entendimento
+- pois o uso destes são **imanentes** (referente a experiência tanto quanto esta pode ser dada).
+
+Os conceitos da razão pelo contrário, se extendem a **completude** (**unidade coletiva** de toda a experiência)
+- por isso são **transcendentes** (excedendo a experiência possível)
+
+Assim como o entendimento necessitava das categorias para a experiência, a razão contém em si a base para as **idéias**, que Kant define como
+- "conceitos necessários cujo objeto, contudo, não pode ser dado em nenhuma experiência"
+	- inerentes a natureza da razão
+ 
+Kant chega a conclusão que, entretanto, a ilusão (que define como "tomar por objetiva a base subjetiva de um juízo") é inevitável, e a única prevenção contra o erros
+	- conhecimento que a razão pura tem de si mesma em seu uso transcendente (hiperbólico)
+
+Portanto, os erros acontecem quando quando a razão interpreta erroneamente sua vocação e refere-se transcendentalmente ao objeto em si mesmo aquilo que concerne apenas ao seu sujeito (ilusão transcendental)
+
+### §41
+
+Kant aponta que a distinção entre as ideias (conceitos puros da razão) e as categorias (conceitos puros do entendimento) é fundamental para a fundação de uma ciência, e que sem essa divisão, a metafísica é absolutamente impossível, reforçando por isso os resultados obtidos em [[KANT Immanuel. Crítica da Razão Pura (1781)]]
+
+### §42
+
+Uma vez que ao contrário das cognições puras do entendimento, as cognições transcendentes da razão **não permitem que o que se relacione as suas idéias seja dado na experiência**, nem a confirmação ou refutação de suas teses, apenas a pura razão pode descobrir o erro que porventura nelas (nas idéias) se infiltre. 
+
+Entretanto, existe uma dificuldade nisso que consiste no fato dessa mesma razão se tornar **naturalmente dialética mediante suas idéias** (lógica da aparência), produzindo portanto ilusões que só podem ser mantidas nos limites por investigações subjetivas.
+
+>[!note] A noção de dialética para Kant
+> Ao falar sobre as cognições transcendentes da razão, que não permitem o uso da experiência para o embasamento de suas idéias, Kant afirma que essa razão se torna "naturalmente dialética mediante as suas idéias" e ainda que "essa ilusão inevitável não pode ser mantida dentro de limites" por nenhuma investigação objetiva, apenas por uma investigação subjetiva da razão enquanto fonte das ideias
+> Portanto, Kant considera que a razão, uma vez que se torna "naturalmente dialética" produz necessariamente ilusões
+> De acordo com as minhas buscas,  Kant" retoma a noção aristotélica quando define a dialética como a "lógica da aparência", argumentando que essa ilusão gerada pela razão não é um erro acidental que pode ser simplesmente apagado, mas uma tendência natural e inevitável da nossa mente
+
+### §43
+
+Kant aponta que o fundamental na [[KANT Immanuel. Crítica da Razão Pura (1781)]] foi conhecer a priori que a enumeração, classificação e especificação dos conceitos de cada tipo de cognição, pois sem isso na metafísica "nunca se sabe se o que se possui ja é o suficiente, ou se, e onde, algo ainda poderia estar faltando".
+
+Kant justifica a sua busca pela origem das ideias nas **três funções do silogismo**
+
+> [!note] O silogismo é uma forma de raciocínio dedutivo estruturada por Aristóteles, consistindo em duas premissas (maior e menor) que levam a uma conclusão lógica. 
+
+Se esses conceitos puros da razão (ideias transcendentais) estão dados, e não se quiser toma-los como inatos, somente seria possível encontra-los nesse ato da razão, que na medida que se relaciona **apenas a forma**, constitui o **elemento lógico** no silogismo.
+ 
+Uma vez que representa os juízos do entendimento como estando determinados com respeito a uma ou outra forma a priori, constitui os **conceitos transcendentais da razão pura**
+
+Kant realiza a distinção formal dos silogismos em: **categóricos**, **hipotéticos** e **disjuntivos**, e a partir disso, extrai os conceitos da razão neles fundados
+	- **psicológica**: a ideia do sujeito completo (o substancial)
+	- **cosmológica**: a ideia da série completa de condições
+	- **teológica**: a determinação de todos os conceitos na ideia de um **conjunto completo do possível**
+
+>[!note] Nota sobre os juízos disjuntivos
+>Nota em P111 sobre porque considera toda possibilidade como dividida em relação a certo conceito nos juízos disjuntivos
+
+Para Kant, os três conceitos dão origem a uma dialética (ilusão, aparência), e portanto, nisso se funda **"a divisão de toda a dialética da razão pura"** (que é capaz de representar todas as pretensões da razão pura)
+- no paralogismo
+- na antinomia
+- no ideal da razão pura
+
+Assim, a própria faculdade da razão esta completamente mensurada
+
+### §44
+
+Kant explica como as ideias da razão diferem das categorias, não nos servindo de modo algum para o emprego do entendimento em relação a experiência. Sendo portanto 
+- dispensáveis em relação a experiência
+- contrárias e impeditivas das máximas da cognição da natureza pela razão
+
+Apontando os limites impostos por essa distinção e inclusive afirmando que devemos evitar usar a vontade divina para a organização da natureza (pois significaria o fim da investigação ciêntífica), Kant afirma que a crítica do entendimento se junta as ideias da pura razão para um propósito que "ultrapassa o uso do entendimento na experiência", levantando a hipótese de que 
+> "Deve haver, porém, uma **concordância** entre o que pertence à natureza da razão e à do entendimento, e a primeira deve contribuir para o aperfeiçoamento do segundo, e não é possível que venha a confundi-lo" (P112)
+
+Kant apresenta a solução dessa questão:
+> a razão pura, em suas ideias, não tem em vista objetos particulares situados além do campo da experiência, mas exige apenas a completude no uso do entendimento em conexão com a experiência (P112)
+
+Essa completude só pode ser uma **completude de princípios**, não das intuições e objetos, entretanto:
+1. Para representar esses princípios de maneira determinada, a razão os concebe como a **cognição de um objeto**
+	1. Essa cognição esta, portanto, completamente determinada com respeito a essas regras (da cognição de um objeto)
+2. Entretanto, o objeto é apenas uma **ideia** concebida para trazer a cognição do entendimento o mais próximo possível da completude que essa idéia significa
+
+### §45 - Observação preliminar sobre a dialética da razão pura
+
+Kant reforça que a razão pode ser seduzida a estender seu uso inteiramente para além de toda a experiência, até as coisas em si mesmas (que foi mostrado em [[#§33]] e [[#§34]]).
+
+Entretanto, as próprias categorias não conseguem encontrar nenhuma intuição que pudesse prover de significado e sentido in concreto
+- e portanto não podem prover nenhum **conceito determinado** de uma coisa qualquer, mas enquanto meras **funções lógicas**, podem representar uma coisa **em geral**
+
+Kant como o conceito de noumena (puro seres do entendimento, seres do pensamento) perdem todo o significado, e ainda como a sua busca levam as ideias transcendentais, que inevitavelmente conduzem a ilusão.
+
+O entendimento só pode ser mantido dentro dos limites por meio da instrução científica e à custa de muito esforço
+
+### §46 - Ideias psicológicas ([[KANT Immanuel. Crítica da Razão Pura (1781)]], p. 341 e seguintes)
+
+- Em todas as substâncias o verdadeiro **sujeito**, assim como o próprio **substancial** nos é desconhecido
+	- sujeito: aquilo que resta após serem removidos todos os acidentes (enquantos predicados)
+
+Isso não acontece devido aos limites de nossa compreensão, mas sim, por aspirar conhecer, de maneira determinada, como um objeto dado, aquilo que é apenas uma idéia. 
+
+A pura razão fará exigências que levarão a um retorno a um retorno ao infinito e disso se segue que nada que podemos atingir deve ser tomado como um sujeito ultimo devido a natureza específica do entendimento
+
+> a natureza específica de nosso entendimento consiste em pensar tudo discursivamente, isto é, por meio de conceitos, consequentemente, por meio de meros predicados, dos quais o sujeito absoluto deve estar, portanto, sempre ausente (P114)
+
+Justifica que, portanto, todas as reais propriedades pelas quais conhecemos corpos, são meros acidentes para os quais não dispomos de um sujeito.
+
+Levanta-se a suspeita de que o elemento substancial esteja na consciência de nosso eu (no sujeito pensante), devido ao fato de que parece que todos os predicados do sentido interno referem-se ao eu enquanto sujeito, e este não pode mais ser pensado como predicado de algum outro sujeito. 
+	- Entretanto, esperar que o sujeito absoluto esteja dado na experiência é uma expectativa frustada
+
+O eu não é um conceito, mas sim 
+> uma designação do objeto do sentido interno (P115)
+- não podemos conhecê-lo adicionalmente por meio de nenhum predicado 
+- em si, não possa ser o predicado de nenhuma outra coisa
+- tampouco possa ser um conceito determinado de um sujeito absoluto
+- apenas a referência dos aparecimentos internos ao seu sujeito desconhecido
+
+> [!note] O "eu" como "designação do objeto do sentido interno"
+> O "sentido interno" é a nossa capacidade de perceber nossos próprios estados mentais e psicológicos. Quando Kant afirma que o "eu" é apenas uma "designação do objeto do sentido interno", ele quer dizer que o "eu" funciona como um simples rótulo ou marcador para quem vivencia essas percepções.
+> 
+> Ele não é um conceito descritivo e não nos dá nenhuma informação sobre a _natureza_ desse sujeito. O "eu" serve apenas como um ponto de referência para agrupar os aparecimentos internos, sem jamais nos revelar o "sujeito desconhecido" em si mesmo (a alma).
+
+O conhecimento do ser pensante situa-se completamente fora do conjunto da experiência
+
+### §47
+
+Kant afirma que o conceito de eu pensante (alma) continua vazio e sem nenhuma consequência se não puder provar a sua persistência.
+
+Entretanto, a persistência só pode ser provada com vistas à experiência
+- demonstrado na primeira analogia da experiência em [[KANT Immanuel. Crítica da Razão Pura (1781)]], p. 182)
+
+> Proposições sintéticas a priori como estas jamais podem ser provadas em si mesmas, mas apenas em relação as coisas enquanto objetos de uma experiência possível (P116)
+
+### §48
+
+Uma vez que a vida é a **condição subjetiva de toda nossa possível experiencia**, Kant conclui que **a persistência da alma** só pode ser provada durante a vida de um ser humano
+- porque a morte significa o fim de toda a experiência (no que respeito a alma enquanto um objeto da experiência)
+
+> [!note] Como foi inferida a necessária continuidade da alma após a morte do ser humano
+> Na P116 e P117 existe uma nota sobre o princípio da persistência da memória e sobre como a ausência em suas provas levou ao errôneo conceito de alma como uma substância, e infeririam sua necessária continuidade após a morte do ser humano
+
+### §49
+
+> ... nossas percepções externas não apenas corresponde, mas deve corresponder alguma coisa real fora de nós
+
+Para Kant, isso só pode ser provado para os propósitos da experiência
+- objetos que não podem ser dados por meio de uma experiência não significam nada para nós
+
+Fora de mim, empiricamente, esta aquilo que pode ser intuído no espaço e esse **espaço** (junto com todos os seus aparecimentos)
+- pertence as representações cuja conexão segundo as leis da experiência prova sua verdade objetiva
+- a conexão dos aparecimentos do sentido interno prova a **realidade da minha alma** (como um objeto do sentido interno)
+
+Por meio dos aparecimentos externos, estou consciente da realidade dos corpos enquanto aparecimentos externos no espaço
+
+Por meio da experiência interna, consciente da existência, no tempo, da minha alma, a qual conheço apenas como um objeto do sentido interno por meio de aparecimentos que constituem um estado interno
+- o ser em si mesmo que subjaz a esses aparecimentos é desconhecido
+
+> [!note]
+> ver [[DESCARTES René. Meditações Metafísicas (1641)]] e [[DESCARTES, René. Discurso sobre o Método (1637)]])
+
+Kant irá apontar as limitações do Idealismo Cartesiano ao considerar que a *"experiência carrega consigo critérios seguros para distingui-la da imaginação"*.
+- O idealismo material é superado através da conexão dos aparecimentos com a experiência, pois o conceito fora de nós significa "existência no espaço", portanto, pode se afirmar:
+	- existem corpos fora de nós
+	- eu mesmo existo
+
+Kant afirma que a pergunta "se os corpos (aparecimentos do sentido externo)" existem fora de meu pensamento como corpos na natureza" pode ser respondida **negativamente**
+- entretanto o mesmo ocorre a questão sobre se **eu próprio** (a alma, aparecimento do sentido interno) existo no tempo fora de meu poder de representação
+
+O idealismo formal (antes chamado idealismo transcendental) **supera o idealismo material (ou cartesiano)**, uma vez que trata-se o espaço como uma forma da sensibilidade (lhe conferindo realidade), resta apenas a questão da verdade empírica dos aparecimentos nesse espaço
+
+Para Kant, se o espaço e seus aparecimentos existissem fora de nós não seria possível provar a realidade desses objetos, pois não poderiam ser usados nossos critérios de experiência
+
+### §50 - Ideias cosmológicas ([[KANT Immanuel. Crítica da Razão Pura (1781)]], p. 405 e seguintes)
+
+> [!note] [!note] Material de Apoio (por NotebookLM)
+> com [[KANT Immanuel. Crítica da Razão Pura (1781)]] e [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]] como fontes)
+> as **ideias cosmológicas** são os conceitos que a nossa razão produz quando tenta compreender o universo (o mundo sensível) como um **todo completo e absoluto**
+> 1. **A base é o mundo físico:** Diferente da ideia de alma (que foge dos sentidos), as ideias cosmológicas lidam com coisas que percebemos no mundo, como espaço, tempo, matéria e causalidade.
+> 2. **A busca pelo limite:** O problema é que a nossa razão não se contenta em ir de uma causa para outra. Ela tenta "esticar" essas conexões até o limite máximo para encontrar respostas definitivas. Por exemplo, ela quer saber se o mundo teve um _começo absoluto_ no tempo ou se as coisas são divisíveis até chegar a uma _parte simples e final_.
+> 3. **Por que são "ideias":** Como nós, seres humanos, somos limitados, nunca poderemos vivenciar o "infinito" ou o "início de tudo" na prática. Como essas noções vão muito além de qualquer experiência possível, elas são chamadas de **ideias** (não há nenhum objeto real na nossa experiência que corresponda a elas).
+> Em resumo, é a nossa mente tentando abraçar a totalidade do universo de uma vez só. É exatamente essa tentativa impossível que faz a razão entrar em curto-circuito, gerando as **Antinomias** (os paradoxos inevitáveis que você mencionou no seu resumo)
+
+Kant inicia dizendo que essas ideias são produto da razão pura em seu uso transcendente e seu mais notável fenômeno. E o que mais fortemente atua para despertar a filosofia de seu sono dogmático e impeli-la o difícil afazer da própria critica da razão.
+
+> [!note] Autóctone
+> Baseado no contexto da filosofia kantiana, especialmente sua _História Geral da Natureza e Teoria do Céu_ (1755), "autóctone" refere-se à capacidade de o universo se organizar, desenvolver e mover-se a partir de **leis internas da matéria**, sem intervenção divina direta contínua.
+> Ele usa essa palavra (que significa "nativa" ou "nascida na própria terra") para fazer um contraste direto com a ideia da alma (psicológica).
+> É justamente porque essa Ideia tenta tratar o "todo do universo" como se fosse um objeto normal da experiência que a nossa razão entra em curto-circuito. Esse curto-circuito gera as famosas Antinomias (os paradoxos inevitáveis da razão), e é por isso que ela nos desperta do "sono dogmático".
+
+Kant chama essa ideia cosmológica pois:
+- sempre toma seu objeto **apenas do mundo sensível**
+- não necessita de outro mundo além daquele cujo objeto é um **objeto dos sentidos**
+- é autóctone, não transcendente
+	- não é ainda, sob esse aspecto, uma idéia
+
+Pensar a alma como uma substancia simples equivale a pensa-la como um objeto do tipo que não pode ser representado aos sentidos
+
+A ideia cosmológica expande em tão alto grau a **conexão do condicionado com a sua condição** que a experiência jamais pode igualá-la (seja esta condição matemática ou dinâmica). Sempre será uma ideia cujo objeto jamais pode ser dado adequadamente em nenhuma experiência
+
+### §51
+
+> [!note] Material de Apoio (por NotebookLM)
+> com[[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]] como fonte
+> - Kant usa essas quatro disputas (as Antinomias) para provar que a nossa mente "quebra" quando tenta entender o universo como um todo absoluto.
+> - elas são consideradas plausíveis porque, usando a pura lógica, você consegue criar argumentos racionais e perfeitos tanto para defender a Tese quanto para defender a Antítese. Ou seja, um filósofo pode provar por A+B que o mundo teve um começo, enquanto outro prova com a mesma exatidão que o mundo é infinito.
+> - Como as duas afirmações opostas podem ser "provadas" logicamente sem violar as regras do pensamento, cria-se um conflito insolúvel. Para Kant, esse choque inevitável é a prova definitiva de que a razão ultrapassou seus limites e está tentando julgar algo que não lhe é dado na experiência.
+> - Faz sentido pensar nessas antinomias como um "curto-circuito lógico" que serve justamente para nos alertar sobre os limites da nossa mente
+
+Kant irá demonstrar o sistema de categorias, para ele indispensável ao sistema da razão pura, afirmando que independente quantas são as classes de categoria, não há mais do que quatro dessas ideias transcendentes nela. E estas
+- se referem apenas à **completude absoluta da série de condições** para um dado condicionado
+
+Para Kant, de acordo com essas ideias cosmológicas, só existem quatro tipos de **asserções dialéticas da razão pura**, que se revelam dialéticas pois
+> a cada uma delas se opõe uma asserção contraditória que **está de acordo com princípios igualmente plausíveis** da razão pura (P120)
+Um conflito que só pode ser evitado voltando-se as primeiras fontes da própria razão pura.
+
+Uma antinomia, de modo algum inventada, mas fundada na natureza da razão humana, sendo portanto **"imutável e permanente"**, contendo as quatro proposições juntos de suas opostas
+
+| Nº  | Tese                                                               | Antítese                                                          |
+| --- | ------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| 1   | O mundo, segundo o tempo e o espaço, tem um começo (uma fronteira) | O mundo, segundo o tempo e o espaço, é infinito                   |
+| 2   | Tudo no mundo é constituído pelo simples                           | Não há nada simples, mas tudo é composto                          |
+| 3   | Existem no mundo causas pela liberdade                             | Não há liberdade, mas tudo é natureza                             |
+| 4   | Na série de causas no mundo há algum ser necessário                | Não há nela nada necessário, mas, nessa série, tudo é contingente | 
+
+### §52
+
+TBD
 
 ---
 

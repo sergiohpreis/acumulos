@@ -1,29 +1,6 @@
 ---
 date created: Wednesday, February 11th 2026, 2:29:48 am
-date modified: Wednesday, February 18th 2026, 6:55:19 pm
-type:
-  - book
-finished_at: 2026-02-07T13:40:00
-year: 1641
-authors:
-  - Descartes
-categories:
-  - Filosofia
-  - Descartes
-  - Metafísica
-  - Deus
-  - Idealismo
-  - Racionalismo
-status:
-  - READ
-format:
-  - PHYSICAL
-language:
-  - Português
-shelf:
-  - Filosofia
-published_year: 1639
-edition_year: 1641
+date modified: Sunday, February 22nd 2026, 10:02:16 pm
 tags:
   - filosofia
   - metafisica
@@ -31,10 +8,7 @@ tags:
   - deus
   - idealismo
   - racionalismo
-title: Anotações sobre "Meditações Metafísicas" de Descartes
-description:
-permalink:
-aliases:
+  - study-notes
 draft: false
 date: 2026-02-11
 ---

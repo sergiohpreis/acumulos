@@ -1,15 +1,19 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Sunday, February 22nd 2026, 9:37:22 pm
+date modified: Sunday, February 22nd 2026, 10:02:39 pm
 tags:
   - kant
   - idealismo-alemão
   - metafísica
   - idealismo
+  - filosofia
+  - study-notes
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
 date: 2026-02-22T21:40:00
 ---
+
+>[!info] Anotações de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]
 
 ## Resumo da Apresentação do Tradutor
 

@@ -7,6 +7,8 @@ status:
   - paused
 type:
   - book
+authors:
+  - Délcio Vieira Salomon
 tags:
   - metodologia-cientifica
 title: SALOMON Délcio Vieira. Como Fazer uma Monografia (2004)
@@ -15,8 +17,6 @@ permalink:
 aliases:
 draft: false
 date: 2026-02-11
-authors:
-  - Délcio Vieira Salomon
 ---
 
 Mais detalhes no Repositório de Informação Acessível (RIA):  

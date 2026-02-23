@@ -7,7 +7,6 @@ tags:
   - metafísica
   - idealismo
   - filosofia
-  - study-notes
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
 date: 2026-02-22T21:40:00

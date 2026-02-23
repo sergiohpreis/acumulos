@@ -8,7 +8,6 @@ tags:
   - deus
   - idealismo
   - racionalismo
-  - study-notes
 draft: false
 date: 2026-02-11
 ---

@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Tuesday, February 24th 2026, 10:56:43 am
+date modified: Tuesday, February 24th 2026, 2:17:04 pm
 tags:
   - kant
   - idealismo-alemão
@@ -9,7 +9,7 @@ tags:
   - filosofia
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-24T10:56:00
+date: 2026-02-24T14:20:00
 ---
 
 >[!info] Anotações de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]
@@ -1301,6 +1301,28 @@ Kant afirma que essas idéias (metafísicas) servem apenas para demarcar a front
 > o mundo sensível (ou tudo que constitui a base desse conjunto de aparecimentos) se relaciona ao desconhecido, que eu não conheço por esse meio segundo o que é em si mesmo, mas apenas segundo o que é para mim, isto é, em relação ao mundo do qual sou parte
 
 ### §58
+
+Essa cognição é uma cognição segunda a analogia ("perfeita similaridade de duas relações entre coisas inteiramente dissimilares"), e por meio desta, ainda resta um conceito do ser supremo, determinado com relação ao mundo (e não a nós).
+
+>[!note] Nota na P141 falando sobre a analogia entre a relação jurídica de ações humanas e a relação mecânica de forças motrizes
+
+Kant afirma que se o antropomorfismo objetivo for subtraído do conceito do ser supremo, os ataques de Hume não serão eficientes.
+
+Se inicialmente for concedido como uma hipótese necessária, o conceito deístico de um ser original (pensado por meio de predicados puramente ontológicos como substância, causa e etc), nada pode impedir que se avance até o teísmo, predicando desse ser uma causalidade mediante a razão em relação ao mundo (e não atribuindo essa razão ao próprio ser, ou seja, evitando o antropomorfismo).
+
+Com isso, se evita que usemos a propriedade da razão para pensar deus, mas apenas para pensar o mundo por seu intermédio, portanto, um ser supremo, quanto ao que é em si, nos é desconhecido, e portanto, desse modo, não fazemos um uso transcendente dos conceitos da razão. Para Kant, ao fazer esse uso transcendente, desviamos a verdadeira destinação de nossas observações, que deve ser:
+> um estudo da mera natureza por meio da razão e não uma presunçosa derivação de seus aparecimentos a partir de uma razão suprema (P143)
+
+O fraqueza de nossos conceitos se expressa no fato de pensarmos o mundo como se ele derivasse de uma razão suprema quanto a sua existência e determinação interna. Nós conhecemos a constituição desse mundo, sem presumir que queremos determina a de sua causa originária em si mesmo, entretanto, situamos o fundamento dessa constituição (a forma racional do mundo), na relação da causa suprema com o mundo, sem considerar o mundo, por si só, suficiente para isso.
+
+> [!note] Na P143 uma nota sobre a relação da causalidade da causa originária suprema e a relação da razão humana com às suas obras de arte
+
+Kant afirma que as dificuldades que parecem se opor ao teísmo desaparecem ao se conjugar ao princípio de Hume: *"não impelir dogmaticamente o uso da razão para além do campo de toda experiência possível"* um outro princípio não percebido por Hume:
+> não considerar o campo da experiência possível como algo que se fecha em suas próprias fronteiras diante da razão (P144)
+
+Uma critica da razão indica o verdadeiro meio termo entre o dogmatismo que Hume combateu e o ceticismo que ele quis introduzir em seu lugar, um meio-termo que se pode determinar precisamente segundo princípios.
+
+### §59
 
 ---
 

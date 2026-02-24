@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Monday, February 23rd 2026, 9:05:49 pm
+date modified: Monday, February 23rd 2026, 9:42:40 pm
 tags:
   - kant
   - idealismo-alemão
@@ -16,7 +16,7 @@ date: 2026-02-22T21:40:00
 
 ## Resumo da Apresentação do Tradutor
 
-Em "Prolegômenos", Kant distingue a sua posição dos demais idealismos de Berkley e Descartes, com o que vai chamar de "idealismo transcendental (ou idealismo crítico)". De acordo com o tradutor, duas razões centrais levaram Kant a escrever essa obra
+Em "Prolegômenos", Kant distingue a sua posição dos demais idealismos de Berkeley e Descartes, com o que vai chamar de "idealismo transcendental (ou idealismo crítico)". De acordo com o tradutor, duas razões centrais levaram Kant a escrever essa obra
 
 1. Corrigir graves mal entendidos acerca da **natureza de sua investigação**
 2. Deixar claros os objetivos e as etapas de exposição da crítica, assim como seus **elementos essenciais**
@@ -245,7 +245,7 @@ O cerne da questão esta na **diferença entre os aparecimentos e as coisas em s
 - Argumentação sobre a [[#Observação 1|realidade objetiva indubitável das proposições da geometria]]
 - Explora [[#Observação 2|o que separa o Idealismo Transcendental (ou Crítico/Formal) de Kant do Idealismo Material]]
 - **[[#Observação 3|Argumentação contra a objeção]]** de que sua doutrina transformaria todo o mundo sensível em pura ilusão 
-	- afastamento de [[#Observação 3|Descartes]] e reafirmação do afastamento de [[#Observação 3|Berkley]]
+	- afastamento de [[#Observação 3|Descartes]] e reafirmação do afastamento de [[#Observação 3|Berkeley]]
 
 ### §6
 
@@ -400,7 +400,7 @@ Kant afirma que a sua doutrina da idealidade do espaço e do tempo, longe de con
 
 > o aparecimento gera verdade quando usado na experiência, mas, tão logo avança além da fronteira desta e se torna **transcendente**, nada produz senão pura ilusão (P66)
 
-Kant busca obter um afastamento da sua teoria (que ele mesmo denominou de "idealismo transcendental") ao "idealismo empírico de Descartes" e ao "idealismo místico e visionário" de Berkley, afirmando que seu idealismo não diz respeito a existência das coisas, mas sim a representação sensorial das coisas, a qual pertencem sobretudo espaço e tempo, que como todos os aparecimento, não são coisas, e tão pouco determinações pertencentes as coisas em si, mas meros modos de representação.
+Kant busca obter um afastamento da sua teoria (que ele mesmo denominou de "idealismo transcendental") ao "idealismo empírico de Descartes" e ao "idealismo místico e visionário" de Berkeley, afirmando que seu idealismo não diz respeito a existência das coisas, mas sim a representação sensorial das coisas, a qual pertencem sobretudo espaço e tempo, que como todos os aparecimento, não são coisas, e tão pouco determinações pertencentes as coisas em si, mas meros modos de representação.
 
 > [!info] Significado da palavra "Transcendental" para Kant
 > "nunca significa uma relação de nossa cognição com coisas, mas apenas com nossa faculdade de cognição" (P67)
@@ -1204,6 +1204,8 @@ Essa **unidade do modo de cognição** não deve ser considerada como inerente a
 
 Portanto, se usarmos o conhecimento dessa forma
 > tudo isso é simplesmente uma incompreensão na estimativa da verdadeira vocação de nossa razão e de seus princípios, e uma dialética que, em parte, confunde o uso da razão na experiência e, em parte, põe a razão em conflito consigo mesma
+
+## Conclusão. Da determinação das fronteiras da razão pura
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Monday, February 23rd 2026, 9:42:40 pm
+date modified: Tuesday, February 24th 2026, 10:56:43 am
 tags:
   - kant
   - idealismo-alemão
@@ -9,7 +9,7 @@ tags:
   - filosofia
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-22T21:40:00
+date: 2026-02-24T10:56:00
 ---
 
 >[!info] Anotações de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]
@@ -1206,6 +1206,101 @@ Portanto, se usarmos o conhecimento dessa forma
 > tudo isso é simplesmente uma incompreensão na estimativa da verdadeira vocação de nossa razão e de seus princípios, e uma dialética que, em parte, confunde o uso da razão na experiência e, em parte, põe a razão em conflito consigo mesma
 
 ## Conclusão. Da determinação das fronteiras da razão pura
+
+### §57
+
+#### A necessidade de uma determinação formal das fronteiras do uso da razão estabelecida a partir de princípios
+
+Kant afirma que seria um erro "não admitirmos nenhuma coisa em si mesma" ou "querer apresentar nossa experiência como o único modo de conhecimento das coisas", ou seja, "querer tomar os princípios da possibilidade da experiência como condições universais das coisas em si mesmas"
+- os princípios que limitam o uso da razão a experiência poderiam se tornar eles próprios transcendentes
+	- tornar os limites da razão em limites da possibilidade das coisas em si mesmas
+		- Kant afirma que "Diálogos de Hume" é um exemplo disso
+
+Por isso, é necessário uma cuidadosa **crítica que defenda as fronteiras de nossa razão** mesmo com respeito a seu uso empírico, pondo um termo as suas pretenções.
+
+Kant irá mostrar as falhas e a origem do ceticismo, afirmando que o mesmo brotou "da metafísica e de sua dialética indisciplinada". A partir disso, uma confusão surgiu na ciência, que "não pode determinar até que ponto se deve confiar na razão"
+- Portanto, é necessário por meio de **"uma determinação formal das fronteiras do uso da razão estabelecida a partir de princípios"** remediar essa confusão
+
+#### A distinção entre limites e fronteiras e os limites das ciências
+
+Kant demonstra como "a experiência jamais satisfaz inteiramente a razão" através dos exemplos da busca pela natureza da alma, questões cosmológica e da existência de um ser superior.
+
+- Fronteira (em coisas extensas): pressupõem um espaço que se encontra fora de uma locação fixa e que a encerra
+- Limites: não requerem nada desse tipo, mas são meras negações que afetam uma grandeza na medida em que ela não possui absoluta completude
+
+Kant distingue entre fronteiras e limites, mostrando que a nossa razão vê ao seu redor como que um "espaço para a cognição das coisas em si mesmas" (mesmo limitada aos aparecimentos), afirmando que enquanto "a cognição da razão for homogênea", não se pode pensar em nenhuma fronteira determinada para ela
+
+Afirma que na matemática e ciência natural, a razão reconhece limites, mas não fronteiras, reconhece que, fora dela, há algo que jamais poderá alcançar, mas não que ela própria, em sua evolução anterior, vá em algum ponto completar-se
+- Portanto, não existe aproximação entre essas ciências (matemática, ciência pura e metafísica)
+
+#### Como a metafísica leva as fronteiras da razão pura
+
+A metafísica por outro lado, mediante as tentativas dialéticas da razão pura, nos conduz a fronteiras, e:
+> as ideias transcendentais, exatamente porque são inescapáveis e, contudo, jamais se deixam realizar, server não apenas para nos mostrar efetivamente as fronteiras do uso puro da razão, mas também o modo de determiná-las (P136)
+
+Kant irá afirma que a metafísica não pode ser vista como produto de uma escolha arbitrária ou como uma extensão acidental da evolução das experiências, ela esta colocada em nós (talvez mais do que qualquer outra ciência) pela natureza
+
+A razão vê que o mundo sensível não pode conter a completude necessária para alimentar as ideias transcendentais. Para se ver satisfeita quando a seu anseio pela "integralidade na progressão do condicionado a suas condições", a cognição busca por uma cognição das coisas em si mesmas.
+
+Uma vez que as ideias transcendentais conduzem até o contato do espaço pleno (da experiência) com o vazio (do qual nada podemos saber, os noumena), podemos também determinar as **fronteiras da razão pura**
+
+#### A conexão do conhecido com o completo desconhecido (exemplo do conceito deístico)
+
+Como a razão lida com a conexão entre o que conhecemos e o que não conhecemos e nunca iremos conhecer?
+- nessa conexão entre o conhecido e o desconhecido, esse último, permanecerá como tal, entretanto, seus conceitos podem ser determinados
+
+Devemos conceber puros noumenas (um **ser imaterial**, um **mundo inteligível** e o **mais elevado dos seres**), para que a razão possa encontrar preenchimento e satisfação, pois na homogeneidade dos fundamentos que derivam os aparecimentos nunca encontraremos, uma vez que esses noumenas se referem a algo distinto (e portanto, heterogêneo por completo).
+
+Kant aponta a necessidade, portanto, de pensar essa conexão (entre o conhecido e o desconhecido), "por meio de conceitos que expressem a relação desses seres com o mundo inteligível"
+- pensar essa relação através de conceitos puros do entendimento, ou por meio das propriedades tomadas de empréstimo do mundo sensível não leva a nenhuma determinação, apenas leva a fenômenos do mundo sensível e a conceitos sem significados
+
+Para isso, Kant toma como exemplo o **conceito de ser supremo** (*deístico*), que é um **conceito puro da razão** e "representa uma coisa que contém toda a realidade, entretanto, demonstrado que sem poder determinar uma única parte dessa (pois para isso seria necessário um exemplo extraído do mundo sensível (que seria um objeto dos sentidos e não algo heterogêneo).
+
+Ao tomar esse conceito deístico, Kant demonstra que a impossibilidade de lhe atribuir um conceito de um entendimento, porque o entendimento humano é fornecido por intermédio dos sentidos
+- se separa-se o entendimento da sensibilidade para obter um entendimento puro, nada resta a não ser a **mera forma do pensamento**
+- portanto, seria necessário um outro entendimento que intuísse objetos, o que seria impossível, pois *"o entendimento humano é discursivo e só pode ter cognições por meio de conceitos gerais (P139)"*
+
+O mesmo acontece ao atribuir uma vontade a esse ser supremo
+- o conceito de vontade que possuímos só pode ser extraído da experiência interna, portanto, na sensibilidade. Portanto, existe uma dependência de mim mesmo nessa realização
+
+#### As objeções de Hume ao deísmo e ao teísmo (antropomorfismo)
+
+>![note] Antropomorfismo (por Google)
+> forma de pensamento comum a diversas crenças religiosas que atribui a deuses, a Deus ou a seres sobrenaturais comportamentos e pensamentos característicos do ser humano [A crítica ao antropomorfismo religioso foi um tema frequente na filosofia desde os seus primórdios na Grécia.].
+> visão de mundo ou doutrina filosófica que, buscando a compreensão da realidade circundante, atribui características e comportamentos típicos da condição humana às formas inanimadas da natureza ou aos seres vivos irracionais.
+
+Kant reflete sobre as objeções de Hume contra o deísmo são e contra o teísmo, apontando que com relação ao primeiro, são fracas e só atingem os argumentos, nunca a própria tese da asserção deísta e quanto ao segundo, são argumentos mais fortes e em alguns casos, irrefutáveis, para Kant
+> Hume sempre insiste em que, por meio do mero conceito se um ser originário ao qual não atribuímos nenhum predicado exceto os ontológicos (eternidade, onipresença, onipotência), não pensamos realmente nada de determinado, mas seria preciso adicionar propriedade que pudessem levar a um conceito in concreto (P139)
+
+Portanto, para Hume, é necessário dizer como a causalidade de uma causa é constituída (por exemplo, por entendimento e vontade).
+
+Para Kant, os argumentos perigosos de Hume contra o teísmo relacionam-se ao **antropomorfismo** que ele (Hume) afirma que é inseparável do teísmo e o torna **autocontraditório**. Se fosse deixado de lado, arrastaria consigo o teísmo, restando apenas o deísmo
+- *"que não permite realizar nada, de nada nos pode ser útil e não pode servir de fundamento para a religião e a moral" (P140)*
+
+Se o antropomorfismo fosse inevitável, as provas da existência de um ser supremo poderiam ser todas serem admitidas
+- entretanto, o conceito desse ser jamais poderia ser determinado por nós sem contradição
+
+#### A fronteira de todo o uso permitido da razão
+
+Os juízos transcendentes da **razão pura** com **a ordem** podem coexistir, apenas na **fronteira de todo o uso permitido da razão**
+- não avançando até conceitos que se situam fora do campo de uso imanente (empírico)
+
+Kant afirma que essas idéias (metafísicas) servem apenas para demarcar a fronteira da razão humana
+- não estender desmesuradamente a cognição a partir da experiência
+	- só nos resta conhecer o mundo
+- não avançar além da fronteira da experiência
+	- não pretender julgar as coisas exteriores a ela como em si mesmas
+
+> Mantemo-nos, porém, nessa fronteira ao limitarmos nosso juízo apenas à relação que o mundo pode ter com um ser cujo próprio conceito está fora de toda a cognição que somos capaz de atingir no interior do mundo (P140)
+- evita-se o antropomorfismo dogmático
+	- não atribuímos ao ser supremo em si mesmo nenhuma das propriedades pelas quais pensamos os objetos da experiência
+- permite-se o antropomorfismo simbólico
+	- atribuímos a relação desse ser com o mundo
+	- concerne apenas à nossa linguagem e não ao próprio objeto
+
+> o mundo sensível (ou tudo que constitui a base desse conjunto de aparecimentos) se relaciona ao desconhecido, que eu não conheço por esse meio segundo o que é em si mesmo, mas apenas segundo o que é para mim, isto é, em relação ao mundo do qual sou parte
+
+### §58
 
 ---
 

@@ -10,7 +10,7 @@ tags:
 ---
 
 > [!note] Gerado por NotebookLM com base em:
-> - [[Anotações sobre "Prolegômenos" de Kant]]
+> - [[Resumo de "Prolegômenos" de Kant]]
 > - [[KANT Immanuel. Crítica da Razão Pura (1781)]]
 > - [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]
 

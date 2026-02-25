@@ -1,15 +1,15 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Wednesday, February 25th 2026, 1:15:38 am
+date modified: Wednesday, February 25th 2026, 12:48:02 pm
 tags:
   - kant
   - idealismo-alemão
   - metafísica
   - idealismo
   - filosofia
+  - epistemologia
 draft: false
-title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-25T01:16:00
+date: 2026-02-25T12:50:00
 ---
 
 >[!info] Anotações de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]
@@ -1207,6 +1207,18 @@ Portanto, se usarmos o conhecimento dessa forma
 
 ## Conclusão. Da determinação das fronteiras da razão pura
 
+### (TL;DR)
+
+- [[#A necessidade de uma determinação formal das fronteiras do uso da razão estabelecida a partir de princípios]]
+- [[#A distinção entre limites e fronteiras e os limites das ciências]]
+- [[#Como a metafísica leva as fronteiras da razão pura]]
+- [[#A conexão do conhecido com o completo desconhecido (exemplo do conceito deístico)]]
+- [[#As objeções de Hume ao deísmo e ao teísmo (antropomorfismo)]]
+- [[#A fronteira de todo o uso permitido da razão]]
+- A crítica da razão como [[#§58|o meio termo entre o dogmatismo que Hume combateu e o ceticismo que ele quis introduzir em seu lugar]]
+- Como a razão procede para [[#§59|demarcar as fronteiras do entendimento]] em relação aos dois campos
+- A solução analítica de Kant para a questão principal "[[#§60|Como é possível a metafísica em geral?]]"
+
 ### §57
 
 #### A necessidade de uma determinação formal das fronteiras do uso da razão estabelecida a partir de princípios
@@ -1304,13 +1316,13 @@ Kant afirma que essas idéias (metafísicas) servem apenas para demarcar a front
 
 Essa cognição é uma cognição segunda a analogia ("perfeita similaridade de duas relações entre coisas inteiramente dissimilares"), e por meio desta, ainda resta um conceito do ser supremo, determinado com relação ao mundo (e não a nós).
 
->[!note] Nota na P141 falando sobre a analogia entre a relação jurídica de ações humanas e a relação mecânica de forças motrizes
+>[!note] Nota na **P141** falando sobre a analogia entre a relação jurídica de ações humanas e a relação mecânica de forças motrizes
 
 Kant afirma que se o antropomorfismo objetivo for subtraído do conceito do ser supremo, os ataques de Hume não serão eficientes.
 
-Se inicialmente for concedido como uma hipótese necessária, o conceito deístico de um ser original (pensado por meio de predicados puramente ontológicos como substância, causa e etc), nada pode impedir que se avance até o teísmo, predicando desse ser uma causalidade mediante a razão em relação ao mundo (e não atribuindo essa razão ao próprio ser, ou seja, evitando o antropomorfismo).
+Se inicialmente for concedido como uma hipótese necessária, o conceito **deístico** de um ser original (pensado por meio de predicados puramente ontológicos como substância, causa e etc), nada pode impedir que se avance até o **teísmo**, predicando desse ser uma causalidade mediante a razão em relação ao mundo (e não atribuindo essa razão ao próprio ser, ou seja, evitando o antropomorfismo).
 
-Com isso, se evita que usemos a propriedade da razão para pensar deus, mas apenas para pensar o mundo por seu intermédio, portanto, um ser supremo, quanto ao que é em si, nos é desconhecido, e portanto, desse modo, não fazemos um uso transcendente dos conceitos da razão. Para Kant, ao fazer esse uso transcendente, desviamos a verdadeira destinação de nossas observações, que deve ser:
+Com isso, se evita que usemos a propriedade da razão para pensar deus, mas apenas para **pensar o mundo por seu intermédio,** portanto, um ser supremo, quanto ao que é em si, nos é desconhecido, e portanto, desse modo, não fazemos um uso transcendente dos conceitos da razão. Para Kant, ao fazer esse uso transcendente, desviamos a verdadeira destinação de nossas observações, que deve ser:
 > um estudo da mera natureza por meio da razão e não uma presunçosa derivação de seus aparecimentos a partir de uma razão suprema (P143)
 
 O fraqueza de nossos conceitos se expressa no fato de pensarmos o mundo como se ele derivasse de uma razão suprema quanto a sua existência e determinação interna. Nós conhecemos a constituição desse mundo, sem presumir que queremos determina a de sua causa originária em si mesmo, entretanto, situamos o fundamento dessa constituição (a forma racional do mundo), na relação da causa suprema com o mundo, sem considerar o mundo, por si só, suficiente para isso.
@@ -1357,8 +1369,10 @@ Ao refletir sobre o benefício prático que pode ter uma ciência especulativa, 
 Kant também fala sobre a solução das questões que aparecem na [[KANT Immanuel. Crítica da Razão Pura (1781)|Crítica]] (páginas 647 a 668), onde conclui que:
 > ... a completa unidade do uso do entendimento com vistas a uma experiência possível unificada (em um sistema) só poderia lhe ser atribuída em relação à razão, e com isso também a experiência se sujeita indiretamente à legislação da razão (P148)
 
-A solução analítica de Kant para a questão principal "Como é possível a metafísica em geral?"
+A solução analítica de Kant para a questão principal "**Como é possível a metafísica em geral?**"
 > ascendendo dali onde seu uso, pelo menos nas consequências, está efetivamente dado, até os **fundamentos de sua possibilidade**
+
+## Solução da questão geral dos prolegômenos. Como é possível a metafísica como ciência?
 
 ---
 

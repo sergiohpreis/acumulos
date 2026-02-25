@@ -29,7 +29,7 @@ A investigação é articulada em torno de três interrogações fundamentais qu
 
 Kant define a Dialética Transcendental como a **"lógica da ilusão"**. Essa ilusão não é um erro fortuito, mas uma tendência inerente à razão de ultrapassar as fronteiras da experiência possível. O entendimento é tentado ao **"uso transcendente"** de seus conceitos, tentando aplicar categorias a objetos que não podem ser dados em nenhuma intuição sensorial. Opondo-se ao **"uso imanente"** (restrito aos limites da experiência), o uso transcendente revela-se vazio e estéril.
 
-Sobre a necessidade de monitorar essa tendência da razão, Kant assevera na Seção [[Anotações sobre "Prolegômenos" de Kant#§35|§35]]:
+Sobre a necessidade de monitorar essa tendência da razão, Kant assevera na Seção [[Resumo de "Prolegômenos" de Kant#§35|§35]]:
 
 "Sempre é mais fácil moderar sua ousadia que remediar sua lassidão" (§35, P95).
 
@@ -37,9 +37,9 @@ Neste contexto, a **lassidão** (_lassitudo_) refere-se ao estado de exaustão o
 
 ## 3. A Natureza das Ideias Transcendentais
 
-As **Ideias Transcendentais** não são meros conceitos do entendimento (_Verstand_), mas produtos da razão pura (_Vernunft_). Enquanto as categorias são aplicadas aos **aparecimentos** (_Erscheinungen_) para gerar experiência, as Ideias surgem da necessidade lógica de buscar a totalidade incondicionada ([[Anotações sobre "Prolegômenos" de Kant#§33|§33]]).
+As **Ideias Transcendentais** não são meros conceitos do entendimento (_Verstand_), mas produtos da razão pura (_Vernunft_). Enquanto as categorias são aplicadas aos **aparecimentos** (_Erscheinungen_) para gerar experiência, as Ideias surgem da necessidade lógica de buscar a totalidade incondicionada ([[Resumo de "Prolegômenos" de Kant#§33|§33]]).
 
-A "tábua dos conceitos transcendentais da razão" ([[Anotações sobre "Prolegômenos" de Kant#§39|§39]]) serve como o **fio condutor** para esta seção. Kant demonstra que as Ideias da razão derivam diretamente das formas lógicas dos silogismos. A razão, ao buscar o incondicionado para cada tipo de síntese lógica, gera três classes de Ideias:
+A "tábua dos conceitos transcendentais da razão" ([[Resumo de "Prolegômenos" de Kant#§39|§39]]) serve como o **fio condutor** para esta seção. Kant demonstra que as Ideias da razão derivam diretamente das formas lógicas dos silogismos. A razão, ao buscar o incondicionado para cada tipo de síntese lógica, gera três classes de Ideias:
 
 1. **Ideia Psicológica:** Derivada do silogismo categórico; busca o sujeito absoluto (a alma).
 2. **Ideia Cosmológica:** Derivada do silogismo hipotético; busca a totalidade das condições dos aparecimentos (o mundo).
@@ -63,7 +63,7 @@ Diferente das Ideias precedentes, o Ideal refere-se à Ideia de uma totalidade d
 
 ## 5. A Distinção entre Phenomena e Noumena na Dialética
 
-Kant critica os filósofos antigos ([[Anotações sobre "Prolegômenos" de Kant#§32|§32]]) por atribuírem realidade apenas aos seres do entendimento (**noumena**) e rebaixarem os aparecimentos (**phenomena**) à mera ilusão — erro similar ao "idealismo material ou visionário" de Berkeley. O Idealismo Crítico, por outro lado, mantém a existência da coisa em si, mas nega a possibilidade de sua cognição determinada.
+Kant critica os filósofos antigos ([[Resumo de "Prolegômenos" de Kant#§32|§32]]) por atribuírem realidade apenas aos seres do entendimento (**noumena**) e rebaixarem os aparecimentos (**phenomena**) à mera ilusão — erro similar ao "idealismo material ou visionário" de Berkeley. O Idealismo Crítico, por outro lado, mantém a existência da coisa em si, mas nega a possibilidade de sua cognição determinada.
 
 |   |   |   |
 |---|---|---|
@@ -77,4 +77,4 @@ Kant critica os filósofos antigos ([[Anotações sobre "Prolegômenos" de Kant#
 
 A metafísica é uma **disposição natural** porque a razão humana é impelida por sua própria natureza a buscar respostas incondicionadas. Contudo, para que ela se torne **ciência**, deve cessar o uso "vazio e estéril" do entendimento que converte representações em coisas.
 
-A Dialética Transcendental ensina que o conhecimento está restrito ao campo da experiência possível. O autoconhecimento da razão impõe a fronteira exata: o entendimento deve ser limitado ao uso imanente. A tese central da Revolução Copernicana de Kant é reafirmada ([[Anotações sobre "Prolegômenos" de Kant#§36|§36]]-[[Anotações sobre "Prolegômenos" de Kant#§37|37]]): **o entendimento não extrai suas leis da natureza, mas as prescreve a ela.** A ordem e a regularidade que encontramos nos aparecimentos são introduzidas pelo sujeito cognoscente através das condições de possibilidade da experiência. Assim, a metafísica científica não é o conhecimento do suprassensível, mas a ciência dos limites da razão pura.
+A Dialética Transcendental ensina que o conhecimento está restrito ao campo da experiência possível. O autoconhecimento da razão impõe a fronteira exata: o entendimento deve ser limitado ao uso imanente. A tese central da Revolução Copernicana de Kant é reafirmada ([[Resumo de "Prolegômenos" de Kant#§36|§36]]-[[Resumo de "Prolegômenos" de Kant#§37|37]]): **o entendimento não extrai suas leis da natureza, mas as prescreve a ela.** A ordem e a regularidade que encontramos nos aparecimentos são introduzidas pelo sujeito cognoscente através das condições de possibilidade da experiência. Assim, a metafísica científica não é o conhecimento do suprassensível, mas a ciência dos limites da razão pura.

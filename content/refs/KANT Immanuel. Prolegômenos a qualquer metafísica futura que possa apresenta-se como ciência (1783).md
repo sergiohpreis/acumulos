@@ -12,6 +12,7 @@ categories:
   - Filosofia
   - Kant
   - Filosofia Alemã
+  - Epistemologia
 pages: 171
 isbn: 9788574482279
 publisher:
@@ -31,15 +32,16 @@ tags:
   - filosofia
   - kant
   - filosofia-alemã
+  - epistemologia
 draft: false
-date: 2026-02-23T21:08:29.019817684-03:00
+date: 2026-02-25T12:54:42.728294252-03:00
 ---
 
 ## Resumo
 
-- Sessões: 64
-- Páginas lidas: 339
-- Tempo total: 37h 31m
+- Sessões: 71
+- Páginas lidas: 372
+- Tempo total: 41h 34m
 - Avaliação: ⭐⭐⭐⭐ (4/5)
 - Autores: Immanuel Kant
 - Status: Lendo
@@ -48,6 +50,13 @@ date: 2026-02-23T21:08:29.019817684-03:00
 
 ## Sessões
 
+- **2026-02-25 12:30 - 12:45** - Produzindo TL;DR para "Conclusão. Da determinação das fronteiras da razão pura" - 0h15m
+- **2026-02-25 00:30 - 01:15** - Páginas 146-150 (4 páginas) - Continuando a leitura + fichamento de "Conclusão. Da determinação das fronteiras da razão pura". Finalizando o resumo de §60 - 0h45m
+- **2026-02-24 19:00 - 19:30** - Páginas 144-145 (1 páginas) - Continuando a leitura + fichamento de "Conclusão. Da determinação das fronteiras da razão pura". Finalizando o resumo de §59 - 0h30m
+- **2026-02-24 13:37 - 14:20** - Páginas 141-144 (3 páginas) - Continuando a leitura + fichamento de "Conclusão. Da determinação das fronteiras da razão pura". Finalizando o resumo de §58 - 0h42m
+- **2026-02-24 10:08 - 10:55** - Páginas 134-141 (7 páginas) - Continuando a leitura + fichamento de "Conclusão. Da determinação das fronteiras da razão pura". Finalizando o resumo de §57 - 0h46m
+- **2026-02-24 08:09 - 08:36** - Páginas 134-138 (4 páginas) - Continuando a leitura + fichamento de "Conclusão. Da determinação das fronteiras da razão pura". Continuando o resumo de §57 - 0h26m
+- **2026-02-23 21:46 - 22:23** - Páginas 133-141 (8 páginas) - Iniciando a leitura + fichamento de "Conclusão. Da determinação das fronteiras da razão pura". Iniciando o resumo de §57 (já com alguns grifos feitos nas páginas, precisa continuar) - 0h36m
 - **2026-02-23 20:32 - 21:08** - Produzindo e finalizando TLDR para “Terceira parte da questão transcendental principal. Como é possível a metafísica em geral?” - 0h36m
 - **2026-02-23 19:54 - 20:30** - Páginas 129-132 (3 páginas) - Finalizando a leitura + fichamento de "Terceira parte da questão transcendental principal. Como é possível a metafísica em geral?". Finalizando o resumo de §54, §55 - Ideia teológica (Crítica, p. 517 e seguintes) e §56 - Nota geral às ideias transcendentais - 0h35m
 - **2026-02-23 19:02 - 19:34** - Páginas 124-129 (5 páginas) - Continuando a leitura + fichamento de "Terceira parte da questão transcendental principal. Como é possível a metafísica em geral?". Finalizando o resumo de §53 - 0h32m

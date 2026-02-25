@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Tuesday, February 24th 2026, 2:17:04 pm
+date modified: Wednesday, February 25th 2026, 1:15:38 am
 tags:
   - kant
   - idealismo-alemão
@@ -9,7 +9,7 @@ tags:
   - filosofia
 draft: false
 title: Anotações sobre "Prolegômenos" de Kant
-date: 2026-02-24T14:20:00
+date: 2026-02-25T01:16:00
 ---
 
 >[!info] Anotações de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]
@@ -1323,6 +1323,42 @@ Kant afirma que as dificuldades que parecem se opor ao teísmo desaparecem ao se
 Uma critica da razão indica o verdadeiro meio termo entre o dogmatismo que Hume combateu e o ceticismo que ele quis introduzir em seu lugar, um meio-termo que se pode determinar precisamente segundo princípios.
 
 ### §59
+
+Kant busca explicar *"como a razão procede para demarcar as fronteiras do entendimento em relação aos dois campos (P144)"* (mundo sensível vs razão).
+
+O que deve estabelecer a fronteira, se encontra fora dela, e portanto, para nós, é um espaço vazio no que se refere a determinação da natureza desses sereis inteligíveis, portanto, se "excluirmos conceitos dogmaticamente determinados" não podemos ultrapassar o campo da experiência possível.
+
+Uma vez que uma fronteira é algo positivo, que pertence tanto ao seu interior quanto ao espaço fora da totalidade dada, a razão compartilha de uma cognição real, positiva, ao seu expandir até a fronteira, desde que não tente passa-la, encontrará um espaço vazio onde pode pensar formas para coisas mas não as próprias coisas
+
+A razão nem se encerra no interior do mundo sensível nem fica a deriva fora dele, "limita-se somente à relação ente aquilo que está fora dela e o que está contido em seu interior".
+
+Kant demonstra como a teologia natural é um conceito da fronteira da razão humana, e como faz o uso da ideia de ser supremo para "servir-se da relação entre o mundo e uma razão independente (P145)" (Antropomorfismo), inventando um ser e o determinando, apenas por analogia.
+
+Kant elabora uma proposição como resultado de toda a [[KANT Immanuel. Crítica da Razão Pura (1781)|Crítica]]:
+> que, com todos os seus princípios a priori, a razão nos ensina apenas sobre objetos da experiência possível e, mesmo destes, apenas o que pode ser conhecido na experiência (P145)
+
+Afirmando que essa limitação não impede que a razão seja conduzida até a **fronteira objetiva da experiência**, que Kant define como:
+> a relação com algo que não pode ser ele próprio objeto de experiência, mas que deve, não obstante, ser o supremo fundamento de toda a experiência, sem, contudo, nos ensinar algo sobre esse fundamento em si mesmo, mas apenas em relação ao seu uso (da razão) completo e dirigido aos fins mais elevados no campo da experiência possível (P145)
+
+### §60
+
+Kant busca investigar o problema de descobrir o propósito natural ao qual pode estar dirigida a disposição da nossa razão a conceitos transcendentes, apontando que tal investigação é de fato incerta e apenas conjectural e se encontra na antropologia, fora do sistema da metafísica.
+
+Kant acredita que
+> essa disposição natural tem a finalidade de tornar nossa compreensão suficientemente **livre das cadeias da experiência** e dos limites da mera contemplação da natureza para que ela veja ao menos se abrir diante de si um campo que contém apenas **objetos para o entendimento humano** que nenhuma sensibilidade pode alcançar (P146)
+
+Portanto, o objetivo da razão não é nos ocupar especulativamente desses objetos, mas sim, com princípios práticos, que sem esse espaço para suas expectativas e esperanças, "não poderiam expandir-se à universalidade que a razão inevitavelmente requer com respeito a moral (P147)".
+
+Através de uma análise das ideias psicológicas, cosmológicas e teológica, conclui que:
+> As ideias transcendentais servem, portanto, se não para nos instruir positivamente, pelo menos para negar as imprudentes afirmações do materialismo, naturalismo e fatalismo (P147)
+
+Ao refletir sobre o benefício prático que pode ter uma ciência especulativa, Kant reflete que essa relação situa-se dentro das fronteiras da filosofia, no qual "o uso especulativo da razão em metafísica deve necessariamente formar uma unidade com seu uso prático na moral (P148)". Portanto, em uma metafísica considerada como disposição natural, a dialética da razão pura não deve ser explorada apenas como uma ilusão que precisa ser dissolvida, mas também como uma instituição natural.
+
+Kant também fala sobre a solução das questões que aparecem na [[KANT Immanuel. Crítica da Razão Pura (1781)|Crítica]] (páginas 647 a 668), onde conclui que:
+> ... a completa unidade do uso do entendimento com vistas a uma experiência possível unificada (em um sistema) só poderia lhe ser atribuída em relação à razão, e com isso também a experiência se sujeita indiretamente à legislação da razão (P148)
+
+A solução analítica de Kant para a questão principal "Como é possível a metafísica em geral?"
+> ascendendo dali onde seu uso, pelo menos nas consequências, está efetivamente dado, até os **fundamentos de sua possibilidade**
 
 ---
 

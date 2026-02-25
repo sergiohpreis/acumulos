@@ -3,7 +3,7 @@ title: KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apre
 authors:
   - Immanuel Kant
 status:
-  - READING
+  - READ
 rating: 4
 published_year: 1783
 categories:
@@ -23,7 +23,7 @@ shelf:
   - Filosofia
 format:
   - PHYSICAL
-finish_date: 2026-02-16
+finish_date: 2026-02-25
 edition_year: 2022
 tags:
   - livros
@@ -34,22 +34,24 @@ tags:
   - filosofia-alemã
   - epistemologia
 draft: false
-date: 2026-02-25T16:31:22.9348486-03:00
+date: 2026-02-25T19:45:38.500107267-03:00
 ---
 
 ## Resumo
 
-- Sessões: 73
-- Páginas lidas: 388
-- Tempo total: 42h 47m
+- Sessões: 75
+- Páginas lidas: 401
+- Tempo total: 44h 17m
 - Avaliação: ⭐⭐⭐⭐ (4/5)
 - Autores: Immanuel Kant
-- Status: Lendo
+- Status: Lido
 - Total de páginas: 171
-- Finalizado em: 16/02/2026
+- Finalizado em: 25/02/2026
 
 ## Sessões
 
+- **2026-02-25 19:10 - 19:40** - Páginas 168-171 (3 páginas) - Finalizando a leitura + fichamento de "Apêndice. Do que pode ser feito para tornar real a metafísica como ciência" - 0h30m
+- **2026-02-25 18:00 - 19:00** - Páginas 159-167 (8 páginas) - Iniciando a leitura + fichamento de "Apêndice. Do que pode ser feito para tornar real a metafísica como ciência". - 1h00m
 - **2026-02-25 15:48 - 16:30** - Páginas 151-158 (7 páginas) - Finalizando fichamento de "Solução da questão geral dos prolegômenos. Como é possível a metafísica como ciência?" - 0h42m
 - **2026-02-25 14:03 - 14:34** - Páginas 151-158 (7 páginas) - Iniciando a leitura + fichamento de "Solução da questão geral dos prolegômenos. Como é possível a metafísica como ciência?". Fiz algumas anotações nas páginas, falta fazer o fichamento / resumo - 0h31m
 - **2026-02-25 12:30 - 12:45** - Produzindo TL;DR para "Conclusão. Da determinação das fronteiras da razão pura" - 0h15m
@@ -125,6 +127,9 @@ date: 2026-02-25T16:31:22.9348486-03:00
 - **2026-02-15 18:41 - 18:46** - Páginas 1-20 (19 páginas) - Passei um pouco rápido por essas páginas, porque aqui é mais o tradutor explicando a metodologia da tradução - 0h05m
 
 ## Notas
+
+### 2026-02-25 19:41
+Em P168, P169 dos Prolegômenos, Kant aponta que este deve ser usado como uma "sinopse geral" da sua obra (Crítica), "como plano e guia para a investigação, não como um próprio trabalho (P169)" e ainda, que algumas seções da "Doutrina dos Elementos" tome-se como base para o exame, o que os Prolegômenos dizem com respeito a essas seções.
 
 ### 2026-02-23 16:35
 Até agora, sinto que a "Terceira parte da questão transcendental principal. Como é possível a metafísica em geral?" - §53 é a que mais estou sentindo dificuldade

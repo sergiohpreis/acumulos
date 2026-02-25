@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Wednesday, February 25th 2026, 7:01:27 pm
+date modified: Wednesday, February 25th 2026, 7:39:05 pm
 tags:
   - kant
   - idealismo-alemão
@@ -9,10 +9,13 @@ tags:
   - filosofia
   - epistemologia
 draft: false
-date: 2026-02-25T19:00:00
+date: 2026-02-25T19:37:00
 ---
 
 >[!info] Anotações de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]
+
+>[!info] Sobre o uso do Prolegômenos
+> Em P168, P169, Kant aponta que os Prolegômenos devem ser usados como uma "sinopse geral" da sua obra, "como plano e guia para a investigação, não como um próprio trabalho (P169)" e ainda, que algumas seções da "Doutrina dos Elementos" em [[KANT Immanuel. Crítica da Razão Pura (1781)]] tome-se como base para o exame, o que o Prolegômenos diz com respeito a essas seções
 
 ## Resumo da Apresentação do Tradutor
 
@@ -1428,6 +1431,8 @@ Kant considera essa elaboração uma exigência "para a possibilidade de uma met
 
 Kant busca a partir de uma crítica feita sobre sua obra [[KANT Immanuel. Crítica da Razão Pura (1781)|Crítica da Razão Pura]] esclarecer alguns maus entendidos a respeito da obra. Cabe ressaltar que Kant valoriza a crítica, desde que feita corretamente.
 
+### Amostra de um juízo sobre a [[KANT Immanuel. Crítica da Razão Pura (1781)|Crítica]] que precede a investigação
+
 Kant argumenta sobre a classificação de seu sistema como um "sistema de idealismo transcendental", comparando-o com os demais idealismos já existentes (Berkeley, Descartes)
 
 > [!note] Na P161, uma nota sobre o significado e o uso correto da palavra transcendental em sua obra
@@ -1454,6 +1459,18 @@ Kant afirma que se for provado, alguma proposição verdadeiramente metafísica 
 > a metafísica não é absolutamente nada sem a certeza apodítica de tais proposições, sua possibilidade ou impossibilidade deveria, antes de tudo, ser estabelecida em uma crítica da razão pura (P166)
 
 Ainda, para "facilitar", Kant propõe que as suas antinomias sejam utilizadas, e que a sua prova da tese oposta seja atacada, desse modo, se a partir delas não for possível extrair uma proposição que não seja mostrada como verdadeiramente contrária, então se estabelece que exista um defeito crônico na metafísica.
+
+### Proposta para uma investigação da [[KANT Immanuel. Crítica da Razão Pura (1781)|Crítica]] à qual o juízo pode seguir-se
+
+Kant manifesta o desejo de que a sua obra possa dar "nova vida e fertilidade" para a metafísica e faz o apelo para a continuação da sua obra, frente a "época reflexiva" em que se encontrava, espera o trabalho em direção "ao interesse comum de uma razão cada vez mais esclarecidas".
+
+Kant almeja por um sistema (e ainda que não o seu) que possa se tornar um legado para a posteridade. Aponta que a metafísica ordinária (ainda que de maneira superficial) foi um **cultivo da razão**, mas que produziu um único bem, que foi
+> ir ao encalço dos conceitos elementares do entendimento puro para esclarecê-los por meio análise e determiná-los por meio da explicação (P170)
+
+Mediante a [[KANT Immanuel. Crítica da Razão Pura (1781)|Crítica]] se oferece ao juízo "um padrão pelo qual o conhecimento pode ser distinguido com certeza do pseudoconhecimento" e ainda, com relação a teologia "torná-la independente do juízo da especulação dogmática".
+
+Kant resume a sua proposta:
+> enfim uma ciência, e que, por meio dela, um benefício genuíno é proporcionado à coisa pública
 
 ---
 

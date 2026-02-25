@@ -1,13 +1,45 @@
 ---
-date created: Saturday, February 21st 2026, 10:38:29 am
-date modified: Saturday, February 21st 2026, 10:38:29 am
+title: KANT Immanuel. Crítica da Razão Pura (1781)
+authors:
+  - Immanuel Kant
+status:
+  - QUEUE
+published_year: 1781
+categories:
+  - Filosofia
+  - Filosofia Alemã
+  - Metafísica
+  - Kant
+pages: 621
+isbn: 9788532643247
+publisher:
+  - Vozes
+language:
+  - Português
+shelf:
+  - Filosofia
+format:
+  - PHYSICAL
+edition_year: 2025
 tags:
+  - livros
   - filosofia
   - filosofia-alemã
+  - metafísica
   - kant
-  - livros
 draft: false
-date: 2026-02-21T10:38:00
-type:
-  - livro
+date: 2026-02-25T19:46:49.363065011-03:00
 ---
+
+## Resumo
+
+- Sessões: 0
+- Autores: Immanuel Kant
+- Status: Na fila
+- Total de páginas: 621
+
+## Notas
+
+### 2026-02-25 19:41
+Em P168, P169 dos Prolegômenos, Kant aponta que este deve ser usado como uma "sinopse geral" da sua obra (Crítica), "como plano e guia para a investigação, não como um próprio trabalho (P169)" e ainda, que algumas seções da "Doutrina dos Elementos" tome-se como base para o exame, o que os Prolegômenos dizem com respeito a essas seções.
+

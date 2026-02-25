@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Wednesday, February 25th 2026, 4:29:47 pm
+date modified: Wednesday, February 25th 2026, 7:01:27 pm
 tags:
   - kant
   - idealismo-alemão
@@ -9,7 +9,7 @@ tags:
   - filosofia
   - epistemologia
 draft: false
-date: 2026-02-25T16:31:00
+date: 2026-02-25T19:00:00
 ---
 
 >[!info] Anotações de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]
@@ -1426,7 +1426,34 @@ Kant considera essa elaboração uma exigência "para a possibilidade de uma met
 
 ## Apêndice. Do que pode ser feito para tornar real a metafísica como ciência
 
-TBD
+Kant busca a partir de uma crítica feita sobre sua obra [[KANT Immanuel. Crítica da Razão Pura (1781)|Crítica da Razão Pura]] esclarecer alguns maus entendidos a respeito da obra. Cabe ressaltar que Kant valoriza a crítica, desde que feita corretamente.
+
+Kant argumenta sobre a classificação de seu sistema como um "sistema de idealismo transcendental", comparando-o com os demais idealismos já existentes (Berkeley, Descartes)
+
+> [!note] Na P161, uma nota sobre o significado e o uso correto da palavra transcendental em sua obra
+
+Para os "genuínos idealismos":
+> Toda cognição através dos sentidos e da experiência nada mais é que simples ilusão, e só há verdade nas ideias do puro entendimento e razão (P163)
+
+Enquanto o princípio que "determina e governa" o seu idealismo é, ao contrário:
+> Toda cognição de coisas a partir do simples entendimento puro ou da pura razão nada mais é que simples ilusão, e só há verdade na experiência (P163)
+
+Kant demonstra como a sua obra se distingue dos demais idealismos (principalmente o de **Berkeley**) a partir dos conceitos de **espaço** e **tempo**. Além de Berkeley não ter dado atenção ao tempo, considera o espaço como uma "**representação empírica**", enquanto Kant demonstra que o espaço pode ser conhecido a priori (forma pura de nossa sensibilidade).
+
+Ainda distinguindo-se dos demais idealismos, denomina seu idealismo como "idealismo crítico", pois subverte o idealismo ordinário, atribuindo uma realidade objetiva a toda cognição a priori por meio da idealidade do espaço e tempo. Sendo assim, distinguindo-se do "idealismo dogmático de Berkeley e do idealismo cético de Descartes".
+
+Kant crítica a interpretação de sua obra como uma mera **inovação verbal**, e não como metafísico **herético** (que professa doutrina contrária ao que foi estabelecido), e ainda, reafirma que se o autor esta "em posse de conhecimentos importantes e elevados", deveria compartilha-los com o mundo, pois:
+> **O mundo está cansado de asserções metafísicas**, o que se requer é uma investigação sobre a **possibilidade dessa ciência**, as **fontes** das quais sua certeza pode ser derivada e a posse de **critérios seguros** para distinguir entre a ilusão dialética da razão pura e a verdade (P165)
+
+Kant aponta que o objetivo da crítica e a centralidade da sua obra estão na
+> **possibilidade da cognição sintética a priori**, que era propriamente o problema de cuja solução depende inteiramente o destino da metafísica, e para o qual minha [[KANT Immanuel. Crítica da Razão Pura (1781)|Crítica]] (assim como estes meus Prolegômenos) estava toda dirigida (P165)
+
+É necessário encontrar um padrão para metafísica assim como as demais áreas do conhecimento e outras ciências (tal como história, matemática, teologia e etc) já possuem.
+
+Kant afirma que se for provado, alguma proposição verdadeiramente metafísica (sintética e conhecida a priori a partir de conceitos), aceitará a censura de sua [[KANT Immanuel. Crítica da Razão Pura (1781)|Crítica]], do contrário, deve-se admitir que:
+> a metafísica não é absolutamente nada sem a certeza apodítica de tais proposições, sua possibilidade ou impossibilidade deveria, antes de tudo, ser estabelecida em uma crítica da razão pura (P166)
+
+Ainda, para "facilitar", Kant propõe que as suas antinomias sejam utilizadas, e que a sua prova da tese oposta seja atacada, desse modo, se a partir delas não for possível extrair uma proposição que não seja mostrada como verdadeiramente contrária, então se estabelece que exista um defeito crônico na metafísica.
 
 ---
 

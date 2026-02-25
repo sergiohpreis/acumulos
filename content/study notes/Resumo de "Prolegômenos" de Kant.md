@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Wednesday, February 25th 2026, 12:48:02 pm
+date modified: Wednesday, February 25th 2026, 4:29:47 pm
 tags:
   - kant
   - idealismo-alemão
@@ -9,7 +9,7 @@ tags:
   - filosofia
   - epistemologia
 draft: false
-date: 2026-02-25T12:50:00
+date: 2026-02-25T16:31:00
 ---
 
 >[!info] Anotações de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]
@@ -1373,6 +1373,60 @@ A solução analítica de Kant para a questão principal "**Como é possível a 
 > ascendendo dali onde seu uso, pelo menos nas consequências, está efetivamente dado, até os **fundamentos de sua possibilidade**
 
 ## Solução da questão geral dos prolegômenos. Como é possível a metafísica como ciência?
+
+> [!note] Sobre o Senso Comum em Kant
+> **Em resumo:** Kant valoriza o senso comum não como uma fonte de conhecimento metafísico profundo, mas como o **entendimento saudável e prático que limita o uso da razão aos objetos da experiência**, protegendo-nos do delírio da metafísica dogmática. 
+> *Nota: Kant diferenciava o senso comum (common sense) da "razão reflexiva" (filosofia), mas defendia que a filosofia, para ser válida, deve estar em acordo com o entendimento saudável e não o contradizer.*
+
+Kant irá apontar as necessidades para que a metafísica deixe de ser uma persuasão enganosa (dialética) e se torne uma ciência, tomando como base o sistema completo apresentado na [[KANT Immanuel. Crítica da Razão Pura (1781)|Crítica]], que contém "todos os meios de execução pelos quais a metafísica pode ser estabelecida como ciência".
+
+Como entretanto pode ser posto em prática esse plano?
+
+Kant afirma que a [[KANT Immanuel. Crítica da Razão Pura (1781)|crítica]] esta para a metafísica escolástica, assim como a química para a alquimia ou a astronomia para a astrologia divinatória. Portanto, para aqueles que compreenderam a crítica, a metafísica "não mais necessita de descobertas preparatórias e pode, pela primeira vez, satisfazer a razão de maneira duradoura". 
+
+Kant acredita que a metafísica tenha uma vantagem sobre as demais ciências, poisL
+> pode ser completada e levada a um estado permanente em que não pode mais ser modificada nem é capaz de nenhuma aplicação por meio de novas descobertas (P152)
+
+Portanto, a razão, na metafísica, tendo as suas fontes de cognição em si própria, uma vez que apresentou as leis fundamentais dessa cognição de maneira plena e determinada
+> nada mais resta que a razão pura possa conhecer a priori, nem sequer indagar com algum fundamento (P152)
+
+### A estagnação e a decadência da metafísica
+
+Embora Kant reconheça que a metafísica tenha chegado a uma decadência, a um colapso, e que esse momento em que "novas transições de uma inclinação para que lhe é oposta passam pelo estágio da indiferença" é o mais perigoso para o autor, é o melhor para a ciência:
+> quando o espírito sectário se extinguiu por uma completa ruptura das antigas ligações, as mentes se encontram na melhor condição para gradualmente começar a dar ouvidos a propostas de uma aliança segundo um novo plano (P153).
+
+Kant afirma que as suas expectativas com os Prolegômenos são
+- avivar a investigação no campo da crítica
+- prover o espírito universal de filosofia de um novo e muito promissor objeto de sustento
+
+E para justificar as suas esperanças (em suas palavras de acordo com a "lei da necessidade"), Kant afirma que **sempre haverá metafísica no mundo** pois a mente humana é incapaz de abandonar as investigações metafísicas, entretanto, a mesma até o momento não conseguiu "satisfazer nenhum espírito inquisitivo", portanto uma crítica da própria razão pura deve ser tentada, ou examinada e submetida a uma prova geral caso já se exista uma pois:
+> não há outro meio de aliviar essa necessidade premente, que não é apenas uma mera sede de conhecimento
+
+Kant analisa os conteúdos metafísicos já existentes se perguntando se algum destes autores "afinal já fez a metafísica avançar um único passo". Aponta as limitações dos eruditos justificando-as justamente pela ausência de uma ciência, que possui seus germes na [[KANT Immanuel. Crítica da Razão Pura (1781)|crítica]], entretanto:
+> embora o entendimento se beneficie em muito do tratamento analítico de nossos conceitos, a ciência (da metafísica) não avança com isso nem um passo, porque essas análises dos conceitos são apenas materiais com os quais a ciência ainda deve ser construída. (P154)
+
+Ou seja:
+> a metafísica como ciência até agora absolutamente não existiu (P155)
+
+### A inexistência da metafísica como ciência e as suas exigências para que seja
+
+Kant afirma que a metafísica até o momento não foi capaz de provar como válidas nenhuma proposição sintética a priori (portanto, permanece-se estagnada desde o tempo de Aristóteles) e justifica que todo aquele que a fizer, deverá fazer sem recorrer ao artifício da **probabilidade** e ao chamado **bom senso**.
+
+Kant relaciona o bom senso ao entendimento ordinário e como oposto ao entendimento especulativo (no que a metafísica diz a respeito).
+- **ordinário**: faculdade do conhecimento e do uso de regras **in concreto**
+	- sempre exigirá um exemplo tomado da experiência
+- **especulativo**: faculdade do conhecimento e do uso de regras **in abstracto**
+	- conhece a priori e independentemente da experiência
+
+Kant crítica a postura dos "falsos amigos do senso comum", que afirmam haver "proposições que são imediatamente certas" e sem necessidade de nenhuma prova, pois do contrário "jamais chegaríamos ao fim dos fundamentos do nosso juízo", mas que, entretanto, não conseguem apresentar alguma prova dessa licença (a não ser o princípio da contradição, inadequado para estabelecer a verdade de juízos sintéticos), exceto proposições matemáticas (cujo juízo é completamente distinto da metafísica).
+
+Kant afirma que apelar para o senso comum na metafísica, enquanto uma "ciência especulativa da razão pura", significa abandoná-la e "renunciar toda a cognição especulativa pura", além do que, podemos faze-lo quando "uma crença racional é tudo que se estima como possível para nós, e também como suficiente para as nossas necessidades".
+
+Kant considera essa elaboração uma exigência "para a possibilidade de uma metafísica como ciência".
+
+## Apêndice. Do que pode ser feito para tornar real a metafísica como ciência
+
+TBD
 
 ---
 

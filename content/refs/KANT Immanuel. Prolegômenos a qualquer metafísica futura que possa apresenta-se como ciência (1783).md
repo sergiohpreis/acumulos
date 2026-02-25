@@ -34,14 +34,14 @@ tags:
   - filosofia-alemã
   - epistemologia
 draft: false
-date: 2026-02-25T13:22:11.886159534-03:00
+date: 2026-02-25T16:31:22.9348486-03:00
 ---
 
 ## Resumo
 
-- Sessões: 71
-- Páginas lidas: 372
-- Tempo total: 41h 34m
+- Sessões: 73
+- Páginas lidas: 388
+- Tempo total: 42h 47m
 - Avaliação: ⭐⭐⭐⭐ (4/5)
 - Autores: Immanuel Kant
 - Status: Lendo
@@ -50,6 +50,8 @@ date: 2026-02-25T13:22:11.886159534-03:00
 
 ## Sessões
 
+- **2026-02-25 15:48 - 16:30** - Páginas 151-158 (7 páginas) - Finalizando fichamento de "Solução da questão geral dos prolegômenos. Como é possível a metafísica como ciência?" - 0h42m
+- **2026-02-25 14:03 - 14:34** - Páginas 151-158 (7 páginas) - Iniciando a leitura + fichamento de "Solução da questão geral dos prolegômenos. Como é possível a metafísica como ciência?". Fiz algumas anotações nas páginas, falta fazer o fichamento / resumo - 0h31m
 - **2026-02-25 12:30 - 12:45** - Produzindo TL;DR para "Conclusão. Da determinação das fronteiras da razão pura" - 0h15m
 - **2026-02-25 00:30 - 01:15** - Páginas 146-150 (4 páginas) - Continuando a leitura + fichamento de "Conclusão. Da determinação das fronteiras da razão pura". Finalizando o resumo de §60 - 0h45m
 - **2026-02-24 19:00 - 19:30** - Páginas 144-145 (1 páginas) - Continuando a leitura + fichamento de "Conclusão. Da determinação das fronteiras da razão pura". Finalizando o resumo de §59 - 0h30m

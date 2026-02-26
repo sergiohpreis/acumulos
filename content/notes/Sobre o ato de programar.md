@@ -5,7 +5,7 @@ tags:
   - tecnologia
   - reflexões
   - ciência-da-computação
-draft: true
+draft: false
 date:
 ---
 

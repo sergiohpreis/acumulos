@@ -5,7 +5,7 @@ tags:
   - tecnologia
   - economia-política
   - capitalismo
-draft: true
+draft: false
 date: 2026-02-26T20:03:00
 ---
 

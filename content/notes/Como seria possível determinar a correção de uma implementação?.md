@@ -7,7 +7,7 @@ tags:
   - ciência-da-computação
   - ia
   - llm
-draft: true
+draft: false
 date: 2026-02-23T13:11:00
 ---
 

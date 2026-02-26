@@ -8,7 +8,7 @@ tags:
   - pré-projeto
   - marxismo
   - filosofia-da-técnica
-draft: true
+draft: false
 date: 2026-02-26T20:03:00
 title: Pré-projeto - O ato de programar entre a alienação e a tecnodiversidade
 ---

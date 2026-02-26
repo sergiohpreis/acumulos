@@ -7,7 +7,7 @@ tags:
   - demissão
   - justiça
   - capitalismo
-draft: false
+draft: true
 date: 2026-02-26T14:15:00
 ---
 

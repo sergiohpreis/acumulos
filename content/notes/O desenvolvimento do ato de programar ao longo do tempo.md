@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, June 25th 2025, 12:52:21 pm
-date modified: Monday, February 16th 2026, 8:01:57 am
+date modified: Thursday, February 26th 2026, 7:31:12 pm
 tags:
   - spec-driven
   - ciência-da-computação
@@ -53,4 +53,7 @@ Essa transição é uma mudança de "como fazer" (imperativo) para "o que deve a
 
 ---
 
-- Será que [[Spec driven development pode ajudar programadores com TDAH?]]
+- Será que [[Spec driven development pode ajudar programadores com déficit de atenção?]]
+
+> [!note] 2026-02-26 - 19:29
+> O título desse texto era "O desenvolvimento da profissão do programador ao longo do tempo", mas eu acho que para investigar isso de maneira mais filosófica, vale a mudança de "O desenvolvimento da profissão do programador ao longo do tempo" para **"O desenvolvimento do ato de programar ao longo do tempo"**

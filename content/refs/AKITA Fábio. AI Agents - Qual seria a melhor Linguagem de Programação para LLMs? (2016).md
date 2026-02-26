@@ -9,7 +9,7 @@ status:
 tags:
   - ia
   - llm
-  - computer-science
+  - ciência-da-computação
   - spec-driven
 draft: false
 date: 2026-02-20T16:20:00

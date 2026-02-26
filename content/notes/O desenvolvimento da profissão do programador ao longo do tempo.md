@@ -3,7 +3,7 @@ date created: Wednesday, June 25th 2025, 12:52:21 pm
 date modified: Monday, February 16th 2026, 8:01:57 am
 tags:
   - spec-driven
-  - computer-science
+  - ciência-da-computação
   - tecnologia
 title: O desenvolvimento da profissão do programador ao longo do tempo
 draft: false

@@ -7,7 +7,7 @@ permalink:
 aliases:
 tags:
   - self-hosted
-  - computer-science
+  - ciência-da-computação
 draft: true
 date: 2026-02-11
 ---

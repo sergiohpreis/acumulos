@@ -7,7 +7,7 @@ permalink:
 aliases:
 tags:
   - filosofia
-  - computer-science
+  - ciência-da-computação
   - descartes
 draft: false
 date: 2026-02-09

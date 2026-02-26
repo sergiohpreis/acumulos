@@ -4,7 +4,7 @@ date modified: Sunday, February 22nd 2026, 10:43:16 pm
 tags:
   - spec-driven
   - tdah
-  - computer-science
+  - ciência-da-computação
   - tecnologia
 draft: false
 title: Spec driven development pode ajudar programadores com TDAH?

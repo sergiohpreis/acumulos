@@ -4,7 +4,7 @@ date modified: Monday, February 23rd 2026, 1:11:01 pm
 tags:
   - reflexões
   - tecnologia
-  - computer-science
+  - ciência-da-computação
   - ia
   - llm
 draft: true

@@ -19,3 +19,7 @@ Os sistema precisam de uma infraestrutura capaz de suportar as cargas de trabalh
 Como consequência do modo de produção capitalista, a sociedade desenvolve cada vez mais relações de dependência com esses sistemas, e portanto, o desempenho exigido dos computadores torna-se cada vez maior. Tal desempenho só pode ser atingido com uma infraestrutura robusta, e portanto, custosa. 
 
 A sociedade passa a depender cada vez mais de uma série de sistemas que objetivam cada qual resolver uma parcela dos diversos problemas sociais. Os sistemas tem como objetivo suportar uma carga cada vez maior de usuários ao mesmo tempo que para isso, dependem de infraestruturas cada vez maiores. O conjunto dos sistemas necessários a sociedade consomem recursos finitos rumo a uma escalada infinita. Portanto, as demandas artificiais geram dependência de recursos naturais, e sendo assim, a sociedade paga um preço pela competição da atenção.
+
+## Ref
+
+-  [[O que é uma lista de materiais de software (SBOM)? ]]

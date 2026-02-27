@@ -26,7 +26,7 @@ Além disso, a competição pela atenção gera **demanda artificial** que alime
 
 A experiência do [[Cybersyn]] no Chile de Allende é um contra-exemplo histórico: um sistema tecnológico desenhado com planejamento social consciente, dados mínimos e controle dos trabalhadores.
 
-Essa reflexão é central para o [[Pré-projeto - O ato de programar entre a alienação e a tecnodiversidade|pré-projeto de mestrado]].
+Essa reflexão é central para o [[O ato de programar entre a alienação e a tecnodiversidade|pré-projeto de mestrado]].
 
 ---
 

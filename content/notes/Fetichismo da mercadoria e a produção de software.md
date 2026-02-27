@@ -23,7 +23,7 @@ Para aplicar esse conceito à produção de software com IA, é preciso demonstr
 
 A diferença em relação a outros usos de "fetiche" é que aqui não se trata de fetiche da tecnologia em geral (isso é senso comum), mas de uma estrutura análoga à que Marx descreve no Capital, Livro I, cap. 1, seção 4: **relações entre pessoas aparecem como relações entre coisas** — nesse caso, entre o programador e o código, aparece a IA como agente autônomo.
 
-Isso é central para o [[Pré-projeto - O ato de programar entre a alienação e a tecnodiversidade|pré-projeto de mestrado]], especificamente no Cap. 3.
+Isso é central para o [[O ato de programar entre a alienação e a tecnodiversidade|pré-projeto de mestrado]], especificamente no Cap. 3.
 
 ---
 

@@ -20,4 +20,4 @@ Sabendo isso, penso que:
 
 ---
 
-Os passos 2 e 3 ganharam forma concreta no [[Pré-projeto - O ato de programar entre a alienação e a tecnodiversidade]], que organiza as reflexões do vault sobre tecnologia, trabalho e alienação como pré-projeto de mestrado em filosofia.
+Os passos 2 e 3 ganharam forma concreta no [[O ato de programar entre a alienação e a tecnodiversidade]], que organiza as reflexões do vault sobre tecnologia, trabalho e alienação como pré-projeto de mestrado em filosofia.

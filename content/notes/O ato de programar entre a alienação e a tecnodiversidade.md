@@ -4,13 +4,10 @@ date modified: Wednesday, February 26th 2026, 8:03:00 pm
 tags:
   - filosofia
   - tecnologia
-  - mestrado
-  - pré-projeto
   - marxismo
-  - filosofia-da-técnica
+  - tecnica
 draft: false
 date: 2026-02-26T20:03:00
-title: Pré-projeto - O ato de programar entre a alienação e a tecnodiversidade
 ---
 
 ## Título provisório

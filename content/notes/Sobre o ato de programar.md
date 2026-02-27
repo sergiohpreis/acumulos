@@ -18,7 +18,7 @@ A partir de uma reflexão sobre [[O desenvolvimento do ato de programar ao longo
 
 ## Pré-projeto de mestrado
 
-Essas reflexões foram organizadas em um pré-projeto acadêmico: [[Pré-projeto - O ato de programar entre a alienação e a tecnodiversidade]].
+Essas reflexões foram organizadas em um pré-projeto acadêmico: [[O ato de programar entre a alienação e a tecnodiversidade]].
 
 ## Temas Relacionados
 

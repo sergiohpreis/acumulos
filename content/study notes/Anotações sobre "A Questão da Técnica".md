@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Saturday, February 28th 2026, 8:57:31 am
+date modified: Saturday, February 28th 2026, 9:41:21 am
 tags:
   - heidegger
   - técnica
@@ -77,23 +77,24 @@ Heidegger entende que o que caracteriza a presença de algo que se apresenta é 
 > O comprometimento tem o traço fundamental desse **deixar situar** (An-lassen) no surgir, e nesse sentido, é um **ocasionamento**.
 > > (P45)
 
-Para Heidegger, a essência da causalidade pode ser denominada pela palavra "ocasionar" nessa perspectiva de comprometimento (experimentadas pelos gregos), quase como um ponta pé inicial, e não um poder de concretizar.
-
-Com relação aos modos de ocasionar (seu jogo conjunto):
-- deixam vir a presença (Anwesen) o que ainda não se apresenta
-	- São unicamente dominados por um levar, que leva à luz o que se apresenta
-
-Nesse sentido, Heidegger compreende os modos de ocasionar como que dominados por um levar, que "leva à luz o que se apresenta"
+Para Heidegger, a essência da causalidade pode ser denominada pela palavra "ocasionar" nessa perspectiva de comprometimento (experimentadas pelos gregos). Heidegger entende que o sentido mais "corrente e estreito" (moderno), reduz o ocasionamento a "somente um primeiro impulso e uma provocação", enquanto Heidegger, busca atribuir um sentido mais amplo a esses modos de ocasionar, nesse "**deixar situar**", compreende os modos de ocasionar como que dominados por um **levar**, que "leva à luz o que se apresenta"
 > deixam vir a presença (Anwesen) o que ainda não se apresenta
 > (P46)
 
-> [!note] Tem uma nota sobre esse movimento na (P46): um levar (bringen) que vem (her) de uma situacão anterior (encobrimento) e se coloca à rente (vor) (descobrimento)
+> [!note] Tem uma nota sobre esse movimento na (P46): um **levar** (bringen) que **vem** (her) de uma situacão **anterior** (encobrimento) e se coloca à **frente** (vor) (descobrimento)
 
-## Os modos de ocasionar e o produzir (WIP)
+## Os modos de ocasionar e o produzir
 
 A partir de um exemplo de "Banquete" de Platão, Heidegger aproxima esses modos de ocasionar a idéia de **produzir**
 > "Todo ocasionar para algo que, a partir de uma não-presença sempre transborda e se antecipa. numa presença é ... produzir (Her-vor-bringen)"
 > (P46)
+
+Para Heidegger é necessário pensar o produzir em toda a sua **amplitude**, um levar a frente, no sentido dos gregos, mas também no sentido de algo que **emerge** de si próprio, que tem em si mesmo a **irrupção do produzir**. Essa irrupção pode ser encontrada em si, ou no outro.
+
+> Os modos de ocasionar, as quatro causas, atuam, desse modo, no seio do produzir. Por meio dele surge, cada vez, em seu aparecer, tanto o que cresce na natureza quanto o que é feito pelo artesão e pela arte.
+> (P47)
+
+Heidegger entende o produzir como um movimento que leva **do ocultamento ao descobrimento**, um **surgir** que repousa e vibra no que denomina "**desabrigar**", uma noção semelhante a noção grega. Heidegger aponta que a noção costumeiramente compreendida é a noção de **verdade**, influenciada pelos romanos, que corresponde a a **exatidão da representação**.
 
 ---
 

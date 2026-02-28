@@ -1,11 +1,11 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Saturday, February 28th 2026, 9:41:21 am
+date modified: Saturday, February 28th 2026, 1:31:48 pm
 tags:
   - heidegger
   - técnica
 draft: false
-date: 2026-02-28T09:00:00
+date: 2026-02-28T13:30:00
 ---
 
 > [!Iinfo] [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
@@ -94,7 +94,47 @@ Para Heidegger é necessário pensar o produzir em toda a sua **amplitude**, um 
 > Os modos de ocasionar, as quatro causas, atuam, desse modo, no seio do produzir. Por meio dele surge, cada vez, em seu aparecer, tanto o que cresce na natureza quanto o que é feito pelo artesão e pela arte.
 > (P47)
 
-Heidegger entende o produzir como um movimento que leva **do ocultamento ao descobrimento**, um **surgir** que repousa e vibra no que denomina "**desabrigar**", uma noção semelhante a noção grega. Heidegger aponta que a noção costumeiramente compreendida é a noção de **verdade**, influenciada pelos romanos, que corresponde a a **exatidão da representação**.
+Heidegger entende o produzir como um movimento que leva **do ocultamento ao descobrimento**, um **surgir** que repousa e vibra no que denomina "**desabrigar**", uma noção semelhante a noção grega. Heidegger aponta que a noção costumeiramente compreendida é a noção de **verdade**, influenciada pelos romanos, que corresponde a a **exatidão da representação**
+- e para os gregos αλήθεια (aletheia)
+
+## A técnica como um modo de desabrigar
+
+Para Heidegger, no desabrigar "se fundamenta todo produzir", "vale como traço fundamental da técnica", nele "repousa a possibilidade de todo aprontar que produz algo", portanto, a técnica não é meramente um meio, é também um **modo de desabrigar**.
+
+Heidegger busca referência para o nome "técnica" na língua grega, aquilo que pertence a TEXVN
+- não é somente o nome para o fazer e poder manual, mas também para as artes superiores e belas artes... é algo poético
+
+Na antiguidade, a palavra TTT segue a par com EEE, e ambas são nomes para o **conhecer** em sentido amplo
+- o conhecer da explicação, e portanto é um desabrigar
+
+A distinção Aristotélica entre técnica e o conhecimento é apenas com relação a **como e ao quê elas desabrigam**
+- a técnica é um modo de desabrigar: ela desabriga o que não se produz sozinho e ainda não está à frente
+	- pode aparecer e ser notado, ora dessa, ora daquela maneira
+	- o que deve ser produzido segundo as perspectivas dos quatro modos de ocasionar
+	- determina o tipo do aprontamento
+
+
+Para Heidegger, o decisivo na técnica não consiste no fazer e manejar, nem consiste em empregar meios, mas sim no mencionado desabrigar, mas não enquanto um aprontar, a técnica é um levar a frente.
+
+> Técnica é um modo de desabrigar. A técnica se essencializa no âmbito onde acontece o **desabrigar** e o **desocultamento**, onde acontece a αλήθεια (aletheia)
+> (P51)
+
+## A técnica moderna e o desafiar como seu modo de desabrigar
+
+Para Heidegger, a técnica moderna também é um desabrigar, que não se desdobra num levar à frente, mas sim num **desafiar (Herausfordern)**, que estabelece, para a natureza
+> a exigência de **fornecer energia suscetível** de ser extraída e armazenada enquanto tal
+> (P52)
+
+Heidegger exemplifica como isso não se aplica para as antigas técnicas (ex: moinho de vento), conclui que a própria preparação do campo deixou de significar "cuidar e guardar", com a chegada da indústria de alimentação motorizada, a preparação do campo "entrou na esteira de um tipo de preparação diferente, um tipo que põe (stellt) a natureza".
+
+> O pôr que desafia as energias naturais é um extrair (Fördern) em duplo sentido. É um extrair na medida em que explora e destaca. Este extrair, contudo, permanece previamente disposto a exigir outra coisa, isto é, impelir adianta para o máximo de proveito, a partir do mínimo de despesas
+> (P54)
+
+Através do exemplo do rio Reno e da central hidroelétrica, Heidegger demonstra esse pôr (stellt), onde a central hidroelétrica esta sob o rio, e não o contrário (o rio atende a necessidade da central, um rio encomendável).
+
+> O desabrigar que domina a técnica moderna tem o caráter do pôr no sentido do desafio. Este acontece pelo fato de a energia oculta na natureza ser **explorada**, do explorado ser **transformado**, do transformado ser **armazenado**, do armazenado ser novamente **distribuído** e do distribuído renovadamente ser comutado.
+> Explorar, transformar, armazenar e distribuir são **modos de desabrigar**
+> (P56)
 
 ---
 

@@ -7,7 +7,7 @@ tags:
   - dissertação
   - materialismo-histórico
   - economia-política
-  - tecnica
+  - técnica
 draft: false
 date: 2026-02-27T15:30:00
 ---

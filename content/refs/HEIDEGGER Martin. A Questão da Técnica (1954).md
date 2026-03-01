@@ -4,6 +4,7 @@ authors:
   - Martin Heidegger
 status:
   - READING
+rating: 3
 published_year: 1954
 categories:
   - Filosofia
@@ -24,17 +25,55 @@ tags:
   - filosofia
   - técnica
 draft: false
-date: 2026-02-27T16:04:04.719704072-03:00
+date: 2026-03-01T11:59:26.31003408-03:00
 ---
 
 ## Resumo
 
-- Sessões: 0
+- Sessões: 21
+- Páginas lidas: 102
+- Tempo total: 9h 36m
+- Avaliação: ⭐⭐⭐ (3/5)
 - Autores: Martin Heidegger
 - Status: Lendo
 - Total de páginas: 102
 
+## Sessões
+
+- **2026-03-01 11:19 - 11:54** - Páginas 33-37 (5 páginas) - Estou revendo os meus resumos, reescrevendo, acho que agora esta fluindo um pouco melhor... se bem que o começo desse texto, não senti tanta dificuldade, vamos ver - 0h35m
+- **2026-02-28 19:25 - 20:03** - Páginas 62-68 (7 páginas) - 0h37m
+- **2026-02-28 17:00 - 17:20** - Páginas 62-65 (4 páginas) - 0h20m
+- **2026-02-28 15:27 - 16:03** - Páginas 33-62 (30 páginas) - Fiz uma leitura rápida desde o início e me detive nas duas últimas para produzir o resumo de "A técnica moderna não é um mero fazer humano" - 0h36m
+- **2026-02-28 15:04 - 15:27** - Páginas 60-62 (3 páginas) - 0h22m
+- **2026-02-28 13:44 - 14:41** - Páginas 56-60 (5 páginas) - O homem não é uma mera subsistência, mas sim, um meio de desabrigar - 0h56m
+- **2026-02-28 12:33 - 13:37** - Páginas 48-56 (9 páginas) - Escrevendo resumos: A técnica como um modo de desabrigar e A técnica moderna e o desafiar como seu modo de desabrigar - 1h03m
+- **2026-02-28 10:06 - 10:18** - Páginas 48-50 (3 páginas) - Grifando - 0h12m
+- **2026-02-28 09:10 - 09:32** - Páginas 46-48 (3 páginas) - 0h21m
+- **2026-02-28 07:59 - 08:55** - Páginas 38-46 (9 páginas) - Ainda não estava satisfeito com meu entendimento, voltei na P38. - 0h56m
+- **2026-02-28 07:20 - 07:52** - Páginas 33-41 (9 páginas) - Complementando o resumo / fichamento com mais informações sobre essa "busca pela essência da técnica" e sobre "A tradicional determinação instrumental e antropológica da técnica" - 0h32m
+- **2026-02-28 06:00 - 06:49** - Páginas 38-47 (10 páginas) - Sobre os modos de comprometimento (causalidade) - 0h48m
+- **2026-02-28 00:15 - 00:30** - Páginas 38-42 (5 páginas) - 0h15m
+- **2026-02-27 23:24 - 23:50** - Páginas 33-44 (12 páginas) - Deu sono, voltar a ler "comprometimento" - 0h26m
+- **2026-02-27 23:15 - 23:20** - Páginas 28-32 (5 páginas) - 0h05m
+- **2026-02-27 22:40 - 23:10** - Páginas 16-27 (12 páginas) - Depois fazer uma leitura mais detalhada - 0h30m
+- **2026-02-27 21:15 - 21:30** - Páginas 1-15 (15 páginas) - A introdução eu acho que fornece uma boa ajuda para entender mais sobre esse pensamento - 0h15m
+- **2026-02-27 18:45 - 18:48** - Páginas 99-102 (4 páginas) - Na P100 fala que ele se filiou ao partido nazista, depois de 1 ano, por divergências, se afastou, e ficou um longo período sem publicar - 0h03m
+- **2026-02-27 18:29 - 18:42** - Páginas 62-98 (37 páginas) - Passei bem rápido, enfim, eu acho que me falta uma base mesmo para ler esse texto, vou ler a apresentação brevemente, e então, vou refletir sobre caminhos - 0h13m
+- **2026-02-27 18:12 - 18:27** - Páginas 49-62 (14 páginas) - Dialoga bastante com Platão, muitos termos desconhecidos, mas me parece que em uma leitura mais minuciosa (com dicionário e/ou comentador) é possível compreender, a questão é: vale a pena? Qual é a relevância desse texto nos contextos atuais? 
+
+Não consigo ler sem deixar de buscar uma relação com o nazismo... embora já tenha visto que não foi possível estabelecer a relação, uma dissertação para uma disputa nesse campo poderia ser algo interessante, "As concepções de Heidegger sobre técnica influenciaram a política da Alemanha Nazista?" ? - 0h15m
+- **2026-02-27 17:51 - 18:05** - Páginas 33-48 (16 páginas) - Leitura rápida porque eu percebi que me passou muita coisa... vou estudar mais sobre o texto, ler derrepente alguma resenha, algo assim - 0h14m
+
 ## Notas
+
+### 2026-03-01 11:59
+Heidegger não discorda da noção corrente de técnica enquanto um meio para fins (que chama de concepção instrumental da técnica), inclusive entende que essa concepção define a técnica moderna
+
+### 2026-02-27 18:29
+O texto de Heidegger vai da página 33 até a 99
+
+### 2026-02-27 18:19
+Na P57 Heidegger define a palavra "subsistência". Qual a relação desse conceito com o conceito de Marx para subsistência?
 
 ### 2026-02-27 15:23
 A relação desse texto com Yuk Hui (Wikipédia):

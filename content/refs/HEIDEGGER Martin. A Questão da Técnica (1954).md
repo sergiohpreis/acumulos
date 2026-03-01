@@ -25,14 +25,14 @@ tags:
   - filosofia
   - técnica
 draft: false
-date: 2026-03-01T11:59:26.31003408-03:00
+date: 2026-03-01T17:26:00.377425571-03:00
 ---
 
 ## Resumo
 
-- Sessões: 21
-- Páginas lidas: 102
-- Tempo total: 9h 36m
+- Sessões: 26
+- Páginas lidas: 239
+- Tempo total: 12h 58m
 - Avaliação: ⭐⭐⭐ (3/5)
 - Autores: Martin Heidegger
 - Status: Lendo
@@ -40,6 +40,11 @@ date: 2026-03-01T11:59:26.31003408-03:00
 
 ## Sessões
 
+- **2026-03-01 16:39 - 17:21** - Páginas 46-51 (6 páginas) - Os modos de ocasionar como produzir (ποίησις, poíēsis) e desabrigar ἀλήθεια (alētheia) (P46,P48);A técnica como modo de desabrigar, de conhecer (no sentido de ἐπιστήμη, epistēmē) e como um modo de um levar a frente, um modo da ἀλήθεια (alētheia) (P49,P51) - 0h41m
+- **2026-03-01 15:54 - 16:02** - Páginas 46-47 (2 páginas) - 0h08m
+- **2026-03-01 14:23 - 15:35** - Páginas 40-46 (7 páginas) - As quatro causas como modos de comprometimento (P40);Os modos de comprometimento enquanto um ocasionamento (P44) - 1h12m
+- **2026-03-01 13:27 - 13:58** - Páginas 40-42 (3 páginas) - 0h31m
+- **2026-03-01 12:00 - 12:50** - Páginas 37-40 (4 páginas) - Como impera a causalidade na técnica e a necessidade do questionamento da noção secular da causalidade quádrupla - 0h50m
 - **2026-03-01 11:19 - 11:54** - Páginas 33-37 (5 páginas) - Estou revendo os meus resumos, reescrevendo, acho que agora esta fluindo um pouco melhor... se bem que o começo desse texto, não senti tanta dificuldade, vamos ver - 0h35m
 - **2026-02-28 19:25 - 20:03** - Páginas 62-68 (7 páginas) - 0h37m
 - **2026-02-28 17:00 - 17:20** - Páginas 62-65 (4 páginas) - 0h20m

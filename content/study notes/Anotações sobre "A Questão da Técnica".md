@@ -1,12 +1,12 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Sunday, March 1st 2026, 12:46:53 pm
+date modified: Sunday, March 1st 2026, 3:34:06 pm
 tags:
   - heidegger
   - técnica
   - causalidade
 draft: false
-date: 2026-03-01T13:00:00
+date: 2026-03-01T15:40:00
 ---
 
 > [!Iinfo] [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
@@ -64,14 +64,69 @@ Para Heidegger, é necessário questionar a noção secular da causalidade quád
 > a causalidade e com ela o instrumental e, junto a este, a determinação usual da técnica permanecerão na escuridão e destituídos de fundamento
 > (P40)
 
-## O problema da noção secular de causa e o seu sentido enquanto um comprometimento (P40)
+## As quatro causas como modos de comprometimento (P40)
 
+### Os limites das noções aristotélicas (causa efficiens) e as causas enquanto modos de comprometimento (P40,P41)
 
+> As quatro causas são os **modos de comprometimento** (Verschulden) relacionados entre si
+> (P41)
 
+Heidegger entende que a *doutrina das quatro causas*, que remonta a Aristóteles é problemática pois **a causa efficiens**, que é uma das quatro causas "determina de modo exemplar **toda a causalidade**", afirma que em geral nem considera-se mais a causa finalis (finalidade) como causalidade.
 
+Buscando no verbo *cadere*, encontra o significado daquilo "que **efetua**, que faz com que algo **surja** dessa ou daquela maneira no **resultado**", por isso, entende que no pensar grego, para este pensar, nada que tenha em comum com **reagir e efetuar** pode ser encontrado.
 
+Encontra a noção de causas como modos de comprometimento ao partir da denominação romana de causa, no alemão Ursache e no grego αἴτιον, encontra **"o que compromete (verschuldet) uma outra coisa"** (P41)
 
-## Os modos de ocasionar e o produzir
+Heidegger exemplifica através do mesmo exemplo da taça utilizado anteriormente que
+- A prata é algo a partir de que a taça de prata é feita
+	- enquanto matéria, ela é cúmplice da taça
+- A taça deve à prata, agradece à prata por aquilo em que subsiste
+
+### Como o libatório depende aspecto (eidos,εἶδος) da taça (P41,P42)
+
+> A prata, por onde o **aspecto** enquanto taça penetrou, e o **aspecto**, por onde a prata aparece, ambos estão a seu modo comprometidos com o libatório.
+> (P41,P42)
+
+Heidegger nota que o libatório não somente deve algo à prata como deve também algo a taça. O libatório é imediatamente dependente do aspecto εἶδος da taça (a prata por si só, não sendo uma taça, não atingiria os propósitos), busca esse sentido no termo "eidos" (εἶδος)
+
+>[!info] "Eidos" (εἶδος): termo filosófico antigo, central para Platão e Aristóteles para descrever a estrutura inteligível ou forma de uma coisa.
+
+### Como o libatório é comprometido pelo télos (τέλος) (P42)
+
+Heidegger observa um terceiro elemento comprometido com o libatório, que delimita previamente a taça no âmbito do próprio libatório, um elemento que "circunscreve, finaliza a coisa" e busca esse sentido no termo τέλος (télos), cuja tradução por "objetivo" e "fim" ele descorda, entendendo que o termo esta relacionado a esse comprometimento (a um fim)
+
+> Com esse fim, a coisa não cessa, mas inicia a partir de si o que será após a fabricação.
+> (P42)
+> 
+> "é o que compromete (Mitverschuldet) o **libatório** enquanto **matéria** e enquanto **aspecto**
+> (P42)
+
+>[!info] "Telos" (τέλος): diferente da nossa noção moderna de "prazo" ou "meta", o _telos_ está ligado à **maturidade** e à **perfeição funcional**. Para os gregos, a palavra carrega a ideia de um ciclo que se fecha porque atingiu sua máxima potência.
+
+### O forjador como a junção dos três modos de comprometimento, que leva a luz (ἀποφαίνεσθαι) (P43)
+
+Para Heidegger, o forjador de prata é um quarto elemento que reflete e junta os três denominados modos de comprometimento (a matéria, o aspecto e o télos)
+- mas não enquanto causa efficiens, pois ele continua agindo, como efeito de um fazer, o libatório fabricado
+
+Para Heidegger, esse refletir repousa no **ἀποφαίνεσθαι** (**apophainesthai**), em um sentido de "levar à luz", em um sentido quase como de um estímulo.. um **trazer à frente** um **repousar** já existente, mas que entretanto, necessitam de um primeiro impulso. Portanto, este é o papel do forjador, dar impulso a uma potência.
+
+> O forjador da prata está comprometido enquanto algo a partir de que o **trazer à frente**, e o repousar em si do libatório, tomam e mantém seu primeiro impulso. Os três modos de comprometimento citados há pouco agradecem à reflexão do forjador da prata por poderem aparecer e entrar em jogo e agradecem pelo modo como puderam fazer isso, na fabricação do libatório.
+> (P43)
+
+## Os modos de comprometimento enquanto um ocasionamento (P44)
+
+Para Heidegger é necessário visualizar o instrumental a partir da causalidade, pois "o que é propriamente o instrumental reside no que é causal", e para isso, irá analisar os quatro modos de comprometimento "a partir do que comprometem".
+
+Heidegger entende os modos de comprometimento em um sentido de **ocasionamento** muito mais amplo do que uma noção de primeiro impulso (de ἀποφαίνεσθαι, apophainesthai), um sentido de **deixar situar em um completo surgir**, o que **esta disposto** e **esta preparado**, como algo **surgir na presença** *(An-wesen)*.
+
+O comprometimento tem o traço fundamental desse **deixar situar** (An-lassen) no **surgir**, é portanto um **ocasionamento** (Ver-an-lassen), nesse tal deixar situar. Heidegger busca esse sentido de comprometimento tal qual dos gregos com o αἰτία (aitía), um amplo sentido tal qual o dos gregos, cujo a palavra significa **"a essência da causalidade"**
+
+> Por onde atua, entretanto, o **jogo conjunto dos quatro modos de ocasionar**? Eles deixam vir à presença (An-wesen) o que ainda não se apresenta. Por isso, são unitariamente **dominados por um levar,** que leva à luz o que se apresenta
+> (P45,P46)
+
+## O ocasionar como um produzir (P46)
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX TBD
 
 A partir de um exemplo de "Banquete" de Platão, Heidegger aproxima esses modos de ocasionar a idéia de **produzir**
 > "Todo ocasionar para algo que, a partir de uma não-presença sempre transborda e se antecipa. numa presença é ... produzir (Her-vor-bringen)"

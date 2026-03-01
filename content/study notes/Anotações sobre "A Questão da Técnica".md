@@ -1,12 +1,12 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Sunday, March 1st 2026, 5:22:24 pm
+date modified: Sunday, March 1st 2026, 6:18:47 pm
 tags:
   - heidegger
   - técnica
   - causalidade
 draft: false
-date: 2026-03-01T17:20:00
+date: 2026-03-01T18:20:00
 ---
 
 > [!Iinfo] [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
@@ -164,13 +164,34 @@ Nos exemplos mostrados por Heidegger, esse desabrigar / levar à frente é
 
 Para Heidegger, a técnica é um modo de desabrigar, portanto, se **essencializa** no âmbito onde acontece o **desabrigar** e o **desocultamento**, onde acontece a ἀλήθεια (alētheia)
 
-## xxxxxx - (P51)
+## A relação mútua entre a física e a técnica e o desafiar como desabrigar da técnica moderna (o sentido de pôr) (P51,P56)
 
-XXXXXX
+Heidegger afirma que existe uma relação mútua entre a física e a técnica (a técnica depende da física e a física depende da técnica), isso apenas é uma 
+Entretanto, isso é uma verificação histórica e "não diz nada sobre **onde se fundamenta** essa relação mútua" (P52)
+
+Para Heidegger, o desabrigar que domina a técnica moderna não é um desabrigar em um sentido de levar a frente (ποίησις, poíēsis) mas sim de desafiar (Herausfordern), um desafiar que estabelece para a natureza uma espécie de exigência, um pôr da natureza, em um sentido de **encomendar** (bestellt)
+
+> ... de fornecer energia suscetível de ser extraída e armazenada enquanto tal
+> (P52)
+
+> O pôr que desafia as energias naturais é um extrair (Fördern) em duplo sentido. É um extrair na medida em que explora e destaca. 
+> (P54)
+
+> O desabrigar que domina a técnica moderna tem o caráter do **pôr** no sentido do **desafio**
+> ... Explorar, transformar, armazenar e distribuir são **modos de desabrigar**
+> (P56)
+
+Heidegger entre P53 e P56 apresenta alguns exemplos desse **desabrigar desafiante**, de seus modos de desabrigar. Esses modos de desabrigar não acontecem ao acaso, são dirigidos, o desabrigar "desabriga para si mesmo os seus próprios e múltiplos caminhos engrenados, porque os dirige".
+
+> A direção e a segurança tornam-se inclusive os traços fundamentais do desabrigar desafiante
+> (P56)
+
+## (P57)
 
 ## Etc
 
 - [[O significado de "Dasein"]]
+- TL;DR: [[A técnica para Heidegger]]
 
 
 

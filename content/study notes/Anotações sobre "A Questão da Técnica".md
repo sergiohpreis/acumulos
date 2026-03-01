@@ -1,11 +1,12 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Sunday, March 1st 2026, 11:58:08 am
+date modified: Sunday, March 1st 2026, 12:46:53 pm
 tags:
   - heidegger
   - técnica
+  - causalidade
 draft: false
-date: 2026-03-01T12:00:00
+date: 2026-03-01T13:00:00
 ---
 
 > [!Iinfo] [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
@@ -37,47 +38,38 @@ Para Heidegger, essa relação se expressa em um **querer-dominar** do homem par
 > Tudo se reduz ao "lidar **de modo adequado** com a técnica enquanto um meio. 
 > (P37)
 
-## A técnica além de um mero meio (a noção tradicional Aristotélica de causa)
+## Como impera a causalidade na técnica e a necessidade do questionamento da noção secular da causalidade quádrupla (P37)
 
-> [!note] O desocultamento e o verdadeiro (P37)
-> Nessa página, Heidegger apresenta brevemente o seu conceito de "verdade", através de uma noção de "**desocultamento**": *"Mas para ser correta, a afirmação não necessita de modo algum desocultar em sua essência o que está à frente. Somente onde um tal desocultamento acontece dá-se o que é **verdadeiro**."*
+>[!info] Na P37, Heidegger explica o seu critério de [[Para Heidegger, o verdadeiro se da através de um desocultamento que leva a uma livre relação|verdade enquanto desocultamento]]
 
-> Mas supondo que a técnica não seja um mero meio, **como se coloca a vontade de dominá-la**? 
-> (P37)
+Embora a concepção instrumental da técnica seja correta, ela ainda não mostra a essência da técnica, Heidegger inicia a sua reflexão em busca dessa essência a partir de duas perguntas:
+- O que é o instrumental mesmo?
+- Onde se situam algo como um meio e um fim?
 
-Embora considere correta essa concepção tradicional, Heidegger afirma que essa relação **não representa ainda a essência da técnica**. Para que seja possível chegar a uma essência da técnica, será necessário questionar:
+> Onde fins são perseguidos, meios são empregados e onde domina o instrumental, ali impera **causalidade** <Ursächlichkeit>, a causalidade <Kausalität>.
 
-> ... o que é o **instrumental** mesmo? Onde se situam algo como um **meio** e um **fim**? 
-> (P38)
+>[!note] Na P38 existe uma nota sobre essa dupla idéia de causalidade e a relação com os sentidos do termo "causa" em alemão e em latim, que ressalta um sentido histórico do termo
 
-Heidegger busca relacionar tanto a noção de "fim", como a noção de "meio" a noção dede **causalidade** 
+Através dessa noção de causalidade, Heidegger busca mostrar as quatro causas da filosofia (**causalidade quádrupla**) através do exemplo da fabricação da taça de prata
+1. a causa materialis: o material, a matéria a partir do qual algo é feito
+2. a causa formalis: a forma, a figura, na qual se instala o material
+3. a causa finalis: o fim, o sacrifício para o qual algo requerido é determinado segundo matéria e forma
+4. a causa efficiens: o que efetua o efeito, o algo acabado
 
-> Onde fins são perseguidos, meios são empregados, e onde domina o instrumental, ali impera causalidade (...), a causalidade (...)
-> (P38)
+Heidegger levanta **questionamentos sobre a noção secular das quatro causas (causalidade quádrupla)**
+> or que existem justamente quatro causas? O que significa propriamente "causa", em relação às quatro causas nomeadas? A partir de onde se determina tão unitariamente o _caráter_ de causa das quatro causas, a ponto de estarem relacionadas?
+> (P39)
 
-## O sentido de causa enquanto um comprometimento
+Para Heidegger, é necessário questionar a noção secular da causalidade quádrupla, pois do contrário
+> a causalidade e com ela o instrumental e, junto a este, a determinação usual da técnica permanecerão na escuridão e destituídos de fundamento
+> (P40)
 
-Heidegger entende ser necessário um aprofundamento da idéia Aristotélica de causalidade, uma vez que "a causalidade, por sua vez, permanece indeterminada em seu ser". Do contrário, o instrumental, e portanto a determinação usual da técnica, permanecerão na escuridão e destituídos de fundamento.
+## O problema da noção secular de causa e o seu sentido enquanto um comprometimento (P40)
 
-Heidegger se afasta das noções tradicionais Aristotélicas de causa, enquanto "o que opera efeito", ou "reagir e efetuar" e busca uma outra aproximação, a idéia de **comprometimento**
 
-> O que nós denominamos causa ... o que **compromete** (verschuldet) uma outra coisa. As quatro causas são os **modos de comprometimento** (Verschulden) relacionados entre si
-> (P40,P41)
 
-Heidegger analisa os **quatro modos de comprometimento** "a partir do que comprometem", utilizando o exemplo da **taça de prata** e a sua relação com o libatório.
 
-Heidegger entende que o que caracteriza a presença de algo que se apresenta é o "**estar disposto**" e o "**estar preparado**", os modos de comprometimento fazem com que algo apareça, permitindo com que algo **surja** na presença.
-> Eles deixam algo **surgir na presença** (An-wesen), liberam algo e com isso situam num completo surgir
-> (P44,P45)
 
-> O comprometimento tem o traço fundamental desse **deixar situar** (An-lassen) no surgir, e nesse sentido, é um **ocasionamento**.
-> > (P45)
-
-Para Heidegger, a essência da causalidade pode ser denominada pela palavra "ocasionar" nessa perspectiva de comprometimento (experimentadas pelos gregos). Heidegger entende que o sentido mais "corrente e estreito" (moderno), reduz o ocasionamento a "somente um primeiro impulso e uma provocação", enquanto Heidegger, busca atribuir um sentido mais amplo a esses modos de ocasionar, nesse "**deixar situar**", compreende os modos de ocasionar como que dominados por um **levar**, que "leva à luz o que se apresenta"
-> deixam vir a presença (Anwesen) o que ainda não se apresenta
-> (P46)
-
-> [!note] Tem uma nota sobre esse movimento na (P46): um **levar** (bringen) que **vem** (her) de uma situacão **anterior** (encobrimento) e se coloca à **frente** (vor) (descobrimento)
 
 ## Os modos de ocasionar e o produzir
 

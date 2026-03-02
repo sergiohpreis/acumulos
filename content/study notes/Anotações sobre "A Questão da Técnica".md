@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Sunday, March 1st 2026, 9:00:35 pm
+date modified: Sunday, March 1st 2026, 9:07:12 pm
 tags:
   - heidegger
   - técnica
@@ -243,7 +243,8 @@ Para Heidegger, o trabalho da técnica moderna desabriga o real enquanto subsist
 Heidegger afirma que o fato de que "**A técnica moderna somente entrou em curso quando ela pôde apoiar-se sobre a ciência exata da natureza**" é correto em termos historiográficos (historisch) mas não é verdadeiro se pensado em termos históricos (geschichtlich)
 
 > [!info] Nota sobre as distinções da história presente em Heidegger na P67
-> Relação dos trechos em [[HEIDEGGER. Ser e Tempo (19XX)]]
+> Relação dos trechos em [[HEIDEGGER Martin. Ser e Tempo (1927)]]
+> 
 
 A moderna teoria física da natureza é a preparação, não da técnica, mas da essência da técnica moderna (o que é primordial)
 - o **recolher que desafia no desabrigar requerente** ja impera na física

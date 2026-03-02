@@ -1,6 +1,6 @@
 ---
 date created: Thursday, February 26th 2026, 1:25:02 pm
-date modified: Sunday, March 1st 2026, 10:33:26 pm
+date modified: Sunday, March 1st 2026, 11:01:46 pm
 tags:
   - tecnologia
   - reflexões
@@ -22,10 +22,10 @@ Essas reflexões foram organizadas em um pré-projeto acadêmico: [[O ato de pro
 
 ## Temas Relacionados
 
-[[Como a relação de dependência se expressa nos variados sistemas e o preço da artificial necessidade da escala infinita]]
-[[Reflexões sobre Cybersyn]]
-[[Estudos sobre Obsolescência Programada]]
-[[Supervisionar o trabalho de uma IA é trabalhar]]
-[[Como seria possível determinar a correção de uma implementação?]]
-[[O desenvolvimento orientado a especificações e os erros que surgem na implementação]]
-[[Reflexões sobre o desenvolvimento orientado a especificações]]
+- [[Como a relação de dependência se expressa nos variados sistemas e o preço da artificial necessidade da escala infinita]]
+- [[Reflexões sobre Cybersyn]]
+- [[Estudos sobre Obsolescência Programada]]
+- [[Supervisionar o trabalho de uma IA é trabalhar]]
+- [[Como seria possível determinar a correção de uma implementação?]]
+- [[O desenvolvimento orientado a especificações e os erros que surgem na implementação]]
+- [[Reflexões sobre o desenvolvimento orientado a especificações]]

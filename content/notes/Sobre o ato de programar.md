@@ -18,7 +18,7 @@ A partir do [[O desenvolvimento do ato de programar ao longo do tempo|desenvolvi
 
 ## Pré-projeto de mestrado
 
-Essas reflexões foram organizadas em um pré-projeto acadêmico: [[O ato de programar entre a alienação e a tecnodiversidade]].
+Essas reflexões foram organizadas em um pré-projeto acadêmico: [[O ato de programar entre a alienação e a tecnodiversidade - trabalho, monopólios da informação e a questão da técnica na era da programação agêntica]].
 
 ## Temas Relacionados
 

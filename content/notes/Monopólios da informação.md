@@ -22,7 +22,7 @@ Autores de referência para a construção rigorosa desse conceito:
 
 A questão aberta é: o que essas empresas monopolizam? Se não é um bem tangível, o que é? A hipótese é que monopolizam a **mediação** — o acesso à informação, à comunicação, à computação. Quem controla a mediação, controla as condições de possibilidade de toda produção digital.
 
-Esse conceito é central para o [[O ato de programar entre a alienação e a tecnodiversidade|pré-projeto de mestrado]].
+Esse conceito é central para o [[O ato de programar entre a alienação e a tecnodiversidade - trabalho, monopólios da informação e a questão da técnica na era da programação agêntica|pré-projeto de mestrado]].
 
 ---
 

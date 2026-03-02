@@ -27,7 +27,7 @@ Além disso, gera-se uma **demanda artificial** que alimenta esse crescimento: m
 
 A experiência do [[Reflexões sobre Cybersyn|Cybersin]] no Chile de Allende é um contra-exemplo histórico: um sistema tecnológico desenhado com planejamento social consciente, dados mínimos e controle dos trabalhadores.
 
-Essa reflexão é central para o [[O ato de programar entre a alienação e a tecnodiversidade|pré-projeto de mestrado]].
+Essa reflexão é central para o [[O ato de programar entre a alienação e a tecnodiversidade - trabalho, monopólios da informação e a questão da técnica na era da programação agêntica|pré-projeto de mestrado]].
 
 ---
 

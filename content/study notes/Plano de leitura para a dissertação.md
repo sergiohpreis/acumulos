@@ -16,7 +16,7 @@ date: 2026-02-27T15:30:00
 
 ## Contexto
 
-Este plano de leitura serve ao amadurecimento do pré-projeto [[O ato de programar entre a alienação e a tecnodiversidade]], cuja estrutura teórica se apoia em três pilares: (1) materialismo histórico, (2) filosofia da técnica e (3) economia política da tecnologia.
+Este plano de leitura serve ao amadurecimento do pré-projeto [[O ato de programar entre a alienação e a tecnodiversidade - trabalho, monopólios da informação e a questão da técnica na era da programação agêntica]], cuja estrutura teórica se apoia em três pilares: (1) materialismo histórico, (2) filosofia da técnica e (3) economia política da tecnologia.
 
 Ele existe em complemento ao [[Plano para uma compreensão da base filosófica de Yuk Hui]], que traça um percurso genealógico da filosofia moderna até Yuk Hui (Descartes → Kant → Husserl → Heidegger → Simondon → Stiegler → Yuk Hui). Aquele plano é de formação filosófica ampla; este é orientado pelas necessidades específicas da dissertação.
 
@@ -156,7 +156,7 @@ O [[Plano para uma compreensão da base filosófica de Yuk Hui]] é um percurso 
 
 # Referências
 
-- [[O ato de programar entre a alienação e a tecnodiversidade]]
+- [[O ato de programar entre a alienação e a tecnodiversidade - trabalho, monopólios da informação e a questão da técnica na era da programação agêntica]]
 - [[Plano para uma compreensão da base filosófica de Yuk Hui]]
 - [[HUI Yuk. Tecnodiversidade (2020)]]
 - [[Fetichismo da mercadoria e a produção de software]]

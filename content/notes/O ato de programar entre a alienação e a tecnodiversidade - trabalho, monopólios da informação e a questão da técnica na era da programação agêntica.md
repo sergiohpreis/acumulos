@@ -1,6 +1,6 @@
 ---
-date created: Wednesday, February 26th 2026, 8:03:00 pm
-date modified: Wednesday, February 26th 2026, 8:03:00 pm
+date created: Thursday, February 26th 2026, 8:39:16 pm
+date modified: Sunday, March 1st 2026, 11:57:14 pm
 tags:
   - filosofia
   - tecnologia
@@ -12,17 +12,13 @@ date: 2026-02-26T20:03:00
 
 ## Título provisório
 
-**"O ato de programar entre a alienação e a tecnodiversidade: trabalho, monopólios da informação e a questão da técnica na era da programação agêntica"**
-
----
+O ato de programar entre a alienação e a tecnodiversidade - trabalho, monopólios da informação e a questão da técnica na era da programação agêntica
 
 ## Problema de pesquisa
 
 A sociedade capitalista desenvolve uma dependência crescente e não planejada de um vasto complexo de sistemas tecnológicos interdependentes, mantidos e expandidos por trabalhadores altamente especializados — os programadores. Simultaneamente, a introdução de agentes de IA na programação transforma a forma desse trabalho sem eliminar sua complexidade, produzindo um efeito de fetichização onde a produção parece se multiplicar quando, na verdade, o que se reconfigura são as relações de trabalho e as exigências cognitivas.
 
 **Pergunta**: De que modo a transformação do ato de programar — do código binário à especificação em linguagem natural mediada por agentes de IA — se articula com o [[Crescimento anárquico dos sistemas tecnológicos|crescimento anárquico da dependência tecnológica]] sob o capitalismo, e quais ferramentas conceituais a filosofia da técnica e o materialismo histórico oferecem para compreender criticamente essa articulação?
-
----
 
 ## Hipótese de trabalho
 
@@ -74,6 +70,7 @@ A proposta de tecnodiversidade de Yuk Hui e a experiência histórica do [[Refle
 ## Estrutura provisória da dissertação
 
 ### Cap. 1: Introdução
+
 Problema, justificativa, metodologia.
 
 ### Cap. 2: Genealogia do ato de programar — Da linguagem de máquina à linguagem natural
@@ -109,11 +106,13 @@ Problema, justificativa, metodologia.
 ## Bibliografia mínima
 
 ### Marx
+
 - Manuscritos Econômico-Filosóficos (1844)
 - Grundrisse (1857-58)
 - O Capital, Livro I, caps. 13-15 (1867)
 
 ### Filosofia da técnica
+
 - HUI, Yuk. Tecnodiversidade (2020)
 - HUI, Yuk. On the Existence of Digital Objects (2016)
 - HUI, Yuk. Recursion and Contingency (2019)
@@ -123,6 +122,7 @@ Problema, justificativa, metodologia.
 - FEENBERG, Andrew. Questioning Technology (1999)
 
 ### Economia política da tecnologia
+
 - SRNICEK, Nick. Platform Capitalism (2017) — *leitura pendente*
 - ZUBOFF, Shoshana. The Age of Surveillance Capitalism (2019) — *leitura pendente*
 - DURAND, Cédric. Techno-féodalisme (2020) — *leitura pendente*
@@ -131,6 +131,7 @@ Problema, justificativa, metodologia.
 - MEDINA, Eden. Cybernetic Revolutionaries (2011)
 
 ### Filosofia da mente (apoio pontual)
+
 - SEARLE, John. Minds, Brains, and Programs (1980)
 - DREYFUS, Hubert. What Computers Still Can't Do (1992)
 

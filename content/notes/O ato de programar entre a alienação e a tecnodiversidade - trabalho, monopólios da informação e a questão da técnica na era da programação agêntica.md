@@ -1,18 +1,16 @@
 ---
 date created: Thursday, February 26th 2026, 8:39:16 pm
-date modified: Sunday, March 1st 2026, 11:57:14 pm
+date modified: Monday, March 2nd 2026, 12:02:47 am
 tags:
   - filosofia
   - tecnologia
   - marxismo
   - técnica
+  - trabalho
+  - ciência-da-computação
 draft: false
-date: 2026-02-26T20:03:00
+date: 2026-03-02T00:02:00
 ---
-
-## Título provisório
-
-O ato de programar entre a alienação e a tecnodiversidade - trabalho, monopólios da informação e a questão da técnica na era da programação agêntica
 
 ## Problema de pesquisa
 
@@ -22,13 +20,11 @@ A sociedade capitalista desenvolve uma dependência crescente e não planejada d
 
 ## Hipótese de trabalho
 
-O ato de programar consiste na manifestação de intenções por meio de uma linguagem técnica — [[Escrever código significa manifestar as suas intenções por meio de uma linguagem]]. Porém, sob as relações capitalistas de produção, **as intenções manifestadas são predominantemente as do capital, não as do trabalhador** — o programador é mediação entre a vontade de quem controla os meios de produção e a execução técnica. Sua história revela uma progressiva aproximação entre intenção e interface técnica — [[O desenvolvimento do ato de programar ao longo do tempo]] — mas essa "intenção" que se aproxima da máquina não é a do programador: é a do capital traduzida pelo programador.
+O ato de programar consiste na[[Escrever código significa manifestar as suas intenções por meio de uma linguagem|manifestação de intenções por meio de uma linguagem técnica]]. Porém, sob as relações capitalistas de produção, **as intenções manifestadas são predominantemente as do capital, não as do trabalhador** — o programador é uma **mediação entre a vontade de quem controla os meios de produção e a execução técnica**. Sua [[O desenvolvimento do ato de programar ao longo do tempo|história revela uma progressiva aproximação entre intenção e interface técnica]] - mas essa "intenção" que se aproxima da máquina não é a do programador: é a do capital **traduzida pelo programador**.
 
 A passagem para o desenvolvimento orientado a especificações ([[Reflexões sobre o desenvolvimento orientado a especificações]]) torna essa alienação mais *visível* (a especificação vem explicitamente de fora), mas não a cria — ela já existia. O spec-driven development reconfigura a alienação sem superá-la, pois não altera as relações de propriedade sobre os meios de produção digitais — concentrados nos [[Monopólios da informação]].
 
-A proposta de tecnodiversidade de Yuk Hui e a experiência histórica do [[Reflexões sobre Cybersyn]] oferecem horizonte crítico ao demonstrar que outra relação entre intenção, trabalho e técnica é possível — uma em que o trabalhador seja sujeito, não veículo.
-
----
+A proposta de tecnodiversidade de Yuk Hui e a [[Reflexões sobre Cybersyn|experiência histórica do Cybersyn]] oferecem horizonte crítico ao demonstrar que outra relação entre intenção, trabalho e técnica é possível — uma em que o trabalhador seja sujeito, não veículo.
 
 ## Justificativa
 

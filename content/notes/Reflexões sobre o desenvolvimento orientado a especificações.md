@@ -1,6 +1,6 @@
 ---
 date created: Thursday, February 26th 2026, 1:18:38 pm
-date modified: Thursday, February 26th 2026, 1:22:03 pm
+date modified: Monday, March 2nd 2026, 12:02:00 am
 tags:
   - spec-driven
   - tecnologia

@@ -1,16 +1,16 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Monday, March 2nd 2026, 12:43:04 pm
+date modified: Monday, March 2nd 2026, 1:59:16 pm
 tags:
   - heidegger
   - técnica
   - causalidade
 draft: false
-date: 2026-03-01T22:20:00
+date: 2026-03-02T14:15:00
 ---
 
 > [!Iinfo] Resumo / Fichamento de [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
-> Escrevi sobre [[A técnica para Heidegger]] como uma forma de resumo mais simples
+> Escrevi sobre [[A noção de técnica para Heidegger]] como uma forma de resumo mais simples
 
 ## A essência não técnica da técnica e a sua não neutralidade (P33)
 
@@ -239,7 +239,7 @@ Heidegger entende que é necessário questionar a proveniência da ciência mode
 > Porque a essência da técnica moderna reside na armação, esta necessita empregar a ciência exata da natureza. Desse modo, nasce a aparência enganadora de que a **técnica moderna é uma ciência da natureza aplicada**. Esta aparência se sustentará até que a proveniência essencial da ciência moderna e a essência da técnica moderna sejam adequadamente questionadas.
 > (P70)
 
-## O destino (Geschick) como caminho para o desabrigar (P71)
+## O destino (Geschick) como caminho para o desabrigar, como um produzir (ποίησις, poíēsis) que possibilita o elemento histórico (*das Geschichtliche*) (P71, P73)
 
 > A armação não é nada de técnico, nada de tipo maquinal. É o **modo segundo o qual a realidade se desabriga como subsistência**.
 > (P71)
@@ -250,27 +250,38 @@ Heidegger aproximará essa ideia de "*conduzir por um caminho*" ao significado d
 > Denominamos aquele enviar que recolhe e que primeiramente **leva o homem para o caminho do desabrigar**, como sendo o **destino** (*Geschick*)
 > (P72)
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Para Heidegger é a partir dai que se determina toda a essência da história (Geschichte), que "não é nem somente o objeto da historiografia (Historie) nem somente a ratificação do fazer humano". Esse fazer humano somente é algo histórico (geschichtlich) quando é algo destinal (geschickliches).
 
-Heidegger define "aquele enviar que recolhe e que primeiramente leva o homem para o caminho do desabrigar" como sendo o destino (Geschick)
-- A partir dai determina-se a essência de toda história (Geschichte)
-	- não é nem somente o objeto da historiografia (Historie) nem somente a ratificação do fazer humano
-		- este fazer somente quando é algo destinal (geschickliches) é algo histórico (geschichtlich)
-		- somente o destino na representação objetificante torna acessível o elemento histórico (das Geschichtliche) como objeto para a historiografia (Historie)
-
-A partir disso torna apenas possível a corrente equiparação do histórico (Geschichtlichen) ao historiográfico (Historischen)
-
-> Enquanto desafiar no requerer, a armação envia num modo de desabrigar. A armação é um envio (Schickung) do destino, assim como todo modo de desabrigar. Destino, neste sentido, é também um produzir, é ποίησις.
+> E somente o destino na representação objetificante torna acessível o elemento histórico (*das Geschichtliche*) como objeto para a historiografia (*Historie*), isto é, para uma ciência, e a partir disso torna apenas possível a corrente equiparação do histórico (Geschichtlichen) ao historiográfico (Historischen)
 > (P73)
 
-busca aproximar esse desabrigar desafiante da idéia de destino (Geschick)
+Nesse sentido, Heidegger afirma que esse destino, que envia a armação, também é um produzir (ποίησις, poíēsis).
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+> Enquanto desafiar no requerer, a armação envia num modo de desabrigar. **A armação é um envio (Schickung) do destino**, assim como todo modo de desabrigar. Destino, neste sentido, é também um **produzir**, é ποίησις.
+> (P73)
+
+## A relação da liberdade com o destino do desabrigar e este como perigo (P72,P76)
+
+Heidegger reflete sobre a essência da liberdade, a partir desse destino do desabrigar que sempre domina os homens. Para Heidegger, esse destino não é uma coação, pois a liberdade esta atrelada a essa armação uma vez que o homem pertence ao âmbito do destino, tornando-se "um ouvinte (Hörender), mas não um servo (Höriger)"
+> A liberdade domina o que é livre no sentido do que é focalizado, isto é, do que se descobre
+> A liberdade é o âmbito do destino, que toda vez leva um desabrigamento para o seu caminho
+> (P73)
+
+Heidegger discorda que "a técnica é o destino de nossa época", em um sentido de "algo que não pode ser desviado de um transcurso inalterável", para ele *"se nos abrirmos propriamente à essência da técnica, encontrarnos-emos inesperadamente estabelecidos numa **exigência libertadora**"*
+
+Uma vez que o homem esta submetido a esse destino do desabrigar "este permanece a caminho sempre à margem da possibilidade de **apenas perseguir e perpetuar o que se desabriga no que é requerido** e a partir dali tomar todas as medidas", entretanto, desde que o homem "sempre mais cedo e sempre mais inicialmente, se entregue à essência do que se descobre e de seu descobrimento" poderá então experimentar o pertencimento empregado (gebrauchte Zugehörigkeit) ao desabrigar como sendo a sua essência.
+
+> [!note] Nota sobre a expressão "pertencimento empregado" em P76
+> ...designa um **duplo movimento**: remete ao fato de que o homem não é o senhor do destino e da história, mas é alguém que **é por essência usado**, embora seja ele mesmo a **se oferecer** a algo que o ultrapassa.
+
+Para Heidegger, o homem é a partir do destino, desse desabrigamento colocado em **perigo**
+
+> Uma vez levado a estas possibilidades, o homem está, a partir do destino, colocado em perigo. **O destino do desabrigamento é, enquanto tal, em todos os seus modos, um perigo**, e, por isso, necessariamente um perigo.
 
 ## Etc
 
 - [[O significado de "Dasein"]]
-- TL;DR: [[A técnica para Heidegger]]
+- TL;DR: [[A noção de técnica para Heidegger]]
 
 
 

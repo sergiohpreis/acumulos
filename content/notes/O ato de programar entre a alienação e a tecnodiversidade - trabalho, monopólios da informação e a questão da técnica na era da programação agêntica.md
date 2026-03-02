@@ -74,7 +74,7 @@ Problema, justificativa, metodologia.
 - Tese: programar é manifestar intenções por meio de uma linguagem — cf. [[Escrever código significa manifestar as suas intenções por meio de uma linguagem]]
 - Percurso histórico: binário → assembly → alto nível → especificações — cf. [[O desenvolvimento do ato de programar ao longo do tempo]]
 - Deslocamento: do "como fazer" ao "o que deve acontecer" — cf. [[Reduzir o nível de abstração entre o que se pretende e o que se executa poderia ser benéfico para o entendimento humano?]]
-- Questão: quem produz especificações? (conhecimento técnico permanece necessário) — cf. [[O desenvolvimento orientado a especificações e os erros que surgem na implementação]]
+- Questão: quem produz especificações? (conhecimento técnico permanece necessário) — cf. [[Como o desenvolvimento orientado a especificações pode assimilar o fator iterativo do ato de programar?]]
 - **Contexto material**: as ferramentas de spec-driven development e programação agêntica não surgem no vácuo — são desenvolvidas e controladas por grandes monopólios (GitHub Copilot/Microsoft, Claude/Anthropic, Gemini/Google). A genealogia do ato de programar é inseparável da história de quem controla os meios de produção de software
 
 ### Cap. 3: O ato de programar como trabalho alienado — Marx e a produção de software
@@ -170,7 +170,7 @@ Problema, justificativa, metodologia.
 - [[O desenvolvimento do ato de programar ao longo do tempo]]
 - [[Escrever código significa manifestar as suas intenções por meio de uma linguagem]]
 - [[Reflexões sobre o desenvolvimento orientado a especificações]]
-- [[O desenvolvimento orientado a especificações e os erros que surgem na implementação]]
+- [[Como o desenvolvimento orientado a especificações pode assimilar o fator iterativo do ato de programar?]]
 - [[Reduzir o nível de abstração entre o que se pretende e o que se executa poderia ser benéfico para o entendimento humano?]]
 - [[Supervisionar o trabalho de uma IA é trabalhar]]
 - [[Como a relação de dependência se expressa nos variados sistemas e o preço da artificial necessidade da escala infinita]]

@@ -27,5 +27,5 @@ Essas reflexões foram organizadas em um pré-projeto acadêmico: [[O ato de pro
 - [[Estudos sobre Obsolescência Programada]]
 - [[Supervisionar o trabalho de uma IA é trabalhar]]
 - [[Como seria possível determinar a correção de uma implementação?]]
-- [[O desenvolvimento orientado a especificações e os erros que surgem na implementação]]
+- [[Como o desenvolvimento orientado a especificações pode assimilar o fator iterativo do ato de programar?]]
 - [[Reflexões sobre o desenvolvimento orientado a especificações]]

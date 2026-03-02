@@ -1,26 +1,20 @@
 ---
 date created: Wednesday, June 25th 2025, 12:52:21 pm
-date modified: Thursday, February 26th 2026, 7:31:12 pm
+date modified: Sunday, March 1st 2026, 11:17:52 pm
 tags:
   - spec-driven
   - ciência-da-computação
   - tecnologia
-title: O desenvolvimento da profissão do programador ao longo do tempo
+  - técnica
 draft: false
-date: 2025-06-25T12:52:00
+date: 2026-03-01T23:20:00
 ---
 
-Penso que [[Escrever código significa manifestar as suas intenções por meio de uma linguagem]], nesse sentido, me parece que a introdução das inteligências artificiais no fluxo de trabalho dos programadores é mais um momento onde acontece uma mudança na linguagem utilizada para realizar essa intenção.
+Se [[Escrever código significa manifestar as suas intenções por meio de uma linguagem|escrever código significa manifestar as suas intenções por meio de uma linguagem]], me parece que a introdução das inteligências artificiais no fluxo de trabalho dos programadores (por exemplo, #spec-driven ) é mais um momento onde acontece uma mudança na linguagem utilizada para manifestar essa intenção.
 
-Para se escrever um programa, no início da computação, era necessário um profundo conhecimento matemático (a linguagem portanto seria a matemática?). As linguagens de baixo nível surgiram, e com o passar dos anos, as linguagens de programação tornaram-se cada vez mais próxima a linguagem natural.
+Na computação, inicialmente, só era possível manifestar as intenções para o programa por meio de uma linguagem matemática. Com o passar dos anos, surgiram linguagens de baixo nível, mais similares a própria linguagem natural (humana), até o momento onde temos linguagens de alto nível, muito similares a linguagem natural 
 
-| **Era**                     | **Linguagem Primária**    | **Foco do Programador**       |
-| --------------------------- | ------------------------- | ----------------------------- |
-| **Baixo Nível**             | Binário / Assembly        | Gestão de memória e CPU       |
-| **Alto Nível (JS, Python)** | Lógica Computacional      | Algoritmos e Fluxos           |
-| **Spec-Driven**             | Linguagem Natural / Specs | Intenção, Regras e Resultados |
-
-Por exemplo:
+Um exemplo de como uma linguagem de alto nível se aproxima muito da linguagem natural ("coma enquanto eu estiver com fome e tiver comida disponível")
 
 ```js
 foodsAvailable = 10;
@@ -30,9 +24,7 @@ while (hungry && foodsAvailable > 0) {
 }
 ```
 
-Se eu explicar para alguém que é leigo em programação que `&&` significa justamente a conjunção lógica "e", é possível inferir que esse trecho escrito em uma linguagem de programação chamada Javascript significa: "enquanto eu estiver com fome e tiver comida disponível, como".
-
-Através do spec-driven, podemos dizer:
+Esse comportamento pode ser especificado como uma rotina de alimentação
 
 ```markdown
 # Spec: Rotina de Alimentação

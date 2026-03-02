@@ -24,7 +24,7 @@ authors:
 
 > Specs become the shared source of truth. When something doesn’t make sense, you go back to the spec; when a project grows complex, you refine it; when tasks feel too large, you break them down.
 
-[[Knowledge First (ou Spec-Driven Development), mudou-se a forma de materializar o que se espera da máquina]]?
+[[Reduzir o nível de abstração entre o que se pretende e o que se executa poderia ser benéfico para o entendimento humano?]]?
 
 ## Ver também
 

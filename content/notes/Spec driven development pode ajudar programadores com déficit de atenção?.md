@@ -19,7 +19,7 @@ As vezes eu penso que sim, pois por exemplo, o fluxo para escrever um código é
 
 Os pontos 2 e 3 me parecem ser grandes possibilidades de dispersão, pois facilmente, ao escrever o código, podemos acabar caindo em loops de refatorações e etc. Quando dialogando com um agente (ou escrevendo uma especificação), me parece que fica mais dificil de dispersar
 
-[[Knowledge First (ou Spec-Driven Development), mudou-se a forma de materializar o que se espera da máquina]]
+[[Reduzir o nível de abstração entre o que se pretende e o que se executa poderia ser benéfico para o entendimento humano?]]
 
 ---
 

@@ -30,13 +30,13 @@ O ato de programar consiste na manifestação de intenções por meio de uma lin
 
 A passagem para o desenvolvimento orientado a especificações ([[Reflexões sobre o desenvolvimento orientado a especificações]]) torna essa alienação mais *visível* (a especificação vem explicitamente de fora), mas não a cria — ela já existia. O spec-driven development reconfigura a alienação sem superá-la, pois não altera as relações de propriedade sobre os meios de produção digitais — concentrados nos [[Monopólios da informação]].
 
-A proposta de tecnodiversidade de Yuk Hui e a experiência histórica do [[Cybersyn]] oferecem horizonte crítico ao demonstrar que outra relação entre intenção, trabalho e técnica é possível — uma em que o trabalhador seja sujeito, não veículo.
+A proposta de tecnodiversidade de Yuk Hui e a experiência histórica do [[Reflexões sobre Cybersyn]] oferecem horizonte crítico ao demonstrar que outra relação entre intenção, trabalho e técnica é possível — uma em que o trabalhador seja sujeito, não veículo.
 
 ---
 
 ## Justificativa
 
-- Crescimento real do consumo de recursos naturais por infraestrutura digital (data centers, IA generativa) — cf. [[Como a relação de dependência se expressa nos variados sistemas e porque a competição pela atenção custa para a sociedade como um todo]]
+- Crescimento real do consumo de recursos naturais por infraestrutura digital (data centers, IA generativa) — cf. [[Como a relação de dependência se expressa nos variados sistemas e o preço da artificial necessidade da escala infinita]]
 - Concentração monopolista da infraestrutura da internet (Cloudflare, Google, Amazon, Microsoft) — cf. [[Os dados produzidos pelos seres humanos são poderosos recursos para o funcionamento dos monopólios da tecnologia]]
 - Transformação concreta e em curso do trabalho de programação por agentes de IA — cf. [[Supervisionar o trabalho de uma IA é trabalhar]]
 - Carência de análise filosófica rigorosa sobre essas transformações a partir da periferia do capitalismo
@@ -91,13 +91,13 @@ Problema, justificativa, metodologia.
 - "[[Supervisionar o trabalho de uma IA é trabalhar]]" — a não-eliminação do trabalho
 - O [[Fetichismo da mercadoria e a produção de software|fetiche da multiplicação]]: mais código produzido = mais código a ser lido. Demonstrar o mecanismo: a IA oculta o trabalho humano, fazendo parecer que o software "se produz sozinho"
 - **Condições materiais concretas**: o programador produz para [[Monopólios da informação|monopólios]] que concentram a infraestrutura digital (Cloudflare, Google, Amazon, Microsoft). A alienação é concreta: propriedade intelectual, dados como acumulação de capital, [[Crescimento anárquico dos sistemas tecnológicos|crescimento da infraestrutura sem planejamento social]] (data centers, consumo energético, usinas nucleares para IA). Aqui entra a questão da soberania tecnológica na periferia — o caso brasileiro (data centers estrangeiros em território nacional não significam soberania)
-- [[Como a relação de dependência se expressa nos variados sistemas e porque a competição pela atenção custa para a sociedade como um todo|A competição pela atenção]] e a demanda artificial como motor do crescimento anárquico dos sistemas que o programador mantém
+- [[Como a relação de dependência se expressa nos variados sistemas e o preço da artificial necessidade da escala infinita|A competição pela atenção]] e a demanda artificial como motor do crescimento anárquico dos sistemas que o programador mantém
 
 ### Cap. 4: Tecnodiversidade como horizonte crítico — Yuk Hui e o Cybersyn
 
 - Cosmotécnica: contra a universalização da técnica
 - O Manifesto para uma utilização não singular de IAs como formulação prática de tecnodiversidade
-- [[Cybersyn]] como contra-exemplo *parcial*: tecnologia participativa, dados mínimos, controle dos trabalhadores — mas reconhecendo limites e tensões (Eden Medina)
+- [[Reflexões sobre Cybersyn]] como contra-exemplo *parcial*: tecnologia participativa, dados mínimos, controle dos trabalhadores — mas reconhecendo limites e tensões (Eden Medina)
 - Recursividade e não-determinismo: são realmente problemas novos?
 - Apontamentos: princípios para uma relação não alienada com a técnica
 - Limites honestos: tecnodiversidade como horizonte, não como solução automática
@@ -161,7 +161,7 @@ Problema, justificativa, metodologia.
 1. O conceito de "[[Monopólios da informação|monopólio da informação]]" precisa ser construído, não apenas afirmado — dialogar com Srnicek, Zuboff, Durand
 2. O uso de "anárquico" para o [[Crescimento anárquico dos sistemas tecnológicos|crescimento dos sistemas]] precisa justificar o que há de *específico* na tecnologia (vs. capitalismo em geral)
 3. "[[Fetichismo da mercadoria e a produção de software|Fetiche]]" em Marx tem significado técnico — demonstrar o mecanismo de fetichização, não apenas usar a palavra
-4. [[Cybersyn]] deve ser contra-exemplo *parcial*, não modelo idealizado
+4. [[Reflexões sobre Cybersyn]] deve ser contra-exemplo *parcial*, não modelo idealizado
 5. Falta diálogo com a literatura existente — as reflexões atuais são originais mas isoladas
 6. "Ato de programar" precisa de definição precisa: conceito fenomenológico, categoria econômica, ou relação técnica?
 
@@ -176,10 +176,10 @@ Problema, justificativa, metodologia.
 - [[O desenvolvimento orientado a especificações e os erros que surgem na implementação]]
 - [[Knowledge First (ou Spec-Driven Development), mudou-se a forma de materializar o que se espera da máquina]]
 - [[Supervisionar o trabalho de uma IA é trabalhar]]
-- [[Como a relação de dependência se expressa nos variados sistemas e porque a competição pela atenção custa para a sociedade como um todo]]
+- [[Como a relação de dependência se expressa nos variados sistemas e o preço da artificial necessidade da escala infinita]]
 - [[Os dados produzidos pelos seres humanos são poderosos recursos para o funcionamento dos monopólios da tecnologia]]
 - [[Como vive o ser humano cercado por agentes de IA?]]
-- [[Cybersyn]]
+- [[Reflexões sobre Cybersyn]]
 - [[Estudos sobre Obsolescência Programada]]
 - [[Como seria possível determinar a correção de uma implementação?]]
 - [[Plano para o desenvolvimento de uma pós graduação]]

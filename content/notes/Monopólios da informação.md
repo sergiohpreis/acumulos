@@ -29,4 +29,4 @@ Esse conceito é central para o [[O ato de programar entre a alienação e a tec
 Relacionados:
 - [[Os dados produzidos pelos seres humanos são poderosos recursos para o funcionamento dos monopólios da tecnologia]]
 - [[Crescimento anárquico dos sistemas tecnológicos]]
-- [[Como a relação de dependência se expressa nos variados sistemas e porque a competição pela atenção custa para a sociedade como um todo]]
+- [[Como a relação de dependência se expressa nos variados sistemas e o preço da artificial necessidade da escala infinita]]

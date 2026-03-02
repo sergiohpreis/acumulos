@@ -25,14 +25,14 @@ tags:
   - filosofia
   - técnica
 draft: false
-date: 2026-03-01T17:26:00.377425571-03:00
+date: 2026-03-01T21:04:29.816437944-03:00
 ---
 
 ## Resumo
 
-- Sessões: 26
-- Páginas lidas: 239
-- Tempo total: 12h 58m
+- Sessões: 30
+- Páginas lidas: 260
+- Tempo total: 15h 53m
 - Avaliação: ⭐⭐⭐ (3/5)
 - Autores: Martin Heidegger
 - Status: Lendo
@@ -40,6 +40,10 @@ date: 2026-03-01T17:26:00.377425571-03:00
 
 ## Sessões
 
+- **2026-03-01 20:05 - 21:00** - Páginas 65-70 (6 páginas) - Como o homem da era da técnica assume uma postura requerente (P66, P67); A relação da técnica moderna com a ciência exata e a requeribilidade da natureza exige enquanto subsistência (P67, P70) - 0h55m
+- **2026-03-01 19:15 - 19:56** - Páginas 61-65 (5 páginas) - O homem atende ao apelo do descobrimento mediante um modo de requerer (armação, Ge-stell) (P61,P65) - 0h40m
+- **2026-03-01 18:29 - 19:04** - Páginas 57-60 (4 páginas) - O pôr enquanto subsistência e o papel do homem no requerer (P57,P60) - 0h34m
+- **2026-03-01 17:32 - 18:18** - Páginas 51-56 (6 páginas) - A relação mútua entre a física e a técnica e o desafiar como desabrigar da técnica moderna (o sentido de pôr) (P51,P56) - 0h46m
 - **2026-03-01 16:39 - 17:21** - Páginas 46-51 (6 páginas) - Os modos de ocasionar como produzir (ποίησις, poíēsis) e desabrigar ἀλήθεια (alētheia) (P46,P48);A técnica como modo de desabrigar, de conhecer (no sentido de ἐπιστήμη, epistēmē) e como um modo de um levar a frente, um modo da ἀλήθεια (alētheia) (P49,P51) - 0h41m
 - **2026-03-01 15:54 - 16:02** - Páginas 46-47 (2 páginas) - 0h08m
 - **2026-03-01 14:23 - 15:35** - Páginas 40-46 (7 páginas) - As quatro causas como modos de comprometimento (P40);Os modos de comprometimento enquanto um ocasionamento (P44) - 1h12m

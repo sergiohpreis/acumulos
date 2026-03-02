@@ -1,12 +1,12 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Sunday, March 1st 2026, 6:18:47 pm
+date modified: Sunday, March 1st 2026, 9:00:35 pm
 tags:
   - heidegger
   - técnica
   - causalidade
 draft: false
-date: 2026-03-01T18:20:00
+date: 2026-03-01T21:00:00
 ---
 
 > [!Iinfo] [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
@@ -186,7 +186,82 @@ Heidegger entre P53 e P56 apresenta alguns exemplos desse **desabrigar desafiant
 > A direção e a segurança tornam-se inclusive os traços fundamentais do desabrigar desafiante
 > (P56)
 
-## (P57)
+## O pôr enquanto subsistência e o papel do homem no requerer (P57,P60)
+
+Heidegger entende que o que vem a luz mediante esse pôr desafiante é requerido para "ficar posto imediatamente para um pôr", algo em um sentido de encomenda e a essa posição nomeia de **subsistência** (Bestand)
+> ... eleva-se a categoria de um título ... **o modo pelo qual tudo o que é tocado pelo desabrigar desafiante se essencializa**
+> (P57)
+
+> [!note] Em P58 Heidegger discute brevemente a determinação de Hegel da *máquina como instrumento autônomo*
+
+> Quem completará o **pôr que desafia**, pelo qual o que denominamos como sendo o real se **desabrigará como subsistência**? Manifestamente será o homem
+
+Para Heidegger, desde Platão, onde a realidade se mostra à luz de ideias, o pensador apenas "*correspondeu ao que se lhe anunciou*", um desabrigar que **requer algo** só pode acontecer para Heidegger quando *"o homem for desafiado a desafiar as energias naturais"* (P59).
+
+Através de uma lista de exemplos Heidegger demonstra como o homem não é uma subsistência por ser requerido uma vez que ele é desafiado mais originariamente do que as energias naturais no requerer (Bestellen), **o homem cultiva a técnica**, portanto **toma parte no requerer** (P60)
+
+## O homem atende ao apelo do descobrimento mediante um modo de requerer (armação, Ge-stell) (P61,P65)
+
+> Entretanto, o descobrimento mesmo, no seio do qual o requerer se desdobra, nunca é algo feito pelo homem, muito menos o âmbito que o homem a toda hora sempre percorre, quando, enquanto um **sujeito**, se relaciona com um **objeto**.
+> (P60,61)
+
+O homem possui, através das técnicas, modos de desabrigar, entretanto, para Heidegger o homem sempre se encontrará **levado para o que está descoberto**, atendendo ao **apelo do descobrimento**, o homem possui modos de desabrigar a ele dispostos que correspondem a esses apelos.
+
+> Se, portanto, o homem, ao pesquisar e observar, persegue a natureza enquanto uma região de seu representar, então ele já é convocado por um **modo de desabrigamento** que o desafia a ir ao encontro da natureza enquanto um **objeto de pesquisa**, até que também o objeto desapareça na **ausência de objeto da subsistência**.
+> (P62)
+
+Essa "ausência de objeto da subsistência" significa que, quando a natureza se torna mera subsistência, ela deixa de ser um objeto, nesse processo o homem vai destruir a condição de objeto, transformando tudo (inclusive o próprio homem) em uma grande engrenagem de recursos e reservas (subsistência)
+
+O homem não destrói a condição de objeto por livre arbítrio; na verdade, o homem é provocado e desafiado por algo que Heidegger denomina de "**armação**" *(Ge-stell)*
+
+Heidegger busca a aproximação para armação no sentido que Platão atribuía para εἶδος (eîdos), algo além do sensível, que para Heidegger, não pode ser captado com os olhos, pois ἰδέα (idéa) denomina não apenas "o aspecto não sensível do que é sensivelmente visível", mas também *"o que perfaz a essência ... daquilo que de algum modo é acessível"* (P64)
+
+> Armação significa **a reunião daquele pôr que o homem põe**, isto é, desafia para desocultar a realidade no **modo do requerer** enquanto subsistência. Armação significa o modo de desabrigar que **impera na essência da técnica moderna** e não é propriamente **nada de técnico**.
+> (P64)
+
+>... estruturas, camadas e suportes, e que são peças do que se denomina como sendo uma montagem
+> (P65)
+
+O aparato técnico (a montagem) será determinada pelo desafio da armação.
+
+## O requerer desafiante como modo da ἀλήθεια (alētheia), o trabalho da técnica moderna desabriga o real enquanto subsistência (P65)
+
+Heidegger busca uma ressônancia desse pôr (stellen) da armação (Ge-stell) além do desafiar, uma aproximação do produzir (Her-stellen) e expôr (Dar-stellen), o sentido de **levar a frente** da (ποίησις, poíēsis), tal qual o erigir de uma estátua em um templo. 
+
+Heidegger afirma que este requerer desafiante e esse erigir do sentido da ποίησις, (poíēsis) são fundamentalmente diferentes, mas ainda assim aparentados, pois são modos de desabrigar, modos da ἀλήθεια (alētheia).
+
+> Na armação acontece o descobrimento, segundo o qual o trabalho da técnica moderna **desabriga o real enquanto subsistência**. Ela não é, por isso, nem um fazer humano nem um mero meio no seio de tal fazer. A determinação somente instrumental, antropológica, da técnica torna-se, em princípio, ilusória; ela não se deixa simplesmente completar com um esclarecimento metafísico ou religioso colocado em sua base.
+> (P65,P66)
+
+### Como o homem da era da técnica assume uma postura requerente (P66, P67)  
+
+Para Heidegger, o trabalho da técnica moderna desabriga o real enquanto subsistência... o homem da era da técnica assume uma postura requerente, vendo *"à natureza como um depósito caseiro de reservas de energias*", essa postura requerente do homem *"mostra-se, em primeiro lugar, no surgimento da moderna e exata ciência da natureza"* onde "põe a natureza como um complexo de **forças passíveis de cálculo**", na física, o experimento é requerido
+> para questionar se a natureza assim posta se anuncia e como ela se anuncia
+
+## A relação da técnica moderna com a ciência exata e a requeribilidade da natureza exige enquanto subsistência (P67, P70)
+
+Heidegger afirma que o fato de que "**A técnica moderna somente entrou em curso quando ela pôde apoiar-se sobre a ciência exata da natureza**" é correto em termos historiográficos (historisch) mas não é verdadeiro se pensado em termos históricos (geschichtlich)
+
+> [!info] Nota sobre as distinções da história presente em Heidegger na P67
+> Relação dos trechos em [[HEIDEGGER. Ser e Tempo (19XX)]]
+
+A moderna teoria física da natureza é a preparação, não da técnica, mas da essência da técnica moderna (o que é primordial)
+- o **recolher que desafia no desabrigar requerente** ja impera na física
+
+> [!info] Na P68 e P69 Heidegger reflete sobre o ocultamento da essência, não só da técnica, mas em âmbito geral.
+
+Heidegger reflete sobre a essência da técnica moderna e à essência que nela impera, o que é o "historicamente mais primordial":
+- para o cálculo historiográfico: início da moderna ciência da natureza reside no século XVII
+- a técnica das máquinas de força somente se desenvolve na segunda metade do século XVIIII
+
+Para Heidegger, o que é mais tardio na concepção histórica é o historicamente mais primordial. A "**requeribilidade da natureza exige enquanto subsistência**" é exigido pelo "imperar da armação", a física nunca pode renunciar "que a natureza se anuncie em algum modo asseverado, calculado, e permaneça possível de ser requerida como um sistema de informações", esse sistema se determina a partir deuma relação de causalidade, mas não no sentido de "causa efficiens ou da causa formalis", mas sim em uma causalidade mediante um "anunciar **desafiado** de rebentos asseguradores, simultâneos ou consecutivos"
+
+Heidegger entende que é necessário questionar a proveniência da ciência moderna e a essência da técnica moderna adequadamente para se livrar da aparência enganadora de que a técnica moderna é uma ciência da natureza aplicada.
+
+> Porque a essência da técnica moderna reside na armação, esta necessita empregar a ciência exata da natureza. Desse modo, nasce a aparência enganadora de que a **técnica moderna é uma ciência da natureza aplicada**. Esta aparência se sustentará até que a proveniência essencial da ciência moderna e a essência da técnica moderna sejam adequadamente questionadas.
+> (P70)
+
+## (P71)
 
 ## Etc
 

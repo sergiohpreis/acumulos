@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Sunday, March 1st 2026, 10:18:06 pm
+date modified: Sunday, March 1st 2026, 10:25:34 pm
 tags:
   - heidegger
   - técnica
@@ -10,6 +10,7 @@ date: 2026-03-01T22:20:00
 ---
 
 > [!Iinfo] Resumo / Fichamento de [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
+> Escrevi sobre [[A técnica para Heidegger]] como uma forma de resumo mais simples
 
 ## A essência não técnica da técnica e a sua não neutralidade (P33)
 

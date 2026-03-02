@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Monday, March 2nd 2026, 1:59:16 pm
+date modified: Monday, March 2nd 2026, 4:55:14 pm
 tags:
   - heidegger
   - técnica
@@ -239,7 +239,7 @@ Heidegger entende que é necessário questionar a proveniência da ciência mode
 > Porque a essência da técnica moderna reside na armação, esta necessita empregar a ciência exata da natureza. Desse modo, nasce a aparência enganadora de que a **técnica moderna é uma ciência da natureza aplicada**. Esta aparência se sustentará até que a proveniência essencial da ciência moderna e a essência da técnica moderna sejam adequadamente questionadas.
 > (P70)
 
-## O destino (Geschick) como caminho para o desabrigar, como um produzir (ποίησις, poíēsis) que possibilita o elemento histórico (*das Geschichtliche*) (P71, P73)
+## O destino (Geschick) como caminho para o desabrigar, que possibilita o elemento histórico (*das Geschichtliche*) e que é um produzir (ποίησις, poíēsis) (P71, P73)
 
 > A armação não é nada de técnico, nada de tipo maquinal. É o **modo segundo o qual a realidade se desabriga como subsistência**.
 > (P71)
@@ -260,28 +260,42 @@ Nesse sentido, Heidegger afirma que esse destino, que envia a armação, também
 > Enquanto desafiar no requerer, a armação envia num modo de desabrigar. **A armação é um envio (Schickung) do destino**, assim como todo modo de desabrigar. Destino, neste sentido, é também um **produzir**, é ποίησις.
 > (P73)
 
-## A relação da liberdade com o destino do desabrigar e este como perigo (P72,P76)
+## A relação da liberdade com o destino do desabrigar (P72,P76)
 
 Heidegger reflete sobre a essência da liberdade, a partir desse destino do desabrigar que sempre domina os homens. Para Heidegger, esse destino não é uma coação, pois a liberdade esta atrelada a essa armação uma vez que o homem pertence ao âmbito do destino, tornando-se "um ouvinte (Hörender), mas não um servo (Höriger)"
 > A liberdade domina o que é livre no sentido do que é focalizado, isto é, do que se descobre
 > A liberdade é o âmbito do destino, que toda vez leva um desabrigamento para o seu caminho
 > (P73)
 
-Heidegger discorda que "a técnica é o destino de nossa época", em um sentido de "algo que não pode ser desviado de um transcurso inalterável", para ele *"se nos abrirmos propriamente à essência da técnica, encontrarnos-emos inesperadamente estabelecidos numa **exigência libertadora**"*
+Heidegger discorda que "**a técnica é o destino de nossa época**", em um sentido de "algo que não pode ser desviado de um transcurso inalterável", para ele *"se nos abrirmos propriamente à essência da técnica, encontrarnos-emos inesperadamente estabelecidos numa **exigência libertadora**"*, ou seja, estamos sim, submetidos de alguma maneira ao destino do desabrigar, entretanto, o homem ainda possui um papel fundamental nesse desabrigar, sendo a sua essência
 
-Uma vez que o homem esta submetido a esse destino do desabrigar "este permanece a caminho sempre à margem da possibilidade de **apenas perseguir e perpetuar o que se desabriga no que é requerido** e a partir dali tomar todas as medidas", entretanto, desde que o homem "sempre mais cedo e sempre mais inicialmente, se entregue à essência do que se descobre e de seu descobrimento" poderá então experimentar o pertencimento empregado (gebrauchte Zugehörigkeit) ao desabrigar como sendo a sua essência.
+> Por meio disso tranca-se a outra possibilidade, de que o homem, sempre mais cedo e sempre mais inicialmente, se entregue à essência **do que se descobre e de seu descobrimento**, para experimentar o pertencimento empregado (gebrauchte Zugehörigkeit) ao desabrigar como **sendo a sua essência**.
+> (P76)
 
 > [!note] Nota sobre a expressão "pertencimento empregado" em P76
 > ...designa um **duplo movimento**: remete ao fato de que o homem não é o senhor do destino e da história, mas é alguém que **é por essência usado**, embora seja ele mesmo a **se oferecer** a algo que o ultrapassa.
 
-Para Heidegger, o homem é a partir do destino, desse desabrigamento colocado em **perigo**
+## O desabrigar e os seus perigos (P76,P79)
 
-> Uma vez levado a estas possibilidades, o homem está, a partir do destino, colocado em perigo. **O destino do desabrigamento é, enquanto tal, em todos os seus modos, um perigo**, e, por isso, necessariamente um perigo.
+> [!info] Na P76 uma nota sobre o perigo enquanto necessário
 
-## Etc
+> Uma vez levado a estas possibilidades, o homem está, a partir do destino, colocado em perigo. **O destino do desabrigamento é, enquanto tal, em todos os seus modos, um perigo**, e, por isso, necessariamente um perigo
+> (P76)
 
-- [[O significado de "Dasein"]]
-- TL;DR: [[A noção de técnica para Heidegger]]
+Heidegger afirma que o descobrimento proveniente do desabrigamento abriga dois perigos:
+- "perigo de o homem **se equivocar junto ao que está descoberto e falseá-lo**" (na luz da conexão de causa e efeito)
+- por meio do resultado do descobrimento, "o perigo de **em todo o correto se retrair o verdadeiro**"
+
+Para Heidegger, se o que estiver descoberto não mais interessar ao homem como objeto, mas **apenas como subsistência**, o homem mesmo "caminhará para o lugar onde **ele mesmo deverá apenas ser mais tomado como subsistência**", entretanto, buscando se contrapor a essa posição, as vezes o homem assume a figura "do dominador da terra" e assim "amplia-se a ilusão de que tudo o que vem ao encontro **subsiste somente na medida em que é algo feito pelo homem**". Heidegger se opõe a essa ideia, de que *"o homem em todos os lugares somente encontra mais a si mesmo"*, pois através dessa postura, o homem não mais se coloca como responsável, não se darconta de que ele mesmo é requerido.
+
+> O homem está tão decididamente preso à comitiva do desafiar da armação, que não a assume como uma responsabilidade, não mais dá conta de ser ele mesmo alguém solicitado e, assim também, não atende de modo algum ao fato de que, a partir de sua essência, ele ek-siste no âmbito de um apelo e que, por isso, nunca pode ir somente ao encontro de si mesmo.
+> (P79)
+
+## (P79)
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 

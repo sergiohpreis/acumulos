@@ -1,68 +1,59 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Sunday, March 1st 2026, 9:07:12 pm
+date modified: Sunday, March 1st 2026, 10:18:06 pm
 tags:
   - heidegger
   - técnica
   - causalidade
 draft: false
-date: 2026-03-01T21:00:00
+date: 2026-03-01T22:20:00
 ---
 
-> [!Iinfo] [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
+> [!Iinfo] Resumo / Fichamento de [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
 
 ## A essência não técnica da técnica e a sua não neutralidade (P33)
 
 > [!info] [[O significado de "Dasein"]]
 
-> Questionamos a _técnica_ e pretendemos com isso preparar uma livre relação para com ela. A relação é livre se abrir nossa existência <_Dasein_> à **essência da técnica**. Caso correspondamos à essência, estaremos aptos a experimentar o técnico <_das Technische_> em sua delimitação.
+> Questionamos a _técnica_ e pretendemos com isso preparar uma livre relação para com ela. A relação é livre se abrir nossa existência (_Dasein_) à **essência da técnica**. Caso correspondamos à essência, estaremos aptos a experimentar o técnico <_das Technische_> em sua delimitação.
 > (P34)
 
-Para Heidegger, é necessário encontrar a essência da técnica para que seja possível experimentar o técnico. 
+Para Heidegger, é necessário encontrar a **essência da técnica** para que seja possível experimentar o técnico. 
 - assim como o que domina toda a arvore não é a própria arvore, **a essência da técnica não é algo técnico**
 
-Para Heidegger, a essência da técnica não poderá ser experimentada enquanto apenas **representarmos** e **propagarmos** o que é técnico. Enquanto a técnica for considerada como algo **neutro**, estaremos cegos quanto a sua essência.
+Para Heidegger, a essência da técnica não poderá ser experimentada enquanto apenas **representarmos** e **propagarmos** o que é técnico... enquanto a técnica for considerada como algo **neutro**, estaremos cegos quanto a sua essência.
 
-## A corrente determinação instrumental e antropológica da técnica define a técnica moderna (P35)
+## A determinação instrumental e antropológica da técnica que define a técnica moderna (P35)
 
 > A concepção corrente de técnica, segunda a qual ela é um **meio** e um **fazer** humano, pode, por isso, ser chamada de determinação **instrumental e antropológica** da técnica.
 > (P36)
 
-Heidegger considera correta a concepção corrente de técnica, pois estabelecer **fins** e para isso arranjar e empregar os **meios** constitui um **fazer humano**. 
-
-As instalações (instrumentos, aparelhos e máquinas) sendo arranjadas e empregadas de certo modo constituem a técnica e a própria técnica também é uma instalação.
-
-Para Heidegger, a determinação instrumental da técnica serve para definir a técnica moderna, a **técnica moderna** é também, portanto, um **meio para fins**.
+Heidegger considera correta a concepção corrente de técnica, pois estabelecer **fins** e para isso arranjar e empregar os **meios** constitui um **fazer humano**. As instalações (instrumentos, aparelhos e máquinas) sendo arranjadas e empregadas de certo modo constituem a técnica e a própria técnica também é uma instalação, a determinação instrumental da técnica serve para definir a técnica moderna, a **técnica moderna** é também, portanto, um **meio para fins**.
 
 Para Heidegger, essa relação se expressa em um **querer-dominar** do homem para com a técnica, que se torna "tão mais iminente quanto mais a técnica ameaça escapar do domínio dos homens". O homem busca uma relação com a técnica norteado por uma **concepção instrumental da técnica**
 > Tudo se reduz ao "lidar **de modo adequado** com a técnica enquanto um meio. 
 > (P37)
 
-## Como impera a causalidade na técnica e a necessidade do questionamento da noção secular da causalidade quádrupla (P37)
+## A concepção instrumental da técnica não representa a sua essência, como impera a causalidade na técnica e a necessidade do questionamento da noção secular da causalidade quádrupla (P37)
 
 >[!info] Na P37, Heidegger explica o seu critério de [[Para Heidegger, o verdadeiro se da através de um desocultamento que leva a uma livre relação|verdade enquanto desocultamento]]
 
-Embora a concepção instrumental da técnica seja correta, ela ainda não mostra a essência da técnica, Heidegger inicia a sua reflexão em busca dessa essência a partir de duas perguntas:
-- O que é o instrumental mesmo?
-- Onde se situam algo como um meio e um fim?
+Embora a concepção instrumental da técnica seja correta, ela ainda não mostra a essência da técnica, Heidegger inicia a sua reflexão em busca dessa essência a partir de duas perguntas: o que é o instrumental mesmo? Onde se situam algo como um meio e um fim?
 
-> Onde fins são perseguidos, meios são empregados e onde domina o instrumental, ali impera **causalidade** <Ursächlichkeit>, a causalidade <Kausalität>.
+> Onde fins são perseguidos, meios são empregados e onde domina o instrumental, ali impera **causalidade** (Ursächlichkeit), a **causalidade** (Kausalität).
 
 >[!note] Na P38 existe uma nota sobre essa dupla idéia de causalidade e a relação com os sentidos do termo "causa" em alemão e em latim, que ressalta um sentido histórico do termo
 
-Através dessa noção de causalidade, Heidegger busca mostrar as quatro causas da filosofia (**causalidade quádrupla**) através do exemplo da fabricação da taça de prata
+Através dessa noção de causalidade, Heidegger resgata as quatro causas da filosofia (**causalidade quádrupla**) através do exemplo da **fabricação da taça de prata**
 1. a causa materialis: o material, a matéria a partir do qual algo é feito
 2. a causa formalis: a forma, a figura, na qual se instala o material
 3. a causa finalis: o fim, o sacrifício para o qual algo requerido é determinado segundo matéria e forma
 4. a causa efficiens: o que efetua o efeito, o algo acabado
 
-Heidegger levanta **questionamentos sobre a noção secular das quatro causas (causalidade quádrupla)**
+Heidegger questiona a noção tradicional das quatro causas (causalidade quádrupla), pois do contrário a própria causalidade, o instrumental, e então a determinação usual da técnica permanecerão na escuridão e destituídos de fundamento
+
 > or que existem justamente quatro causas? O que significa propriamente "causa", em relação às quatro causas nomeadas? A partir de onde se determina tão unitariamente o _caráter_ de causa das quatro causas, a ponto de estarem relacionadas?
 > (P39)
-
-Para Heidegger, é necessário questionar a noção secular da causalidade quádrupla, pois do contrário
-> a causalidade e com ela o instrumental e, junto a este, a determinação usual da técnica permanecerão na escuridão e destituídos de fundamento
-> (P40)
 
 ## As quatro causas como modos de comprometimento (P40)
 
@@ -71,29 +62,27 @@ Para Heidegger, é necessário questionar a noção secular da causalidade quád
 > As quatro causas são os **modos de comprometimento** (Verschulden) relacionados entre si
 > (P41)
 
-Heidegger entende que a *doutrina das quatro causas*, que remonta a Aristóteles é problemática pois **a causa efficiens**, que é uma das quatro causas "determina de modo exemplar **toda a causalidade**", afirma que em geral nem considera-se mais a causa finalis (finalidade) como causalidade.
+Heidegger entende que a *doutrina das quatro causas*, que remonta a Aristóteles é problemática pois **a causa efficiens**, que é uma das quatro causas "determina de modo exemplar **toda a causalidade**", afirma que em geral nem considera-se mais a causa finalis (finalidade) como causalidade. Buscando no verbo *cadere*, encontra o significado daquilo "que **efetua**, que faz com que algo **surja** dessa ou daquela maneira no **resultado**", entende que no pensar grego, para este pensar, nada que tenha em comum com **reagir e efetuar** pode ser encontrado.
 
-Buscando no verbo *cadere*, encontra o significado daquilo "que **efetua**, que faz com que algo **surja** dessa ou daquela maneira no **resultado**", por isso, entende que no pensar grego, para este pensar, nada que tenha em comum com **reagir e efetuar** pode ser encontrado.
-
-Encontra a noção de causas como modos de comprometimento ao partir da denominação romana de causa, no alemão Ursache e no grego αἴτιον, encontra **"o que compromete (verschuldet) uma outra coisa"** (P41)
+Encontra a noção de causas como modos de comprometimento ao partir da denominação romana de causa, no alemão *Ursache* e no grego αἴτιον, encontra **"o que compromete (verschuldet) uma outra coisa"** (P41)
 
 Heidegger exemplifica através do mesmo exemplo da taça utilizado anteriormente que
 - A prata é algo a partir de que a taça de prata é feita
 	- enquanto matéria, ela é cúmplice da taça
 - A taça deve à prata, agradece à prata por aquilo em que subsiste
 
-### Como o libatório depende aspecto (eidos,εἶδος) da taça (P41,P42)
+### Como o libatório depende do aspecto (eidos,εἶδος) da taça (P41,P42)
 
 > A prata, por onde o **aspecto** enquanto taça penetrou, e o **aspecto**, por onde a prata aparece, ambos estão a seu modo comprometidos com o libatório.
 > (P41,P42)
 
-Heidegger nota que o libatório não somente deve algo à prata como deve também algo a taça. O libatório é imediatamente dependente do aspecto εἶδος da taça (a prata por si só, não sendo uma taça, não atingiria os propósitos), busca esse sentido no termo "eidos" (εἶδος)
+Heidegger nota que o libatório não somente deve algo à prata como deve também algo a taça. O libatório é imediatamente dependente do aspecto *εἶδος* da taça (a prata por si só, não sendo uma taça, não atingiria os propósitos), busca esse sentido no termo "eidos" (εἶδος)
 
->[!info] "Eidos" (εἶδος): termo filosófico antigo, central para Platão e Aristóteles para descrever a estrutura inteligível ou forma de uma coisa.
+>[!info] "Eidos" (εἶδος): termo filosófico antigo, central para Platão e Aristóteles para descrever a estrutura inteligível ou forma de uma coisa, uma relação ao **aspecto**
 
 ### Como o libatório é comprometido pelo télos (τέλος) (P42)
 
-Heidegger observa um terceiro elemento comprometido com o libatório, que delimita previamente a taça no âmbito do próprio libatório, um elemento que "circunscreve, finaliza a coisa" e busca esse sentido no termo τέλος (télos), cuja tradução por "objetivo" e "fim" ele descorda, entendendo que o termo esta relacionado a esse comprometimento (a um fim)
+Heidegger observa um terceiro elemento comprometido com o libatório, que delimita previamente a taça no âmbito do próprio libatório, um elemento que "**circunscreve**, finaliza a coisa" e busca esse sentido no termo τέλος (télos), cuja tradução por "objetivo" e "fim" ele descorda, entendendo que o termo esta relacionado a esse comprometimento (a um fim)
 
 > Com esse fim, a coisa não cessa, mas inicia a partir de si o que será após a fabricação.
 > (P42)
@@ -101,7 +90,7 @@ Heidegger observa um terceiro elemento comprometido com o libatório, que delimi
 > "é o que compromete (Mitverschuldet) o **libatório** enquanto **matéria** e enquanto **aspecto**
 > (P42)
 
->[!info] "Telos" (τέλος): diferente da nossa noção moderna de "prazo" ou "meta", o _telos_ está ligado à **maturidade** e à **perfeição funcional**. Para os gregos, a palavra carrega a ideia de um ciclo que se fecha porque atingiu sua máxima potência.
+>[!info] "Telos" (τέλος): o _telos_ está ligado à **maturidade** e à **perfeição funcional**. Para os gregos, a palavra carrega a ideia de um ciclo que se fecha porque atingiu sua **máxima potência**.
 
 ### O forjador como a junção dos três modos de comprometimento, que leva a luz (ἀποφαίνεσθαι) (P43)
 
@@ -110,7 +99,7 @@ Para Heidegger, o forjador de prata é um quarto elemento que reflete e junta os
 
 Para Heidegger, esse refletir repousa no **ἀποφαίνεσθαι** (**apophainesthai**), em um sentido de "levar à luz", em um sentido quase como de um estímulo.. um **trazer à frente** um **repousar** já existente, mas que entretanto, necessitam de um primeiro impulso. Portanto, este é o papel do forjador, dar impulso a uma potência.
 
-> O forjador da prata está comprometido enquanto algo a partir de que o **trazer à frente**, e o repousar em si do libatório, tomam e mantém seu primeiro impulso. Os três modos de comprometimento citados há pouco agradecem à reflexão do forjador da prata por poderem aparecer e entrar em jogo e agradecem pelo modo como puderam fazer isso, na fabricação do libatório.
+> O forjador da prata está comprometido enquanto algo a partir de que o **trazer à frente**, e o **repousar em si** do libatório, tomam e mantém seu primeiro impulso. Os três modos de comprometimento citados há pouco agradecem à reflexão do forjador da prata por poderem aparecer e entrar em jogo e agradecem pelo modo como puderam fazer isso, na fabricação do libatório.
 > (P43)
 
 ## Os modos de comprometimento enquanto um ocasionamento (P44)
@@ -126,7 +115,7 @@ O comprometimento tem o traço fundamental desse **deixar situar** (An-lassen) n
 
 ## Os modos de ocasionar como produzir (ποίησις, poíēsis) e desabrigar ἀλήθεια (alētheia) (P46,P48)
 
-Heidegger busca sobre este **levar** em um exemplo do banquete de Platão, mostrando o produzir, através da **ποίησις** (poíēsis), do **produzir **.
+Heidegger reflete sobre este **levar** a partir de um exemplo do banquete de **Platão**, mostrando o produzir, através da **ποίησις** (poíēsis), do **produzir **.
 
 > "Todo ocasionar para algo que, a partir de uma não-presença sempre transborda e se antecipa numa presença, é **ποίησις** (poíēsis), produzir *(Her-vor-bringen)*"
 > (P46)
@@ -138,43 +127,40 @@ Para Heidegger é necessário pensar o **produzir** em toda a sua amplitude, um 
 > Os **modos de ocasionar**, as quatro causas, atuam, desse modo, **no seio do produzir**. Por meio dele surge, cada vez, em seu aparecer, tanto o que cresce na natureza quanto o que é feito pelo artesão e pela arte.
 > (P47)
 
-Esse produzir é o que leva do ocultamento para o descobrimento, o **trazer à frente** que se dá na medida em que algo **oculto chega ao desocultamento**, um surgir que repousa e vibra no que denominamos **desabrigar** (*Entbergen*), o sentido da palavra grega ἀλήθεια (alētheia)
-- nós dizemos verdade, costumeiramente, a exatidão da representação
+Esse produzir é o que leva **do ocultamento para o descobrimento**, o **trazer à frente** que se dá na medida em que algo **oculto chega ao desocultamento**, um surgir que repousa e vibra no que denominamos **desabrigar** (*Entbergen*), o sentido da palavra grega ἀλήθεια (alētheia), ou seja a verdade (costumeiramente, a exatidão da representação)
 
 ## A técnica como modo de desabrigar, de conhecer (no sentido de ἐπιστήμη, epistēmē) e como um modo de um levar a frente, um modo da ἀλήθεια (alētheia) (P49,P51)
 
 > Questionemos passo a passo o que a técnica representada como meio é em sua autenticidade e então chegaremos ao **desabrigar**. Nele repousa a **possibilidade de todo aprontar que produz algo**.
 > (P48)
 
-Para Heidegger, no **desabrigar** se fundamenta todo produzir, portanto, esse é o **traço fundamental da técnica**, é "o que a técnica representada como meio é em sua autenticidade".  A técnica não é meramente um meio, é um **modo de desabrigar**. Para Heidegger, é no âmbito do **desabrigamento** que esta a essência da técnica (P49)
+Para Heidegger, no **desabrigar** se fundamenta todo produzir, portanto, esse é o **traço fundamental da técnica**, é "o que a técnica representada como meio é em sua autenticidade".  A técnica não é meramente um meio, é um **modo de desabrigar**. Para Heidegger, é no âmbito do **desabrigamento** que esta a **essência da técnica** (P49)
 
 Heidegger busca a etimologia da palavra técnica na língua grega. τεχνικόν (tekhnikón) designa aquilo que pertence a τέχνη (tékhnē), que não é somente o nome para o fazer e poder manual, mas também para as arte superiores e belas artes. A τέχνη (tékhnē) **pertence ao produzir** (ποίησις, poíēsis), **é algo poético** (poietisches).
 
-Além disso, a palavra τέχνη (tékhnē) segue de par com a palavra ἐπιστήμη (epistēmē), ambas sendo nomes para o conhecer em sentido amplo, e uma vez que o conhecer dá explicação, também é um desabrigar.
+Além disso, a palavra τέχνη (tékhnē) segue de par com a palavra ἐπιστήμη (epistēmē), ambas sendo nomes para o **conhecer** em sentido amplo
+- e uma vez que o conhecer dá explicação, também é um desabrigar.
 
 Heidegger resgata a distinção aristotélica entre τέχνη (tékhnē) e ἐπιστήμη (epistēmē), que diz respeito a **como e ao quê elas desabrigam**... a τέχνη (tékhnē) é um modo da ἀλήθεια (alētheia)
 
-> Ela desabriga o que não se produz sozinho e ainda não está à frente e que, por isso, pode aparecer e ser notado, ora dessa, ora daquela maneira.
+> Ela desabriga o que não se produz sozinho e **ainda não está à frente** e que, por isso, **pode aparecer e ser notado**, ora dessa, ora daquela maneira.
 > O decisivo na τέχνη (tékhnē), desse modo, não consiste no fazer e manejar, não consiste em empregar meios, mas no mencionado **desabrigar**; enquanto tal, mas não enquanto aprontar, a τέχνη (tékhnē) **é um levar à frente**.
 > (P50)
 
-Nos exemplos mostrados por Heidegger, esse desabrigar / levar à frente é
-- segundo as perspectivas dos quatro modos de ocasionar
-- o que determina o tipo de aprontamento
+Nos exemplos mostrados por Heidegger, esse desabrigar / levar à frente é segundo as perspectivas dos quatro modos de ocasionar e o que determina o tipo de aprontamento
 
 Para Heidegger, a técnica é um modo de desabrigar, portanto, se **essencializa** no âmbito onde acontece o **desabrigar** e o **desocultamento**, onde acontece a ἀλήθεια (alētheia)
 
 ## A relação mútua entre a física e a técnica e o desafiar como desabrigar da técnica moderna (o sentido de pôr) (P51,P56)
 
-Heidegger afirma que existe uma relação mútua entre a física e a técnica (a técnica depende da física e a física depende da técnica), isso apenas é uma 
-Entretanto, isso é uma verificação histórica e "não diz nada sobre **onde se fundamenta** essa relação mútua" (P52)
+Heidegger afirma que existe uma relação mútua entre a física e a técnica (a técnica depende da física e a física depende da técnica), isso apenas é uma verificação histórica e "não diz nada sobre **onde se fundamenta** essa relação mútua" (P52)
 
-Para Heidegger, o desabrigar que domina a técnica moderna não é um desabrigar em um sentido de levar a frente (ποίησις, poíēsis) mas sim de desafiar (Herausfordern), um desafiar que estabelece para a natureza uma espécie de exigência, um pôr da natureza, em um sentido de **encomendar** (bestellt)
+Para Heidegger, o desabrigar que domina a técnica moderna não é um desabrigar em um sentido de levar a frente (ποίησις, poíēsis) mas sim de **desafiar** (Herausfordern), um desafiar que estabelece para a natureza uma espécie de **exigência**, um **pôr** da natureza, em um sentido de **encomendar** (bestellt)
 
 > ... de fornecer energia suscetível de ser extraída e armazenada enquanto tal
 > (P52)
 
-> O pôr que desafia as energias naturais é um extrair (Fördern) em duplo sentido. É um extrair na medida em que explora e destaca. 
+> O pôr que **desafia as energias naturais** é um extrair (Fördern) em duplo sentido. É um extrair na medida em que explora e destaca. 
 > (P54)
 
 > O desabrigar que domina a técnica moderna tem o caráter do **pôr** no sentido do **desafio**
@@ -188,7 +174,7 @@ Heidegger entre P53 e P56 apresenta alguns exemplos desse **desabrigar desafiant
 
 ## O pôr enquanto subsistência e o papel do homem no requerer (P57,P60)
 
-Heidegger entende que o que vem a luz mediante esse pôr desafiante é requerido para "ficar posto imediatamente para um pôr", algo em um sentido de encomenda e a essa posição nomeia de **subsistência** (Bestand)
+Heidegger entende que o que vem a luz mediante esse pôr desafiante é requerido para "**ficar posto imediatamente para um pôr**", algo em um sentido de **encomenda** e a essa posição nomeia de **subsistência** (Bestand)
 > ... eleva-se a categoria de um título ... **o modo pelo qual tudo o que é tocado pelo desabrigar desafiante se essencializa**
 > (P57)
 
@@ -205,16 +191,14 @@ Através de uma lista de exemplos Heidegger demonstra como o homem não é uma s
 > Entretanto, o descobrimento mesmo, no seio do qual o requerer se desdobra, nunca é algo feito pelo homem, muito menos o âmbito que o homem a toda hora sempre percorre, quando, enquanto um **sujeito**, se relaciona com um **objeto**.
 > (P60,61)
 
-O homem possui, através das técnicas, modos de desabrigar, entretanto, para Heidegger o homem sempre se encontrará **levado para o que está descoberto**, atendendo ao **apelo do descobrimento**, o homem possui modos de desabrigar a ele dispostos que correspondem a esses apelos.
+O homem possui, através das técnicas, **modos de desabrigar**, entretanto, para Heidegger o homem sempre se encontrará **levado para o que está descoberto**, atendendo ao **apelo do descobrimento**, o homem possui modos de desabrigar a ele dispostos que correspondem a esses apelos.
 
-> Se, portanto, o homem, ao pesquisar e observar, persegue a natureza enquanto uma região de seu representar, então ele já é convocado por um **modo de desabrigamento** que o desafia a ir ao encontro da natureza enquanto um **objeto de pesquisa**, até que também o objeto desapareça na **ausência de objeto da subsistência**.
+> Se, portanto, o homem, ao pesquisar e observar, persegue a natureza enquanto uma **região de seu representar,** então ele já é convocado por um **modo de desabrigamento** que o desafia a ir ao encontro da natureza enquanto um **objeto de pesquisa**, até que também o objeto desapareça na **ausência de objeto da subsistência**.
 > (P62)
 
-Essa "ausência de objeto da subsistência" significa que, quando a natureza se torna mera subsistência, ela deixa de ser um objeto, nesse processo o homem vai destruir a condição de objeto, transformando tudo (inclusive o próprio homem) em uma grande engrenagem de recursos e reservas (subsistência)
+Essa "ausência de objeto da subsistência" significa que, quando a natureza se torna mera subsistência, ela **deixa de ser um objeto**, nesse processo o homem vai destruir a condição de objeto, transformando tudo (inclusive o próprio homem) em uma grande engrenagem de recursos e reservas (**subsistência**)
 
-O homem não destrói a condição de objeto por livre arbítrio; na verdade, o homem é provocado e desafiado por algo que Heidegger denomina de "**armação**" *(Ge-stell)*
-
-Heidegger busca a aproximação para armação no sentido que Platão atribuía para εἶδος (eîdos), algo além do sensível, que para Heidegger, não pode ser captado com os olhos, pois ἰδέα (idéa) denomina não apenas "o aspecto não sensível do que é sensivelmente visível", mas também *"o que perfaz a essência ... daquilo que de algum modo é acessível"* (P64)
+O homem não destrói a condição de objeto por livre arbítrio; na verdade, o homem é provocado e desafiado por algo que Heidegger denomina de "**armação**" *(Ge-stell)*, buscando uma aproximação para armação no sentido que Platão atribuía para εἶδος (eîdos) e ἰδέα (idéa)... não apenas "o aspecto não sensível do que é sensivelmente visível", mas também *"o que perfaz a essência ... daquilo que de algum modo é acessível"* (P64), como um **modo de requerer**, o próprio aparato técnico (a montagem) será determinada pelo desafio dessa armação
 
 > Armação significa **a reunião daquele pôr que o homem põe**, isto é, desafia para desocultar a realidade no **modo do requerer** enquanto subsistência. Armação significa o modo de desabrigar que **impera na essência da técnica moderna** e não é propriamente **nada de técnico**.
 > (P64)
@@ -222,13 +206,9 @@ Heidegger busca a aproximação para armação no sentido que Platão atribuía 
 >... estruturas, camadas e suportes, e que são peças do que se denomina como sendo uma montagem
 > (P65)
 
-O aparato técnico (a montagem) será determinada pelo desafio da armação.
-
 ## O requerer desafiante como modo da ἀλήθεια (alētheia), o trabalho da técnica moderna desabriga o real enquanto subsistência (P65)
 
-Heidegger busca uma ressônancia desse pôr (stellen) da armação (Ge-stell) além do desafiar, uma aproximação do produzir (Her-stellen) e expôr (Dar-stellen), o sentido de **levar a frente** da (ποίησις, poíēsis), tal qual o erigir de uma estátua em um templo. 
-
-Heidegger afirma que este requerer desafiante e esse erigir do sentido da ποίησις, (poíēsis) são fundamentalmente diferentes, mas ainda assim aparentados, pois são modos de desabrigar, modos da ἀλήθεια (alētheia).
+Heidegger busca uma ressônancia desse pôr (stellen) da armação (Ge-stell) além do desafiar, uma aproximação do produzir (Her-stellen) e expôr (Dar-stellen), o sentido de **levar a frente** da (ποίησις, poíēsis), tal qual o erigir de uma estátua em um templo, e ainda que este requerer desafiante e esse erigir do sentido da ποίησις, (poíēsis) sejam fundamentalmente diferentes, ainda assim são aparentados, pois são **modos de desabrigar**, modos da ἀλήθεια (alētheia).
 
 > Na armação acontece o descobrimento, segundo o qual o trabalho da técnica moderna **desabriga o real enquanto subsistência**. Ela não é, por isso, nem um fazer humano nem um mero meio no seio de tal fazer. A determinação somente instrumental, antropológica, da técnica torna-se, em princípio, ilusória; ela não se deixa simplesmente completar com um esclarecimento metafísico ou religioso colocado em sua base.
 > (P65,P66)
@@ -240,24 +220,20 @@ Para Heidegger, o trabalho da técnica moderna desabriga o real enquanto subsist
 
 ## A relação da técnica moderna com a ciência exata e a requeribilidade da natureza exige enquanto subsistência (P67, P70)
 
-Heidegger afirma que o fato de que "**A técnica moderna somente entrou em curso quando ela pôde apoiar-se sobre a ciência exata da natureza**" é correto em termos historiográficos (historisch) mas não é verdadeiro se pensado em termos históricos (geschichtlich)
+Para Heidegger afirmar que "**a técnica moderna somente entrou em curso quando ela pôde apoiar-se sobre a ciência exata da natureza**" é correto em termos historiográficos (historisch) mas não é verdadeiro se pensado em termos históricos (geschichtlich)
 
 > [!info] Nota sobre as distinções da história presente em Heidegger na P67
-> Relação dos trechos em [[HEIDEGGER Martin. Ser e Tempo (1927)]]
-> 
+> Para entender essas distinções é necessário ler os trechos mencionados de [[HEIDEGGER Martin. Ser e Tempo (1927)|Ser e Tempo]]
 
-A moderna teoria física da natureza é a preparação, não da técnica, mas da essência da técnica moderna (o que é primordial)
-- o **recolher que desafia no desabrigar requerente** ja impera na física
+A moderna teoria física da natureza é a preparação, não da técnica, mas da essência da técnica moderna (o que é primordial), o **recolher que desafia no desabrigar requerente** ja impera na física
 
 > [!info] Na P68 e P69 Heidegger reflete sobre o ocultamento da essência, não só da técnica, mas em âmbito geral.
 
-Heidegger reflete sobre a essência da técnica moderna e à essência que nela impera, o que é o "historicamente mais primordial":
-- para o cálculo historiográfico: início da moderna ciência da natureza reside no século XVII
-- a técnica das máquinas de força somente se desenvolve na segunda metade do século XVIIII
+Heidegger reflete sobre a essência da técnica moderna e à essência que nela impera, com relação ao que é o "historicamente mais primordial". Enquanto para o cálculo historiográfico o início da moderna ciência da natureza reside no século XVII a a técnica das máquinas de força somente se desenvolve na segunda metade do século XVIIII
 
-Para Heidegger, o que é mais tardio na concepção histórica é o historicamente mais primordial. A "**requeribilidade da natureza exige enquanto subsistência**" é exigido pelo "imperar da armação", a física nunca pode renunciar "que a natureza se anuncie em algum modo asseverado, calculado, e permaneça possível de ser requerida como um sistema de informações", esse sistema se determina a partir deuma relação de causalidade, mas não no sentido de "causa efficiens ou da causa formalis", mas sim em uma causalidade mediante um "anunciar **desafiado** de rebentos asseguradores, simultâneos ou consecutivos"
+A "**requeribilidade da natureza exige enquanto subsistência**" é exigido pelo "imperar da armação", a física nunca pode renunciar "que a natureza se anuncie em algum modo asseverado, calculado, e permaneça possível de ser requerida como um sistema de informações", esse sistema se determina a partir de uma relação de causalidade, mas não no sentido de "causa efficiens" ou da "causa formalis", mas sim em uma causalidade mediante um "anunciar **desafiado** de "rebentos asseguradores, simultâneos ou consecutivos"
 
-Heidegger entende que é necessário questionar a proveniência da ciência moderna e a essência da técnica moderna adequadamente para se livrar da aparência enganadora de que a técnica moderna é uma ciência da natureza aplicada.
+Heidegger entende que é necessário questionar a proveniência da ciência moderna e a essência da técnica moderna adequadamente para se livrar da aparência enganadora de que **a técnica moderna é uma ciência da natureza aplicada**.
 
 > Porque a essência da técnica moderna reside na armação, esta necessita empregar a ciência exata da natureza. Desse modo, nasce a aparência enganadora de que a **técnica moderna é uma ciência da natureza aplicada**. Esta aparência se sustentará até que a proveniência essencial da ciência moderna e a essência da técnica moderna sejam adequadamente questionadas.
 > (P70)

@@ -241,6 +241,8 @@ Heidegger entende que é necessário questionar a proveniência da ciência mode
 
 ## (P71)
 
+
+
 ## Etc
 
 - [[O significado de "Dasein"]]

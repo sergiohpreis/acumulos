@@ -1,6 +1,6 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Sunday, March 1st 2026, 10:25:34 pm
+date modified: Monday, March 2nd 2026, 12:43:04 pm
 tags:
   - heidegger
   - técnica
@@ -239,9 +239,33 @@ Heidegger entende que é necessário questionar a proveniência da ciência mode
 > Porque a essência da técnica moderna reside na armação, esta necessita empregar a ciência exata da natureza. Desse modo, nasce a aparência enganadora de que a **técnica moderna é uma ciência da natureza aplicada**. Esta aparência se sustentará até que a proveniência essencial da ciência moderna e a essência da técnica moderna sejam adequadamente questionadas.
 > (P70)
 
-## (P71)
+## O destino (Geschick) como caminho para o desabrigar (P71)
 
+> A armação não é nada de técnico, nada de tipo maquinal. É o **modo segundo o qual a realidade se desabriga como subsistência**.
+> (P71)
 
+Para Heidegger a essência da técnica moderna portanto, é a armação e esse desabrigar não acontece num além a todo fazer humano mas também não acontece somente no homem, não por ele. Heidegger entende que o homem enquanto alguém desafiado esta situado na armação e sendo desafiado, não pode assumir posteriormente uma relação com ela, e que portanto, é **conduzido** por essa essência da técnica, para um **caminho** daquele desabrigar, onde o real torna-se subsistência.
+
+Heidegger aproximará essa ideia de "*conduzir por um caminho*" ao significado de **enviar (schicken)**, da língua alemã e também a uma idéia de **destino** (*Geschick*)
+> Denominamos aquele enviar que recolhe e que primeiramente **leva o homem para o caminho do desabrigar**, como sendo o **destino** (*Geschick*)
+> (P72)
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Heidegger define "aquele enviar que recolhe e que primeiramente leva o homem para o caminho do desabrigar" como sendo o destino (Geschick)
+- A partir dai determina-se a essência de toda história (Geschichte)
+	- não é nem somente o objeto da historiografia (Historie) nem somente a ratificação do fazer humano
+		- este fazer somente quando é algo destinal (geschickliches) é algo histórico (geschichtlich)
+		- somente o destino na representação objetificante torna acessível o elemento histórico (das Geschichtliche) como objeto para a historiografia (Historie)
+
+A partir disso torna apenas possível a corrente equiparação do histórico (Geschichtlichen) ao historiográfico (Historischen)
+
+> Enquanto desafiar no requerer, a armação envia num modo de desabrigar. A armação é um envio (Schickung) do destino, assim como todo modo de desabrigar. Destino, neste sentido, é também um produzir, é ποίησις.
+> (P73)
+
+busca aproximar esse desabrigar desafiante da idéia de destino (Geschick)
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Etc
 

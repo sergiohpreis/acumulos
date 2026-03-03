@@ -1,6 +1,6 @@
 ---
 date created: Thursday, February 26th 2026, 8:39:16 pm
-date modified: Monday, March 2nd 2026, 12:02:47 am
+date modified: Monday, March 2nd 2026, 8:26:20 pm
 tags:
   - filosofia
   - tecnologia
@@ -20,7 +20,7 @@ A sociedade capitalista desenvolve uma dependência crescente e não planejada d
 
 ## Hipótese de trabalho
 
-O ato de programar consiste na[[Escrever código significa manifestar as suas intenções por meio de uma linguagem|manifestação de intenções por meio de uma linguagem técnica]]. Porém, sob as relações capitalistas de produção, **as intenções manifestadas são predominantemente as do capital, não as do trabalhador** — o programador é uma **mediação entre a vontade de quem controla os meios de produção e a execução técnica**. Sua [[O desenvolvimento do ato de programar ao longo do tempo|história revela uma progressiva aproximação entre intenção e interface técnica]] - mas essa "intenção" que se aproxima da máquina não é a do programador: é a do capital **traduzida pelo programador**.
+O ato de programar consiste na [[Escrever código significa manifestar as suas intenções por meio de uma linguagem|manifestação de intenções por meio de uma linguagem técnica]]. Porém, sob as relações capitalistas de produção, **as intenções manifestadas são predominantemente as do capital, não as do trabalhador** — o programador é uma **mediação entre a vontade de quem controla os meios de produção e a execução técnica**. Sua [[O desenvolvimento do ato de programar ao longo do tempo|história revela uma progressiva aproximação entre intenção e interface técnica]] - mas essa "intenção" que se aproxima da máquina não é a do programador: é a do capital **traduzida pelo programador**.
 
 A passagem para o desenvolvimento orientado a especificações ([[Reflexões sobre o desenvolvimento orientado a especificações]]) torna essa alienação mais *visível* (a especificação vem explicitamente de fora), mas não a cria — ela já existia. O spec-driven development reconfigura a alienação sem superá-la, pois não altera as relações de propriedade sobre os meios de produção digitais — concentrados nos [[Monopólios da informação]].
 

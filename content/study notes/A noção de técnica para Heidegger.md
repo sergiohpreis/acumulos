@@ -1,6 +1,6 @@
 ---
 date created: Sunday, March 1st 2026, 5:27:52 pm
-date modified: Tuesday, March 3rd 2026, 2:08:34 am
+date modified: Tuesday, March 3rd 2026, 2:10:35 am
 tags:
   - técnica
   - heidegger
@@ -14,7 +14,7 @@ Entretanto, a técnica moderna não descobre (ou como Heidegger chama, desabriga
 
 A armação é como se fosse, em outras palavras, as esferas de possibilidade da técnica, os modos de requerer a natureza enquanto subsistência, e Heidegger irá associar essa idéia a uma ideia de destino, onde o próprio âmbito da armação não deixa o homem absolutamente livre, mas sim, livre dentro do âmbito dessa própria armação.
 
-Para Heidegger, a armação traz um risco enorme de reduzir toda a verdade a uma subsistência, onde o ser humano propriamente também se transforme em uma subsistência, entretanto, dentro desses próprios riscos, existe uma salvação, que é a possibilidade do próprio ser humano poder tomar parte nesse desabrigar, ou seja, consentir.
+Para Heidegger, a armação traz um risco enorme de reduzir toda a verdade a uma subsistência, onde o ser humano propriamente também se transforme em uma subsistência, ela oculta o próprio desabrigar enquanto tal (a poíēsis) e, consequentemente, impede o aparecer e imperar da verdade. Entretanto, dentro desses próprios riscos, existe uma salvação, que é a possibilidade do próprio ser humano poder tomar parte nesse desabrigar, ou seja, consentir.
 
 Heidegger faz um apelo a arte pois entende que a reflexão decisiva sobre a técnica precisa acontecer em um âmbito aparentado com a essência da técnica (que sejam modos de desabrigar) ao mesmo tempo que é fundamentalmente diferente dela (um desabrigar não desafiante).
 

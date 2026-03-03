@@ -3,8 +3,8 @@ title: HEIDEGGER Martin. A Questão da Técnica (1954)
 authors:
   - Martin Heidegger
 status:
-  - READING
-rating: 3
+  - READ
+rating: 4
 published_year: 1954
 categories:
   - Filosofia
@@ -19,27 +19,39 @@ shelf:
   - Filosofia
 format:
   - PHYSICAL
+finish_date: 2026-03-03
 edition_year: 2020
 tags:
   - livros
   - filosofia
   - técnica
 draft: false
-date: 2026-03-01T21:04:29.816437944-03:00
+date: 2026-03-03T15:55:18.052949681-03:00
 ---
 
 ## Resumo
 
-- Sessões: 30
-- Páginas lidas: 260
-- Tempo total: 15h 53m
-- Avaliação: ⭐⭐⭐ (3/5)
+- Sessões: 40
+- Páginas lidas: 332
+- Tempo total: 20h 38m
+- Avaliação: ⭐⭐⭐⭐ (4/5)
 - Autores: Martin Heidegger
-- Status: Lendo
+- Status: Lido
 - Total de páginas: 102
+- Finalizado em: 03/03/2026
 
 ## Sessões
 
+- **2026-03-03 14:24 - 14:53** - Páginas 1-32 (32 páginas) - Releitura da apresentação por Massimo Di Felice - 0h28m
+- **2026-03-03 01:34 - 02:00** - Páginas 93-97 (5 páginas) - O papel da arte na essencialização da essência da técnica (P93) - 0h25m
+- **2026-03-03 00:45 - 01:31** - Páginas 88-93 (6 páginas) - A essência enquanto um consentimento no que dura (P88, P89); A essencialização da essência e ambiguidade da essência da técnica (P90,P93) - 0h46m
+- **2026-03-03 00:00 - 00:30** - Páginas 83-88 (6 páginas) - De que forma a essência da técnica contém a sua salvação? (P82, P88); Reflexões sobre a essência no sentido de durar (P83) - 0h30m
+- **2026-03-02 22:29 - 22:55** - Páginas 82-83 (2 páginas) - De que forma a essência da técnica contém a sua salvação? (P82, P85) - 0h25m
+- **2026-03-02 22:06 - 22:28** - Páginas 79-81 (3 páginas) - O desabrigar desafiante enquanto barreira para o conhecimento da verdade (P79,P81) - 0h22m
+- **2026-03-02 16:22 - 16:52** - Páginas 72-79 (8 páginas) - A relação da liberdade com o destino do desabrigar (P72,P76);O desabrigar e os seus perigos (P76,P79) - 0h30m
+- **2026-03-02 13:24 - 13:59** - Páginas 72-76 (5 páginas) - A relação da liberdade com o destino do desabrigar e este como perigo (P72,P76) - 0h34m
+- **2026-03-02 10:17 - 10:39** - Páginas 71-72 (2 páginas) - O destino (Geschick) como caminho para o desabrigar (P71) - 0h21m
+- **2026-03-02 09:03 - 09:27** - Páginas 71-73 (3 páginas) - 0h23m
 - **2026-03-01 20:05 - 21:00** - Páginas 65-70 (6 páginas) - Como o homem da era da técnica assume uma postura requerente (P66, P67); A relação da técnica moderna com a ciência exata e a requeribilidade da natureza exige enquanto subsistência (P67, P70) - 0h55m
 - **2026-03-01 19:15 - 19:56** - Páginas 61-65 (5 páginas) - O homem atende ao apelo do descobrimento mediante um modo de requerer (armação, Ge-stell) (P61,P65) - 0h40m
 - **2026-03-01 18:29 - 19:04** - Páginas 57-60 (4 páginas) - O pôr enquanto subsistência e o papel do homem no requerer (P57,P60) - 0h34m

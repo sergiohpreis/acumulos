@@ -1,12 +1,12 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Monday, March 2nd 2026, 10:54:00 pm
+date modified: Tuesday, March 3rd 2026, 1:56:53 am
 tags:
   - heidegger
   - técnica
   - causalidade
 draft: false
-date: 2026-03-02T23:00:00
+date: 2026-03-03T02:00:00
 ---
 
 > [!Iinfo] Resumo / Fichamento de [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
@@ -303,18 +303,66 @@ Portanto, para Heidegger, **a técnica não é o que há de perigoso**, o perigo
 > A autêntica ameaça já atacou o homem em sua essência. O domínio da armação ameaça com a possibilidade de que **a entrada num desabrigar mais originário possa estar impedida para o homem**, como também o homem poderá estar impedido de perceber **o apelo de uma verdade mais originária**.
 > (P81)
 
-## De que forma a essência da técnica contém a sua salvação? (P82, P85)
+## De que forma a essência da técnica contém a sua salvação? (P82, P88)
 
 > Mas onde há perigo, cresce também a salvação
 > (P81)
 
 Heidegger busca refletir a partir dessa palavra de Hölderlin, o **significado de "salvar"**, buscando se afastar da noção tradicional de que salvar é "apanhar algo que foi ameaçado pelo declínio para assegurá-lo no curso normal que se manteve até o momento". Uma vez que a salvação mora onde há o perigo, Heidegger busca entender mais sobre a essência da técnica, uma vez que **"é na sua essência que deita raízes e medra aquilo que salva"**.
 
-> Como podemos, contudo, avistar na essência da técnica aquilo que salva na medida em que não refletimos sobre que sentido de "essência" está mesmo presente na armação enquanto a essência da técnica?
+> Como podemos, contudo, avistar na **essência da técnica** aquilo que salva na medida em que não refletimos sobre que sentido de "essência" está mesmo presente na armação enquanto a essência da técnica?
 > (P83)
 
-### Reflexões sobre a essência (P83)
+### Reflexões sobre a essência no sentido de durar (P83)
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Heidegger rejeita o significado tradicional de **essência** como "gênero comum", portanto, a armação não é o **gênero comum** para tudo o que é técnico.
+"A armação é um **modo destinal de desabrigar**, a saber, o que desafia", a armação é um **desabrigar produtor**, tal qual o produzir (ποίησις, poíēsis) (que é bloqueado pela armação).
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+> O desabrigamento é aquele destino que, desde sempre, se **distribui de modo não esclarecido** a todo pensar no **desabrigar produtor** e desafiador, e se destina aos homens. O desabrigar desafiador tem sua proveniência destinada no **desabrigar produtor**. Mas, ao mesmo tempo, a armação bloqueia destinalmente a ποίησις
+> (P85)
+
+Heidegger busca uma reaproximação da essência em um sentido de algo que dura, em um sentido do imperar (do que impera)... no sentido de um consentimento contínuo.
+
+> Se, no entanto, refletirmos mais intensamente sobre o que propriamente dura e talvez dure de modo singular, então podemos dizer: **somente o que é consentido dura**. O que dura inicialmente a partir dos primórdios é aquilo que **consente**.
+> (P88)
+
+## A essência enquanto um consentimento no que dura (P88, P89)
+
+> a essência da técnica **admite o homem** para algo que ele propriamente não consegue a partir de si nem achar e muito menos fazer; pois algo como um homem, que unicamente é homem a partir de si, não existe
+> (P89)
+
+Heidegger questiona esse consentir nesse destino (da armação), e entende que uma vez que o homem esta empregado, cada destino de um desabrigar acontece a partir de um consentir e enquanto tal... "o homem está **unido ao acontecimento da verdade**", ele tem um papel ativo nesse desabrigar, e isso é o que salva. Para Heidegger, é no perigo desse desabrigar que "vem à luz **o pertencimento íntimo e indestrutível do homem** àquilo que consente, a supor que comecemos a fazer a nossa parte atentando para a essência da técnica".
+
+> Assim, a **essencialização da técnica** abriga em si o que menos poderíamos supor, o possível emergir da salvação.
+> (P90)
+
+## A essencialização da essência e ambiguidade da essência da técnica (P90,P93)
+
+Para pensarmos e protegermos esse **emergir** na memória, é necessário uma postura onde "avistamos a essencialização na técnica e não apenas fitamos a técnica", ou seja, **não mais só representar a técnica como instrumento**, ao qual se pode dominar. 
+
+Heidegger entende a essência da técnica (a armação) como altamente ambígua, pois a armação que desafia, impede o olhar para o acontecimento do desabrigar, colocando em perigo a relação com a essência da verdade (é a fúria do requerer) ao mesmo tempo em que o homem "é utilizado para a **percepção-resguardadora** (*Wahrnis*) da essência da verdade", portanto essa ambiguidade se da na "irresistibilidade do requerer" e na "reação do que salva".
+
+> A essencialização da técnica ameaça o desabrigar, ameaça com a possibilidade de **todo desabrigar emergir no requerer e tudo somente se apresentar no descobrimento da subsistência**. O fazer humano nunca pode imediatamente ir ao encontro deste perigo. A empresa humana nunca pode sozinha banir este perigo. Mas, a meditação humana pode refletir sobre o fato de que **tudo o que salva necessita de uma essência superior à do perigo**, embora ao mesmo tempo a ela aparentada.
+> (P93)
+
+## O papel da arte na essencialização da essência da técnica (P93)
+
+Heidegger reflete sobre as belas artes e a sua relação com a técnica, lembrando que a τέχνη (tékhnē) também era o **produzir do verdadeiro no belo**, além disso, relaciona com πρόmos (prómos).
+
+> Ela era um singular e múltiplo desabrigar. Ela era devota, πρόmos, isto é, adequada ao imperar e à guarda da verdade.
+> (P94)
+
+Ao buscar refletir sobre "o que era a arte", nota que a τέχνη (techne) pertencia a ποίησις (poiesis), "ela era um desabrigar que levava e punha à luz", ou seja, o poético leva o verdadeiro ao brilho
+
+> O poético perpassa essencializando toda arte, todo desabrigar do que é essencial para dentro do belo.
+> (P95)
+
+Heidegger reflete sobre como o desabrigar devem tomar as belas artes, nota que embora não saibamos se para a arte "está assegurada esta mais alta possibilidade de sua essência no seio do perigo extremo", entretanto, precisamos vislumbrar a possibilidade de que "por todos os lugares a técnica se instale, até que num dia, passando por tudo o que é técnico, a essência da técnica se essencialize no acontecimento da verdade". 
+
+"A essência da técnica não é nada de técnico", sendo assim:
+
+> ... a meditação essencial sobre a técnica e a discussão decisiva com ela devem acontecer num âmbito que, por um lado, está aparentado com a essência da técnica e, por outro lado, no entanto, **é fundamentalmente diferente dela**.
+> Um tal âmbito é a arte, mas somente quando a meditação artística, por seu lado, não se trancar à constelação da verdade, pela qual questionamos.
+> (P96)
+
+Para Heidegger, vivemos uma crise de que "não experimentamos a essencialização da técnica diante da pura técnica, que não protegemos mais a essencialização da arte diante da pura estética", nesse sentido, é necessário continuar se questionando sobre a essência da técnica para se chegar a essência da arte.

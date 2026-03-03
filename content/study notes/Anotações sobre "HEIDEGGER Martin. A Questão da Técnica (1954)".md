@@ -1,12 +1,12 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Monday, March 2nd 2026, 4:55:14 pm
+date modified: Monday, March 2nd 2026, 10:54:00 pm
 tags:
   - heidegger
   - técnica
   - causalidade
 draft: false
-date: 2026-03-02T14:15:00
+date: 2026-03-02T23:00:00
 ---
 
 > [!Iinfo] Resumo / Fichamento de [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
@@ -275,7 +275,7 @@ Heidegger discorda que "**a técnica é o destino de nossa época**", em um sent
 > [!note] Nota sobre a expressão "pertencimento empregado" em P76
 > ...designa um **duplo movimento**: remete ao fato de que o homem não é o senhor do destino e da história, mas é alguém que **é por essência usado**, embora seja ele mesmo a **se oferecer** a algo que o ultrapassa.
 
-## O desabrigar e os seus perigos (P76,P79)
+## O desabrigar e os caminhos do homem requerido (que não encontra a si mesmo) (P76,P79)
 
 > [!info] Na P76 uma nota sobre o perigo enquanto necessário
 
@@ -286,20 +286,35 @@ Heidegger afirma que o descobrimento proveniente do desabrigamento abriga dois p
 - "perigo de o homem **se equivocar junto ao que está descoberto e falseá-lo**" (na luz da conexão de causa e efeito)
 - por meio do resultado do descobrimento, "o perigo de **em todo o correto se retrair o verdadeiro**"
 
-Para Heidegger, se o que estiver descoberto não mais interessar ao homem como objeto, mas **apenas como subsistência**, o homem mesmo "caminhará para o lugar onde **ele mesmo deverá apenas ser mais tomado como subsistência**", entretanto, buscando se contrapor a essa posição, as vezes o homem assume a figura "do dominador da terra" e assim "amplia-se a ilusão de que tudo o que vem ao encontro **subsiste somente na medida em que é algo feito pelo homem**". Heidegger se opõe a essa ideia, de que *"o homem em todos os lugares somente encontra mais a si mesmo"*, pois através dessa postura, o homem não mais se coloca como responsável, não se darconta de que ele mesmo é requerido.
+Para Heidegger, se o que estiver descoberto não mais interessar ao homem como **objeto**, mas **apenas como subsistência**, o homem mesmo "caminhará para o lugar onde **ele mesmo deverá apenas ser mais tomado como subsistência**", entretanto, buscando se contrapor a essa posição, as vezes o homem assume a figura "do dominador da terra" e assim "amplia-se a ilusão de que tudo o que vem ao encontro **subsiste somente na medida em que é algo feito pelo homem**". Heidegger se opõe a essa ideia, de que *"o homem em todos os lugares somente encontra mais a si mesmo"*, pois através dessa postura, o homem não mais se coloca como responsável, não se dar conta de que ele mesmo **é requerido**.
 
-> O homem está tão decididamente preso à comitiva do desafiar da armação, que não a assume como uma responsabilidade, não mais dá conta de ser ele mesmo alguém solicitado e, assim também, não atende de modo algum ao fato de que, a partir de sua essência, ele ek-siste no âmbito de um apelo e que, por isso, nunca pode ir somente ao encontro de si mesmo.
+> O homem está tão decididamente preso à comitiva do desafiar da armação, que não a assume como uma responsabilidade, não mais dá conta de **ser ele mesmo alguém solicitado** e, assim também, não atende de modo algum ao fato de que, a partir de sua essência, ele ek-siste no âmbito de um **apelo** e que, por isso, **nunca pode ir somente ao encontro de si mesmo.**
 > (P79)
 
-## (P79)
+## O desabrigar desafiante enquanto barreira para o conhecimento da verdade (P79,P81)
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+A armação, enquanto destino, aponta para um desabrigar do tipo **requerer**, e onde impera esse desabrigar, nenhum outro desabrigar tem espaço, inclusive o desabrigar no sentido do produzir (ποίησις, poíēsis), de um **vir a frente**, é ocultado pela armação, pois *"o pôr que desafia impulsiona na relação oposta para aquilo que é"*.
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Portanto, para Heidegger, **a técnica não é o que há de perigoso**, o perigo está nesse desabrigar enquanto um destino, pois a armação "impede o **aparecer** e **imperar** da verdade". Portanto a "ameaça dos homens não vem primeiramente das máquinas e aparelhos da técnica cujo efeito pode causar a morte", mas sim da **impossibilidade do conhecimento da verdade**
 
+> Assim, pois, a armação desafiadora encobre não somente um modo de desabrigar anterior, o produzir (*Her-vor-bringen*), mas encobre o desabrigar enquanto tal e, com ele, aquilo por onde acontece **o descobrimento, isto é, a verdade**.
+> (P80)
 
+> A autêntica ameaça já atacou o homem em sua essência. O domínio da armação ameaça com a possibilidade de que **a entrada num desabrigar mais originário possa estar impedida para o homem**, como também o homem poderá estar impedido de perceber **o apelo de uma verdade mais originária**.
+> (P81)
 
+## De que forma a essência da técnica contém a sua salvação? (P82, P85)
 
+> Mas onde há perigo, cresce também a salvação
+> (P81)
 
+Heidegger busca refletir a partir dessa palavra de Hölderlin, o **significado de "salvar"**, buscando se afastar da noção tradicional de que salvar é "apanhar algo que foi ameaçado pelo declínio para assegurá-lo no curso normal que se manteve até o momento". Uma vez que a salvação mora onde há o perigo, Heidegger busca entender mais sobre a essência da técnica, uma vez que **"é na sua essência que deita raízes e medra aquilo que salva"**.
 
+> Como podemos, contudo, avistar na essência da técnica aquilo que salva na medida em que não refletimos sobre que sentido de "essência" está mesmo presente na armação enquanto a essência da técnica?
+> (P83)
 
+### Reflexões sobre a essência (P83)
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

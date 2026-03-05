@@ -1,16 +1,18 @@
 ---
 date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Tuesday, March 3rd 2026, 1:56:53 am
+date modified: Thursday, March 5th 2026, 2:55:56 pm
 tags:
   - heidegger
   - técnica
   - causalidade
+  - resumos
 draft: false
-date: 2026-03-03T02:00:00
+date: 2026-03-05T14:55:00
 ---
 
-> [!Iinfo] Resumo / Fichamento de [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
-> Escrevi sobre [[A noção de técnica para Heidegger]] como uma forma de resumo mais simples
+> [!Iinfo] [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
+
+> [!note] Escrevi sobre [[A noção de técnica para Heidegger]] como uma forma de resumo mais simples
 
 ## A essência não técnica da técnica e a sua não neutralidade (P33)
 

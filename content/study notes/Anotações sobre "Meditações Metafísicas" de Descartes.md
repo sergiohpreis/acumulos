@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, February 11th 2026, 2:29:48 am
-date modified: Sunday, February 22nd 2026, 10:02:16 pm
+date modified: Thursday, March 5th 2026, 2:55:07 pm
 tags:
   - filosofia
   - metafisica
@@ -8,11 +8,12 @@ tags:
   - deus
   - idealismo
   - racionalismo
+  - resumos
 draft: false
-date: 2026-02-11
+date: 2026-03-05T14:55:00
 ---
 
->[!info] Anotações de [[DESCARTES René. Meditações Metafísicas (1641)]]
+>[!info] [[DESCARTES René. Meditações Metafísicas (1641)]]
 
 ## Primeira Meditação, Das coisas que se podem pôr em dúvida
 

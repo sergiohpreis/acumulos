@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Wednesday, February 25th 2026, 7:39:05 pm
+date modified: Thursday, March 5th 2026, 2:54:48 pm
 tags:
   - kant
   - idealismo-alemão
@@ -9,10 +9,10 @@ tags:
   - filosofia
   - epistemologia
 draft: false
-date: 2026-02-25T19:37:00
+date: 2026-03-05T14:55:00
 ---
 
->[!info] Anotações de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]
+>[!info] [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]
 
 >[!info] Sobre o uso do Prolegômenos
 > Em P168, P169, Kant aponta que os Prolegômenos devem ser usados como uma "sinopse geral" da sua obra, "como plano e guia para a investigação, não como um próprio trabalho (P169)" e ainda, que algumas seções da "Doutrina dos Elementos" em [[KANT Immanuel. Crítica da Razão Pura (1781)]] tome-se como base para o exame, o que o Prolegômenos diz com respeito a essas seções

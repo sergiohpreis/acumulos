@@ -1,15 +1,16 @@
 ---
 date created: Sunday, February 22nd 2026, 10:10:43 pm
-date modified: Sunday, February 22nd 2026, 10:13:43 pm
+date modified: Thursday, March 5th 2026, 2:55:02 pm
 tags:
   - venezuela
   - américa-latina
   - história
+  - resumos
 draft: false
-date: 2026-02-22T22:15:00
+date: 2026-03-05T14:55:00
 ---
 
->[!info] Anotações de [[MARINGONI Gilberto. A Revolução Venezuelana (2009)]]
+>[!info] [[MARINGONI Gilberto. A Revolução Venezuelana (2009)]]
 
 ---
 

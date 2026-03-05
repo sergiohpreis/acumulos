@@ -12,7 +12,7 @@ title: Os impactos de Descartes e Kant na Metafísica
 date: 2026-02-17T11:15:00
 ---
 
-Esses dias assisti a um vídeo onde Pondé afirmava que era errada a afirmação que "Kant matou a metafísica", e durante os meus estudos de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]], enquanto produzia [[Resumo de "Prolegômenos" de Kant]] pude perceber que é verdade.
+Esses dias assisti a um vídeo onde Pondé afirmava que era errada a afirmação que "Kant matou a metafísica", e durante os meus estudos de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]], enquanto produzia [[Anotações de "KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)"]] pude perceber que é verdade.
 
 Após ler Descartes ([[DESCARTES René. Meditações Metafísicas (1641)]] e [[DESCARTES, René. Discurso sobre o Método (1637)]]), penso que a metafísica deu um ponta fé inicial, a partir do Racionalismo.
 

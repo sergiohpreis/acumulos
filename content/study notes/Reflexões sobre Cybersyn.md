@@ -10,7 +10,7 @@ draft: false
 date: 2026-01-26T23:45:00
 ---
 
-Algumas reflexões sobre:  [[Cybersyn - Conversa de Rafael Grohmann com Eden Medina para o Digilabour em 2024]]
+Algumas reflexões sobre:  [[Cybersyn - Conversa de Rafael Grohmann com Eden Medina para o Digilabour (2024)]]
 
 Penso que qualquer processo revolucionário enfrentará condições de restrição em termos de tecnologia, em resumo, os processos revolucionários, em um primeiro momento, estarão enfraquecidos tecnologicamente, entretanto, o movimento revolucionário pode pensar em como desenvolver a sua organização de maneira mais soberana, dependendo menos de serviços externos. O problema disso é que, como consequência, nunca estaremos a altura das empresas capitalistas se nos negarmos a utilizar as tecnologias do mercado, entretanto, não se trata da completa negação, mas sim, de levar em conta a conjuntura em que a luta de classes se encontra no momento de apostar as fichas em uma solução.
 

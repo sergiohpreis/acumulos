@@ -19,7 +19,7 @@ date: 2025-11-09T15:00:00
 >[!info] https://digilabour.com.br/pt/aprendendo-com-cybersyn-50-anos-depois-entrevista-com-eden-medina/
 
 Eden Medina é pioneira nesse estudo. Algumas de suas obras:
-- [[Cybernetic Revolutionaries, Technology and Politics in Allende’s Chile]]
+- [[Cybernetic Revolutionaries, Technology and Politics in Allende’s Chile (1976)]]
 - How to Design a Revolution: The Chilean Way to Design
 
 > [!quote] Eden Medina

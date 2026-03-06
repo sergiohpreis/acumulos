@@ -7,7 +7,7 @@ started_at: 2026-01-28T22:30:00
 finished_at: 2026-02-02T14:00:00
 year: "2020"
 tags:
-  - cosmotecnica
+  - cosmotécnica
   - filosofia
   - técnica
   - livros

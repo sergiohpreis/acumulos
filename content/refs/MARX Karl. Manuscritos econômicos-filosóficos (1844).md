@@ -26,20 +26,22 @@ tags:
   - filosofia
   - economia
 draft: false
-date: 2026-03-05T21:40:26.7324952-03:00
+date: 2026-03-05T22:08:56.129216942-03:00
 ---
 
 ## Resumo
 
-- Sessões: 2
-- Páginas lidas: 13
-- Tempo total: 26m
+- Sessões: 4
+- Páginas lidas: 32
+- Tempo total: 44m
 - Autores: Karl Marx
 - Status: Lendo
 - Total de páginas: 187
 
 ## Sessões
 
+- **2026-03-05 21:58 - 22:08** - Páginas 11-19 (9 páginas) - Penso que para conseguir entender muita coisa, precisa entender de Hegel - 0h10m
+- **2026-03-05 21:50 - 21:58** - Páginas 1-10 (10 páginas) - 0h08m
 - **2026-03-05 18:43 - 18:53** - Páginas 86-90 (5 páginas) - 0h10m
 - **2026-03-05 18:27 - 18:42** - Páginas 79-86 (8 páginas) - É uma chuva de conceitos... existe algum texto mais estruturado do marx sobre alienação? - 0h15m
 

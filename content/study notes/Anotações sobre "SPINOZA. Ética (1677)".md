@@ -1,6 +1,6 @@
 ---
 date created: Friday, March 6th 2026, 12:28:12 am
-date modified: Friday, March 6th 2026, 10:17:07 am
+date modified: Friday, March 6th 2026, 7:06:02 pm
 draft: false
 date: 2026-03-06T00:30:00
 tags:
@@ -42,6 +42,14 @@ tags:
 > ... em Filosofia, a ética, filosofia ética (do grego ἠθική \[φιλοσοφία\]) ou filosofia moral (do latim mos, mores) é a disciplina filosófica que estuda os **fundamentos da ação moral**, procurando justificar a moralidade de uma ação e distinguir as ações morais das ações imorais e amorais. A Ética procura responder a várias questões de âmbito moral, sendo as principais: **Como devemos viver? ou Como devemos agir?**
 > Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/%C3%89tica)
 
+## Análise do Subtítulo
+
+> Demonstrada segundo a ordem geométrica, e dividida em cinco partes, nas quais são tratados
+
+- demonstrar: método
+- segundo: referente
+- ordem geométrica: referente a geometria
+
 ## Análise do Índice
 
 ### Primeira Parte: Deus
@@ -82,6 +90,8 @@ ou: sinônimo
 
 O título do livro diz respeito a ética, que tem relação aos fundamentos da ação moral, nesse sentido, buscará responder perguntas como "Como devemos viver" ou "Como devemos agir". 
 
+O subtítulo mostra que o autor irá demonstrar seguindo o método lógico usado na geometria (dedutivo).
+
 A obra se divide em 5 partes. Na primeira parte trata-se de **Deus**, que pode ser entendido como um **ser supremo**, como a **causa** de todas as coisas. Na segunda parte da obra se entender sobre a essência das coisas a partir da razão. Na terceira parte, o objetivo é entender a origem e a essência desses afetos, que são como "um estado da alma, um sentimento". Na quarta parte, como esses afetos estão relacionados e impulsionam um estado de submissão do ser humano. Na quinta parte, se associa a liberdade humana, ou seja, a saída desse estado de submissão as possibilidades que podem ser atingidas (ou seja, potência) da razão, de si próprio através do seu intelecto.
 
 # COPIE
@@ -91,4 +101,10 @@ A obra se divide em 5 partes. Na primeira parte trata-se de **Deus**, que pode s
 A edição busca um texto em consonância com o português usado atualmente, respeitando as pesquisas clássicas sobre a obra tanto quanto as lições mais recentes de renomados professores.
 
 A redação da Ética estrutura-se em torno das **proposições** (equivalente aos teoremas matemáticos) e os outros **elementos**, (demonstração, escólios, corolários) estão referidos às respectivas proposições, portanto, na edição buscou-se uma solução gráfica que facilitasse estabelecer essas relações.
+
+---
+
+[[Sobre o método geométrico em Spinoza]]
+
+
 

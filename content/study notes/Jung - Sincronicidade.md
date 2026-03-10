@@ -5,7 +5,7 @@ tags:
   - psicologia
   - jung
 draft: false
-date: 2026-06-25T13:00:00
+date: 2025-06-25T13:00:00
 ---
 
 Jung e Albert Einstein

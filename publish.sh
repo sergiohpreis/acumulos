@@ -1,5 +1,8 @@
 #!/bin/zsh
 
+echo ""
+echo "==== $(date '+%Y-%m-%d %H:%M:%S') ===="
+
 cd /Users/sergiohpreis/Documents/quartz
 
 # Remove a pasta e recria para evitar o prompt de confirmação do "rm *"

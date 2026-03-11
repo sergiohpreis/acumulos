@@ -1,6 +1,6 @@
 ---
-date created: Wednesday, February 26th 2026, 8:03:00 pm
-date modified: Wednesday, February 26th 2026, 8:03:00 pm
+date created: Thursday, February 26th 2026, 8:39:37 pm
+date modified: Wednesday, March 11th 2026, 7:41:08 am
 tags:
   - tecnologia
   - economia-política
@@ -22,11 +22,8 @@ Autores de referência para a construção rigorosa desse conceito:
 
 A questão aberta é: o que essas empresas monopolizam? Se não é um bem tangível, o que é? A hipótese é que monopolizam a **mediação** — o acesso à informação, à comunicação, à computação. Quem controla a mediação, controla as condições de possibilidade de toda produção digital.
 
-Esse conceito é central para o [[O ato de programar entre a alienação e a tecnodiversidade - trabalho, monopólios da informação e a questão da técnica na era da programação agêntica|pré-projeto de mestrado]].
-
 ---
 
 Relacionados:
 - [[Os dados produzidos pelos seres humanos são poderosos recursos para o funcionamento dos monopólios da tecnologia]]
-- [[Crescimento anárquico dos sistemas tecnológicos]]
 - [[Como a relação de dependência se expressa nos variados sistemas e o preço da artificial necessidade da escala infinita]]

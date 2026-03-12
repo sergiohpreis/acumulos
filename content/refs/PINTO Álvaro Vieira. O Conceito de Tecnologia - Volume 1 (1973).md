@@ -28,23 +28,23 @@ tags:
   - marxismo
   - filosofia
 draft: false
-date: 2026-03-11T09:11:18.810105238-03:00
+date: 2026-03-11T21:51:46.865065309-03:00
 ---
 
 ## Resumo
 
 - Sessões: 36
 - Páginas lidas: 247
-- Tempo total: 11h 27m
+- Tempo total: 10h 59m
 - Autores: Álvaro Vieira Pinto
 - Status: Lendo
 - Total de páginas: 531
 
 ## Sessões
 
-- **2026-03-11 18:30 - 18:45** - Páginas 213-218 (6 páginas) - 14. A ingenuidade da concepção da técnica como "fenômeno". A origem da técnica e o desino do homem - 0h15m
-- **2026-03-11 18:00 - 18:15** - Páginas 210-213 (4 páginas) - 13. As técnicas lúdicas - 0h15m
-- **2026-03-11 11:30 - 11:45** - Páginas 208-210 (3 páginas) - 12. A contradição inerente à técnica - 0h15m
+- **2026-03-11 21:40 - 21:46** - Páginas 213-218 (6 páginas) - 14. A ingenuidade da concepção da técnica como "fenômeno". A origem da técnica e o desino do homem - 0h06m
+- **2026-03-11 21:08 - 21:15** - Páginas 210-213 (4 páginas) - 13. As técnicas lúdicas - 0h07m
+- **2026-03-11 17:22 - 17:26** - Páginas 208-210 (3 páginas) - 12. A contradição inerente à técnica - 0h04m
 - **2026-03-11 08:52 - 08:59** - Páginas 204-208 (5 páginas) - 11. O significado da história das técnicas - 0h06m
 - **2026-03-11 06:37 - 06:54** - Páginas 198-204 (7 páginas) - Fiz algumas anotações sobre a posição do autor sobre a cibernética, e sobre as maquinas como extensão do ser humano através de processo de transferência de capacidade (Redes Neurais se aplicam?) - 0h17m
 - **2026-03-11 06:09 - 06:21** - Páginas 194-198 (5 páginas) - 0h11m

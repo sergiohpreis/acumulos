@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 5th 2026, 7:48:23 am
-date modified: Thursday, March 12th 2026, 12:59:39 pm
+date modified: Thursday, March 12th 2026, 1:17:50 pm
 draft: false
 date: 2026-03-05T08:00:00
 ---
@@ -60,7 +60,11 @@ tomarei esta ação concreta de [...]”
 
 **Resposta:**
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Mediante o desconhecido, o ser humano se admira, e então, passa a refletir sobre a realidade em que vivem, tanto a filosofia quanto o mito nascem dessa atitude de espanto, de maravilhamento (ou até mesmo de medo porque não...). Entretanto, é importante reconhecer que não sabemos de tudo, e que ainda assim, existem outros que sabem, portanto, ignorar essa sabedoria, resultaria na postaria de alguém inútil.
+
+Penso que é fundamental essa reflexão, no sentido de que ainda a muito a se explorar, entretanto, não precisamos reinventar a roda e reexplorar o mundo novamente, as ciências estão ai, e devemos creditar a ciência e não o contrário.
+
+Com base nesse entendimento, nesta semana, tomarei a ação concreta de me abrir mais a escutar, e tentar ainda mais suspender o meu juízo
 
 
 

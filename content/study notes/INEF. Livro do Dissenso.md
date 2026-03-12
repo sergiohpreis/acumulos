@@ -1,8 +1,8 @@
 ---
 date created: Thursday, March 5th 2026, 7:48:23 am
-date modified: Thursday, March 12th 2026, 1:17:50 pm
+date modified: Thursday, March 12th 2026, 5:55:28 pm
 draft: false
-date: 2026-03-05T08:00:00
+date: 2026-03-12T18:00:00
 ---
 
 > [!note] O "Livro do Dissenso" é uma proposta pedagógica do Núcleo de Formação Filosófica do INEF
@@ -56,7 +56,7 @@ acabou de assistir?
 aplicadas no mundo atual?
 > 3. O que essas reflexões significam para você pessoalmente?
 > 4. Complete esta frase: “Com base nesse entendimento, nesta semana,
-tomarei esta ação concreta de [...]”
+tomarei esta ação concreta de ...”
 
 **Resposta:**
 
@@ -66,6 +66,25 @@ Penso que é fundamental essa reflexão, no sentido de que ainda a muito a se ex
 
 Com base nesse entendimento, nesta semana, tomarei a ação concreta de me abrir mais a escutar, e tentar ainda mais suspender o meu juízo
 
+## Trilha: Filosofia | Curso: História da Filosofia | Módulo: 01 - Filosofia Antiga
 
+### Aula: Filosofia pré-socrática
+
+**Citações:**
+> “A filosofia grega parece começar com uma ideia absurda, com a
+proposição: a água é a origem e a matriz de todas as coisas. Será mesmo
+necessário deter-nos nela e levá-la a sério? Sim, e por três razões: em
+primeiro lugar, porque essa proposição enuncia algo sobre a origem das
+coisas; em segundo lugar, porque o faz sem imagem e fabulação; e, enfim,
+em terceiro lugar, porque nela, embora apenas em estado de crisálida, está
+contido o pensamento: Tudo é um.” - Nietzsche
+
+**Guia de reflexão:**
+1. O que Nietzsche queria dizer, com base na aula que você acabou de assistir?
+2. Como essas ideias de Nietzsche sobre os pré-socráticos podem ser interpretadas e aplicadas no mundo atual?
+3. O que essas reflexões significam para você pessoalmente?
+4. Complete esta frase: “Com base nesse entendimento, nesta semana, tomarei esta ação concreta de ...”
+
+**Resposta:**
 
 

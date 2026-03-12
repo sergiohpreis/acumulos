@@ -10,6 +10,20 @@ date: 2026-03-09T20:00:00
 
 > [!note] Depois pode ser interessante transformar isso em uma [[INEF - NFF - Guia Prático de Leituras Filosóficas|ficha bibliográfica]] ou [[INEF - NFF - Guia Prático de Leituras Filosóficas|ficha temática]]
 
+[[SIMOND]]
+
+```mermaid
+timeline
+    title History of Social Media Platform
+    1973 : PINTO Vieira Álvaro. O Conceito de Tecnologia
+    1958: 
+    1954 : HEIDEGGER Martin. A Questão da Técnica
+         : Google
+    2020 : HUI Yuk. Tecnodiversidade
+    2016: HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics
+    2006 : Twitter
+```
+
 ## Técnica
 
 - [[HEIDEGGER Martin. A Questão da Técnica (1954)]]
@@ -33,5 +47,5 @@ date: 2026-03-09T20:00:00
 
 1. Finalizar a leitura da Parte 1 de [[PINTO Álvaro Vieira. O Conceito de Tecnologia - Volume 1 (1973)]]
 	1. Depois fazer uma nova leitura, fichando a parte 1
-2. Ir para a leitura de [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics]]
+2. Ir para a leitura de [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]]
 3. Fazer uma nova leitura de [[HUI Yuk. Tecnodiversidade (2020)]] com fichamentos / resumos

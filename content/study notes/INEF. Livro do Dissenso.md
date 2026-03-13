@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 5th 2026, 7:48:23 am
-date modified: Thursday, March 12th 2026, 5:55:28 pm
+date modified: Friday, March 13th 2026, 7:35:35 pm
 draft: false
 date: 2026-03-12T18:00:00
 ---
@@ -86,5 +86,9 @@ contido o pensamento: Tudo é um.” - Nietzsche
 4. Complete esta frase: “Com base nesse entendimento, nesta semana, tomarei esta ação concreta de ...”
 
 **Resposta:**
+
+Em sua citação, Nietzsche busca defender a importância dos pensadores pré socráticos para a filosofia como um todo, por conta do que as suas ideias carregam, que são como os embriões do desenvolvimento da filosofia que virá (ainda que possam parecer absurdas).
+
+Acho que faz sentido essa defesa, não tem como negar o papel dos pré socráticos, assim como também, devemos nos esforçar para não trazer a visão predominantemente eurocentrica. Isso não significa descartar os pré socráticos, mas sim, buscar outras origens em outras culturas também.
 
 

@@ -28,25 +28,21 @@ tags:
   - marxismo
   - filosofia
 draft: false
-date: 2026-03-12T19:49:18.663354078-03:00
+date: 2026-03-12T21:58:13.747217954-03:00
 ---
 
 ## Resumo
 
-- Sessões: 39
-- Páginas lidas: 387
-- Tempo total: 14h 59m
+- Sessões: 42
+- Páginas lidas: 389
+- Tempo total: 15h 03m
 - Autores: Álvaro Vieira Pinto
 - Status: Lendo
 - Total de páginas: 531
 
 ## Sessões
 
-- **2026-03-12 23:00 - 02:30** - Páginas 233-356 (124 páginas) - 4. O conceito ingênuo de "explosão tecnológica" (P233-P235);
-5. Aspectos da teoria da técnica. A classificação das técnicas (P236-P240);
-6. A história e a historicidade das técnicas (P241-P244);
-7. A práxis social e a personalidade do técnico (P245-P250);
-8. A doutrina "tecnológica" dos pensadores ingênuos (P251-P253);
+- **2026-03-13 23:00 - 02:00** - Páginas 251-356 (106 páginas) - 8. A doutrina "tecnológica" dos pensadores ingênuos (P251-P253);
 9. A equiparação verbal de "tecnologia" e "técnica" (P254-P257);
 10. A tecnologia como instrumento de dominação (P258-P266);
 11. A tecnologia como patrimônio da humanidade (P267-P269);
@@ -61,7 +57,11 @@ date: 2026-03-12T19:49:18.663354078-03:00
 20. A tecnologia como conjunto das técnicas em vigor numa sociedade (P332-P338);
 21. O princípio de unidade da técnica. O planejamento planejado (P339-P343);
 22. As interpretações da tecnologia. A exigência de um sistema lógico definido (P344-P345);
-23. A tecnologia como escatologia. A superstição tecnológica (P346-03/12/2026 23:59); - 3h30m
+23. A tecnologia como escatologia. A superstição tecnológica (P346-03/12/2026 23:59); - 3h00m
+- **2026-03-12 21:46 - 21:56** - Páginas 245-251 (7 páginas) - 7. A práxis social e a personalidade do técnico (P245-P251); - 0h10m
+- **2026-03-12 21:26 - 21:35** - Páginas 241-245 (5 páginas) - 6. A história e a historicidade das técnicas (P241-P245); - 0h08m
+- **2026-03-12 20:42 - 20:57** - Páginas 233-240 (8 páginas) - 4. O conceito ingênuo de "explosão tecnológica" (P233-P235);
+5. Aspectos da teoria da técnica. A classificação das técnicas (P236-P240); - 0h14m
 - **2026-03-12 19:25 - 19:43** - Páginas 225-233 (9 páginas) - 3. As concepções ingênuas da tecnologia elaboradas pelos técnicos (P225-P233); - 0h18m
 - **2026-03-12 11:34 - 11:46** - Páginas 219-225 (7 páginas) - 1. As diversas acepções do termo "tecnologia" (P219-P220); 2. A tecnologia como epistemologia da técnica (P220-P225) - 0h12m
 - **2026-03-11 21:40 - 21:46** - Páginas 213-218 (6 páginas) - 14. A ingenuidade da concepção da técnica como "fenômeno". A origem da técnica e o desino do homem - 0h06m
@@ -102,6 +102,9 @@ date: 2026-03-12T19:49:18.663354078-03:00
 - **2026-03-06 21:33 - 22:11** - Páginas 1-10 (10 páginas) - 0h37m
 
 ## Notas
+
+### 2026-03-12 21:58
+Lendo 7. A práxis social e a personalidade do técnico (P245-P251), notei realmente, ao falar do gerente, uma aproximação de Gramsci
 
 ### 2026-03-12 19:45
 Penso que enquanto um tecnico sera muito relevante o Cap 4 / 3. As concepções ingênuas da tecnologia elaboradas pelos técnicos (P225-P233). Nessa parte, ao refletir sobre o técnico, fiquei pensando se tem relação com conceito de "intelectual organico da burguesia" de GRAMSCI

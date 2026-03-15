@@ -28,36 +28,36 @@ tags:
   - marxismo
   - filosofia
 draft: false
-date: 2026-03-12T21:58:13.747217954-03:00
+date: 2026-03-15T18:47:36.658374057-03:00
 ---
 
 ## Resumo
 
-- Sessões: 42
-- Páginas lidas: 389
-- Tempo total: 15h 03m
+- Sessões: 50
+- Páginas lidas: 396
+- Tempo total: 15h 26m
 - Autores: Álvaro Vieira Pinto
 - Status: Lendo
 - Total de páginas: 531
 
 ## Sessões
 
-- **2026-03-13 23:00 - 02:00** - Páginas 251-356 (106 páginas) - 8. A doutrina "tecnológica" dos pensadores ingênuos (P251-P253);
-9. A equiparação verbal de "tecnologia" e "técnica" (P254-P257);
-10. A tecnologia como instrumento de dominação (P258-P266);
-11. A tecnologia como patrimônio da humanidade (P267-P269);
-12. A exportação da tecnologia (P270-P282);
-13. Os fundamentos sociais da tecnologia (P283-P289);
-14. A ideologização da tecnologia (P290-P293);
-15. A catábase da técnica. A tecnologia e a diferença de finalidades entre países de níveis históricos distintos (P294-P300);
-16. A tecnologia e as condições gerais do trabalho (P301-P303);
-17. O progresso tecnológico como fenômeno social total (P304-P312);
-18. Tecnologia e pesquisa científica (P313-P319);
-19. A tecnologia como ideologia (P320-P331);
+- **2026-03-16 12:00 - 13:00** - Páginas 320-356 (37 páginas) - 19. A tecnologia como ideologia (P320-P331);
 20. A tecnologia como conjunto das técnicas em vigor numa sociedade (P332-P338);
 21. O princípio de unidade da técnica. O planejamento planejado (P339-P343);
 22. As interpretações da tecnologia. A exigência de um sistema lógico definido (P344-P345);
-23. A tecnologia como escatologia. A superstição tecnológica (P346-03/12/2026 23:59); - 3h00m
+23. A tecnologia como escatologia. A superstição tecnológica (P346-03/12/2026 23:59); - 1h00m
+- **2026-03-15 17:16 - 17:27** - Páginas 313-320 (8 páginas) - 8. Tecnologia e pesquisa científica (P313-P320); - 0h10m
+- **2026-03-15 16:21 - 16:44** - Páginas 301-313 (13 páginas) - 16. A tecnologia e as condições gerais do trabalho (P301-P303);
+17. O progresso tecnológico como fenômeno social total (P304-P313); - 0h23m
+- **2026-03-15 15:48 - 16:08** - Páginas 290-301 (12 páginas) - 14. A ideologização da tecnologia (P290-P293);
+15. A catábase da técnica. A tecnologia e a diferença de finalidades entre países de níveis históricos distintos (P294-P300); - 0h20m
+- **2026-03-15 11:29 - 11:44** - Páginas 283-290 (8 páginas) - 13. Os fundamentos sociais da tecnologia (P283-P290); - 0h15m
+- **2026-03-14 20:03 - 20:36** - Páginas 270-283 (14 páginas) - 12. A exportação da tecnologia (P270-P283); - 0h32m
+- **2026-03-14 18:44 - 18:51** - Páginas 267-270 (4 páginas) - 11. A tecnologia como patrimônio da humanidade (P267-P270); - 0h07m
+- **2026-03-14 16:14 - 16:36** - Páginas 258-266 (9 páginas) - 10. A tecnologia como instrumento de dominação (P258-P266); - 0h22m
+- **2026-03-13 18:34 - 18:47** - Páginas 251-258 (8 páginas) - 8. A doutrina "tecnológica" dos pensadores ingênuos (P251-P253);
+9. A equiparação verbal de "tecnologia" e "técnica" (P254-P258); - 0h12m
 - **2026-03-12 21:46 - 21:56** - Páginas 245-251 (7 páginas) - 7. A práxis social e a personalidade do técnico (P245-P251); - 0h10m
 - **2026-03-12 21:26 - 21:35** - Páginas 241-245 (5 páginas) - 6. A história e a historicidade das técnicas (P241-P245); - 0h08m
 - **2026-03-12 20:42 - 20:57** - Páginas 233-240 (8 páginas) - 4. O conceito ingênuo de "explosão tecnológica" (P233-P235);

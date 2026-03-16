@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 8:10:26 pm
+date modified: Monday, March 16th 2026, 8:42:20 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -85,4 +85,15 @@ Mostra como Hui invoca a busca por uma nova cosmologia, a técnica como mais um 
 Crítica a noção ocidental de entrelaçamento de Danny Hillis, por pregar uma reindição diante da técnica, e um determinismo, que Hui busca se afastar
 
 ## Prefácio
+
+Yuk Hui propõe uma rearticulação da questão da tecnologia abandonando a noção que a entende enquanto um **universo antropológico**, propondo a reconstrução das histórias de uma multiplicidade de cosmotécnicas, para projetar no Antropoceno as possibilidades que nelas estão adormecidas
+
+Yuk Hui propõe uma rearticulação da questão da tecnologia.
+
+Expõe o pensamento de XXXXXX sobre a não neutralidade da tecnologia classificando-o como uma falha de interpretação, um engano
+
+
+O conceito de noosfera, de XXXXXXXX
+
+fala sobre o conceito tecnológico de nova era axial e relaciona como a causas do sentimento neorreacionário do Ocidente
 

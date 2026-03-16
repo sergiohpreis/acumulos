@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 8:09:38 pm
+date modified: Monday, March 16th 2026, 8:10:26 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -76,7 +76,7 @@ Para Hui, a confiança na tecnologia divorciada do humanismo é uma forma de **p
 
 Mostra como Hui em [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] demonstrou a ausência dos conceitos ocidentais de tecnologia no pensamento oriental.
 
-O conceito de tecnologia como uma forma de atomização, que dissolve o coletivo em individualidade cada vez menores e particulares em oposição a visão otimista (do ocidente) sobre a tecnologia universal.
+É apresentado brevemente um conceito de tecnologia como uma **forma de atomização**, que **dissolve o coletivo em individualidade cada vez menores e particulares** em oposição a visão otimista (do ocidente) sobre a tecnologia universal.
 
 Levanta a questão sobre a impossibilidade da privatização do universal
 

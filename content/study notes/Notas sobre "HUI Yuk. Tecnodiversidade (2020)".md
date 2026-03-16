@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 6:09:15 pm
+date modified: Monday, March 16th 2026, 6:12:35 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -41,17 +41,13 @@ O conceito de cosmotécnica engloba as atividades produtivas técnicas em uma co
 
 Hui dialoga com uma corrente contemporânea da antropologia conhecida como "virada ontológica", que busca uma resposta a "crise da modernidade", que pode ser entendida como uma separação da natureza e cultura e que se expressa de modo geral em termos de uma crise ecológica ligada ao **Antropoceno**. Essa corrente inclui autores como: Philippe Descola, Bruno Latour, Roy Wagner, Marilyn Strathern e Eduardo Viveiros de Castro.
 
-Para Hui, a crise não poderá ser enfrentada se o que chamada de globalização tecnológica unilateral permanecer vigente (define essa como uma "racionalidade como forma de neocolonização")
+Para Hui, a crise não poderá ser enfrentada se o que chamada de globalização tecnológica unilateral permanecer vigente (define essa como uma "racionalidade como forma de neocolonização"), portanto, sem tecnodiversidade, seremos incapacidade de manter uma biodiversidade necessária para se evitar essa crise atual (ex: pandemias).
 
+Para Hui, o caminho da superação da conjuntura atual é uma política "decolonial", em benefício de uma pluralidade de cosmotécnicas, para então obtermos novos futuros tecnológicos e isso perpassa pelas **culturas não europeias** sistematizarem as próprias cosmotécnicas.
 
-Sem tecnodiversidade, incapacidade de manter uma biodiversidade necessária
-
-Superação da conjuntura atual: política decolonial, em beneficio de uma pluraridade de cosmotécnicas, novos futuros tecnológicos.
-
-Culturas não europeias sistematizarem as próprias cosmotécnicas
-
-Questões:
+No prefácio dessa edição, Hui levanta duas questões:
 - O que significaria uma cosmotécnica amazônica, inca, maia?
 - Como essas cosmotécnicas poderiam nos inspirar a recontextualizar a tecnologia moderna ?
 
-contestar os pressupostos ontológicos e epistemológicos das tecnologias modernas, sejam elas as redes sociais ou a inteligência artificial
+Para Hui, é preciso contestar os pressupostos ontológicos e epistemológicos das tecnologias modernas (sejam elas as redes sociais ou a inteligência artificial).
+

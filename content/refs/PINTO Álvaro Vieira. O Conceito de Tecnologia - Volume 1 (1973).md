@@ -3,7 +3,7 @@ title: PINTO Álvaro Vieira. O Conceito de Tecnologia - Volume 1 (1973)
 authors:
   - Álvaro Vieira Pinto
 status:
-  - READING
+  - PAUSED
 published_year: 1973
 categories:
   - Técnica
@@ -28,25 +28,25 @@ tags:
   - marxismo
   - filosofia
 draft: false
-date: 2026-03-15T18:47:36.658374057-03:00
+date: 2026-03-16T14:12:11.440064921-03:00
 ---
 
 ## Resumo
 
-- Sessões: 50
-- Páginas lidas: 396
-- Tempo total: 15h 26m
+- Sessões: 52
+- Páginas lidas: 397
+- Tempo total: 15h 21m
 - Autores: Álvaro Vieira Pinto
-- Status: Lendo
+- Status: Pausado
 - Total de páginas: 531
 
 ## Sessões
 
-- **2026-03-16 12:00 - 13:00** - Páginas 320-356 (37 páginas) - 19. A tecnologia como ideologia (P320-P331);
-20. A tecnologia como conjunto das técnicas em vigor numa sociedade (P332-P338);
-21. O princípio de unidade da técnica. O planejamento planejado (P339-P343);
-22. As interpretações da tecnologia. A exigência de um sistema lógico definido (P344-P345);
-23. A tecnologia como escatologia. A superstição tecnológica (P346-03/12/2026 23:59); - 1h00m
+- **2026-03-16 13:51 - 14:10** - Páginas 344-356 (13 páginas) - 22. As interpretações da tecnologia. A exigência de um sistema lógico definido (P344-P345);
+23. A tecnologia como escatologia. A superstição tecnológica (P346-P356); - 0h19m
+- **2026-03-16 12:32 - 12:50** - Páginas 332-344 (13 páginas) - 20. A tecnologia como conjunto das técnicas em vigor numa sociedade (P332-P338);
+21. O princípio de unidade da técnica. O planejamento planejado (P339-P344); - 0h18m
+- **2026-03-16 11:25 - 11:43** - Páginas 320-331 (12 páginas) - 19. A tecnologia como ideologia (P320-P331); - 0h18m
 - **2026-03-15 17:16 - 17:27** - Páginas 313-320 (8 páginas) - 8. Tecnologia e pesquisa científica (P313-P320); - 0h10m
 - **2026-03-15 16:21 - 16:44** - Páginas 301-313 (13 páginas) - 16. A tecnologia e as condições gerais do trabalho (P301-P303);
 17. O progresso tecnológico como fenômeno social total (P304-P313); - 0h23m
@@ -102,6 +102,9 @@ date: 2026-03-15T18:47:36.658374057-03:00
 - **2026-03-06 21:33 - 22:11** - Páginas 1-10 (10 páginas) - 0h37m
 
 ## Notas
+
+### 2026-03-16 14:12
+Após uma ofensiva e uma leitura mais rápida, vou parar, estudar o material, depois pretendo retomar uma leitura mais rápida também da Parte 2
 
 ### 2026-03-12 21:58
 Lendo 7. A práxis social e a personalidade do técnico (P245-P251), notei realmente, ao falar do gerente, uma aproximação de Gramsci

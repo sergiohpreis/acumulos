@@ -65,4 +65,15 @@ Explica como Hui trabalha o conceito de multiplicidade em oposição a singulari
 
 A tecnologia não é transcendente a natureza e ao cosmo, a tecnologia faz parte de ambos.
 
-apresenta a confiança na tecnoperda do cosmos como
+Para Hui, a confiança na tecnologia divorciada do humanismo é uma forma de perda do cosmos, Hui é contrário a interposição de tecnologia entre a humanidade e o cosmos
+
+Mostra como Hui em [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] demonstrou a ausência dos conceitos ocidentais de tecnologia no pensamento oriental.
+
+O conceito de tecnologia como uma forma de atomização, que dissolve o coletivo em individualidade cada vez menores e particulares em oposição a visão otimista (do ocidente) sobre a tecnologia universal.
+
+Levanta a questão sobre a impossibilidade da privatização do universal
+
+Mostra como Hui invoca a busca por uma nova cosmologia, a técnica como mais um entre os elementos da existência
+
+Crítica a noção ocidental de entrelaçamento de Danny Hillis, por pregar uma reindição diante da técnica, e um determinismo, que Hui busca se afastar
+

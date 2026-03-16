@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 7:59:24 pm
+date modified: Monday, March 16th 2026, 8:09:38 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -34,23 +34,29 @@ O livro é uma reunião dos principais textos de Yuk Hui
 
 ## Orelhas
 
+>[!info] Antropoceno
+> Antropoceno (ou Antropocénico em português europeu) é um termo usado por alguns cientistas para descrever o **período mais recente na história do Planeta Terra**. 
+> (Wikipédia)
+
+> [!info] Cosmo (por Jasper) via [[Abbagnano Nicola. Dicionário de Filosofia (1XXX)]]
+> Para Jaspers, a distinção entre o cosmo e o mundo é que o cosmo é imagem do mundo que cada um forma, mas por isso mesmo não é o mundo como soma total de todas as coisas e os eus existentes, como totalidade omniabrangente.
+
 Hui recusa a **universalidade** de uma única tecnologia e propõe pensar a Tecnodiversidade, que pode ser definida como:
 > multiplicidade de **cosmotécnicas** que diferem uma das outras em seus valores, epistemologias e formas de existência
 
 O conceito de cosmotécnica engloba as atividades técnicas produtivas em uma concepção particular de **cosmos** e **moral**.
-> [!question] cosmos pode ser entendido como a ordem no todo
 
-Hui dialoga com uma corrente contemporânea da antropologia conhecida como "virada ontológica", que busca uma resposta a "crise da modernidade", que pode ser entendida como uma separação da natureza e cultura e que se expressa de modo geral em termos de uma crise ecológica ligada ao **Antropoceno**. Essa corrente inclui autores como: Philippe Descola, Bruno Latour, Roy Wagner, Marilyn Strathern e Eduardo Viveiros de Castro.
+Hui dialoga com uma corrente contemporânea da **antropologia** conhecida como **"virada ontológica"**, que busca uma resposta a "crise da modernidade", que pode ser entendida como uma **separação da natureza e cultura** e que se expressa de modo geral em termos de uma **crise ecológica ligada ao Antropoceno**. Essa corrente inclui autores como: *Philippe Descola, Bruno Latour, Roy Wagner, Marilyn Strathern e Eduardo Viveiros de Castro*.
 
-Para Hui, a crise não poderá ser enfrentada se o que chamada de globalização tecnológica unilateral permanecer vigente (define essa como uma "racionalidade como forma de neocolonização"), portanto, sem tecnodiversidade, seremos incapacidade de manter uma biodiversidade necessária para se evitar essa crise atual (ex: pandemias).
+Para Hui, a crise não poderá ser enfrentada se o que chamada de **globalização tecnológica unilateral** permanecer vigente (define essa como uma "racionalidade como forma de **neocolonização**"), portanto, sem tecnodiversidade, seremos incapacidade de manter uma **biodiversidade** necessária para se evitar essa crise atual (ex: pandemias).
 
-Para Hui, o caminho da superação da conjuntura atual é uma política "decolonial", em benefício de uma pluralidade de cosmotécnicas, para então obtermos novos futuros tecnológicos e isso perpassa pelas **culturas não europeias** sistematizarem as próprias cosmotécnicas.
+Para Hui, o caminho da superação da conjuntura atual é uma política "**decolonial**", em benefício de uma pluralidade de **cosmotécnicas**, para então obtermos novos futuros tecnológicos e isso perpassa pelas **culturas não europeias** sistematizarem as próprias cosmotécnicas.
 
 No prefácio dessa edição, Hui levanta duas questões:
 - O que significaria uma cosmotécnica amazônica, inca, maia?
 - Como essas cosmotécnicas poderiam nos inspirar a recontextualizar a tecnologia moderna ?
 
-Para Hui, é preciso contestar os pressupostos ontológicos e epistemológicos das tecnologias modernas (sejam elas as redes sociais ou a inteligência artificial).
+Para Hui, é preciso contestar os pressupostos **ontológicos** e **epistemológicos** das tecnologias modernas (sejam elas as redes sociais ou a inteligência artificial).
 
 ## Apresentação - Contra o derrotismo em Face da Tecnologia (por Ronaldo Lemos)
 
@@ -60,13 +66,13 @@ Para Lemos, a idéia de singularidade, que é amplamente adotada pelo ocidente �
 > Por singularidade entenda-se o momento hipotético em que a tecnologia se torna incontrolável e irreversível, fonte de mudanças imprevisíveis na civilização... a superação do homem pela máquina
 > P7
 
-Explica como Hui trabalha o conceito de multiplicidade em oposição a singularidade
+Explica como Hui trabalha o conceito de multiplicidade em oposição a singularidade e 
+aponta a singularidade como uma ferramenta política de dominação: "se a tecnologia é universal, que forças definem a sua construção e disseminação?". Quem adota a postura da tecnologia como universal, adota a postura de **dominação**, submetendo o mundo a sua **cosmovisão**
 
-- aponta a singularidade é uma ferramenta política de dominação: se a tecnologia é universal, que forças definem a sua construção e disseminação. Quem adota a postura da tecnologia como universal, adota a postura de dominação, submetendo o mundo a sua cosmovisão
+A tecnologia não é transcendente a **natureza** e ao **cosmo**, a tecnologia faz parte de ambos.
+- [[Quais são os diálogos possíveis entre Yuk Hui e Álvares Vieira Pinto?]]
 
-A tecnologia não é transcendente a natureza e ao cosmo, a tecnologia faz parte de ambos.
-
-Para Hui, a confiança na tecnologia divorciada do humanismo é uma forma de perda do cosmos, Hui é contrário a interposição de tecnologia entre a humanidade e o cosmos
+Para Hui, a confiança na tecnologia divorciada do humanismo é uma forma de **perda do cosmos**, Hui é contrário a interposição de tecnologia entre a humanidade e o cosmos
 
 Mostra como Hui em [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] demonstrou a ausência dos conceitos ocidentais de tecnologia no pensamento oriental.
 

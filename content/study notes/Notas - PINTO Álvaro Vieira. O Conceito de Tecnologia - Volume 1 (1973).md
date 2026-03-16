@@ -1,6 +1,6 @@
 ---
 date created: Saturday, March 7th 2026, 7:37:03 am
-date modified: Monday, March 16th 2026, 5:03:24 pm
+date modified: Monday, March 16th 2026, 5:16:09 pm
 tags:
   - filosofia
   - tecnologia
@@ -21,11 +21,11 @@ date: 2026-03-09T21:41:00
 ![[Pasted image 20260309214040.png|250]]
 
 > [!note] Prompt
-> Quero um resumo da Parte Um - Análise de algumas noções fundamentais. O objetivo é extrair os principais conceitos do autor e os seus argumentos. Obter a estrutura do text.
+> Quero um resumo da Parte Um - Análise de algumas noções fundamentais. O objetivo é extrair os principais conceitos do autor e os seus argumentos. Obter a estrutura do texto.
 > Não tente fazer comparações que não estejam na fonte. Não tente traduzir para o que significaria hoje. Não saia do escopo da fonte, não infira nada, meramente exponha as ideias do autor sem suposições ou vieses
-> Dá pagina 39 até 367
+> O resumo deve passar por todos os pontos de cada capítulo, conforme listado abaixo
 
-## Parte Um - Análise de algumas noções fundamentais (Cápitulos)
+## Parte Um - Análise de algumas noções fundamentais (Capítulos I a IV)
 
 ### Capítulo I: Em face da "era tecnológica"
 

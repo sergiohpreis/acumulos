@@ -84,3 +84,5 @@ Mostra como Hui invoca a busca por uma nova cosmologia, a técnica como mais um 
 
 Crítica a noção ocidental de entrelaçamento de Danny Hillis, por pregar uma reindição diante da técnica, e um determinismo, que Hui busca se afastar
 
+## Prefácio
+

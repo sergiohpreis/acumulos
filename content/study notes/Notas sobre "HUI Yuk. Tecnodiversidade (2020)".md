@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 6:28:11 pm
+date modified: Monday, March 16th 2026, 7:59:24 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -32,12 +32,13 @@ date: 2026-03-16
 
 O livro é uma reunião dos principais textos de Yuk Hui
 
-## Orelha Capa
+## Orelhas
 
-Hui recusa a universalidade de uma única tecnologia e propõe pensar a Tecnodiversidade, que pode ser definida como:
-> multiplicidade de cosmotécnicas que diferem uma das outras em seus valores, epistemologias e formas de existência
+Hui recusa a **universalidade** de uma única tecnologia e propõe pensar a Tecnodiversidade, que pode ser definida como:
+> multiplicidade de **cosmotécnicas** que diferem uma das outras em seus valores, epistemologias e formas de existência
 
-O conceito de cosmotécnica engloba as atividades produtivas técnicas em uma concepção particular de cosmos e moral.
+O conceito de cosmotécnica engloba as atividades técnicas produtivas em uma concepção particular de **cosmos** e **moral**.
+> [!question] cosmos pode ser entendido como a ordem no todo
 
 Hui dialoga com uma corrente contemporânea da antropologia conhecida como "virada ontológica", que busca uma resposta a "crise da modernidade", que pode ser entendida como uma separação da natureza e cultura e que se expressa de modo geral em termos de uma crise ecológica ligada ao **Antropoceno**. Essa corrente inclui autores como: Philippe Descola, Bruno Latour, Roy Wagner, Marilyn Strathern e Eduardo Viveiros de Castro.
 

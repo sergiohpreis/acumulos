@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 6:12:35 pm
+date modified: Monday, March 16th 2026, 6:28:11 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -51,3 +51,18 @@ No prefácio dessa edição, Hui levanta duas questões:
 
 Para Hui, é preciso contestar os pressupostos ontológicos e epistemológicos das tecnologias modernas (sejam elas as redes sociais ou a inteligência artificial).
 
+## Apresentação - Contra o derrotismo em Face da Tecnologia (por Ronaldo Lemos)
+
+Para Lemos, Yuk Hui articula uma filosofia da tecnologia "libertadora e em essência humanista"
+
+Para Lemos, a idéia de singularidade, que é amplamente adotada pelo ocidente é uma distração, essa singularidade pode ser definida como:
+> Por singularidade entenda-se o momento hipotético em que a tecnologia se torna incontrolável e irreversível, fonte de mudanças imprevisíveis na civilização... a superação do homem pela máquina
+> P7
+
+Explica como Hui trabalha o conceito de multiplicidade em oposição a singularidade
+
+- aponta a singularidade é uma ferramenta política de dominação: se a tecnologia é universal, que forças definem a sua construção e disseminação. Quem adota a postura da tecnologia como universal, adota a postura de dominação, submetendo o mundo a sua cosmovisão
+
+A tecnologia não é transcendente a natureza e ao cosmo, a tecnologia faz parte de ambos.
+
+apresenta a confiança na tecnoperda do cosmos como

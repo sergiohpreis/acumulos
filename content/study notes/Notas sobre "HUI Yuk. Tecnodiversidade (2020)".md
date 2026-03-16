@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 5:53:00 pm
+date modified: Monday, March 16th 2026, 6:09:15 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -34,23 +34,24 @@ O livro é uma reunião dos principais textos de Yuk Hui
 
 ## Orelha Capa
 
-Tecnodiversidade - multiplicidade de cosmotécnicas que diferem uma das outras em seus valores, epistemologias e formas de exitência
+Hui recusa a universalidade de uma única tecnologia e propõe pensar a Tecnodiversidade, que pode ser definida como:
+> multiplicidade de cosmotécnicas que diferem uma das outras em seus valores, epistemologias e formas de existência
 
-cosmotécnica - concepção particular de cosmos e moral
+O conceito de cosmotécnica engloba as atividades produtivas técnicas em uma concepção particular de cosmos e moral.
 
+Hui dialoga com uma corrente contemporânea da antropologia conhecida como "virada ontológica", que busca uma resposta a "crise da modernidade", que pode ser entendida como uma separação da natureza e cultura e que se expressa de modo geral em termos de uma crise ecológica ligada ao **Antropoceno**. Essa corrente inclui autores como: Philippe Descola, Bruno Latour, Roy Wagner, Marilyn Strathern e Eduardo Viveiros de Castro.
 
-
-dialogo com antropologia, corrente da virada ontológica (lançando mão dos conceitos de ontologia e cosmologia), buscam resposta a **crise da modernidade**
-	que é a separação de natureza e cultura
-	de modo geral se expressa em termos de uma crise ecológica ligada ao Antropoceno
-
-- Philippe Descola
-- Bruno Latour
-- Roy Wagner
-- Marilyn Strathern
-- Eduardo Viveiros de Castro
-
-Para Hui, a crise não poderá ser enfrentada se a globalização tecnológica unilateral permanecer vigente
-	- (racionalidade como forma de neocolonização)
+Para Hui, a crise não poderá ser enfrentada se o que chamada de globalização tecnológica unilateral permanecer vigente (define essa como uma "racionalidade como forma de neocolonização")
 
 
+Sem tecnodiversidade, incapacidade de manter uma biodiversidade necessária
+
+Superação da conjuntura atual: política decolonial, em beneficio de uma pluraridade de cosmotécnicas, novos futuros tecnológicos.
+
+Culturas não europeias sistematizarem as próprias cosmotécnicas
+
+Questões:
+- O que significaria uma cosmotécnica amazônica, inca, maia?
+- Como essas cosmotécnicas poderiam nos inspirar a recontextualizar a tecnologia moderna ?
+
+contestar os pressupostos ontológicos e epistemológicos das tecnologias modernas, sejam elas as redes sociais ou a inteligência artificial

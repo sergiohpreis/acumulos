@@ -1,14 +1,23 @@
 ---
 date created: Thursday, March 5th 2026, 9:33:15 pm
-date modified: Thursday, March 12th 2026, 8:04:38 pm
+date modified: Monday, March 16th 2026, 1:23:03 pm
 tags:
   - tecnologia
   - técnica
+  - estudos
 draft: false
-date: 2026-03-12T20:04:00
+date: 2026-03-16
 ---
 
 > [!note] Depois pode ser interessante transformar isso em uma [[INEF - NFF - Guia Prático de Leituras Filosóficas|ficha bibliográfica]] ou [[INEF - NFF - Guia Prático de Leituras Filosóficas|ficha temática]]
+
+| Livro                                                                                                                                    | Anotações                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [[HUI Yuk. Tecnodiversidade (2020)]]                                                                                                     |                                                                             |
+| [[HEIDEGGER Martin. A Questão da Técnica (1954)]]                                                                                        | [[Anotações sobre "HEIDEGGER Martin. A Questão da Técnica (1954)"]]         |
+| [[PINTO Álvaro Vieira. O Conceito de Tecnologia - Volume 1 (1973)]]                                                                      | [[Notas - PINTO Álvaro Vieira. O Conceito de Tecnologia - Volume 1 (1973)]] |
+| [[DIAS Lia Ribeiro. Inteligência Artificial, Sociedade e Classe - Como a IA impacta o trabalho, a saúde e as políticas públicas (2025)]] |                                                                             | 
+
 
 ```mermaid
 timeline

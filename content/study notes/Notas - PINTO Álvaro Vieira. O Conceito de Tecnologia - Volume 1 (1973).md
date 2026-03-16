@@ -22,8 +22,9 @@ date: 2026-03-09T21:41:00
 
 > [!note] Prompt
 > Quero um resumo da Parte Um - Análise de algumas noções fundamentais. O objetivo é extrair os principais conceitos do autor e os seus argumentos. Obter a estrutura do texto.
+> Quero um resumo de /CAPITULO/. O objetivo é extrair os principais conceitos do autor e os seus argumentos. Obter a estrutura do texto.
 > Não tente fazer comparações que não estejam na fonte. Não tente traduzir para o que significaria hoje. Não saia do escopo da fonte, não infira nada, meramente exponha as ideias do autor sem suposições ou vieses
-> O resumo deve passar por todos os pontos de cada capítulo, conforme listado abaixo
+> O resumo deve passar por todos os pontos conforme listado abaixo:
 
 ## Parte Um - Análise de algumas noções fundamentais (Capítulos I a IV)
 

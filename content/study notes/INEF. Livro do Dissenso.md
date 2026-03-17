@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 5th 2026, 7:48:23 am
-date modified: Tuesday, March 17th 2026, 9:25:01 am
+date modified: Tuesday, March 17th 2026, 1:28:38 pm
 tags:
   - filosofia
   - mitologia
@@ -101,8 +101,8 @@ Acho que faz sentido essa defesa, não tem como negar o papel dos pré socrátic
 ### Aula: Filosofia pré-socrática
 
 **Citações:**
-> 1. É sábio que os que ouviram não a mim, mas ao logos, reconheçam que todas as coisas são um (pánta hén) (Fr. 50) - Heráclito
-> 2. E agora vou te falar; e tu, escuta as minhas palavras e guarda-as bem, pois vou dizer-te dos únicos caminhos de investigação concebíveis. O primeiro diz que o ser é e que o não-ser não é; este é o caminho da convicção, pois conduz à verdade. O segundo, que não é, é, e que o não-ser é necessário; esta via, digo-te, é imperscrutável; pois não podes conhecer aquilo que não é – isto é impossível –, nem o expressar em palavra (Fr. 2) - Parmênides
+> 1. É sábio que os que ouviram não a mim, mas ao **logos**, reconheçam que todas as coisas são um (pánta hén) (Fr. 50) - Heráclito
+> 2. E agora vou te falar; e tu, escuta as minhas palavras e guarda-as bem, pois vou dizer-te dos únicos caminhos de investigação concebíveis. **O primeiro diz que o ser é e que o não-ser não é; este é o caminho da convicção, pois conduz à verdade.** O segundo, que não é, é, e que o não-ser é necessário; esta via, digo-te, é imperscrutável; pois não podes conhecer aquilo que não é – isto é impossível –, nem o expressar em palavra (Fr. 2) - Parmênides
 
 **Guia de reflexão:**
 1. O que Heráclito e Parmênides queriam dizer, com base na aula que você
@@ -114,7 +114,7 @@ aplicadas no mundo atual?
 tomarei esta ação concreta de [...]”
 
 **Resposta:**
-xxxxxxx
+Para Heráclito, o logos é o que determina uma certa ordem nas coisas, no mundo, algo como o cosmo. Para Parmênides, não é possível conceber a existência de um não ser, portanto, propõe uma espécie
 
 **Anotações:**
 - Heráclito (**Mobilismo**) vs Parmênides (**Imobilismo**)

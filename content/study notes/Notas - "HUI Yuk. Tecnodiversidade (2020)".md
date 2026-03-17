@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 7:59:49 pm
+date modified: Tuesday, March 17th 2026, 8:04:21 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -151,6 +151,9 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 
 >[!info] Cosmopolitismo
 
+>[!info] Peter Thiel ([Wikipédia](https://en.wikipedia.org/wiki/Peter_Thiel))
+> O economista francês Yann Algan associa Peter Thiel e Elon Musk ao conceito de "democracia líquida" e à ascensão da governança libertária de IA, que Algan define como "uma democracia radicalmente descentralizada e orientada por algoritmos", que "prioriza a eficiência e a liberdade individual em detrimento das salvaguardas democráticas"
+
 §1 - Sugere que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**" (como regime comercial e política da natureza)
 
 §2 - Argumenta que a leitura ocidental do 11 de Setembro ("um ataque do Outro contra o Ocidente") representam o **fim da globalização unilateral**
@@ -170,6 +173,8 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 1. a relação dos conceitos kantianos de **cosmopolítica** e **natureza**
 2. comparar o **multinaturalismo** da "virada ontológica" com a busca kantiana pelo **universal**
 3. defesa da adoção da cosmologia em direção à **cosmoética** como política por vir
+
+> [!question] [[O que é Cosmopolítica?]]
 
 ### Cosmopolitismo: Entre a Natureza e a Tecnologia
 

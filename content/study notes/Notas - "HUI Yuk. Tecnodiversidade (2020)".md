@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 8:21:09 pm
+date modified: Tuesday, March 17th 2026, 8:22:54 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -178,8 +178,6 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 
 ### Cosmopolitismo: Entre a Natureza e a Tecnologia
 
-![[Pasted image 20260317202104.png|200]]
-
-§1 - Apresenta a reconciliação entre o **universal** e o **particular** como a principal dificuldade de toda cosmopolítica, relacionando a universalidade com as visões de um espectador e a de um ator
-- exemplificando através de uma citação de Kant, sobre o propósito da natureza
+![[Pasted image 20260317202104.png|400]]
+![[Pasted image 20260317202119.png|400]]
 

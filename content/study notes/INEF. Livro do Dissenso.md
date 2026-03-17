@@ -91,4 +91,16 @@ Em sua citação, Nietzsche busca defender a importância dos pensadores pré so
 
 Acho que faz sentido essa defesa, não tem como negar o papel dos pré socráticos, assim como também, devemos nos esforçar para não trazer a visão predominantemente eurocentrica. Isso não significa descartar os pré socráticos, mas sim, buscar outras origens em outras culturas também.
 
+### Aula: Filosofia pré-socrática
+
+**Citações:**
+> XXXXXXX
+
+**Guia de reflexão:**
+xxxxxx
+
+**Resposta:**
+xxxxxxx
+
+
 

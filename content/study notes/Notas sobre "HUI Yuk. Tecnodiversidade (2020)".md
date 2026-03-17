@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 9:19:59 pm
+date modified: Monday, March 16th 2026, 9:25:31 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -98,37 +98,28 @@ Classifica o pensamento do historiador britânico Arnold Toynbee sobre a não ne
 
 Afirma que a convergência das tecnologias no século passado deram corpo ao conceito de noosfera, de Pierre Teilhard de Chardin (a competição tecnológica definiu a geopolítica e a história) e fala sobre o surgimento do conceito tecnológico de uma **nova era axial** inaugurada por um "desenvolvimento tecnológico mais equilibrado" e a relaciona como a causas do sentimento neorreacionário do Ocidente
 
-Yuk Hui defende que ver a tecnologia como **algo não essencial** e de caráter **meramente instrumental**, ou então, "de modo mais significativo, como **homogênea** e **universal** "favorece uma **histórica tecnológica fundamentalmente europeia** (P17)
+Yuk Hui defende que ver a tecnologia como algo não essencial e de caráter meramente instrumental, ou então, "de modo mais significativo, como homogênea e universal" "favorece uma **história tecnológica fundamentalmente europeia**" (P17) e que o objetivo de seus texto é mostrar que a maneira que os avanços tecnológicos vêm sendo percebidos na filosofia, na antropologia e na história da tecnologia são discutíveis.
 
-
-
-
-
-Declara que o objetivo de seus texto é mostrar que a maneira que os avanços tecnológicos vêm sendo percebidos na filosofia, na antropologia e na história da tecnologia são discutiveis.
-
-Afirma que a sua posição é um projeto de decolonização que se distancia de maneira consciente do pós-colonialismo
-
-Aponta os problemas da modernização como globalização enquanto um processo de sincronização, possibilitado pela tecnologia
+Afirma que a sua posição é um projeto de decolonização que se distancia de maneira consciente do pós-colonialismo e aponta os problemas da modernização como globalização enquanto um processo de sincronização, possibilitado pela tecnologia
 
 Concorda com a visão de Heidegger de que o fim da filosofia significa aceitar uma visão de mundo ocidental-europeia e aponta que a cibernética foi quem assinalou o fim da filosofia.
 
-Coloca a necessidade de uma fragmentação para se afastar dessa sincronização, para se libertar dos tempos históricos definidos em termos de pré modermo / moderno / pós-moderno / apocalipse
+Coloca a necessidade de uma fragmentação para se afastar dessa sincronização, para se libertar dos tempos históricos definidos em termos de pré moderno / moderno / pós-moderno / apocalipse
 
-Defende que existe um potencial decolonizador ocultado por uma visão que enxgerga a tecnologia como "força exclusivamente produtiva", como "mecanismo capitalista"
+Defende que existe um potencial decolonizador ocultado por uma visão que enxerga a tecnologia como "força exclusivamente produtiva", como "mecanismo capitalista"
+- Creio que aqui, com relação a [[É possível um dialogo entre HUI Yuk e PINTO Álvaro Vieira ?]], existe um afastamento
 
-Questiona a possibilidade de um dialogo transversal proposto por Enrique Dussel frente a essa sincronização global
+Questiona a possibilidade de um dialogo transversal como o proposto por Enrique Dussel frente a existência dessa sincronização global
 
-Caracteriza a modernidade e a pós modernidade como discursos europeus e respostas às condições tecnológicas europeias (mecanicismo e cibernética respectivamente).
+Afirma que a modernidade e a pós modernidade são discursos europeus e que trazem respostas às condições tecnológicas europeias (como mecanicismo e cibernética respectivamente), portanto, propõe um passo além da crítica do eurocentrismo e do colonialismo do poder (que classifica como **vieses ontológicos e epistemológicos**), propondo um confrontamento ao conceito de tecnologia em si, defendendo a necessidade de se pensar uma filosofia pós-europeia
 
-Propõe um passo além da crítica do eurocentrismo e do colonialismo do poder (vieses ontológicos e epistemológicos)
-
-Propõe um confrontamento ao conceito de tecnologia em si, pensar uma filosofia pós-europeia
-
-Propõe uma reflexão sobre a noção de **automação total**, como uma falsa personificação do capitalismo
-
-Não rejeita a noção de aceleração, mas propõe a aceleração no sentido de um **desvio radical**, um afastamento do eixo de tempo global (fantasias transhumanistas).
+Propõe uma reflexão crítica sobre a **automação total** enquanto causa do fim do capitalismo e não rejeita a noção de aceleração, mas propõe a aceleração no sentido de um **desvio radical**, um afastamento do eixo de tempo global (fantasias transhumanistas).
 
 Propõe uma conversão dessa força tecnológica em uma **relação contingente**, "reposicionamento como sujeito necessário de investigação e de transformação a partir das perspectivas de múltiplas cosmotécnicas". (P19)
+
+>[!info] Contingência
+> Tem relação com o seu conceito de "Recurrency e Contingency", mas no [[Abbagnano Nicola. Dicionário de Filosofia (1XXX)]]:
+> Talvez no sentido da relação de "liberdade do homem com o mundo"
 
 ### Divisão dos textos (P20)
 

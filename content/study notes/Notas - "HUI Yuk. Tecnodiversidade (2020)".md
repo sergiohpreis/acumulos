@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 8:57:37 am
+date modified: Tuesday, March 17th 2026, 6:39:00 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -133,10 +133,12 @@ Divide os textos em dois grupos
 
 ### Estrutura Expositiva - Prefácio a Edição Brasileira
 
-§1 - Propõe uma rearticulação da questão da tecnologia
-§2 - Critica a visão de Toynbee sobre a tecnologia não neutra
-§3 - 
-
+§1 - *Propõe* uma rearticulação da questão da tecnologia
+§2 - *Critica* a visão de Toynbee sobre a tecnologia não neutra
+§3 - *Descreve* o desenvolvimento da tecnologia do século passado com base no conceito de noosfera (Pierre Teilhard de Chardin)
+§3 - *Argumenta* que a consciência tecnológica que persistiu no século XX é a causa do sentimento neorreacionário visto atualmente no Ocidente, criticando o discurso da **nova era axial**
+§4 - Argumenta que existe a visão da tecnologia como algo não essencial e de caráter meramente instrumental favorece uma história tecnológica fundamentalmente europeia
+§4 - Defende a necessidade de um projeto de decolonização que se distancie
 
 ## Cosmotécnica como cosmopolítica
 

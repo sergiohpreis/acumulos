@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 8:42:20 pm
+date modified: Monday, March 16th 2026, 8:57:40 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -96,4 +96,18 @@ Expõe o pensamento de XXXXXX sobre a não neutralidade da tecnologia classifica
 O conceito de noosfera, de XXXXXXXX
 
 fala sobre o conceito tecnológico de nova era axial e relaciona como a causas do sentimento neorreacionário do Ocidente
+
+Yuk Hui defende que ver a tecnologia como algo não essencial e de caráter meramente instrumental, ou então, "de modo mais significativo, como homogênea e universal" "favorece uma histórica tecnológica fundamentalmente europeia" (P17)
+
+Declara que o objetivo de seus texto é mostrar que a maneira que os avanços tecnológicos vêm sendo percebidos na filosofia, na antropologia e na história da tecnologia são discutiveis.
+
+Afirma que a sua posição é um projeto de decolonização que se distancia de maneira consciente do pós-colonialismo
+
+Aponta os problemas da modernização como globalização enquanto um processo de sincronização, possibilitado pela tecnologia
+
+Concorda com a visão de Heidegger de que o fim da filosofia significa aceitar uma visão de mundo ocidental-europeia e aponta que a cibernética foi quem assinalou o fim da filosofia.
+
+Coloca a necessidade de uma fragmentação para se afastar dessa sincronização, para se libertar dos tempos históricos definidos em termos de pré modermo / moderno / pós-moderno / apocalipse
+
+Defende que existe um potencial decolonizador ocultado por uma visão que enxgerga a tecnologia como "força exclusivamente produtiva", como "mecanismo capitalista"
 

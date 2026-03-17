@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 6:39:00 pm
+date modified: Tuesday, March 17th 2026, 6:49:37 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -137,8 +137,12 @@ Divide os textos em dois grupos
 §2 - *Critica* a visão de Toynbee sobre a tecnologia não neutra
 §3 - *Descreve* o desenvolvimento da tecnologia do século passado com base no conceito de noosfera (Pierre Teilhard de Chardin)
 §3 - *Argumenta* que a consciência tecnológica que persistiu no século XX é a causa do sentimento neorreacionário visto atualmente no Ocidente, criticando o discurso da **nova era axial**
-§4 - Argumenta que existe a visão da tecnologia como algo não essencial e de caráter meramente instrumental favorece uma história tecnológica fundamentalmente europeia
-§4 - Defende a necessidade de um projeto de decolonização que se distancie
+§4 - Defende a necessidade de um projeto de decolonização que se distancie de maneira consciente do pós-colonialismo
+- afastamento de uma visão da tecnologia como algo não essencial e de caráter meramente instrumental devido o favorecimento de uma história tecnológica fundamentalmente europeia
+- descreve como a filosofia possibilita que a modernização como globalização gere um processo de sincronização dos diferentes tempos históricos que prioriza certos tipos de conhecimento
+- relaciona a cibernética com a noção de fim da filosofia Heideggeriana
+§4 - Propõe uma **fragmentação** para se afastar de um tempo histórico-linear (pré-moderno / moderno / pós-moderno / apocalipse)
+- Crítica a noção de tecnologia enquant
 
 ## Cosmotécnica como cosmopolítica
 

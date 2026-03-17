@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 6:59:45 pm
+date modified: Tuesday, March 17th 2026, 7:08:17 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -116,36 +116,33 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 > Tem relação com o seu conceito de "*Recursivity and Contingency*", mas no [[Abbagnano Nicola. Dicionário de Filosofia (1XXX)]]:
 > Talvez no sentido da relação de "liberdade do homem com o mundo"
 
-### Divisão dos textos (P20)
-
-Divide os textos em dois grupos
-
-- Teoria Política cujo ponto de partida é a tecnodiversidade
-	- Sobre a consciência infeliz dos neorreacionários (2017)
-	- Cosmotécnica como cosmopolítica (2017)
-	- O que vem depois do fim do Iluminismo (2019)
-	- Cem anos de crise (2020)
-
-- Exploração de um tema que chama de fragmentação (aprofundamento de *Recursivity and Contingency*). Desenvolvidos a partir de palestrar com Bernard Stiegler em novembro de 2019
-	- Máquina e ecologia
-	- Variedades da experiência da arte
-	- Sobre os limites da inteligência artificiais
-
 ### Estrutura Expositiva - Prefácio a Edição Brasileira
 
-§1 - *Propõe* uma rearticulação da questão da tecnologia
-§2 - *Rejeita* a visão de Toynbee sobre uma **tecnologia não neutra**
-§3 - *Descreve* o desenvolvimento da tecnologia do século passado com base no conceito de noosfera (Pierre Teilhard de Chardin) criticando o discurso da **nova era axial**
+§1 - Propõe uma rearticulação da questão da tecnologia
+
+§2 - Rejeita a visão de Toynbee sobre uma **tecnologia não neutra** classificando-a como uma falha de interpretação do século XX
+
+§3 - Descreve o desenvolvimento da tecnologia do século passado com base no conceito de noosfera (Pierre Teilhard de Chardin) criticando o discurso da **nova era axial**
+
 §4 - Defende a necessidade de um projeto de decolonização que se distancie de maneira consciente do pós-colonialismo
 - afastamento de uma visão da tecnologia como algo não essencial e de caráter meramente instrumental devido o favorecimento de uma história tecnológica fundamentalmente europeia
 - descreve como a filosofia possibilita que a modernização como globalização gere um processo de sincronização dos diferentes tempos históricos que prioriza certos tipos de conhecimento
 - relaciona a cibernética com a noção de fim da filosofia Heideggeriana
+
 §4 - Propõe uma **fragmentação** para se afastar de um tempo histórico-linear (pré-moderno / moderno / pós-moderno / apocalipse)
 - Crítica a noção de tecnologia enquanto força exclusivamente produtiva
+
 §5 - Propõe uma recontextualização da tecnologia moderna através de um retorno a natureza e das cosmotécnicas
+
 §5 - Questiona a possibilidade de um diálogo transversal entre as culturas não europeias e a modernidade tendo em vista sincronização global
+
 §6 - Apresenta a modernidade e a pós-modernidade como **vieses ontológicos e epistemológicos** ás condições tecnológicas europeias (mecanicismo e cibernética)
 
+§7 - Defende a necessidade de uma confrontação do conceito de tecnologia em si como condição para se pensar uma filosofia pós-europeia
+
+§7 - Argumenta que um desvio radical do eixo de tempo global só será possível mediante a conversão da força tecnológica em uma relação contingente e de seu reposicionamento a partir de uma perspectiva de múltiplas cosmotécnicas
+
+§8 - Demarca os artigos da obra com relação a **teoria da tecnodiversidade** e da **fragmentação**
 
 ## Cosmotécnica como cosmopolítica
 

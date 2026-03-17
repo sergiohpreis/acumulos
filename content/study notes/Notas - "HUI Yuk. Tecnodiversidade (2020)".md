@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 6:49:37 pm
+date modified: Tuesday, March 17th 2026, 6:59:45 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -134,15 +134,18 @@ Divide os textos em dois grupos
 ### Estrutura Expositiva - Prefácio a Edição Brasileira
 
 §1 - *Propõe* uma rearticulação da questão da tecnologia
-§2 - *Critica* a visão de Toynbee sobre a tecnologia não neutra
-§3 - *Descreve* o desenvolvimento da tecnologia do século passado com base no conceito de noosfera (Pierre Teilhard de Chardin)
-§3 - *Argumenta* que a consciência tecnológica que persistiu no século XX é a causa do sentimento neorreacionário visto atualmente no Ocidente, criticando o discurso da **nova era axial**
+§2 - *Rejeita* a visão de Toynbee sobre uma **tecnologia não neutra**
+§3 - *Descreve* o desenvolvimento da tecnologia do século passado com base no conceito de noosfera (Pierre Teilhard de Chardin) criticando o discurso da **nova era axial**
 §4 - Defende a necessidade de um projeto de decolonização que se distancie de maneira consciente do pós-colonialismo
 - afastamento de uma visão da tecnologia como algo não essencial e de caráter meramente instrumental devido o favorecimento de uma história tecnológica fundamentalmente europeia
 - descreve como a filosofia possibilita que a modernização como globalização gere um processo de sincronização dos diferentes tempos históricos que prioriza certos tipos de conhecimento
 - relaciona a cibernética com a noção de fim da filosofia Heideggeriana
 §4 - Propõe uma **fragmentação** para se afastar de um tempo histórico-linear (pré-moderno / moderno / pós-moderno / apocalipse)
-- Crítica a noção de tecnologia enquant
+- Crítica a noção de tecnologia enquanto força exclusivamente produtiva
+§5 - Propõe uma recontextualização da tecnologia moderna através de um retorno a natureza e das cosmotécnicas
+§5 - Questiona a possibilidade de um diálogo transversal entre as culturas não europeias e a modernidade tendo em vista sincronização global
+§6 - Apresenta a modernidade e a pós-modernidade como **vieses ontológicos e epistemológicos** ás condições tecnológicas europeias (mecanicismo e cibernética)
+
 
 ## Cosmotécnica como cosmopolítica
 

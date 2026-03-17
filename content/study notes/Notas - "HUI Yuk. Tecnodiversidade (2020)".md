@@ -131,6 +131,13 @@ Divide os textos em dois grupos
 	- Variedades da experiência da arte
 	- Sobre os limites da inteligência artificiais
 
+### Estrutura Expositiva - Prefácio a Edição Brasileira
+
+§1 - Propõe uma rearticulação da questão da tecnologia
+§2 - Critica a visão de Toynbee sobre a tecnologia não neutra
+§3 - 
+
+
 ## Cosmotécnica como cosmopolítica
 
 TBD

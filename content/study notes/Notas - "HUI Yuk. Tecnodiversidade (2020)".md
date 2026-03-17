@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 7:48:33 pm
+date modified: Tuesday, March 17th 2026, 7:59:49 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -158,13 +158,19 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 
 §3 - Crítica o futurismo transumanista de Peter Thiel propondo uma "nova linguagem de cosmopolítica" para "formular uma nova ordem mundial que vá alem de uma única hegemonia"
 
-§4 - Argumenta que a modernidade é a causa da **crise do Antropoceno** devido ao seu "o ápice da ruptura epistemológica e metodológica"
-- aproxima-se da noção Heideggeriana de perda do cosmos enquanto fim da metafísica
-- defende o desenvolvimento da cosmopolítica enquanto uma política do cosmos (e não só um cosmopolitismo)
+§4 - Argumenta que a **modernidade** é a causa da **crise do Antropoceno** devido ao seu "o ápice da ruptura epistemológica e metodológica" (a transformação da terra e do cosmos em um imenso sistema tecnológico)
+- aproxima-se da noção **Heideggeriana** de perda do cosmos enquanto fim da metafísica
+- defende o desenvolvimento da **cosmopolítica** (de Isabelle Stengers) enquanto uma política do cosmos (e não só um cosmopolitismo)
  
-§4 - Apresenta que objetivo de seu conceito de cosmotécnica é desfazer "certas traduções que foram motivadas pela busca de equivalências ao longo da modernização"
+§4 - Apresenta que objetivo de seu conceito de cosmotécnica é "representar a questão da tecnologia **desfazendo certas traduções** que foram motivadas pela busca de equivalências ao longo da modernização"
 
-§5 - Apresenta a problematização da cosmotécnica nos termos de uma antinomia kantiana através de uma tese e uma antítese sobre a universalidade antropológica da tecnologia
+§5 - Apresenta a problematização da cosmotécnica nos termos de uma **antinomia kantiana** através de uma **tese** e uma **antítese** sobre a **universalidade antropológica** da tecnologia
 
-6 - Destaca a divisão das três partes que compõem o cápitulo
+§6 - Destaca a divisão das três partes que irão compor o capítulo
+1. a relação dos conceitos kantianos de **cosmopolítica** e **natureza**
+2. comparar o **multinaturalismo** da "virada ontológica" com a busca kantiana pelo **universal**
+3. defesa da adoção da cosmologia em direção à **cosmoética** como política por vir
 
+### Cosmopolitismo: Entre a Natureza e a Tecnologia
+
+§1 - 

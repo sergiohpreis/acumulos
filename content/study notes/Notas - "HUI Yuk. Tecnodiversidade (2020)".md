@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 8:22:54 pm
+date modified: Tuesday, March 17th 2026, 8:55:16 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -181,3 +181,5 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 ![[Pasted image 20260317202104.png|400]]
 ![[Pasted image 20260317202119.png|400]]
 
+
+§1 - Afirma que a dificuldade de toda cosmopolítica esta na reconciliação entre o universal e o particular

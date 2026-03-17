@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 7:27:12 pm
+date modified: Tuesday, March 17th 2026, 7:39:58 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -147,9 +147,19 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 
 ## Cosmotécnica como cosmopolítica
 
-§1 - Sugere que o "fim da globalização" e a "chegada do Antropoceno" são dois sentidos diferentes da palavra "cosmopolítica" (como regime comercial e política da natureza)
+>[!info] Antropoceno
 
-§2 - Argumenta que a leitura ocidental do 11 de Setembro ("um ataque do Outro contra o Ocidente") representam o fim da globalização unilateral
+>[!info] Cosmopolitismo
+
+§1 - Sugere que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**" (como regime comercial e política da natureza)
+
+§2 - Argumenta que a leitura ocidental do 11 de Setembro ("um ataque do Outro contra o Ocidente") representam o **fim da globalização unilateral**
 - apresenta brevemente a noção Hegeliana de "consciência infeliz" (mais no capítulo 2)
 
 §3 - Crítica o futurismo transumanista de Peter Thiel propondo uma "nova linguagem de cosmopolítica" para "formular uma nova ordem mundial que vá alem de uma única hegemonia"
+
+§4 - Argumenta que a modernidade é "o ápice da ruptura epistemológica e metodológica" e que a mesma é a causa da **crise do Antropoceno**
+- aproxima-se da noção Heideggeriana de perda do cosmos enquanto fim da metafísica
+- defende o desenvolvimento da cosmopolítica enquanto uma política do cosmos (e não só um cosmopolitismo)
+
+

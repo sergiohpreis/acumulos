@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 7:39:58 pm
+date modified: Tuesday, March 17th 2026, 7:48:33 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -158,8 +158,13 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 
 §3 - Crítica o futurismo transumanista de Peter Thiel propondo uma "nova linguagem de cosmopolítica" para "formular uma nova ordem mundial que vá alem de uma única hegemonia"
 
-§4 - Argumenta que a modernidade é "o ápice da ruptura epistemológica e metodológica" e que a mesma é a causa da **crise do Antropoceno**
+§4 - Argumenta que a modernidade é a causa da **crise do Antropoceno** devido ao seu "o ápice da ruptura epistemológica e metodológica"
 - aproxima-se da noção Heideggeriana de perda do cosmos enquanto fim da metafísica
 - defende o desenvolvimento da cosmopolítica enquanto uma política do cosmos (e não só um cosmopolitismo)
+ 
+§4 - Apresenta que objetivo de seu conceito de cosmotécnica é desfazer "certas traduções que foram motivadas pela busca de equivalências ao longo da modernização"
 
+§5 - Apresenta a problematização da cosmotécnica nos termos de uma antinomia kantiana através de uma tese e uma antítese sobre a universalidade antropológica da tecnologia
+
+6 - Destaca a divisão das três partes que compõem o cápitulo
 

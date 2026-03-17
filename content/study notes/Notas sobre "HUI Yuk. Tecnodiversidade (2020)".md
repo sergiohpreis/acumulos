@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 9:34:07 pm
+date modified: Monday, March 16th 2026, 10:31:09 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -11,7 +11,7 @@ draft: false
 date: 2026-03-16
 ---
 
->[!info] [[HUI Yuk. Tecnodiversidade (2020)]]
+>[!info] Anotações com base em [[HUI Yuk. Tecnodiversidade (2020)]]
 
 | **Página** | **Conteúdo**                                        |
 | ---------- | --------------------------------------------------- |

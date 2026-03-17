@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 8:57:40 pm
+date modified: Monday, March 16th 2026, 9:09:42 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -110,4 +110,29 @@ Concorda com a visão de Heidegger de que o fim da filosofia significa aceitar u
 Coloca a necessidade de uma fragmentação para se afastar dessa sincronização, para se libertar dos tempos históricos definidos em termos de pré modermo / moderno / pós-moderno / apocalipse
 
 Defende que existe um potencial decolonizador ocultado por uma visão que enxgerga a tecnologia como "força exclusivamente produtiva", como "mecanismo capitalista"
+
+Questiona a possibilidade de um dialogo transversal proposto por Enrique Dussel frente a essa sincronização global
+
+Caracteriza a modernidade e a pós modernidade como discursos europeus e respostas às condições tecnológicas europeias (mecanicismo e cibernética respectivamente).
+
+Propõe um passo além da crítica do eurocentrismo e do colonialismo do poder (vieses ontológicos e epistemológicos)
+
+Propõe um confrontamento ao conceito de tecnologia em si, pensar uma filosofia pós-europeia
+
+Propõe uma reflexão sobre a noção de **automação total**, como uma falsa personificação do capitalismo
+
+Não rejeita a noção de aceleração, mas propõe a aceleração no sentido de um **desvio radical**, um afastamento do eixo de tempo global (fantasias transhumanistas).
+
+Propõe uma conversão dessa força tecnológica em uma **relação contingente**, "reposicionamento como sujeito necessário de investigação e de transformação a partir das perspectivas de múltiplas cosmotécnicas". (P19)
+
+### Divisão dos textos
+
+Dois grupos de textos:
+
+Teoria Política cujo ponto de partida é a tecnodiversidade
+- Sobre a consciência infeliz dos neorreacionários (2017)
+- Cosmotécnica como cosmopolítica (2017)
+- O que vem depois do fim do Iluminismo (2019)
+- Cem anos de crise (2020)
+
 

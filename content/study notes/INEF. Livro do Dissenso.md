@@ -1,6 +1,13 @@
 ---
 date created: Thursday, March 5th 2026, 7:48:23 am
-date modified: Friday, March 13th 2026, 7:35:35 pm
+date modified: Tuesday, March 17th 2026, 9:25:01 am
+tags:
+  - filosofia
+  - mitologia
+  - pré-socráticos
+  - heraclito
+  - parmênides
+  - história-da-filosofia
 draft: false
 date: 2026-03-12T18:00:00
 ---
@@ -89,18 +96,28 @@ contido o pensamento: Tudo é um.” - Nietzsche
 
 Em sua citação, Nietzsche busca defender a importância dos pensadores pré socráticos para a filosofia como um todo, por conta do que as suas ideias carregam, que são como os embriões do desenvolvimento da filosofia que virá (ainda que possam parecer absurdas).
 
-Acho que faz sentido essa defesa, não tem como negar o papel dos pré socráticos, assim como também, devemos nos esforçar para não trazer a visão predominantemente eurocentrica. Isso não significa descartar os pré socráticos, mas sim, buscar outras origens em outras culturas também.
+Acho que faz sentido essa defesa, não tem como negar o papel dos pré socráticos, assim como também, devemos nos esforçar para não trazer a visão predominantemente eurocêntrica. Isso não significa descartar os pré socráticos, mas sim, buscar outras origens em outras culturas também.
 
 ### Aula: Filosofia pré-socrática
 
 **Citações:**
-> XXXXXXX
+> 1. É sábio que os que ouviram não a mim, mas ao logos, reconheçam que todas as coisas são um (pánta hén) (Fr. 50) - Heráclito
+> 2. E agora vou te falar; e tu, escuta as minhas palavras e guarda-as bem, pois vou dizer-te dos únicos caminhos de investigação concebíveis. O primeiro diz que o ser é e que o não-ser não é; este é o caminho da convicção, pois conduz à verdade. O segundo, que não é, é, e que o não-ser é necessário; esta via, digo-te, é imperscrutável; pois não podes conhecer aquilo que não é – isto é impossível –, nem o expressar em palavra (Fr. 2) - Parmênides
 
 **Guia de reflexão:**
-xxxxxx
+1. O que Heráclito e Parmênides queriam dizer, com base na aula que você
+acabou de assistir?
+2. Como essas ideias de Heráclito e Parmênides podem ser interpretadas e
+aplicadas no mundo atual?
+3. O que essas reflexões significam para você pessoalmente?
+4. Complete esta frase: “Com base nesse entendimento, nesta semana,
+tomarei esta ação concreta de [...]”
 
 **Resposta:**
 xxxxxxx
+
+**Anotações:**
+- Heráclito (**Mobilismo**) vs Parmênides (**Imobilismo**)
 
 
 

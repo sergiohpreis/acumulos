@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 9:25:31 pm
+date modified: Monday, March 16th 2026, 9:34:07 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -15,8 +15,8 @@ date: 2026-03-16
 
 | **Página** | **Conteúdo**                                        |
 | ---------- | --------------------------------------------------- |
-| **7**      | **Apresentação** (Ronaldo Lemos)                    |
-| **15**     | **Prefácio a esta edição**                          |
+| **7**      | Apresentação (Ronaldo Lemos)                        |
+| **15**     | Prefácio a esta edição                              |
 | **21**     | 1. Cosmotécnica como cosmopolítica                  |
 | **47**     | 2. Sobre a consciência infeliz dos neorreacionários |
 | **73**     | 3. O que vem depois do fim do Iluminismo?           |
@@ -86,15 +86,11 @@ Crítica a noção ocidental de entrelaçamento de Danny Hillis, por pregar uma 
 
 ## Prefácio
 
->[!info] Axial
-> xxxx
+>[!info] Era Axial
+> O filósofo alemão Karl Jaspers definiu a Era Axial (período que decorre entre o ano 800 a.C. e o ano 200 a.C.) como a linha divisória mais profunda da História da humanidade, durante a qual apareceu a mesma linha de pensamento em três regiões do mundo: a China, a Índia e o Ocidente. Após a Era Axial, as diferentes regiões da Terra não voltaram a ter o mesmo paralelismo. Segundo Jaspers, o Homem como o conhecemos hoje nasceu nesta época, mas para este fenómeno ainda não se consegue encontrar nenhuma explicação, nem nenhum dado comprova uma interligação entre os Povos mediterrâneos, a Índia e a China neste período. 
+> (Wikipédia)
 
-> [!info] Contingência
-> xxxx
-
-Yuk Hui propõe uma rearticulação da questão da tecnologia.
-
-Classifica o pensamento do historiador britânico Arnold Toynbee sobre a não neutralidade da tecnologia como uma falha de interpretação, um engano e que se tornou uma verdade necessária no século XX
+Yuk Hui propõe uma rearticulação da questão da tecnologia e classifica o pensamento do historiador britânico Arnold Toynbee sobre a não neutralidade da tecnologia como uma falha de interpretação, um engano e que se tornou uma verdade necessária no século XX.
 
 Afirma que a convergência das tecnologias no século passado deram corpo ao conceito de noosfera, de Pierre Teilhard de Chardin (a competição tecnológica definiu a geopolítica e a história) e fala sobre o surgimento do conceito tecnológico de uma **nova era axial** inaugurada por um "desenvolvimento tecnológico mais equilibrado" e a relaciona como a causas do sentimento neorreacionário do Ocidente
 
@@ -118,20 +114,24 @@ Propõe uma reflexão crítica sobre a **automação total** enquanto causa do f
 Propõe uma conversão dessa força tecnológica em uma **relação contingente**, "reposicionamento como sujeito necessário de investigação e de transformação a partir das perspectivas de múltiplas cosmotécnicas". (P19)
 
 >[!info] Contingência
-> Tem relação com o seu conceito de "Recurrency e Contingency", mas no [[Abbagnano Nicola. Dicionário de Filosofia (1XXX)]]:
+> Tem relação com o seu conceito de "*Recursivity and Contingency*", mas no [[Abbagnano Nicola. Dicionário de Filosofia (1XXX)]]:
 > Talvez no sentido da relação de "liberdade do homem com o mundo"
 
 ### Divisão dos textos (P20)
 
-Dois grupos de textos:
+Divide os textos em dois grupos
 
-Teoria Política cujo ponto de partida é a tecnodiversidade
-- Sobre a consciência infeliz dos neorreacionários (2017)
-- Cosmotécnica como cosmopolítica (2017)
-- O que vem depois do fim do Iluminismo (2019)
-- Cem anos de crise (2020)
+- Teoria Política cujo ponto de partida é a tecnodiversidade
+	- Sobre a consciência infeliz dos neorreacionários (2017)
+	- Cosmotécnica como cosmopolítica (2017)
+	- O que vem depois do fim do Iluminismo (2019)
+	- Cem anos de crise (2020)
 
-Exploração de um tema que chama de fragmentação (aprofundamento de *Recursivity and Contingency*). Desenvolvidos a partir de palestrar com Bernard Stiegler em novembro de 2019
-- Máquina e ecologia
-- Variedades da experiência da arte
-- Sobre os limites da inteligência artificiais
+- Exploração de um tema que chama de fragmentação (aprofundamento de *Recursivity and Contingency*). Desenvolvidos a partir de palestrar com Bernard Stiegler em novembro de 2019
+	- Máquina e ecologia
+	- Variedades da experiência da arte
+	- Sobre os limites da inteligência artificiais
+
+## Cosmotécnica como cosmopolítica
+
+TBD

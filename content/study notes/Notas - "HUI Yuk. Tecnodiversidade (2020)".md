@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 10:31:09 pm
+date modified: Tuesday, March 17th 2026, 8:57:37 am
 tags:
   - tecnodiversidade
   - tecnologia
@@ -66,11 +66,10 @@ Para Lemos, a idéia de singularidade, que é amplamente adotada pelo ocidente �
 > Por singularidade entenda-se o momento hipotético em que a tecnologia se torna incontrolável e irreversível, fonte de mudanças imprevisíveis na civilização... a superação do homem pela máquina
 > P7
 
-Explica como Hui trabalha o conceito de multiplicidade em oposição a singularidade e 
-aponta a singularidade como uma ferramenta política de dominação: "se a tecnologia é universal, que forças definem a sua construção e disseminação?". Quem adota a postura da tecnologia como universal, adota a postura de **dominação**, submetendo o mundo a sua **cosmovisão**
+Explica como Hui trabalha o conceito de **multiplicidade** em oposição a **singularidade** e aponta a singularidade como uma ferramenta política de dominação: "se a tecnologia é universal, que forças definem a sua construção e disseminação?". Quem adota a postura da tecnologia como universal, adota a postura de **dominação**, submetendo o mundo a sua **cosmovisão**
 
 A tecnologia não é transcendente a **natureza** e ao **cosmo**, a tecnologia faz parte de ambos.
-- [[Quais são os diálogos possíveis entre Yuk Hui e Álvares Vieira Pinto?]]
+*P.S: [[Quais são os diálogos possíveis entre Yuk Hui e Álvares Vieira Pinto?]]*
 
 Para Hui, a confiança na tecnologia divorciada do humanismo é uma forma de **perda do cosmos**, Hui é contrário a interposição de tecnologia entre a humanidade e o cosmos
 

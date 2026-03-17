@@ -13,7 +13,7 @@ date: 2026-03-16
 
 | Livro                                                                                                                                    | Anotações                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [[HUI Yuk. Tecnodiversidade (2020)]]                                                                                                     | [[Notas sobre "HUI Yuk. Tecnodiversidade (2020)"]]                                                                            |
+| [[HUI Yuk. Tecnodiversidade (2020)]]                                                                                                     | [[Notas - "HUI Yuk. Tecnodiversidade (2020)"]]                                                                            |
 | [[HEIDEGGER Martin. A Questão da Técnica (1954)]]                                                                                        | [[Anotações sobre "HEIDEGGER Martin. A Questão da Técnica (1954)"]]         |
 | [[PINTO Álvaro Vieira. O Conceito de Tecnologia - Volume 1 (1973)]]                                                                      | [[Notas - PINTO Álvaro Vieira. O Conceito de Tecnologia - Volume 1 (1973)]] |
 | [[DIAS Lia Ribeiro. Inteligência Artificial, Sociedade e Classe - Como a IA impacta o trabalho, a saúde e as políticas públicas (2025)]] |                                                                             | 

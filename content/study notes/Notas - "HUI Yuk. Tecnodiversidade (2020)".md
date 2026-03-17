@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 7:08:17 pm
+date modified: Tuesday, March 17th 2026, 7:12:44 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -143,7 +143,8 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 §7 - Argumenta que um desvio radical do eixo de tempo global só será possível mediante a conversão da força tecnológica em uma relação contingente e de seu reposicionamento a partir de uma perspectiva de múltiplas cosmotécnicas
 
 §8 - Demarca os artigos da obra com relação a **teoria da tecnodiversidade** e da **fragmentação**
+- busca elaborar uma teoria política a partir da tecnodiversidade
 
 ## Cosmotécnica como cosmopolítica
 
-TBD
+§1 - Argumenta que o "fim da globalização" e a "chegada do Antropoceno" são dois sentidos diferentes da palavra "cosmopolítica" (como regime comercial e política da natureza)

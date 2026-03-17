@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Monday, March 16th 2026, 9:09:42 pm
+date modified: Monday, March 16th 2026, 9:19:59 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -86,18 +86,23 @@ Crítica a noção ocidental de entrelaçamento de Danny Hillis, por pregar uma 
 
 ## Prefácio
 
-Yuk Hui propõe uma rearticulação da questão da tecnologia abandonando a noção que a entende enquanto um **universo antropológico**, propondo a reconstrução das histórias de uma multiplicidade de cosmotécnicas, para projetar no Antropoceno as possibilidades que nelas estão adormecidas
+>[!info] Axial
+> xxxx
+
+> [!info] Contingência
+> xxxx
 
 Yuk Hui propõe uma rearticulação da questão da tecnologia.
 
-Expõe o pensamento de XXXXXX sobre a não neutralidade da tecnologia classificando-o como uma falha de interpretação, um engano
+Classifica o pensamento do historiador britânico Arnold Toynbee sobre a não neutralidade da tecnologia como uma falha de interpretação, um engano e que se tornou uma verdade necessária no século XX
+
+Afirma que a convergência das tecnologias no século passado deram corpo ao conceito de noosfera, de Pierre Teilhard de Chardin (a competição tecnológica definiu a geopolítica e a história) e fala sobre o surgimento do conceito tecnológico de uma **nova era axial** inaugurada por um "desenvolvimento tecnológico mais equilibrado" e a relaciona como a causas do sentimento neorreacionário do Ocidente
+
+Yuk Hui defende que ver a tecnologia como **algo não essencial** e de caráter **meramente instrumental**, ou então, "de modo mais significativo, como **homogênea** e **universal** "favorece uma **histórica tecnológica fundamentalmente europeia** (P17)
 
 
-O conceito de noosfera, de XXXXXXXX
 
-fala sobre o conceito tecnológico de nova era axial e relaciona como a causas do sentimento neorreacionário do Ocidente
 
-Yuk Hui defende que ver a tecnologia como algo não essencial e de caráter meramente instrumental, ou então, "de modo mais significativo, como homogênea e universal" "favorece uma histórica tecnológica fundamentalmente europeia" (P17)
 
 Declara que o objetivo de seus texto é mostrar que a maneira que os avanços tecnológicos vêm sendo percebidos na filosofia, na antropologia e na história da tecnologia são discutiveis.
 
@@ -125,7 +130,7 @@ Não rejeita a noção de aceleração, mas propõe a aceleração no sentido de
 
 Propõe uma conversão dessa força tecnológica em uma **relação contingente**, "reposicionamento como sujeito necessário de investigação e de transformação a partir das perspectivas de múltiplas cosmotécnicas". (P19)
 
-### Divisão dos textos
+### Divisão dos textos (P20)
 
 Dois grupos de textos:
 
@@ -135,4 +140,7 @@ Teoria Política cujo ponto de partida é a tecnodiversidade
 - O que vem depois do fim do Iluminismo (2019)
 - Cem anos de crise (2020)
 
-
+Exploração de um tema que chama de fragmentação (aprofundamento de *Recursivity and Contingency*). Desenvolvidos a partir de palestrar com Bernard Stiegler em novembro de 2019
+- Máquina e ecologia
+- Variedades da experiência da arte
+- Sobre os limites da inteligência artificiais

@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 5th 2026, 7:48:23 am
-date modified: Tuesday, March 17th 2026, 1:28:38 pm
+date modified: Tuesday, March 17th 2026, 1:35:21 pm
 tags:
   - filosofia
   - mitologia
@@ -114,7 +114,9 @@ aplicadas no mundo atual?
 tomarei esta ação concreta de [...]”
 
 **Resposta:**
-Para Heráclito, o logos é o que determina uma certa ordem nas coisas, no mundo, algo como o cosmo. Para Parmênides, não é possível conceber a existência de um não ser, portanto, propõe uma espécie
+Para Heráclito, existe um **logos** responsável pela ordem das coisas, no mundo, algo como o cosmo. Parmênides propõe uma verdade de base para todo o seu caminho filosófica (algo como um axioma), a saber, "o ser é e que o não-ser não é".
+
+Faz sentido pensar em uma ideia de logos, de ordenação, algo que torna possível certos arranjos na natureza, por exemplo, para Marx, a contradição entre o capital e o trabalho era o motor da história. Me parece que as idéias de Parmênides possuem uma influência em toda uma área da filosofia, chamada de Ontologia, entretanto, confesso não saber muito sobre isso, mas certamente, o fato de ser um dos primeiros textos a se utilizar um método, possui uma relevância enorme.
 
 **Anotações:**
 - Heráclito (**Mobilismo**) vs Parmênides (**Imobilismo**)

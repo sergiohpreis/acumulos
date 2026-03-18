@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 12:36:06 am
+date modified: Wednesday, March 18th 2026, 12:48:09 am
 tags:
   - tecnodiversidade
   - tecnologia
@@ -147,14 +147,9 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 
 ## Cosmotécnica como cosmopolítica
 
->[!info] Antropoceno
+>[!info] [[Antropoceno]]
 
->[!info] Cosmopolitismo
-
->[!info] Peter Thiel ([Wikipédia](https://en.wikipedia.org/wiki/Peter_Thiel))
-> O economista francês Yann Algan associa Peter Thiel e Elon Musk ao conceito de "democracia líquida" e à ascensão da governança libertária de IA, que Algan define como "uma democracia radicalmente descentralizada e orientada por algoritmos", que "prioriza a eficiência e a liberdade individual em detrimento das salvaguardas democráticas"
-
-> [!question] [[O que é Cosmopolítica?]]
+>[!info] [[Cosmopolitismo]]
 
 ### Primeira Parte: O autor propõe que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**", como regime comercial e política da natureza. (§1)
 

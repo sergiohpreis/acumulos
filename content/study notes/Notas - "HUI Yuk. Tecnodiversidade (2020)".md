@@ -163,7 +163,7 @@ Associa a visão de H. Arendt sobre a noção de "integridade da cosmopolítica"
 
 > [!info] [[Antropomorfismo]]
 
-> [!info] Secularização
+> [!info] [[Secularização]]
 
 Afirma que embora Kant tenha reconhecido a importância do orgânico para a Filosofia, e conectado a moral e o cosmos podendo-se falar inclusive sobre uma "fisiologia kantiana da alma e do cosmos" (**encantamento**), ao mesmo tempo, mostra existem afirmações de Kant sobre Kepler e Newton que levaram ao que pode se chamar de uma **"morte do cosmos",** (**desencantamento**) inclusive com autores sugerindo que os "mundos para além de mundos" revelados pela tecnologia fizeram com que a relação entre humanos e natureza, "virada do avesso", resultasse em uma **perda de caráter antropomórfico** da natureza.
 

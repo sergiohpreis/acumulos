@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 12:07:50 am
+date modified: Wednesday, March 18th 2026, 12:19:38 am
 tags:
   - tecnodiversidade
   - tecnologia
@@ -154,7 +154,17 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 >[!info] Peter Thiel ([Wikipédia](https://en.wikipedia.org/wiki/Peter_Thiel))
 > O economista francês Yann Algan associa Peter Thiel e Elon Musk ao conceito de "democracia líquida" e à ascensão da governança libertária de IA, que Algan define como "uma democracia radicalmente descentralizada e orientada por algoritmos", que "prioriza a eficiência e a liberdade individual em detrimento das salvaguardas democráticas"
 
-Primeira Parte: O autor propõe que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**" (como regime comercial e política da natureza)
+Primeira Parte: O autor propõe que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**", como regime comercial e política da natureza. (§1)
+
+Segunda Parte: O autor argumenta sobre as causas do **fim da globalização unilateral** (§2-3)
+
+Para Hui, a globalização **universaliza epistemologias particulares** e através de meios tecnoeconômicos, eleva uma visão de mundo regional ao status de metafísica supostamente **global**. Relaciona os eventos do 11 de setembro a noção Hegeliana de consciência infeliz e defende a necessidade de uma "nova linguagem cosmopolítica" que possibilite a formulação de  uma nova ordem mundial que vá além de uma única hegemonia.
+
+Terceira Parte: O autor argumenta sobre as causas
+
+
+
+Justifica o fim da globalização unilateral através da visão ocidentalizada do 11 de Setembro, que é visto "como um ataque do Outro contra o Ocidente", quando para Hui, o 11 de Setembro foi um evento "autoimune" fruto de um anticomunismo que estava adormecido desde a guerra fria
 
 Atribui o  o **fim da globalização unilateral** a leitura ocidental do 11 de Setembro ("um ataque do Outro contra o Ocidente") - §2 - §3
 - apresenta brevemente a noção Hegeliana de "consciência infeliz" (mais no capítulo 2)

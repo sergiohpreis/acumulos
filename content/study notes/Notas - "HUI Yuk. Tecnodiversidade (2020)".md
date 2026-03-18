@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 7:58:52 pm
+date modified: Wednesday, March 18th 2026, 8:06:42 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -177,9 +177,9 @@ Apresenta o conceito de comunicação como condição de realização do todo or
 
 ## 2. "Virada ontológica" como cosmopolítica
 
-### Primeira Parte: O autor apresenta o retorno ao cosmopolitismo kantiano como justificativa para uma reconsideração do cosmopolitismo considerando a relação entre natureza e tecnologia (§1-x)
+### Primeira Parte: O autor apresenta o retorno ao cosmopolitismo kantiano como justificativa para uma reconsideração do cosmopolitismo que leve em conta a relação entre natureza e tecnologia (§1)
 
-Reforça o papel da natureza na filosofia política kantiana, que produz uma racionalidade equivalente a uma universalidade teleológica organicista que se concretiza na constituição tanto da moralidade como do Estado. Reforça que a morte do cosmos de Brague reforça a necessidade de uma reflexão sobre cosmopolítica 
+Reforça o papel da natureza na filosofia política kantiana, que produz uma racionalidade equivalente a uma universalidade teleológica organicista que se concretiza na constituição tanto da moralidade como do Estado e atribui o "desencantamento" da natureza a mecanização proveniente da Revolução Industrial.
 
+Reforça que a "morte do cosmos" de Brague, empreendida pela modernidade europeia e a globalização tecnológica, ilustra a ineficácia de uma **metáfora biológica** para o cosmopolitismo e forma uma das condições para uma reflexão sobre a cosmopolítica, justificando o início por Kant, e não por discussões mais recentes (Martha Nussbaum e Anthony Appiah) para uma reconsideração do cosmopolitismo em relação a tecnologia e a natureza.
 
-apontando que a universalidade teleológica organicista corresponde a uma racionalidade 

@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 1:59:25 pm
+date modified: Wednesday, March 18th 2026, 2:08:48 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -161,9 +161,18 @@ Associa a visão de H. Arendt sobre a noção de "integridade da cosmopolítica"
 
 ### Terceira Parte: O autor argumenta que tanto o **encantamento** quanto o **desencantamento** da natureza em Kant é causa de uma **secularização do cosmos** (§5)
 
-Afirma que embora Kant reconheça a importância do orgânico para a Filosofia, conectando a moral e o cosmos, 
+Afirma que embora Kant tenha reconhecido a importância do orgânico para a Filosofia, e conectado a moral e o cosmos (como em uma analogia presente em *Critica da Razão Prática*), podendo-se falar inclusive sobre uma "fisiologia kantiana da alma e do cosmos" (encantamento), ao mesmo tempo, suas afirmações em xxxxx levaram ao que pode se chamar de "morte do cosmos", existindo autores que sugerem que a relação entre humanos e natureza resulta em uma perda de 
 
-Demonstra o reconhecimento do orgânico e a conexão do cosmos com a moral em Kant através de uma analogia em Crítica da Razão Prática, que Howard Caygill considera como uma "fisiologia kantiana da alma e do cosmos" e apresenta as idéias de "morte do cosmos" de Rémi Brague e da "perda do caráter antropomórfico" da natureza de Diane Morgan.
+Para Hui, o central é que:
+> tanto o momento do encantamento quanto o do desencantamento da natureza que, causado pelas ciências naturais, levou a uma secularização do cosmos
+
+
+Hui defende que o "tanto o momento do encantamento quanto o desencantamento da natureza que, causado pelas ciências naturais, levou a uma secularização do cosmos
+
+
+em suas citações de Kepler e Newton presentes em Ideias de uma história universal de um ponto de vista cosmopolita, 
+
+Demonstra o reconhecimento do orgânico e a conexão do cosmos com a moral em Kant através de uma analogia em Crítica da Razão Prática, que considera como uma "fisiologia kantiana da alma e do cosmos" e apresenta as idéias de "morte do cosmos" de Rémi Brague e da "perda do caráter antropomórfico" da natureza de Diane Morgan.
 
 ### Quinta Parte: O autor demonstra o papel decisivo da tecnologia em na filosofia política de Kant  (§6)
 

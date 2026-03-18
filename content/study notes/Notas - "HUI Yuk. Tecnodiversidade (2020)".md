@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 1:11:18 am
+date modified: Wednesday, March 18th 2026, 1:19:53 am
 tags:
   - tecnodiversidade
   - tecnologia
@@ -44,9 +44,7 @@ date: 2026-03-18
 | **216**    | Índice onomástico                                   |
 | **219**    | Sobre o autor                                       |
 
----
-
-## Orelhas
+# Orelhas, Capas e Contra Capas
 
 O livro é uma reunião dos principais textos de Yuk Hui
 
@@ -67,7 +65,7 @@ No prefácio dessa edição, Hui levanta duas questões:
 
 Para Hui, é preciso contestar os pressupostos **ontológicos** e **epistemológicos** das tecnologias modernas (sejam elas as redes sociais ou a inteligência artificial).
 
-## Apresentação - Contra o derrotismo em Face da Tecnologia (por Ronaldo Lemos)
+# Apresentação - Contra o derrotismo em Face da Tecnologia (por Ronaldo Lemos)
 
 Para Lemos, Yuk Hui articula uma filosofia da tecnologia "libertadora e em essência humanista"
 
@@ -91,7 +89,7 @@ Mostra como Hui invoca a busca por uma nova cosmologia, a técnica como mais um 
 
 Crítica a noção ocidental de entrelaçamento de Danny Hillis, por pregar uma reindição diante da técnica, e um determinismo, que Hui busca se afastar
 
-## Prefácio a Edição Brasileira
+# Prefácio a Edição Brasileira
 
 §1 - Propõe uma rearticulação da questão da tecnologia
 
@@ -120,7 +118,9 @@ Crítica a noção ocidental de entrelaçamento de Danny Hillis, por pregar uma 
 §8 - Demarca os artigos da obra com relação a **teoria da tecnodiversidade** e da **fragmentação**
 - busca elaborar uma teoria política a partir da tecnodiversidade
 
-## Cosmotécnica como cosmopolítica
+# Cosmotécnica como cosmopolítica (2017)
+
+## Intro
 
 ### Primeira Parte: O autor propõe que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**", como regime comercial e política da natureza. (§1)
 
@@ -142,6 +142,8 @@ Com o seu conceito de cosmotécnica, Hui torna explicito o objetivo de "reaprese
 2. comparação do **multinaturalismo** da "virada ontológica" com a busca kantiana pelo **universal**
 3. defesa da adoção da cosmologia em direção à **cosmoética** como política por vir
 
-### Cosmopolitismo: Entre a Natureza e a Tecnologia
+## Cosmopolitismo: Entre a Natureza e a Tecnologia
 
-TBD
+### Primeira Parte: O autor apresenta a reconciliação entre o universal e o particular como a principal dificuldade de toda cosmopolítica (§1)
+
+Relaciona a universalidade com a visão de um espectador em oposição a de um ator, exemplificando o ponto de vista cosmopolita Kantiano através de um trecho em que Kant apresenta sua teleologia da natureza

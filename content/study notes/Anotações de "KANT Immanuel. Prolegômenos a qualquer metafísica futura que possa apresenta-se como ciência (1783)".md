@@ -1,6 +1,6 @@
 ---
 date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Thursday, March 5th 2026, 2:54:48 pm
+date modified: Wednesday, March 18th 2026, 5:39:56 pm
 tags:
   - kant
   - idealismo-alemão
@@ -274,8 +274,7 @@ Portanto, descobrir essa intuição pura e sua possibilidade é um pré requisit
 
 Ao fazer a distinção entre a **intuição empírica** e a **intuição pura**, Kant nota que através da intuição empírica, um conceito (juízo) que fazemos de um objeto da intuição é "ampliado **sinteticamente** na experiência por novos predicados que essa própria intuição oferece". Portanto, os juízos que fazemos através da intuição empírica são certos a **posteriori**, pois contém apenas o que se encontra na "**intuição empírica contingente**"
 
-> [!note] Significado de "Contingente" de acordo com [[Dicionário de Fiosofia]]
-> EPIST. E META. "O que não é de necessidade lógica"
+> [!note] [[Contingência, Contingente]]
 
 Em contrapartida, os juízos que fazemos pela intuição pura devem ser certos a **priori** e **apodítico** (§6 sobre as certezas apodíticas) , pois deve conter necessariamente o que se encontra na intuição pura, e sendo a priori, esta ligada ao conceito antes de toda a **experiência** ou **percepção particular**.
 

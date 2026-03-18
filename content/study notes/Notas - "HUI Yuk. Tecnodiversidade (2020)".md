@@ -161,7 +161,7 @@ Associa a visão de H. Arendt sobre a noção de "integridade da cosmopolítica"
 
 ### Terceira Parte: O autor argumenta que tanto o **encantamento** quanto o **desencantamento** da natureza causado pelas ciências naturais é causa de uma **secularização do cosmos** (§5)
 
-> [!info] Antropomorfismo
+> [!info] [[Antropomorfismo]]
 
 > [!info] Secularização
 

@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 7:16:20 pm
+date modified: Wednesday, March 18th 2026, 7:28:23 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -169,8 +169,11 @@ Afirma que embora Kant tenha reconhecido a importância do orgânico para a Filo
 
 Portanto, para Hui, "tanto o momento do encantamento quanto o do desencantamento da natureza" que foram "causado pelas ciências naturais" levaram a uma **"secularização do cosmos"**
 
+> [?question] A noção de secularização em Hui tem haver com a [[Abbagnano Nicola. Dicionário de Filosofia (2012)|noção de secularização em Weber]], onde o mesmo fala sobre um processo de "desencantamento do mundo" ? Uma "mundanização"
+
 ### Quarta Parte: O autor demonstra a noção da **comunicação** como condição de realização do todo organicista na filosofia política kantiana (§6)
 
 Apresenta o conceito de comunicação como condição de realização do todo organicista presente em Kant, através da explicação de Arent sobre o papel do sensus communis na filosofia kantiana, tanto em questão de comunidade quanto de consenso e relaciona o conceito da "era do Iluminismo" como "uso público da razão" em Arendt e Stiegler com a atual necessidade de tecnologia para comunicação, traçando um paralelo com os elementos de uma relação pacífica na paz perpétua de Kant.
 
-## 2. asasasasasasa
+## 2. "Virada ontológica" como cosmopolítica
+

@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Tuesday, March 17th 2026, 8:55:16 pm
+date modified: Wednesday, March 18th 2026, 12:07:50 am
 tags:
   - tecnodiversidade
   - tecnologia
@@ -154,12 +154,11 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 >[!info] Peter Thiel ([Wikipédia](https://en.wikipedia.org/wiki/Peter_Thiel))
 > O economista francês Yann Algan associa Peter Thiel e Elon Musk ao conceito de "democracia líquida" e à ascensão da governança libertária de IA, que Algan define como "uma democracia radicalmente descentralizada e orientada por algoritmos", que "prioriza a eficiência e a liberdade individual em detrimento das salvaguardas democráticas"
 
-§1 - Sugere que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**" (como regime comercial e política da natureza)
+Primeira Parte: O autor propõe que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**" (como regime comercial e política da natureza)
 
-§2 - Argumenta que a leitura ocidental do 11 de Setembro ("um ataque do Outro contra o Ocidente") representam o **fim da globalização unilateral**
+Atribui o  o **fim da globalização unilateral** a leitura ocidental do 11 de Setembro ("um ataque do Outro contra o Ocidente") - §2 - §3
 - apresenta brevemente a noção Hegeliana de "consciência infeliz" (mais no capítulo 2)
-
-§3 - Crítica o futurismo transumanista de Peter Thiel propondo uma "nova linguagem de cosmopolítica" para "formular uma nova ordem mundial que vá alem de uma única hegemonia"
+- Crítica o futurismo transumanista de Peter Thiel propondo uma "nova linguagem de cosmopolítica" para "formular uma nova ordem mundial que vá alem de uma única hegemonia"
 
 §4 - Argumenta que a **modernidade** é a causa da **crise do Antropoceno** devido ao seu "o ápice da ruptura epistemológica e metodológica" (a transformação da terra e do cosmos em um imenso sistema tecnológico)
 - aproxima-se da noção **Heideggeriana** de perda do cosmos enquanto fim da metafísica
@@ -182,4 +181,6 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 ![[Pasted image 20260317202119.png|400]]
 
 
-§1 - Afirma que a dificuldade de toda cosmopolítica esta na reconciliação entre o universal e o particular
+§1 - Nomeia a "reconciliação" entre o *universal* e o *particular* como a **principal dificuldade** de toda cosmopolítica
+
+§2 - Questiona a concretização da cosmopolítica enquanto teleologia da natureza

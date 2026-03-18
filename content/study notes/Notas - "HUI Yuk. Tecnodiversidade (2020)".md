@@ -1,17 +1,33 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 12:53:38 am
+date modified: Wednesday, March 18th 2026, 1:11:18 am
 tags:
   - tecnodiversidade
   - tecnologia
   - yuk-hui
   - filosofia
   - cosmotécnica
+  - cosmopolitismo
+  - antropoceno
 draft: false
-date: 2026-03-16
+date: 2026-03-18
 ---
 
+# Informações
+
 >[!info] Anotações com base em [[HUI Yuk. Tecnodiversidade (2020)]]
+
+>[!info] [[Antropoceno]]
+
+>[!info] [[Era Axial]]
+
+>[!info] [[Contingência, Contingente]]
+
+>[!info] [[Cosmopolitismo]]
+
+> [!question] [[Quais são os diálogos possíveis entre Yuk Hui e Álvares Vieira Pinto?]]*
+
+# Índice
 
 | **Página** | **Conteúdo**                                        |
 | ---------- | --------------------------------------------------- |
@@ -30,16 +46,9 @@ date: 2026-03-16
 
 ---
 
-O livro é uma reunião dos principais textos de Yuk Hui
-
 ## Orelhas
 
->[!info] Antropoceno
-> Antropoceno (ou Antropocénico em português europeu) é um termo usado por alguns cientistas para descrever o **período mais recente na história do Planeta Terra**. 
-> (Wikipédia)
-
-> [!info] Cosmo (por Jasper) via [[Abbagnano Nicola. Dicionário de Filosofia (1XXX)]]
-> Para Jaspers, a distinção entre o cosmo e o mundo é que o cosmo é imagem do mundo que cada um forma, mas por isso mesmo não é o mundo como soma total de todas as coisas e os eus existentes, como totalidade omniabrangente.
+O livro é uma reunião dos principais textos de Yuk Hui
 
 Hui recusa a **universalidade** de uma única tecnologia e propõe pensar a Tecnodiversidade, que pode ser definida como:
 > multiplicidade de **cosmotécnicas** que diferem uma das outras em seus valores, epistemologias e formas de existência
@@ -69,7 +78,6 @@ Para Lemos, a idéia de singularidade, que é amplamente adotada pelo ocidente �
 Explica como Hui trabalha o conceito de **multiplicidade** em oposição a **singularidade** e aponta a singularidade como uma ferramenta política de dominação: "se a tecnologia é universal, que forças definem a sua construção e disseminação?". Quem adota a postura da tecnologia como universal, adota a postura de **dominação**, submetendo o mundo a sua **cosmovisão**
 
 A tecnologia não é transcendente a **natureza** e ao **cosmo**, a tecnologia faz parte de ambos.
-*P.S: [[Quais são os diálogos possíveis entre Yuk Hui e Álvares Vieira Pinto?]]*
 
 Para Hui, a confiança na tecnologia divorciada do humanismo é uma forma de **perda do cosmos**, Hui é contrário a interposição de tecnologia entre a humanidade e o cosmos
 
@@ -83,13 +91,7 @@ Mostra como Hui invoca a busca por uma nova cosmologia, a técnica como mais um 
 
 Crítica a noção ocidental de entrelaçamento de Danny Hillis, por pregar uma reindição diante da técnica, e um determinismo, que Hui busca se afastar
 
-## Prefácio
-
->[!info] [[Era Axial]]
-
->[!info] [[Contingência]]
-
-### Estrutura Expositiva - Prefácio a Edição Brasileira
+## Prefácio a Edição Brasileira
 
 §1 - Propõe uma rearticulação da questão da tecnologia
 
@@ -120,10 +122,6 @@ Crítica a noção ocidental de entrelaçamento de Danny Hillis, por pregar uma 
 
 ## Cosmotécnica como cosmopolítica
 
->[!info] [[Antropoceno]]
-
->[!info] [[Cosmopolitismo]]
-
 ### Primeira Parte: O autor propõe que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**", como regime comercial e política da natureza. (§1)
 
 ### Segunda Parte: O autor argumenta sobre as causas do **fim da globalização unilateral** (§2-3)
@@ -146,6 +144,4 @@ Com o seu conceito de cosmotécnica, Hui torna explicito o objetivo de "reaprese
 
 ### Cosmopolitismo: Entre a Natureza e a Tecnologia
 
-§1 - Nomeia a "reconciliação" entre o *universal* e o *particular* como a **principal dificuldade** de toda cosmopolítica
-
-§2 - Questiona a concretização da cosmopolítica enquanto teleologia da natureza
+TBD

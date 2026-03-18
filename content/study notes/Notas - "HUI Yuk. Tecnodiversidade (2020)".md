@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 2:20:59 pm
+date modified: Wednesday, March 18th 2026, 7:16:20 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -19,11 +19,15 @@ date: 2026-03-18
 
 >[!info] [[Antropoceno]]
 
+> [!info] [[Antropomorfismo]]
+
 >[!info] [[Era Axial]]
 
 >[!info] [[Contingência, Contingente]]
 
 >[!info] [[Cosmopolitismo]]
+
+> [!info] [[Secularização]]
 
 > [!question] [[Quais são os diálogos possíveis entre Yuk Hui e Álvares Vieira Pinto?]]*
 
@@ -161,11 +165,7 @@ Associa a visão de H. Arendt sobre a noção de "integridade da cosmopolítica"
 
 ### Terceira Parte: O autor argumenta que tanto o **encantamento** quanto o **desencantamento** da natureza causado pelas ciências naturais é causa de uma **secularização do cosmos** (§5)
 
-> [!info] [[Antropomorfismo]]
-
-> [!info] [[Secularização]]
-
-Afirma que embora Kant tenha reconhecido a importância do orgânico para a Filosofia, e conectado a moral e o cosmos podendo-se falar inclusive sobre uma "fisiologia kantiana da alma e do cosmos" (**encantamento**), ao mesmo tempo, mostra existem afirmações de Kant sobre Kepler e Newton que levaram ao que pode se chamar de uma **"morte do cosmos",** (**desencantamento**) inclusive com autores sugerindo que os "mundos para além de mundos" revelados pela tecnologia fizeram com que a relação entre humanos e natureza, "virada do avesso", resultasse em uma **perda de caráter antropomórfico** da natureza.
+Afirma que embora Kant tenha reconhecido a importância do orgânico para a Filosofia, e conectado a moral e o cosmos podendo-se falar inclusive sobre uma "fisiologia kantiana da alma e do cosmos" (**encantamento**), ao mesmo tempo, mostra existem afirmações de Kant sobre Kepler e Newton que levaram ao que pode se chamar de uma **"morte do cosmos",** (**desencantamento**) inclusive com autores sugerindo que os "mundos para além de mundos" revelados pela tecnologia fizeram com que a relação entre humanos e natureza, "virada do avesso", resultasse em uma **perda de caráter antropomórfico** da natureza. 
 
 Portanto, para Hui, "tanto o momento do encantamento quanto o do desencantamento da natureza" que foram "causado pelas ciências naturais" levaram a uma **"secularização do cosmos"**
 
@@ -173,5 +173,4 @@ Portanto, para Hui, "tanto o momento do encantamento quanto o do desencantamento
 
 Apresenta o conceito de comunicação como condição de realização do todo organicista presente em Kant, através da explicação de Arent sobre o papel do sensus communis na filosofia kantiana, tanto em questão de comunidade quanto de consenso e relaciona o conceito da "era do Iluminismo" como "uso público da razão" em Arendt e Stiegler com a atual necessidade de tecnologia para comunicação, traçando um paralelo com os elementos de uma relação pacífica na paz perpétua de Kant.
 
-
-
+## 2. asasasasasasa

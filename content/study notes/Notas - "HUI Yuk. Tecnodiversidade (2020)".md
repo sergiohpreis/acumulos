@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 1:49:41 am
+date modified: Wednesday, March 18th 2026, 1:55:10 am
 tags:
   - tecnodiversidade
   - tecnologia
@@ -152,10 +152,12 @@ Relaciona a universalidade com a visão de um espectador em oposição a de um a
 
 Explora a noção kantiana de um progresso como "realização de um plano oculto da natureza" através de uma relação necessária entre natureza e cosmopolítica, juntamente com uma justaposição de Hanna Arendt sobre a paz perpétua Kantiana com relação ao "direito de visitar países estrangeiros" e o "direito a hospitalidade" em oposição a natureza, justificando que o desenvolvimento do conceito de auto-organização é causa da existência de uma afirmação ainda mais consistente da cosmopolítica como teleologia do futuro em Kant (1789).
 
-### Terceira Parte: O autor descreve um universalismo em Kant e situa historicamente seu conceito de relação entre cosmopolítica e propósito da natureza  (§3-4)
+### Terceira Parte: O autor descreve um universalismo em Kant e situa historicamente seu conceito de relação entre cosmopolítica e propósito da natureza  (§3-5)
+
+> a natureza só pode ser compreendida como um todo complexo, e a espécie humana, parte desse todo, acabará por progredir rumo à **história universal** que coincide com a **teleologia** da natureza (§4, P29)
 
 Introduz duas importantes categorias de relação através do exemplo de um exemplo da arvore presente em §64 de Crítica da Faculdade de Julgar: **comunidade** (Gemeinschaft) e **reciprocidade da ação** (Wechselwirkung)
 
-Apresenta  com a intenção de mostrar que 
+### Quarta Parte: O encantamento da natureza em Kant (§5-X)
 
-Argumenta que com relação ao entendimento de Kant sobre a integridade da cosmopolítica, "... desenvolve seu pensamento em direção ao universalismo" e busca situar  o seu conceito de relação entre a cosmopolítica e o propósito da natureza em um momento histórico onde existe um encantamento e o desencantamento simultâneos da natureza
+Demonstra o reconhecimento do orgânico e a conexão do cosmos com a moral em Kant através de uma analogia em Crítica da Razão Prática, que Howard Caygill considera como uma "fisiologia kantiana da alma e do cosmos"

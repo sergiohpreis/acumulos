@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 1:49:39 pm
+date modified: Wednesday, March 18th 2026, 1:59:25 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -148,21 +148,20 @@ Com o seu conceito de cosmotécnica, Hui torna explicito o objetivo de "reaprese
 
 Hui afirma que a principal dificuldade de toda cosmopolítica é a conciliação entre o universal e o particular e através do texto "XXXXX" de Kant, demonstra como para o mesmo "essa relação entre natureza e cosmopolítica é necessária". Demonstra como a concepção Kantiana de progresso da razão (telos da natureza) está relacionado com as suas formas políticas de constituição republicana e paz perpétua, afirmando que para Kant esse progresso em direção a um objetivo final (história universal e a constituição política perfeita) se expressa como a "realização de um plano oculto da natureza". Através de uma justaposição de Hanna Arendt sobre a paz perpétua Kantiana com relação ao "direito de visitar países estrangeiros" e o "direito a hospitalidade" em oposição a natureza, defende que o desenvolvimento do **conceito de auto-organização** é causa da existência de uma afirmação ainda mais consistente da cosmopolítica como teleologia do futuro em Kant (1789).
 
-### Segunda Parte: O autor descreve o universalismo presente na direção do pensamento Kantiano a partir de seu conceito de auto-organização (§3-x)
+### Segunda Parte: O autor descreve o universalismo presente na direção do pensamento Kantiano a partir de seu conceito de auto-organização (§3-5)
 
-> "a conservação de uma parte depende da conservação da outra, e vice-versa" (§4, P29)
-
-Apresenta duas importantes categorias de relação a partir do exemplo do exemplo da árvore (§64,Crítica da Faculdade de Julgar): 
+Apresenta duas importantes **categorias de relação** a partir do exemplo do exemplo da árvore (§64,Crítica da Faculdade de Julgar): 
 - **comunidade** (Gemeinschaft)
-	- "partes diferentes da árvore estabelecem relações recíprocas umas com as outras e, assim, constituem o todo"
+	- "partes diferentes da árvore estabelecem relações recíprocas umas com as outras e, assim, constituem o **todo**"
 - **reciprocidade da ação** (Wechselwirkung)
-	- a árvore primeiro "produz outra árvore" e depois "produz a si mesma como indivíduo"
+	- a árvore primeiro "produz outra árvore" e depois "produz a si mesma como **indivíduo**"
 
-Para Kant, assim como
+Associa a visão de H. Arendt sobre a noção de "integridade da cosmopolítica" kantiana a essas relações da natureza, em resumo, em Kant:
+> ... a natureza só pode ser compreendida como um todo complexo, e a espécie humana, parte desse todo, acabará por progredir rumo á **história universal** que coincide com a **teleologia da natureza**
 
-### Segunda Parte: O autor descreve um universalismo em Kant e situa historicamente seu conceito de relação entre cosmopolítica e propósito da natureza  (§3-5)
+### Terceira Parte: O autor argumenta que tanto o **encantamento** quanto o **desencantamento** da natureza em Kant é causa de uma **secularização do cosmos** (§5)
 
-### Quarta Parte: O autor argumenta que tanto o encantamento quanto o desencantamento da natureza em Kant é causa de uma secularização do cosmos (§5)
+Afirma que embora Kant reconheça a importância do orgânico para a Filosofia, conectando a moral e o cosmos, 
 
 Demonstra o reconhecimento do orgânico e a conexão do cosmos com a moral em Kant através de uma analogia em Crítica da Razão Prática, que Howard Caygill considera como uma "fisiologia kantiana da alma e do cosmos" e apresenta as idéias de "morte do cosmos" de Rémi Brague e da "perda do caráter antropomórfico" da natureza de Diane Morgan.
 

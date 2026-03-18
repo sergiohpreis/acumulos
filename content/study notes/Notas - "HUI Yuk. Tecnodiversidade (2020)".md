@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 1:55:10 am
+date modified: Wednesday, March 18th 2026, 2:09:50 am
 tags:
   - tecnodiversidade
   - tecnologia
@@ -158,6 +158,11 @@ Explora a noção kantiana de um progresso como "realização de um plano oculto
 
 Introduz duas importantes categorias de relação através do exemplo de um exemplo da arvore presente em §64 de Crítica da Faculdade de Julgar: **comunidade** (Gemeinschaft) e **reciprocidade da ação** (Wechselwirkung)
 
-### Quarta Parte: O encantamento da natureza em Kant (§5-X)
+### Quarta Parte: O autor argumenta que tanto o encantamento quanto o desencantamento da natureza em Kant é causa de uma secularização do cosmos (§5)
 
-Demonstra o reconhecimento do orgânico e a conexão do cosmos com a moral em Kant através de uma analogia em Crítica da Razão Prática, que Howard Caygill considera como uma "fisiologia kantiana da alma e do cosmos"
+Demonstra o reconhecimento do orgânico e a conexão do cosmos com a moral em Kant através de uma analogia em Crítica da Razão Prática, que Howard Caygill considera como uma "fisiologia kantiana da alma e do cosmos" e apresenta as idéias de "morte do cosmos" de Rémi Brague e da "perda do caráter antropomórfico" da natureza de Diane Morgan.
+
+### Quinta Parte: xxxxx (§6)
+
+Apresenta a noção de Hannah Arendt sobre o papel do senso comum na filosofia Kantiana enquanto questão de comunidade e consenso, e problematiza discursos ingênuos que enxerguem o comum como algo já dado ou precedente a tecnologia, relacionando a "Era do Iluminismo" de Arendent e Stiegler como a do "uso público da razão"
+

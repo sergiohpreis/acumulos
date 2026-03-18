@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 12:19:38 am
+date modified: Wednesday, March 18th 2026, 12:29:22 am
 tags:
   - tecnodiversidade
   - tecnologia
@@ -160,15 +160,16 @@ Segunda Parte: O autor argumenta sobre as causas do **fim da globalização unil
 
 Para Hui, a globalização **universaliza epistemologias particulares** e através de meios tecnoeconômicos, eleva uma visão de mundo regional ao status de metafísica supostamente **global**. Relaciona os eventos do 11 de setembro a noção Hegeliana de consciência infeliz e defende a necessidade de uma "nova linguagem cosmopolítica" que possibilite a formulação de  uma nova ordem mundial que vá além de uma única hegemonia.
 
-Terceira Parte: O autor argumenta sobre as causas
+Terceira Parte: O autor argumenta sobre as causas da "crise do Antropoceno" (§4)
+
+Para Hui, a modernidade é o ápice da ruptura epistemológica e metodológica uma vez que "A Terra e o cosmos foram transformados em um imenso sistema tecnológico", aproximando-se da noção Heideggeriana do **fim da metafísica** e das idéias de **fim do cosmos na Europa dos séculos XVII e XVIII** de Rémi Brague e Alexandre Koyré, defendendo o desenvolvimento de uma cosmopolítica "não apenas no sentido de um cosmopolitismo, mas também no de uma **política do cosmos**" (Cosmopolítica de Isabelle Stengers).
+
+Quarta Parte: O autor propõe uma elucidação do conceito de cosmotécnica para tornar possível o desenvolvimento de uma cosmopolítica (de Stengers)
+
+Hui tem como objetivo re
 
 
 
-Justifica o fim da globalização unilateral através da visão ocidentalizada do 11 de Setembro, que é visto "como um ataque do Outro contra o Ocidente", quando para Hui, o 11 de Setembro foi um evento "autoimune" fruto de um anticomunismo que estava adormecido desde a guerra fria
-
-Atribui o  o **fim da globalização unilateral** a leitura ocidental do 11 de Setembro ("um ataque do Outro contra o Ocidente") - §2 - §3
-- apresenta brevemente a noção Hegeliana de "consciência infeliz" (mais no capítulo 2)
-- Crítica o futurismo transumanista de Peter Thiel propondo uma "nova linguagem de cosmopolítica" para "formular uma nova ordem mundial que vá alem de uma única hegemonia"
 
 §4 - Argumenta que a **modernidade** é a causa da **crise do Antropoceno** devido ao seu "o ápice da ruptura epistemológica e metodológica" (a transformação da terra e do cosmos em um imenso sistema tecnológico)
 - aproxima-se da noção **Heideggeriana** de perda do cosmos enquanto fim da metafísica

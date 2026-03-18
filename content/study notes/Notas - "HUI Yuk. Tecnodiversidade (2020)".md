@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 10:43:49 am
+date modified: Wednesday, March 18th 2026, 1:36:58 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -144,15 +144,14 @@ Com o seu conceito de cosmotécnica, Hui torna explicito o objetivo de "reaprese
 
 ## 1. Cosmopolitismo: Entre a Natureza e a Tecnologia
 
-### Primeira Parte: O autor apresenta a reconciliação entre o universal e o particular como a principal dificuldade de toda cosmopolítica (§1)
+### Primeira Parte: O autor questiona a concretização da cosmopolítica como teleologia da natureza em Kant (§1-3)
 
-Relaciona a universalidade com a visão de um espectador em oposição a de um ator, exemplificando o ponto de vista cosmopolita Kantiano através de um trecho de "Ideia de uma história universal de um ponto de vista cosmopolita" em que Kant apresenta sua ideia sobre um propósito da natureza que possibilita uma história segundo um **determinado plano**
+Hui afirma que a principal dificuldade de toda cosmopolítica é a conciliação entre o universal e o particular e através do texto "XXXXX" de Kant, demonstra como para o mesmo "essa relação entre natureza e cosmopolítica é necessária". Demonstra como a concepção Kantiana de progresso da razão (telos da natureza) está rela
 
-### Segunda Parte: O autor questiona a concretização da cosmopolítica como **teleologia** da natureza em Kant (§2-3)
 
 Explora a noção kantiana de um progresso como "realização de um plano oculto da natureza" através de uma relação necessária entre natureza e cosmopolítica, juntamente com uma justaposição de Hanna Arendt sobre a paz perpétua Kantiana com relação ao "direito de visitar países estrangeiros" e o "direito a hospitalidade" em oposição a natureza, justificando que o desenvolvimento do conceito de auto-organização é causa da existência de uma afirmação ainda mais consistente da cosmopolítica como teleologia do futuro em Kant (1789).
 
-### Terceira Parte: O autor descreve um universalismo em Kant e situa historicamente seu conceito de relação entre cosmopolítica e propósito da natureza  (§3-5)
+### Segunda Parte: O autor descreve um universalismo em Kant e situa historicamente seu conceito de relação entre cosmopolítica e propósito da natureza  (§3-5)
 
 > a natureza só pode ser compreendida como um todo complexo, e a espécie humana, parte desse todo, acabará por progredir rumo à **história universal** que coincide com a **teleologia** da natureza (§4, P29)
 

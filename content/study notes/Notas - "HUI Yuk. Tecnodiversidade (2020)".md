@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 2:09:50 am
+date modified: Wednesday, March 18th 2026, 2:16:57 am
 tags:
   - tecnodiversidade
   - tecnologia
@@ -142,7 +142,7 @@ Com o seu conceito de cosmotécnica, Hui torna explicito o objetivo de "reaprese
 2. comparação do **multinaturalismo** da "virada ontológica" com a busca kantiana pelo **universal**
 3. defesa da adoção da cosmologia em direção à **cosmoética** como política por vir
 
-## Cosmopolitismo: Entre a Natureza e a Tecnologia
+## 1. Cosmopolitismo: Entre a Natureza e a Tecnologia
 
 ### Primeira Parte: O autor apresenta a reconciliação entre o universal e o particular como a principal dificuldade de toda cosmopolítica (§1)
 
@@ -162,7 +162,9 @@ Introduz duas importantes categorias de relação através do exemplo de um exem
 
 Demonstra o reconhecimento do orgânico e a conexão do cosmos com a moral em Kant através de uma analogia em Crítica da Razão Prática, que Howard Caygill considera como uma "fisiologia kantiana da alma e do cosmos" e apresenta as idéias de "morte do cosmos" de Rémi Brague e da "perda do caráter antropomórfico" da natureza de Diane Morgan.
 
-### Quinta Parte: xxxxx (§6)
+### Quinta Parte: O autor demonstra o papel decisivo da tecnologia em na filosofia política de Kant  (§6)
 
-Apresenta a noção de Hannah Arendt sobre o papel do senso comum na filosofia Kantiana enquanto questão de comunidade e consenso, e problematiza discursos ingênuos que enxerguem o comum como algo já dado ou precedente a tecnologia, relacionando a "Era do Iluminismo" de Arendent e Stiegler como a do "uso público da razão"
+Apresenta a noção de Hannah Arendt sobre o papel do senso comum na filosofia Kantiana enquanto questão de comunidade e consenso, e propõe uma problematização em qualquer discurso que considere o comum como algo dado ou precedente a técnica. Relaciona o conceito da "era do Iluminismo" como "uso público da razão" em Arendt e Stiegler com a atual necessidade de tecnologia para comunicação, traçando um paralelo com os elementos de uma relação pacífica na paz perpétua de Kant.
+
+
 

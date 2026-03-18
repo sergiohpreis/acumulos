@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 12:29:22 am
+date modified: Wednesday, March 18th 2026, 12:36:06 am
 tags:
   - tecnodiversidade
   - tecnologia
@@ -154,37 +154,27 @@ Propõe uma conversão dessa força tecnológica em uma **relação contingente*
 >[!info] Peter Thiel ([Wikipédia](https://en.wikipedia.org/wiki/Peter_Thiel))
 > O economista francês Yann Algan associa Peter Thiel e Elon Musk ao conceito de "democracia líquida" e à ascensão da governança libertária de IA, que Algan define como "uma democracia radicalmente descentralizada e orientada por algoritmos", que "prioriza a eficiência e a liberdade individual em detrimento das salvaguardas democráticas"
 
-Primeira Parte: O autor propõe que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**", como regime comercial e política da natureza. (§1)
+> [!question] [[O que é Cosmopolítica?]]
 
-Segunda Parte: O autor argumenta sobre as causas do **fim da globalização unilateral** (§2-3)
+### Primeira Parte: O autor propõe que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**", como regime comercial e política da natureza. (§1)
 
-Para Hui, a globalização **universaliza epistemologias particulares** e através de meios tecnoeconômicos, eleva uma visão de mundo regional ao status de metafísica supostamente **global**. Relaciona os eventos do 11 de setembro a noção Hegeliana de consciência infeliz e defende a necessidade de uma "nova linguagem cosmopolítica" que possibilite a formulação de  uma nova ordem mundial que vá além de uma única hegemonia.
+### Segunda Parte: O autor argumenta sobre as causas do **fim da globalização unilateral** (§2-3)
 
-Terceira Parte: O autor argumenta sobre as causas da "crise do Antropoceno" (§4)
+Para Hui, a globalização **universaliza epistemologias particulares** e através de meios tecnoeconômicos "eleva uma visão de mundo regional ao status de metafísica supostamente **global**". Relaciona os eventos do 11 de setembro a noção Hegeliana de consciência infeliz e defende a necessidade de uma "nova linguagem cosmopolítica" que possibilite a formulação de  uma nova ordem mundial que vá além de uma única hegemonia, criticando o "futurismo transumanista baseado na aceleração tecnológica de todas as escalas cósmicas"
+
+### Terceira Parte: O autor argumenta sobre as causas da "crise do Antropoceno" (§4)
 
 Para Hui, a modernidade é o ápice da ruptura epistemológica e metodológica uma vez que "A Terra e o cosmos foram transformados em um imenso sistema tecnológico", aproximando-se da noção Heideggeriana do **fim da metafísica** e das idéias de **fim do cosmos na Europa dos séculos XVII e XVIII** de Rémi Brague e Alexandre Koyré, defendendo o desenvolvimento de uma cosmopolítica "não apenas no sentido de um cosmopolitismo, mas também no de uma **política do cosmos**" (Cosmopolítica de Isabelle Stengers).
 
-Quarta Parte: O autor propõe uma elucidação do conceito de cosmotécnica para tornar possível o desenvolvimento de uma cosmopolítica (de Stengers)
+### Quarta Parte: O autor propõe uma elucidação do conceito de cosmotécnica para tornar possível o desenvolvimento de uma cosmopolítica (de Stengers) (§4-5)
 
-Hui tem como objetivo re
+Com o seu conceito de cosmotécnica, Hui torna explicito o objetivo de "reapresentar a questão da tecnologia desfazendo certas traduções que foram motivadas pela busca de equivalências ao longo da modernização. Apresenta essa problematização nos termos de uma antinomia kantiana que possui tanto uma tese e uma antítese sobre a universalidade antropológica da tecnologia
 
+### Quinta Parte: O autor propõe uma divisão do capítulo em três partes para explorar a relação entre cosmotécnica e cosmopolítica (§6)
 
-
-
-§4 - Argumenta que a **modernidade** é a causa da **crise do Antropoceno** devido ao seu "o ápice da ruptura epistemológica e metodológica" (a transformação da terra e do cosmos em um imenso sistema tecnológico)
-- aproxima-se da noção **Heideggeriana** de perda do cosmos enquanto fim da metafísica
-- defende o desenvolvimento da **cosmopolítica** (de Isabelle Stengers) enquanto uma política do cosmos (e não só um cosmopolitismo)
- 
-§4 - Apresenta que objetivo de seu conceito de cosmotécnica é "representar a questão da tecnologia **desfazendo certas traduções** que foram motivadas pela busca de equivalências ao longo da modernização"
-
-§5 - Apresenta a problematização da cosmotécnica nos termos de uma **antinomia kantiana** através de uma **tese** e uma **antítese** sobre a **universalidade antropológica** da tecnologia
-
-§6 - Destaca a divisão das três partes que irão compor o capítulo
-1. a relação dos conceitos kantianos de **cosmopolítica** e **natureza**
-2. comparar o **multinaturalismo** da "virada ontológica" com a busca kantiana pelo **universal**
+1. relação entre os conceitos kantianos de **cosmopolítica** e **natureza**
+2. comparação do **multinaturalismo** da "virada ontológica" com a busca kantiana pelo **universal**
 3. defesa da adoção da cosmologia em direção à **cosmoética** como política por vir
-
-> [!question] [[O que é Cosmopolítica?]]
 
 ### Cosmopolitismo: Entre a Natureza e a Tecnologia
 

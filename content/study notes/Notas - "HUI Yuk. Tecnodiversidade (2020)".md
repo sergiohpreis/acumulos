@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 1:29:30 am
+date modified: Wednesday, March 18th 2026, 1:37:56 am
 tags:
   - tecnodiversidade
   - tecnologia
@@ -148,13 +148,10 @@ Com o seu conceito de cosmotécnica, Hui torna explicito o objetivo de "reaprese
 
 Relaciona a universalidade com a visão de um espectador em oposição a de um ator, exemplificando o ponto de vista cosmopolita Kantiano através de um trecho ("Ideia de uma história universal de um ponto de vista cosmopolita") em que Kant apresenta sua ideia sobre um propósito da natureza que possibilita uma história segundo um **determinado plano**
 
-### Segunda Parte: O autor questiona a concretização da cosmopolítica como teleologia da natureza em Kant (§2-X)
+### Segunda Parte: O autor questiona a concretização da cosmopolítica como teleologia da natureza em Kant (§2-3)
 
-Explora a noção kantiana uma relação necessária entre natureza e cosmopolítica,  
+Explora a noção kantiana de um progresso como "realização de um plano oculto da natureza" através de uma relação necessária entre natureza e cosmopolítica, juntamente com uma justaposição de Hanna Arendt sobre a paz perpétua Kantiana com relação ao "direito de visitar países estrangeiros" e o "direito a hospitalidade" em oposição a natureza, justificando que o desenvolvimento do conceito de auto-organização é causa da existência de uma afirmação ainda mais consistente da cosmopolítica como teleologia do futuro em Kant (1789).
 
-Apresenta a noção kantiana de que um progresso em direção a um objetivo final (história universal através da constituição republicana e paz perpétua) como a , 
+### Terceira Parte: xxxxxxxx (§4-x)
 
-juntamente com as visões de Hannah Arendt e Eckart Förster
-
-
-
+Apresenta 

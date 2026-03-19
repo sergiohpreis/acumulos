@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 5:18:40 pm
+date modified: Thursday, March 19th 2026, 5:29:56 pm
 draft: false
 tags:
   - yuk-hui
@@ -41,13 +41,11 @@ Através de um trecho de "Ideia de uma história universal de um ponto de vista 
 
 > a natureza só pode ser compreendida como um todo complexo, e a espécie humana, parte desse todo, acabará por progredir rumo à **história universal** que coincide com a **teleologia** da natureza (§4, P29)
 
-### Quarta Parte: O autor apresenta seus conceitos de encantamento e desencantamento da natureza em Kant é causa de uma secularização do cosmos (§5)
+### Quarta Parte: O autor afirma as ideias kantianas foram produzidas em um momento de encantamento e desencantamento da natureza causado pelas ciências naturais que levaram a uma secularização do cosmos (§5-6)
 
-Demonstra o reconhecimento do orgânico e a conexão do cosmos com a moral em Kant através de uma analogia em Crítica da Razão Prática, que Howard Caygill considera como uma "fisiologia kantiana da alma e do cosmos" e apresenta as idéias de "morte do cosmos" de Rémi Brague e da "perda do caráter antropomórfico" da natureza de Diane Morgan.
+Demonstra que Kant reconhecesse o orgânico e uma conexão do cosmos com a moral ao mesmo tempo em que uma afirmação da "história" universal e os avanços da ciência e da tecnologia no século XVIII levaram a o que Brague considera uma "morte no cosmos" (ou até mesmo uma perda de caráter antropomórfico da Natureza de acordo com Diane Morgan).
 
-### Quinta Parte: O autor demonstra o papel decisivo da tecnologia em na filosofia política de Kant  (§6)
-
-Apresenta a noção de Hannah Arendt sobre o papel do senso comum na filosofia Kantiana enquanto questão de comunidade e consenso, e propõe uma problematização em qualquer discurso que considere o comum como algo dado ou precedente a técnica. Relaciona o conceito da "era do Iluminismo" como "uso público da razão" em Arendt e Stiegler com a atual necessidade de tecnologia para comunicação, traçando um paralelo com os elementos de uma relação pacífica na paz perpétua de Kant.
+Apresenta o papel decisivo da tecnologia na filosofia política Kantiana juntamente com as interpretações de Hanna Arendt sobre o papel do senso comum (comunidade, consenso) em Kant, propondo uma problematização em qualquer discurso ingênuo que enxergue o comum como algo dado ou precedente a técnica. Para Hui, a era do Iluminismo enquanto "uso público da razão" só é possível mediante a tecnologia (por exemplo, de impressão)
 
 ## 2. "Virada Ontológica" como cosmopolítica
 

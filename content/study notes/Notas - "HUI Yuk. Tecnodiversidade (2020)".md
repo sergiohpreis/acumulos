@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 9:59:45 pm
+date modified: Wednesday, March 18th 2026, 10:04:42 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -134,13 +134,13 @@ Respectivamente, como regime comercial e como política da natureza.
 
 Para Hui, a globalização **universaliza epistemologias particulares** e através de meios tecnoeconômicos "eleva uma visão de mundo regional ao status de metafísica supostamente **global**". Relaciona os eventos do 11 de setembro a noção Hegeliana de consciência infeliz e defende a necessidade de uma "nova linguagem cosmopolítica" que possibilite a formulação de  uma nova ordem mundial que vá além de uma única hegemonia, criticando o "futurismo transumanista baseado na aceleração tecnológica de todas as escalas cósmicas"
 
-### Terceira Parte: O autor argumenta sobre as causas da "crise do Antropoceno" (§4)
+### Terceira Parte: O autor argumenta sobre as causas da "**crise do Antropoceno**" (§4)
 
-Para Hui, a modernidade é o ápice da ruptura epistemológica e metodológica uma vez que "A Terra e o cosmos foram transformados em um imenso sistema tecnológico", aproximando-se da noção Heideggeriana do **fim da metafísica** e das idéias de **fim do cosmos na Europa dos séculos XVII e XVIII** de Rémi Brague e Alexandre Koyré, defendendo o desenvolvimento de uma cosmopolítica "não apenas no sentido de um cosmopolitismo, mas também no de uma **política do cosmos**" (Cosmopolítica de Isabelle Stengers).
+Para Hui, a **modernidade** é o ápice da ruptura epistemológica e metodológica, nesse sentido ("Terra e o cosmos foram transformados em um imenso sistema tecnológico"), aproxima-se da noção **Heideggeriana** do **fim da metafísica** e das idéias de "**fim do cosmos** na Europa dos séculos XVII e XVIII" de Rémi **Brague** e Alexandre Koyré, defendendo o desenvolvimento de uma cosmopolítica "não apenas no sentido de um cosmopolitismo, mas também no de uma **política do cosmos**" (ex: Cosmopolítica de Isabelle Stengers).
 
-### Quarta Parte: O autor propõe uma elucidação do conceito de cosmotécnica para tornar possível o desenvolvimento de uma cosmopolítica (de Stengers) (§4-5)
+### Quarta Parte: O autor aponta a necessidade de um conceito de cosmotécnica que torne possível o desenvolvimento de uma cosmopolítica (§4-5)
 
-Com o seu conceito de cosmotécnica, Hui torna explicito o objetivo de "reapresentar a questão da tecnologia desfazendo certas traduções que foram motivadas pela busca de equivalências ao longo da modernização. Apresenta essa problematização nos termos de uma antinomia kantiana que possui tanto uma tese e uma antítese sobre a universalidade antropológica da tecnologia
+Com o seu conceito de cosmotécnica, Hui torna explicito o objetivo de "reapresentar a questão da tecnologia desfazendo certas traduções que foram motivadas pela busca de equivalências ao longo da modernização e apresenta essa problematização nos termos de uma antinomia kantiana que possui tanto uma tese e uma antítese sobre a **universalidade antropológica da tecnologia**
 
 ### Quinta Parte: O autor propõe uma divisão do capítulo em três partes para explorar a relação entre cosmotécnica e cosmopolítica (§6)
 
@@ -179,9 +179,4 @@ Apresenta o conceito de comunicação como condição de realização do todo or
 
 ## 2. "Virada ontológica" como cosmopolítica
 
-### Primeira Parte: O autor apresenta o retorno ao cosmopolitismo kantiano como justificativa para uma reconsideração do cosmopolitismo que leve em conta a relação entre natureza e tecnologia (§1)
-
-Reforça o papel da natureza na filosofia política kantiana, que produz uma racionalidade equivalente a uma universalidade teleológica organicista que se concretiza na constituição tanto da moralidade como do Estado e atribui o "desencantamento" da natureza a mecanização proveniente da Revolução Industrial.
-
-Reforça que a "morte do cosmos" de Brague, empreendida pela modernidade europeia e a globalização tecnológica, ilustra a ineficácia de uma **metáfora biológica** para o cosmopolitismo e forma uma das condições para uma reflexão sobre a cosmopolítica, justificando o início por Kant, e não por discussões mais recentes (Martha Nussbaum e Anthony Appiah) para uma reconsideração do cosmopolitismo em relação a tecnologia e a natureza.
-
+XXXXXX

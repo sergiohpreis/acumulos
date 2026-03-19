@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 7:49:35 pm
+date modified: Thursday, March 19th 2026, 7:58:42 pm
 draft: false
 tags:
   - yuk-hui
@@ -73,6 +73,12 @@ Hui se afasta tanto de uma **preservação monoteísta racionalista** quanto de 
 
 Hui apresenta uma definição preliminar de cosmotécnica e defende que a crise expressa nas mais diversas noções ("Antropoceno", "Intrusão de Gaia" de Latour e Stiegler, juntamente com seu "Entropoceno") deve ser confrontada através de uma bifurcação de futuros tecnológicos sob a concepção de cosmotécnicas diferentes.
 
-### Segunda Parte: O autor apresenta o conceito de técnica em Heidegger, propondo ir além do mesmo para a superação da modernidade (§2-)
+### Segunda Parte: O autor apresenta o conceito moderno de técnica presente em Heidegger e propõe ir além do mesmo para uma superação da modernidade (§2-4)
 
-Hui afirma que seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] é uma tentativa de responder a [[HEIDEGGER Martin. A Questão da Técnica (1954)]] frente a uma necessidade de superação da modernidade, afirmando que o conceito de técnica presente em Heidegger embora muito usado também é muito estrito, mostrando que o veredito de Heidegger antecipa uma "globalização tecnológica como uma forma de neocolonização que impõe sua racionalidade via instrumentalidade, como o que se observa "nas políticas transhumanistas e neorreacionárias". 
+Hui afirma que seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] é uma tentativa de responder a [[HEIDEGGER Martin. A Questão da Técnica (1954)]] frente a uma necessidade de superação da modernidade, afirmando que o conceito de técnica presente em Heidegger embora muito usado também é muito estrito, mostrando que o veredito de Heidegger antecipa uma "globalização tecnológica como uma forma de neocolonização que impõe sua racionalidade via instrumentalidade, como o que se observa "nas políticas transhumanistas e neorreacionárias" e propondo uma recolocação da questão da técnica como uma variedade de cosmotécnica, e não como technē ou tecnologia moderna.
+
+### Terceira Parte: O autor descreve o pensamento cosmotécnico chinês através da unidade do "chi" e "tao" (§4-9)
+
+Hui afirma que em seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] tentou reconstruir a genealogia do pensamento tecnológico chinês
+
+### Quarta Parte: O autor defende que todas as culturas devem refletir sobre a questão da cosmotécnica para que uma nova cosmopolítica se concretize (§9)

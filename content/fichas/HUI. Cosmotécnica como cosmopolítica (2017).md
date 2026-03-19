@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 5:45:16 pm
+date modified: Thursday, March 19th 2026, 7:00:33 pm
 draft: false
 tags:
   - yuk-hui
@@ -66,3 +66,5 @@ Para Hui, um dos problemas latentes da virada ontológica é o foco dos antropó
 ### Quarta Parte: O autor se afasta da crítica pós colonial (racionalista ou de esquerda) propondo uma releitura do cosmopolitismo kantiano que considere tanto a modernização quanto as questões de tecnologia e da natureza (§4,5)
 
 Hui se afasta tanto de uma **preservação monoteísta racionalista** quanto de uma **exaltação da ontologia ou da biologia nativa como uma saída para a modernidade**, propondo uma superação da crítica pós-colonialista através de um retorno a Kant que considere o processo de modernização e as questões da natureza e da tecnologia. Retoma os conceitos antropológicos de natureza como "ecologias de relações" e conclui que as multiontologias se expressa, como multinaturezas, ou seja, em Descola, suas quatro ontologias correspondem a diferentes visões cosmológicas.
+
+## 3. Cosmotécnica como cosmopolítica

@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 5:30:07 pm
+date modified: Thursday, March 19th 2026, 5:45:16 pm
 draft: false
 tags:
   - yuk-hui
@@ -53,16 +53,16 @@ Apresenta o papel decisivo da tecnologia na filosofia política Kantiana juntame
 
 Demonstra o papel da natureza na filosofia política kantiana que impele a racionalidade a uma universalidade teleológica organicista e afirma que os empreendimentos da modernidade européia e a sua globalização produziram uma "morte do cosmos" (encantamento e desencantamento da natureza).
 
-### Segunda Parte: O autor apresenta o movimento da "virada ontológica" e o pluralismo ontológico de Descola como superação da ontologia moderna naturalista (§2,3)
+### Segunda Parte: O autor apresenta o movimento da "virada ontológica" e o pluralismo ontológico de Descola (§2,3)
 
 Apresenta a virada ontológica juntamente com alguns de seus autores, aprofundando o pluralismo ontológico de Descola que defende uma superação da oposição entre natureza e cultura (que se expressa no naturalismo moderno).
 
-### Terceira Parte: O autor aponta os limites da virada ontológica e apresenta uma justificativa para a dominação do naturalismo no pensamento moderno (§3)
+### Terceira Parte: O autor aponta os limites da virada ontológica e levanta uma hipótese sobre a dominação do naturalismo no pensamento em resposta a Descola (§3)
 
 Para Hui, um dos problemas latentes da virada ontológica é o foco dos antropólogos na questão da natureza e na política do não humano, que levou a um tratamento insuficiente da questão da técnica, justificando que se houve um analogismo em oposição há um naturalismo no modernismo europeu, a epistemologia e a ontologia da modernidade que se produziram são muito diferentes, afirmando que então uma imaginação cosmológica do gênero foi compatível com esse desenvolvimento tecnológico (a natureza só é dominada porque pode efetivamente ser dominada).
 
 > a natureza é considerada a fonte de contingências devido à sua "fragilidade conceitual" e, por isso, precisa ser subjugada pela lógica (§3, P35)
 
-### Quarta Parte: O autor se afasta dos pensamentos racionalista e de esquerda propondo uma releitura do cosmopolitismo kantiano que considere tanto a modernização quanto as questões de tecnologia e da natureza(§4,5)
+### Quarta Parte: O autor se afasta da crítica pós colonial (racionalista ou de esquerda) propondo uma releitura do cosmopolitismo kantiano que considere tanto a modernização quanto as questões de tecnologia e da natureza (§4,5)
 
 Hui se afasta tanto de uma **preservação monoteísta racionalista** quanto de uma **exaltação da ontologia ou da biologia nativa como uma saída para a modernidade**, propondo uma superação da crítica pós-colonialista através de um retorno a Kant que considere o processo de modernização e as questões da natureza e da tecnologia. Retoma os conceitos antropológicos de natureza como "ecologias de relações" e conclui que as multiontologias se expressa, como multinaturezas, ou seja, em Descola, suas quatro ontologias correspondem a diferentes visões cosmológicas.

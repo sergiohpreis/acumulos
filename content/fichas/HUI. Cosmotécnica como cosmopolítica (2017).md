@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 5:29:56 pm
+date modified: Thursday, March 19th 2026, 5:30:07 pm
 draft: false
 tags:
   - yuk-hui
@@ -35,13 +35,13 @@ Propõe uma divisão dos capítulos em três partes para explorar 3 aspectos:
 
 ## 1. Cosmopolitismo: Entre a Natureza e a Tecnologia
 
-### Primeira Parte: O autor apresenta a cosmopolítica como teleologia da natureza em Kant (encantamento) (§1-5)
+### Primeira Parte: O autor apresenta a cosmopolítica como teleologia da natureza em Kant (§1-5)
 
 Através de um trecho de "Ideia de uma história universal de um ponto de vista cosmopolita" de Kant explora a sua noção de um progresso como *"realização de um plano oculto da natureza"* através de uma relação necessária entre natureza e cosmopolítica, justificando que o desenvolvimento do conceito de **auto-organização** (comunidade, reciprocidade de ação) é causa da existência de uma afirmação ainda mais consistente da **cosmopolítica como teleologia do futuro** em Kant (1789), apresentando justaposições como de Hanna Arendt sobre os conceitos de paz perpétua.
 
 > a natureza só pode ser compreendida como um todo complexo, e a espécie humana, parte desse todo, acabará por progredir rumo à **história universal** que coincide com a **teleologia** da natureza (§4, P29)
 
-### Quarta Parte: O autor afirma as ideias kantianas foram produzidas em um momento de encantamento e desencantamento da natureza causado pelas ciências naturais que levaram a uma secularização do cosmos (§5-6)
+### Segunda Parte: O autor afirma as ideias kantianas foram produzidas em um momento de encantamento e desencantamento da natureza causado pelas ciências naturais que levaram a uma secularização do cosmos (§5-6)
 
 Demonstra que Kant reconhecesse o orgânico e uma conexão do cosmos com a moral ao mesmo tempo em que uma afirmação da "história" universal e os avanços da ciência e da tecnologia no século XVIII levaram a o que Brague considera uma "morte no cosmos" (ou até mesmo uma perda de caráter antropomórfico da Natureza de acordo com Diane Morgan).
 

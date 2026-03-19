@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 10:25:11 pm
+date modified: Thursday, March 19th 2026, 12:16:24 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -17,19 +17,20 @@ date: 2026-03-18
 
 >[!info] Anotações com base em [[HUI Yuk. Tecnodiversidade (2020)]]
 
->[!info] [[Antropoceno]]
+# Dicionário de Termos e Conceitos
 
-> [!info] [[Antropomorfismo]]
+> [!info] Boa parte com base no [[Abbagnano Nicola. Dicionário de Filosofia (2012)]]
 
->[!info] [[Era Axial]]
+- [[Antropoceno]]
+- [[Antropomorfismo]]
+- [[Era Axial]]
+- [[Contingência, Contingente]]
+- [[Cosmopolitismo]]
+- [[Secularização]]
 
->[!info] [[Contingência, Contingente]]
+# Questões, Idéias e etc
 
->[!info] [[Cosmopolitismo]]
-
-> [!info] [[Secularização]]
-
-> [!question] [[Quais são os diálogos possíveis entre Yuk Hui e Álvares Vieira Pinto?]]*
+- [[Quais são os diálogos possíveis entre Yuk Hui e Álvares Vieira Pinto?]]*
 
 # Índice
 
@@ -180,3 +181,4 @@ Apresenta o conceito de comunicação como condição de realização do todo or
 ## 2. "Virada ontológica" como cosmopolítica
 
 > [!Info] [[Socioconstrutivismo]]
+

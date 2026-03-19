@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 3:22:13 pm
+date modified: Thursday, March 19th 2026, 4:27:51 pm
 draft: false
 tags:
   - yuk-hui
@@ -62,11 +62,18 @@ Apresenta a noção de Hannah Arendt sobre o papel do senso comum na filosofia K
 
 ### Primeira Parte: O autor justifica a reiteração ao cosmopolitismo kantiano para uma reconsideração do cosmopolitismo examinando suas relações com a natureza e a tecnologia  (§1)
 
-Demonstra o papel da natureza na filosofia política kantiana que impele a racionalidade a uma universalidade teleológica organicista e afirma que os impactos da modernidade européia e a sua globalização "morte do cosmos")
+Demonstra o papel da natureza na filosofia política kantiana que impele a racionalidade a uma universalidade teleológica organicista e afirma que os empreendimentos da modernidade européia e a sua globalização produziram uma "morte do cosmos" (encantamento e desencantamento da natureza).
 
-### Segunda Parte: O autor apresenta o movimento da "virada ontológica" e o pluralismo ontológico de Descola (§2,3)
+### Segunda Parte: O autor apresenta o movimento da "virada ontológica" e o pluralismo ontológico de Descola como superação da ontologia moderna naturalista (§2,3)
+
+Apresenta a virada ontológica juntamente com alguns de seus autores, aprofundando o pluralismo ontológico de Descola que defende uma superação da oposição entre natureza e cultura (que se expressa no naturalismo moderno).
 
 ### Terceira Parte: O autor aponta os limites da virada ontológica e apresenta uma justificativa para a dominação do naturalismo no pensamento moderno (§3)
 
+Para Hui, um dos problemas latentes da virada ontológica é o foco dos antropólogos na questão da natureza e na política do não humano, que levou a um tratamento insuficiente da questão da técnica, justificando que se houve um analogismo em oposição há um naturalismo no modernismo europeu, a epistemologia e a ontologia da modernidade que se produziram são muito diferentes, afirmando que então uma imaginação cosmológica do gênero foi compatível com esse desenvolvimento tecnológico (a natureza só é dominada porque pode efetivamente ser dominada).
+
+> a natureza é considerada a fonte de contingências devido à sua "fragilidade conceitual" e, por isso, precisa ser subjugada pela lógica (§3, P35)
+
 ### Quarta Parte: O autor propõe uma releitura do cosmopolitismo kantiano de acordo com o processo de modernização e revisitando as questões de tecnologia e da natureza de maneira diferente (§4,5)
 
+Hui se afasta tanto do pensamento de preservação monoteísta racionalista e do pensamento d

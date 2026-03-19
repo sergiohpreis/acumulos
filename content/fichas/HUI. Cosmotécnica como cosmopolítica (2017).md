@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 7:00:33 pm
+date modified: Thursday, March 19th 2026, 7:39:46 pm
 draft: false
 tags:
   - yuk-hui
@@ -69,4 +69,6 @@ Hui se afasta tanto de uma **preservação monoteísta racionalista** quanto de 
 
 ## 3. Cosmotécnica como cosmopolítica
 
-TBD
+### Primeira Parte: O autor defende uma rearticulação da questão da tecnologia sobre a perspectiva das cosmotécnicas para superação da crise (§1)
+
+Para Hui, a crise expressa nas mais diversas noções ("Antropoceno", "Intrusão de Gaia" de Latour e Stiegler, juntamente com seu "Entropoceno") deve ser confrontada através de uma bifurcação de futuros tecnológicos sob a concepção de cosmotécnicas diferentes.

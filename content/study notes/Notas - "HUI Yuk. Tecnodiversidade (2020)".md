@@ -179,4 +179,4 @@ Apresenta o conceito de comunicação como condição de realização do todo or
 
 ## 2. "Virada ontológica" como cosmopolítica
 
-XXXXXX
+> [!Info] [[Socioconstrutivismo]]

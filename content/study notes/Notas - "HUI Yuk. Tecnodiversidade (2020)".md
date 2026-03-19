@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 8:06:42 pm
+date modified: Wednesday, March 18th 2026, 9:59:45 pm
 tags:
   - tecnodiversidade
   - tecnologia
@@ -122,11 +122,13 @@ Crítica a noção ocidental de entrelaçamento de Danny Hillis, por pregar uma 
 §8 - Demarca os artigos da obra com relação a **teoria da tecnodiversidade** e da **fragmentação**
 - busca elaborar uma teoria política a partir da tecnodiversidade
 
-# Cosmotécnica como cosmopolítica (2017)
+# 1. Cosmotécnica como cosmopolítica (2017)
 
 ## Intro
 
-### Primeira Parte: O autor propõe que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**", como regime comercial e política da natureza. (§1)
+### Primeira Parte: O autor propõe que o "**fim da globalização**" e a "**chegada do Antropoceno**" são dois sentidos diferentes da palavra "**cosmopolítica**"(§1)
+
+Respectivamente, como regime comercial e como política da natureza. 
 
 ### Segunda Parte: O autor argumenta sobre as causas do **fim da globalização unilateral** (§2-3)
 

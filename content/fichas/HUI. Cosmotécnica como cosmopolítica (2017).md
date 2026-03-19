@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 4:27:51 pm
+date modified: Thursday, March 19th 2026, 4:34:17 pm
 draft: false
 tags:
   - yuk-hui
@@ -74,6 +74,6 @@ Para Hui, um dos problemas latentes da virada ontológica é o foco dos antropó
 
 > a natureza é considerada a fonte de contingências devido à sua "fragilidade conceitual" e, por isso, precisa ser subjugada pela lógica (§3, P35)
 
-### Quarta Parte: O autor propõe uma releitura do cosmopolitismo kantiano de acordo com o processo de modernização e revisitando as questões de tecnologia e da natureza de maneira diferente (§4,5)
+### Quarta Parte: O autor se afasta dos pensamentos racionalista e de esquerda propondo uma releitura do cosmopolitismo kantiano que considere tanto a modernização quanto as questões de tecnologia e da natureza(§4,5)
 
-Hui se afasta tanto do pensamento de preservação monoteísta racionalista e do pensamento d
+Hui se afasta tanto de uma **preservação monoteísta racionalista** quanto de uma **exaltação da ontologia ou da biologia nativa como uma saída para a modernidade**, propondo uma superação da crítica pós-colonialista através de um retorno a Kant que considere o processo de modernização e as questões da natureza e da tecnologia. Retoma os conceitos antropológicos de natureza como "ecologias de relações" e conclui que as multiontologias se expressa, como multinaturezas, ou seja, em Descola, suas quatro ontologias correspondem a diferentes visões cosmológicas.

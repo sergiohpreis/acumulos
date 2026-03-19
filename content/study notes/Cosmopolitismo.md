@@ -8,7 +8,7 @@ draft: false
 date: 2026-03-18
 ---
 
-> [!info] Com base em [[Abbagnano Nicola. Dicionário de Filosofia (2012)]]
+> [!info] Com base em [[Abbagnano Nicola. Dicionário de Filosofia (1XXX)]]
 
 ![[Pasted image 20260317202104.png|400]]
 ![[Pasted image 20260317202119.png|400]]

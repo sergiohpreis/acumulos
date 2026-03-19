@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 8:09:45 pm
+date modified: Thursday, March 19th 2026, 8:10:56 pm
 draft: false
 tags:
   - yuk-hui
@@ -91,4 +91,4 @@ Para Hui, "todas as culturas não europeias deveriam sistematizar suas próprias
 
 > ... para superarmos a modernidade sem recair em guerras e no fascismo, parece-me necessário nos reapropriar da tecnologia moderna através da estrutura renovada de uma cosmotécnica que consista em diferentes epistemologias e epistemes
 
-Se afasta dos tradicionalistas, que para Hui possuem um projeto de substancialização da tradição (ex: Dugin e Guénon), para Hui, "o objetivo não é recusar a tecnologia moderna, mas analisar a possibilidade de futuros tecnológicos diferentes
+Se afasta dos tradicionalistas, que para Hui possuem um projeto de substancialização da tradição (ex: Dugin e Guénon), para Hui, "o objetivo não é recusar a tecnologia moderna, mas analisar a possibilidade de futuros tecnológicos diferentes defendendo uma recusa a um futuro tecnológico homogêneo como que é única opção.

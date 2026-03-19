@@ -1,53 +1,69 @@
 ---
-date created: Wednesday, February 11th 2026, 5:46:42 pm
-date modified: Wednesday, February 11th 2026, 11:21:05 pm
-status:
-  - finished
-started_at: 2026-01-28T22:30:00
-finished_at: 2026-02-02T14:00:00
-year: "2020"
-tags:
-  - cosmotécnica
-  - filosofia
-  - técnica
-  - livros
 title: HUI Yuk. Tecnodiversidade (2020)
-description: Anotações do "HUI Yuk. Tecnodiversidade (2020)"
-permalink:
-aliases:
-draft: false
-date: 2026-02-11
 authors:
   - Yuk Hui
-type:
-  - livro
+status:
+  - READING
+rating: 5
+published_year: 2020
+categories:
+  - Filosofia
+  - Cosmotécnica
+  - Técnica
+  - Tecnologia
+pages: 224
+isbn: 9786586497229
+publisher:
+  - Ubu
+language:
+  - Português
+shelf:
+  - Tecnologia
+format:
+  - PHYSICAL
+finish_date: 2026-02-02
+edition_year: 2020
+tags:
+  - livros
+  - filosofia
+  - cosmotécnica
+  - técnica
+  - tecnologia
+draft: false
+date: 2026-03-19T20:11:46.874904313-03:00
 ---
 
-## 2026-01-30
+## Resumo
 
-- Aborda muito a questão do fim do Iluminismo.
-- Yuk Hui pretende se afastar de uma leitura antropológica e utilitária da tecnologia (como a de Kissinger) tomando a tecnologia moderna como constituintes de formas específicas de conhecimento e racionalidade (como proposto por [[Heidegger, Simmondon. The Question Concerning Technology. 1953]])
+- Sessões: 20
+- Páginas lidas: 160
+- Tempo total: 12h 03m
+- Avaliação: ⭐⭐⭐⭐⭐ (5/5)
+- Autores: Yuk Hui
+- Status: Lendo
+- Total de páginas: 224
+- Finalizado em: 02/02/2026
 
-- Também propõe uma critica ao aceleracionismo (na P82) e novamente na (P88), propondo uma aceleração no sentido oposto. 
-- Na visão de Yuk Hui, Den Xiaoping é o maior aceleracionista do mundo
+## Sessões
 
-## 2026-02-02
+- **2026-03-19 19:32 - 20:11** - Páginas 39-46 (8 páginas) - Finalizando a ficha de 3. Cosmotécnica como cosmopolítica - 0h39m
+- **2026-03-19 18:27 - 19:00** - Páginas 39-46 (8 páginas) - Anotações no texto para a ficha de 3. Cosmotécnica como cosmopolítica - 0h33m
+- **2026-03-19 16:11 - 16:35** - Páginas 32-38 (7 páginas) - Transcrevendo as anotações para a ficha 'HUI. Cosmotécnica como cosmopolítica (2017)' - 0h23m
+- **2026-03-19 15:23 - 15:53** - Páginas 35-38 (4 páginas) - Terminando as anotações para o fichamento de estrutura expositiva de 2. "Virada Ontológica" como cosmopolítica - 0h29m
+- **2026-03-19 12:19 - 12:55** - Páginas 32-35 (4 páginas) - Lendo e anotando para o fichamento da estrutura expositiva - 0h35m
+- **2026-03-18 22:32 - 22:47** - Páginas 32-35 (4 páginas) - Sono... - 0h15m
+- **2026-03-18 22:07 - 22:22** - Páginas 26-32 (7 páginas) - Revisando notações - 0h15m
+- **2026-03-18 19:35 - 20:17** - Páginas 32-35 (4 páginas) - Grifando e começando o fichamento de estrutura expositiva - 0h42m
+- **2026-03-18 13:37 - 14:21** - Páginas 26-32 (7 páginas) - Revisando ficha - 0h44m
+- **2026-03-18 00:45 - 02:15** - Páginas 26-32 (7 páginas) - 1. Cosmopolitismo: Entre a Natureza e a Tecnologia - 1h30m
+- **2026-03-17 23:57 - 00:37** - Páginas 23-25 (3 páginas) - Refazendo o Fichamento de Estrutura Expositiva (Sacrini) após reler o livro - 0h40m
+- **2026-03-17 20:11 - 20:56** - Páginas 26-32 (7 páginas) - 0h44m
+- **2026-03-17 19:13 - 19:57** - Páginas 23-25 (3 páginas) - Fichamento de Estrutura Expositiva (Sacrini) - 0h44m
+- **2026-03-17 18:22 - 19:08** - Páginas 15-20 (6 páginas) - Fichamento de Estrutura Expositiva (Sacrini) - 0h45m
+- **2026-03-16 20:39 - 21:31** - Páginas 15-20 (6 páginas) - Prefácio - Escrevendo Resumo - 0h52m
+- **2026-03-16 20:18 - 20:37** - Páginas 15-20 (6 páginas) - Prefácio - Sublinhando alguns pontos - 0h19m
+- **2026-03-16 17:53 - 18:36** - Páginas 1-14 (14 páginas) - Breve resumo da apresentação + orelhas - 0h43m
+- **2026-01-29 17:30 - 17:55** - Páginas 35-55 (21 páginas) - 35 + 21 = 56 - 1 = 55 - 0h25m
+- **2026-01-29 08:30 - 08:55** - Páginas 21-34 (14 páginas) - 21 + 14 = 35 - 1 = 34 - 0h25m
+- **2026-01-28 22:30 - 22:50** - Páginas 1-20 (20 páginas) - 0h20m
 
-No capítulo "Tecnodiversidade e as bifurcações do futuro", vi a seguinte citação:
-
-> A eficiência é um fator muito importante na inovação tecnológica, mas precisa ser medida de acordo com uma visão de longo prazo, e não com base em lucros imediatos
-> Páginas: 89 a 96
-
-Em "Depois da superação do dualismo":
-
-> Uma comunidade humana é muito mais do que a soma dos agentes humanos que a constituem; ela também inclui o ambiente e outros seres não humanos
-
-Em "Mundo e inteligência" na P174:
-> O poder da inteligência artificial se baseia na redução do mundo a modelos computacionais
-
-Em "Inteligência e Cosmotécnica", P178
-
-- Discorre sobre a fantasia da Super Inteligência 
-- Tentativa de mostrar que a inteligência não é limitada pelo calcúlo ou pela analise dos fenômenos (fim do cápitulo)
-
-Em "Cem anos de crise", fala sobre a pandemia, o vírus, e etc.  Na P203, justifica a superioridade da "governança autoritária chinesa" sobre a "governança liberal / libertária ocidental"

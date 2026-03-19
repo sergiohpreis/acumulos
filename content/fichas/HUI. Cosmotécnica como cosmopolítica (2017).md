@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 7:58:42 pm
+date modified: Thursday, March 19th 2026, 8:09:45 pm
 draft: false
 tags:
   - yuk-hui
@@ -79,6 +79,16 @@ Hui afirma que seu livro [[HUI Yuk. The Question Concerning Technology in China 
 
 ### Terceira Parte: O autor descreve o pensamento cosmotécnico chinês através da unidade do "chi" e "tao" (§4-9)
 
-Hui afirma que em seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] tentou reconstruir a genealogia do pensamento tecnológico chinês
+Hui afirma que em seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] tentou reconstruir a genealogia do pensamento tecnológico chinês e mostra como o pensamento cosmotécnico chinês consiste em uma longa história de pensamentos sobre a unidade do "chi" e do "tao", sendo que essa união também é uma união da moral e do cosmos, defendendo que a metafísica chinesa é, em essência uma "cosmologia moral" ou uma "metafísica moral", concordando com o novo confucionista  "Mou Tsung-San" e explicando a base de sua moral com relação ao pensamento Kantiano.
+
+Aprofunda os conceitos de Chi e Tao, inclusive relacionando com os númenos e os fenômenos de Kant, fornecendo o exemplo da história do açougueiro Pao Ding para ilustrar esses conceitos, mostrando a prevalência da questão do "viver" mais do que a questão da técnica na narrativa.
+
+O autor reforça a necessidade de uma atenção ao desenvolvimento histórico do chi e do tao, também presente em [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] visando reconstruir uma tradição de pensamento tecnológico na China através das lentes da episteme chi-tao.
 
 ### Quarta Parte: O autor defende que todas as culturas devem refletir sobre a questão da cosmotécnica para que uma nova cosmopolítica se concretize (§9)
+
+Para Hui, "todas as culturas não europeias deveriam sistematizar suas próprias cosmotécnicas e as histórias dessas cosmotécnicas" para o surgimento de uma nova cosmopolítica, para Hui:
+
+> ... para superarmos a modernidade sem recair em guerras e no fascismo, parece-me necessário nos reapropriar da tecnologia moderna através da estrutura renovada de uma cosmotécnica que consista em diferentes epistemologias e epistemes
+
+Se afasta dos tradicionalistas, que para Hui possuem um projeto de substancialização da tradição (ex: Dugin e Guénon), para Hui, "o objetivo não é recusar a tecnologia moderna, mas analisar a possibilidade de futuros tecnológicos diferentes

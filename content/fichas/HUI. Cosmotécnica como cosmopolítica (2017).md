@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 7:39:46 pm
+date modified: Thursday, March 19th 2026, 7:49:35 pm
 draft: false
 tags:
   - yuk-hui
@@ -71,4 +71,8 @@ Hui se afasta tanto de uma **preservação monoteísta racionalista** quanto de 
 
 ### Primeira Parte: O autor defende uma rearticulação da questão da tecnologia sobre a perspectiva das cosmotécnicas para superação da crise (§1)
 
-Para Hui, a crise expressa nas mais diversas noções ("Antropoceno", "Intrusão de Gaia" de Latour e Stiegler, juntamente com seu "Entropoceno") deve ser confrontada através de uma bifurcação de futuros tecnológicos sob a concepção de cosmotécnicas diferentes.
+Hui apresenta uma definição preliminar de cosmotécnica e defende que a crise expressa nas mais diversas noções ("Antropoceno", "Intrusão de Gaia" de Latour e Stiegler, juntamente com seu "Entropoceno") deve ser confrontada através de uma bifurcação de futuros tecnológicos sob a concepção de cosmotécnicas diferentes.
+
+### Segunda Parte: O autor apresenta o conceito de técnica em Heidegger, propondo ir além do mesmo para a superação da modernidade (§2-)
+
+Hui afirma que seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] é uma tentativa de responder a [[HEIDEGGER Martin. A Questão da Técnica (1954)]] frente a uma necessidade de superação da modernidade, afirmando que o conceito de técnica presente em Heidegger embora muito usado também é muito estrito, mostrando que o veredito de Heidegger antecipa uma "globalização tecnológica como uma forma de neocolonização que impõe sua racionalidade via instrumentalidade, como o que se observa "nas políticas transhumanistas e neorreacionárias". 

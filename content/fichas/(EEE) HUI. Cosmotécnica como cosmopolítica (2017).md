@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 8:10:56 pm
+date modified: Thursday, March 19th 2026, 8:32:11 pm
 draft: false
 tags:
   - yuk-hui
@@ -11,6 +11,8 @@ tags:
   - moderno
 date: 2026-03-19
 ---
+
+> [!info] Texto contido em [[HUI Yuk. Tecnodiversidade (2020)]]
 
 ## Intro
 
@@ -92,3 +94,9 @@ Para Hui, "todas as culturas não europeias deveriam sistematizar suas próprias
 > ... para superarmos a modernidade sem recair em guerras e no fascismo, parece-me necessário nos reapropriar da tecnologia moderna através da estrutura renovada de uma cosmotécnica que consista em diferentes epistemologias e epistemes
 
 Se afasta dos tradicionalistas, que para Hui possuem um projeto de substancialização da tradição (ex: Dugin e Guénon), para Hui, "o objetivo não é recusar a tecnologia moderna, mas analisar a possibilidade de futuros tecnológicos diferentes defendendo uma recusa a um futuro tecnológico homogêneo como que é única opção.
+
+---
+
+Qual o problema central enfrentado pelo texto?
+Qual a tese / posição proposta pelo autor?
+Qual a argumentação oferecida para sustentar a tese / posição ?

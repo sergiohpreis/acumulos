@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 4:59:58 pm
+date modified: Thursday, March 19th 2026, 5:09:24 pm
 draft: false
 tags:
   - yuk-hui
@@ -36,13 +36,9 @@ Com o seu conceito de cosmotécnica, Hui torna explicito o objetivo de "reaprese
 
 ## 1. Cosmopolitismo: Entre a Natureza e a Tecnologia
 
-### Primeira Parte: O autor apresenta a reconciliação entre o universal e o particular como a principal dificuldade de toda cosmopolítica (§1)
+### Primeira Parte: O autor questiona apresenta a cosmopolítica como teleologia da natureza em Kant (§1-3)
 
-Relaciona a universalidade com a visão de um espectador em oposição a de um ator, exemplificando o ponto de vista cosmopolita Kantiano através de um trecho ("Ideia de uma história universal de um ponto de vista cosmopolita") em que Kant apresenta sua ideia sobre um propósito da natureza que possibilita uma história segundo um **determinado plano**
-
-### Segunda Parte: O autor questiona a concretização da cosmopolítica como teleologia da natureza em Kant (§2-3)
-
-Explora a noção kantiana de um progresso como "realização de um plano oculto da natureza" através de uma relação necessária entre natureza e cosmopolítica, juntamente com uma justaposição de Hanna Arendt sobre a paz perpétua Kantiana com relação ao "direito de visitar países estrangeiros" e o "direito a hospitalidade" em oposição a natureza, justificando que o desenvolvimento do conceito de auto-organização é causa da existência de uma afirmação ainda mais consistente da cosmopolítica como teleologia do futuro em Kant (1789).
+Através de um trecho de "Ideia de uma história universal de um ponto de vista cosmopolita" de Kant explora sua a noção de um progresso como "realização de um plano oculto da natureza" através de uma relação necessária entre natureza e cosmopolítica, justificando que o desenvolvimento do conceito de **auto-organização** é causa da existência de uma afirmação ainda mais consistente da **cosmopolítica como teleologia do futuro** em Kant (1789), apresentando justaposições como de Hanna Arendt sobre os conceitos de paz perpétua.
 
 ### Terceira Parte: O autor descreve um universalismo em Kant e situa historicamente seu conceito de relação entre cosmopolítica e propósito da natureza  (§3-5)
 

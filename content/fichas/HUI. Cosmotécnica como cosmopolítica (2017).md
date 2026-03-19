@@ -68,3 +68,5 @@ Para Hui, um dos problemas latentes da virada ontológica é o foco dos antropó
 Hui se afasta tanto de uma **preservação monoteísta racionalista** quanto de uma **exaltação da ontologia ou da biologia nativa como uma saída para a modernidade**, propondo uma superação da crítica pós-colonialista através de um retorno a Kant que considere o processo de modernização e as questões da natureza e da tecnologia. Retoma os conceitos antropológicos de natureza como "ecologias de relações" e conclui que as multiontologias se expressa, como multinaturezas, ou seja, em Descola, suas quatro ontologias correspondem a diferentes visões cosmológicas.
 
 ## 3. Cosmotécnica como cosmopolítica
+
+TBD

@@ -58,5 +58,5 @@ Demonstra o reconhecimento do orgânico e a conexão do cosmos com a moral em Ka
 
 Apresenta a noção de Hannah Arendt sobre o papel do senso comum na filosofia Kantiana enquanto questão de comunidade e consenso, e propõe uma problematização em qualquer discurso que considere o comum como algo dado ou precedente a técnica. Relaciona o conceito da "era do Iluminismo" como "uso público da razão" em Arendt e Stiegler com a atual necessidade de tecnologia para comunicação, traçando um paralelo com os elementos de uma relação pacífica na paz perpétua de Kant.
 
-## 2. "Virada Ontológica" como cosmopolí
+## 2. "Virada Ontológica" como cosmopolítica
 

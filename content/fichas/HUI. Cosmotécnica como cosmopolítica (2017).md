@@ -60,3 +60,13 @@ Apresenta a noção de Hannah Arendt sobre o papel do senso comum na filosofia K
 
 ## 2. "Virada Ontológica" como cosmopolítica
 
+### Primeira Parte: O autor justifica a reiteração ao cosmopolitismo kantiano para uma reconsideração do cosmopolitismo examinando suas relações com a natureza e a tecnologia  (§1)
+
+Demonstra o papel da natureza na filosofia política kantiana que impele a racionalidade a uma universalidade teleológica organicista e afirma que os impactos da modernidade européia e a sua globalização "morte do cosmos")
+
+### Segunda Parte: O autor apresenta o movimento da "virada ontológica" e o pluralismo ontológico de Descola (§2,3)
+
+### Terceira Parte: O autor aponta os limites da virada ontológica e apresenta uma justificativa para a dominação do naturalismo no pensamento moderno (§3)
+
+### Quarta Parte: O autor propõe uma releitura do cosmopolitismo kantiano de acordo com o processo de modernização e revisitando as questões de tecnologia e da natureza de maneira diferente (§4,5)
+

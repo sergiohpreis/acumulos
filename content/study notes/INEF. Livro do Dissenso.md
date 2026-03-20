@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 5th 2026, 7:48:23 am
-date modified: Thursday, March 19th 2026, 11:46:15 pm
+date modified: Friday, March 20th 2026, 12:14:24 am
 tags:
   - filosofia
   - mitologia
@@ -125,7 +125,7 @@ Faz sentido pensar em uma ideia de logos, de ordenação, algo que torna possív
 
 **Citação:**
 
-> “E se eu disser [...] que acontece também de ser esse o maior bem para o homem – fazer discursos todos os dias sobre a virtude e as demais coisas sobre as quais vocês me ouvem dialogar, inspecionando a mim mesmo e aos outros –, e que a vida sem inspeção não vale a pena ser vivida pelo homem, aí é que vocês enquanto falo, vão me dar menos ouvidos ainda. - Sócrates, personagem de Platão
+> “E se eu disser (...) que acontece também de ser esse o maior bem para o homem – fazer discursos todos os dias sobre a virtude e as demais coisas sobre as quais vocês me ouvem dialogar, inspecionando a mim mesmo e aos outros –, e que a vida sem inspeção não vale a pena ser vivida pelo homem, aí é que vocês enquanto falo, vão me dar menos ouvidos ainda. - Sócrates, personagem de Platão
 
 **Guia de reflexão:**
 
@@ -136,3 +136,6 @@ Faz sentido pensar em uma ideia de logos, de ordenação, algo que torna possív
 
 **Resposta:**
 
+Quando Sócrates afirma que a vida sem inspeção não vale a pena ser vivida, ele afirma que esse é o sentido da vida para ele, inspecionar a si e as outros, mas o trecho também demonstra que seu foco em falar primeiramente "sobre as virtudes", ou seja, demonstra o seu campo de interesse teórico. 
+
+Hoje a atividade que mais me da prazer é justamente a de estudar, pelo descobrimento, descobrir não necessariamente é sinônimo de alegria, porque podemos descobrir coisas que não nos são boas, mas como a descoberta segue adiante, o mal não é definitivo.

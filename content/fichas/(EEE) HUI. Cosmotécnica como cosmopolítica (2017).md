@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Friday, March 20th 2026, 11:59:29 am
+date modified: Friday, March 20th 2026, 12:28:19 pm
 draft: false
 tags:
   - yuk-hui
@@ -39,32 +39,29 @@ Propõe uma divisão dos capítulos em três partes para explorar 3 aspectos:
 
 ### Primeira Parte: O autor apresenta a cosmopolítica como teleologia da natureza de Kant (§1-5)
 
-Através de um trecho de *"Ideia de uma história universal de um ponto de vista cosmopolita"* de Kant, explora a noção de um progresso como *"realização de um plano oculto da natureza"* expressada em uma relação necessária entre **natureza** e **cosmopolítica**,
+Através de um trecho de *"Ideia de uma história universal de um ponto de vista cosmopolita"* de Kant, explora a noção de progresso como *"realização de um plano oculto da natureza"*, como uma relação necessária entre **natureza** e **cosmopolítica**. Argumenta que o desenvolvimento do conceito de **auto-organização** (comunidade, reciprocidade de ação) é causa da existência de uma afirmação ainda mais consistente da **cosmopolítica como teleologia do futuro** em Kant (1789), apresentando justaposições como de Hanna Arendt sobre os conceitos de paz perpétua.
 
+> a natureza só pode ser compreendida como um todo complexo, e a espécie humana, parte desse todo, acabará por progredir rumo à história universal que coincide com a teleologia da natureza (§4, P29)
 
-justificando que o desenvolvimento do conceito de **auto-organização** (comunidade, reciprocidade de ação) é causa da existência de uma afirmação ainda mais consistente da **cosmopolítica como teleologia do futuro** em Kant (1789), apresentando justaposições como de Hanna Arendt sobre os conceitos de paz perpétua.
+### Segunda Parte: O autor argumenta que as ideias kantianas foram produzidas em um momento de encantamento e desencantamento da natureza causado pelas ciências naturais que levaram a uma secularização do cosmos (§5-6)
 
-> a natureza só pode ser compreendida como um todo complexo, e a espécie humana, parte desse todo, acabará por progredir rumo à **história universal** que coincide com a **teleologia** da natureza (§4, P29)
+Hui mostra que embora Kant reconhecesse o orgânico e uma conexão do cosmos com a moral, a afirmação da "história" universal e os avanços da ciência e da tecnologia no século XVIII levaram ao que Brague considera uma *"morte no cosmos"* (ou até mesmo uma **perda de caráter antropomórfico da Natureza** de acordo com Diane Morgan).
 
-### Segunda Parte: O autor afirma as ideias kantianas foram produzidas em um momento de encantamento e desencantamento da natureza causado pelas ciências naturais que levaram a uma secularização do cosmos (§5-6)
-
-Demonstra que Kant reconhecesse o orgânico e uma conexão do cosmos com a moral ao mesmo tempo em que uma afirmação da "história" universal e os avanços da ciência e da tecnologia no século XVIII levaram a o que Brague considera uma "morte no cosmos" (ou até mesmo uma perda de caráter antropomórfico da Natureza de acordo com Diane Morgan).
-
-Apresenta o papel decisivo da tecnologia na filosofia política Kantiana juntamente com as interpretações de Hanna Arendt sobre o papel do senso comum (comunidade, consenso) em Kant, propondo uma problematização em qualquer discurso ingênuo que enxergue o comum como algo dado ou precedente a técnica. Para Hui, a era do Iluminismo enquanto "uso público da razão" só é possível mediante a tecnologia (por exemplo, de impressão)
+Apresenta o papel decisivo da tecnologia na filosofia política Kantiana juntamente com as interpretações de Hanna Arendt sobre o papel do senso comum (comunidade, consenso) em Kant. Propõe uma problematização em qualquer discurso ingênuo que enxergue o comum como algo dado ou precedente a técnica. Para Hui, a era do Iluminismo enquanto "uso público da razão" só é possível mediante a tecnologia (por exemplo, de impressão).
 
 ## 2. "Virada Ontológica" como cosmopolítica
 
 ### Primeira Parte: O autor justifica a reiteração ao cosmopolitismo kantiano para uma reconsideração do cosmopolitismo examinando suas relações com a natureza e a tecnologia  (§1)
 
-Demonstra o papel da natureza na filosofia política kantiana que impele a racionalidade a uma universalidade teleológica organicista e afirma que os empreendimentos da modernidade européia e a sua globalização produziram uma "morte do cosmos" (encantamento e desencantamento da natureza).
+Demonstra o papel da natureza na filosofia política kantiana que impele a racionalidade a uma **universalidade teleológica organicista** e afirma que os empreendimentos da modernidade européia e a sua globalização produziram uma "**morte do cosmos**" (encantamento e desencantamento da natureza).
 
 ### Segunda Parte: O autor apresenta o movimento da "virada ontológica" e o pluralismo ontológico de Descola (§2,3)
 
-Apresenta a virada ontológica juntamente com alguns de seus autores, aprofundando o pluralismo ontológico de Descola que defende uma superação da oposição entre natureza e cultura (que se expressa no naturalismo moderno).
+Apresenta a virada ontológica juntamente com alguns de seus autores, aprofundando o **pluralismo ontológico de Descola** que defende uma superação da oposição entre natureza e cultura (que se expressa no naturalismo moderno).
 
 ### Terceira Parte: O autor aponta os limites da virada ontológica e levanta uma hipótese sobre a dominação do naturalismo no pensamento em resposta a Descola (§3)
 
-Para Hui, um dos problemas latentes da virada ontológica é o foco dos antropólogos na questão da natureza e na política do não humano, que levou a um tratamento insuficiente da questão da técnica, justificando que se houve um analogismo em oposição há um naturalismo no modernismo europeu, a epistemologia e a ontologia da modernidade que se produziram são muito diferentes, afirmando que então uma imaginação cosmológica do gênero foi compatível com esse desenvolvimento tecnológico (a natureza só é dominada porque pode efetivamente ser dominada).
+Para Hui, um dos problemas latentes da virada ontológica é o foco dos antropólogos na questão da natureza e na política do não humano, que levou a um **tratamento insuficiente da questão da técnica**, justificando que se houve um analogismo em oposição a um naturalismo no modernismo europeu, a epistemologia e a ontologia da modernidade que se produziram são bem diferentes, afirmando que então uma **imaginação cosmológica do gênero** foi compatível com esse desenvolvimento tecnológico (a natureza só é dominada porque pode efetivamente ser dominada).
 
 > a natureza é considerada a fonte de contingências devido à sua "fragilidade conceitual" e, por isso, precisa ser subjugada pela lógica (§3, P35)
 

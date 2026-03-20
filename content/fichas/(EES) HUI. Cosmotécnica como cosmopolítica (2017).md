@@ -16,7 +16,10 @@ date: 2026-03-19
 
 ## Qual o problema central enfrentado pelo texto?
 
+Antropoceno, crise
+causada pela modernidade
 
+deve ser superada através d
 
 ## Qual a tese / posição proposta pelo autor?
 

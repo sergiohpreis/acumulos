@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 5th 2026, 7:48:23 am
-date modified: Tuesday, March 17th 2026, 1:35:21 pm
+date modified: Thursday, March 19th 2026, 11:46:15 pm
 tags:
   - filosofia
   - mitologia
@@ -98,7 +98,7 @@ Em sua citação, Nietzsche busca defender a importância dos pensadores pré so
 
 Acho que faz sentido essa defesa, não tem como negar o papel dos pré socráticos, assim como também, devemos nos esforçar para não trazer a visão predominantemente eurocêntrica. Isso não significa descartar os pré socráticos, mas sim, buscar outras origens em outras culturas também.
 
-### Aula: Filosofia pré-socrática
+### Aula: Heráclito e Parmênides
 
 **Citações:**
 > 1. É sábio que os que ouviram não a mim, mas ao **logos**, reconheçam que todas as coisas são um (pánta hén) (Fr. 50) - Heráclito
@@ -121,5 +121,18 @@ Faz sentido pensar em uma ideia de logos, de ordenação, algo que torna possív
 **Anotações:**
 - Heráclito (**Mobilismo**) vs Parmênides (**Imobilismo**)
 
+### Aula: Sofistas e Sócrates
 
+**Citação:**
+
+> “E se eu disser [...] que acontece também de ser esse o maior bem para o homem – fazer discursos todos os dias sobre a virtude e as demais coisas sobre as quais vocês me ouvem dialogar, inspecionando a mim mesmo e aos outros –, e que a vida sem inspeção não vale a pena ser vivida pelo homem, aí é que vocês enquanto falo, vão me dar menos ouvidos ainda. - Sócrates, personagem de Platão
+
+**Guia de reflexão:**
+
+1. O que Sócrates queria dizer, com base na aula que você acabou de assistir?
+2. Como essas ideias de Sócrates podem ser interpretadas e aplicadas no mundo atual?
+3. O que essas reflexões significam para você pessoalmente?
+4. Complete esta frase: “Com base nesse entendimento, nesta semana, tomarei esta ação concreta de ...”
+
+**Resposta:**
 

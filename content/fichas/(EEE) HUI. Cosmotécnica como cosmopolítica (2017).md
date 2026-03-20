@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Thursday, March 19th 2026, 8:32:11 pm
+date modified: Friday, March 20th 2026, 11:59:54 am
 draft: false
 tags:
   - yuk-hui
@@ -20,26 +20,29 @@ date: 2026-03-19
 
 ### Segunda Parte: O autor argumenta sobre as causas do fim de uma globalização unilateral (§2-3)
 
-Para Hui, a globalização **universaliza epistemologias particulares** e através de meios tecnoeconômicos "eleva uma visão de mundo regional ao status de metafísica supostamente global". Relaciona os eventos do 11 de setembro a noção Hegeliana de consciência infeliz e defende a necessidade de uma "nova linguagem cosmopolítica" que possibilite a formulação de  uma nova ordem mundial que vá além de uma única hegemonia, criticando o "futurismo transumanista baseado na aceleração tecnológica de todas as escalas cósmicas"
+Para Hui, a globalização **universaliza epistemologias particulares** e através de meios tecnoeconômicos *"eleva uma visão de mundo regional ao status de metafísica supostamente global"*. Relaciona os eventos do 11 de setembro a noção hegeliana de **consciência infeliz** e defende a necessidade de uma *"nova linguagem cosmopolítica"* que possibilite a formulação de  uma nova ordem mundial que vá além de uma única hegemonia, criticando o *"futurismo transumanista baseado na aceleração tecnológica de todas as escalas cósmicas"*.
 
 ### Terceira Parte: O autor argumenta sobre as causas da "crise do Antropoceno" (§4)
 
-Para Hui, a modernidade proporcionou uma ruptura epistemológica e metodológica uma vez que "A Terra e o cosmos foram transformados em um imenso sistema tecnológico", aproximando-se da noção Heideggeriana do **fim da metafísica** e das idéias de **fim do cosmos na Europa dos séculos XVII e XVIII** de Rémi Brague e Alexandre Koyré, defendendo o desenvolvimento de uma cosmopolítica "não apenas no sentido de um cosmopolitismo, mas também no de uma **política do cosmos**" (Cosmopolítica de Isabelle Stengers).
+Para Hui, a modernidade proporcionou uma ruptura epistemológica e metodológica ("A Terra e o cosmos foram transformados em um imenso sistema tecnológico"), aproximando-se da noção heideggeriana de **fim da metafísica** de **fim do cosmos** na Europa dos séculos XVII e XVIII de *Rémi Brague* e *Alexandre Koyré*, defendendo o desenvolvimento de uma cosmopolítica *"não apenas no sentido de um cosmopolitismo, mas também no de uma política do cosmos"* (Cosmopolítica de Isabelle Stengers).
 
-### Quarta Parte: O autor propõe uma elucidação do conceito de cosmotécnica para tornar possível o desenvolvimento de uma cosmopolítica (de Stengers) (§4-6)
+### Quarta Parte: O autor propõe uma elucidação do conceito de cosmotécnica para tornar possível o desenvolvimento de uma cosmopolítica (§4-6)
 
-Com o seu conceito de cosmotécnica, Hui torna explicito o objetivo de "reapresentar a questão da tecnologia desfazendo certas traduções que foram motivadas pela busca de equivalências ao longo da modernização. Apresenta essa problematização nos termos de uma antinomia kantiana que possui tanto uma tese e uma antítese sobre a universalidade antropológica da tecnologia
+Com o seu conceito de **cosmotécnica**, Hui torna explicito o objetivo de *"reapresentar a questão da tecnologia desfazendo certas traduções que foram motivadas pela busca de equivalências ao longo da modernização"*. Apresenta essa problematização nos termos de uma antinomia kantiana que possui tanto uma **tese** e uma **antítese** sobre a **universalidade antropológica da tecnologia**
 
 Propõe uma divisão dos capítulos em três partes para explorar 3 aspectos:
 1. relação entre os conceitos kantianos de **cosmopolítica** e **natureza**
-2. comparação do **multinaturalismo** da "virada ontológica" com a busca kantiana pelo **universal**
-3. defesa da adoção da cosmologia em direção à **cosmoética** como política por vir
+2. comparação do **multinaturalismo** da *"virada ontológica"* com a busca kantiana pelo **universal**
+3. defesa da adoção da **cosmologia** em direção à **cosmoética** como política por vir
 
 ## 1. Cosmopolitismo: Entre a Natureza e a Tecnologia
 
-### Primeira Parte: O autor apresenta a cosmopolítica como teleologia da natureza em Kant (§1-5)
+### Primeira Parte: O autor apresenta a cosmopolítica como teleologia da natureza de Kant (§1-5)
 
-Através de um trecho de "Ideia de uma história universal de um ponto de vista cosmopolita" de Kant explora a sua noção de um progresso como *"realização de um plano oculto da natureza"* através de uma relação necessária entre natureza e cosmopolítica, justificando que o desenvolvimento do conceito de **auto-organização** (comunidade, reciprocidade de ação) é causa da existência de uma afirmação ainda mais consistente da **cosmopolítica como teleologia do futuro** em Kant (1789), apresentando justaposições como de Hanna Arendt sobre os conceitos de paz perpétua.
+Através de um trecho de *"Ideia de uma história universal de um ponto de vista cosmopolita"* de Kant, explora a noção de um progresso como *"realização de um plano oculto da natureza"* expressada em uma relação necessária entre **natureza** e **cosmopolítica**,
+
+
+justificando que o desenvolvimento do conceito de **auto-organização** (comunidade, reciprocidade de ação) é causa da existência de uma afirmação ainda mais consistente da **cosmopolítica como teleologia do futuro** em Kant (1789), apresentando justaposições como de Hanna Arendt sobre os conceitos de paz perpétua.
 
 > a natureza só pode ser compreendida como um todo complexo, e a espécie humana, parte desse todo, acabará por progredir rumo à **história universal** que coincide com a **teleologia** da natureza (§4, P29)
 

@@ -16,6 +16,8 @@ date: 2026-03-19
 
 ## Qual o problema central enfrentado pelo texto?
 
+
+
 ## Qual a tese / posição proposta pelo autor?
 
 ## Qual a argumentação oferecida para sustentar a tese / posição ?

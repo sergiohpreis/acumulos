@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Friday, March 20th 2026, 12:28:19 pm
+date modified: Friday, March 20th 2026, 12:35:05 pm
 draft: false
 tags:
   - yuk-hui
@@ -9,10 +9,11 @@ tags:
   - filosofia
   - antropologia
   - moderno
-date: 2026-03-19
+  - globalização
+date: 2026-03-20
 ---
 
-> [!info] Texto contido em [[HUI Yuk. Tecnodiversidade (2020)]]
+> [!info] Texto em [[HUI Yuk. Tecnodiversidade (2020)]]
 
 ## Intro
 
@@ -73,19 +74,19 @@ Hui se afasta tanto de uma **preservação monoteísta racionalista** quanto de 
 
 ### Primeira Parte: O autor defende uma rearticulação da questão da tecnologia sobre a perspectiva das cosmotécnicas para superação da crise (§1)
 
-Hui apresenta uma definição preliminar de cosmotécnica e defende que a crise expressa nas mais diversas noções ("Antropoceno", "Intrusão de Gaia" de Latour e Stiegler, juntamente com seu "Entropoceno") deve ser confrontada através de uma bifurcação de futuros tecnológicos sob a concepção de cosmotécnicas diferentes.
+Hui apresenta uma definição preliminar de cosmotécnica e defende que a crise expressa nas mais diversas noções ("Antropoceno", "Intrusão de Gaia" de Latour e Stiegler, juntamente com seu "Entropoceno") deve ser confrontada através de uma bifurcação de futuros tecnológicos **sob a concepção de cosmotécnicas diferentes**.
 
 ### Segunda Parte: O autor apresenta o conceito moderno de técnica presente em Heidegger e propõe ir além do mesmo para uma superação da modernidade (§2-4)
 
-Hui afirma que seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] é uma tentativa de responder a [[HEIDEGGER Martin. A Questão da Técnica (1954)]] frente a uma necessidade de superação da modernidade, afirmando que o conceito de técnica presente em Heidegger embora muito usado também é muito estrito, mostrando que o veredito de Heidegger antecipa uma "globalização tecnológica como uma forma de neocolonização que impõe sua racionalidade via instrumentalidade, como o que se observa "nas políticas transhumanistas e neorreacionárias" e propondo uma recolocação da questão da técnica como uma variedade de cosmotécnica, e não como technē ou tecnologia moderna.
+Hui afirma que seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)|The Question Concerning Technology in China]] é uma tentativa de responder a [[HEIDEGGER Martin. A Questão da Técnica (1954)]] para uma **superação da modernidade**, afirmando que o conceito de técnica presente em Heidegger embora muito usado também é muito estrito, mostrando que o veredito de Heidegger antecipa uma *"globalização tecnológica como uma forma de neocolonização que impõe sua racionalidade via instrumentalidade"*, como o que se observa "nas políticas transhumanistas e neorreacionárias" e propondo uma recolocação da questão da **técnica como uma variedade de cosmotécnica**, e não como technē ou tecnologia moderna.
 
 ### Terceira Parte: O autor descreve o pensamento cosmotécnico chinês através da unidade do "chi" e "tao" (§4-9)
 
-Hui afirma que em seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] tentou reconstruir a genealogia do pensamento tecnológico chinês e mostra como o pensamento cosmotécnico chinês consiste em uma longa história de pensamentos sobre a unidade do "chi" e do "tao", sendo que essa união também é uma união da moral e do cosmos, defendendo que a metafísica chinesa é, em essência uma "cosmologia moral" ou uma "metafísica moral", concordando com o novo confucionista  "Mou Tsung-San" e explicando a base de sua moral com relação ao pensamento Kantiano.
+Hui afirma que em seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)|The Question Concerning Technology in China]] tentou reconstruir a **genealogia do pensamento tecnológico chinês**. Mostra como o pensamento cosmotécnico chinês consiste em uma longa história de pensamentos sobre **a unidade do "chi" e do "tao"**, sendo que essa união também é uma **união da moral e do cosmos**, defendendo que a metafísica chinesa é, em essência uma "cosmologia moral" ou uma "metafísica moral", concordando com o novo confucionismo de Mou Tsung-San e explicando a base de sua moral com relação ao pensamento kantiano.
 
-Aprofunda os conceitos de Chi e Tao, inclusive relacionando com os númenos e os fenômenos de Kant, fornecendo o exemplo da história do açougueiro Pao Ding para ilustrar esses conceitos, mostrando a prevalência da questão do "viver" mais do que a questão da técnica na narrativa.
+Aprofunda os conceitos de Chi e Tao, inclusive relacionando com os **númenos e os fenômenos de Kant**, fornecendo o exemplo da história do açougueiro Pao Ding para ilustrar esses conceitos, mostrando a prevalência da questão do "viver" mais do que a questão da técnica na narrativa.
 
-O autor reforça a necessidade de uma atenção ao desenvolvimento histórico do chi e do tao, também presente em [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]] visando reconstruir uma tradição de pensamento tecnológico na China através das lentes da episteme chi-tao.
+O autor reforça a necessidade de uma atenção ao desenvolvimento histórico do chi e do tao (também presente em [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)|The Question Concerning Technology in China]]) visando reconstruir uma tradição de pensamento tecnológico na China através das lentes da *episteme chi-tao.*
 
 ### Quarta Parte: O autor defende que todas as culturas devem refletir sobre a questão da cosmotécnica para que uma nova cosmopolítica se concretize (§9)
 
@@ -93,10 +94,8 @@ Para Hui, "todas as culturas não europeias deveriam sistematizar suas próprias
 
 > ... para superarmos a modernidade sem recair em guerras e no fascismo, parece-me necessário nos reapropriar da tecnologia moderna através da estrutura renovada de uma cosmotécnica que consista em diferentes epistemologias e epistemes
 
-Se afasta dos tradicionalistas, que para Hui possuem um projeto de substancialização da tradição (ex: Dugin e Guénon), para Hui, "o objetivo não é recusar a tecnologia moderna, mas analisar a possibilidade de futuros tecnológicos diferentes defendendo uma recusa a um futuro tecnológico homogêneo como que é única opção.
+Se afasta dos tradicionalistas, que para Hui possuem um projeto de **substancialização da tradição** (ex: Dugin e Guénon), para Hui, *"o objetivo não é recusar a tecnologia moderna"*, mas analisar a possibilidade de futuros tecnológicos diferentes defendendo uma recusa a um futuro tecnológico homogêneo como que é única opção.
 
 ---
 
-Qual o problema central enfrentado pelo texto?
-Qual a tese / posição proposta pelo autor?
-Qual a argumentação oferecida para sustentar a tese / posição ?
+[[(EES) HUI. Cosmotécnica como cosmopolítica (2017)]]

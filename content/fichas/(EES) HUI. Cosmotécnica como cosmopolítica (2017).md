@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Friday, March 20th 2026, 12:59:36 pm
+date modified: Friday, March 20th 2026, 1:09:27 pm
 draft: true
 tags:
   - yuk-hui
@@ -20,21 +20,14 @@ Tanto a crise do Antropoceno quanto o fim da globalização para Hui são sentid
 
 ## Qual a tese / posição proposta pelo autor?
 
-Para Hui, é necessário uma cosmopolítica que considere as cosmotécnicas, pois a modernidade, juntamente com a sua globalização, promoveu uma ruptura ontológica e epistemológica ao buscar uma espécie de sincronização global do cosmos, levando a uma universalização da questão da 
-
-
-, e nesse sentido, promoveram novos sentidos para a cosmopolítica, como por exemplo a crise do Antropoceno e o fim da globalização
-
-que juntamente com a sua globalização, promovem uma ruptura ontológica e epistemológica buscando uma espécie de sincronização global. 
-
-Para Hui, é necessário uma superação da modernidade
-
- através de uma cosmopolítica que considere as cosmotécnicas.
-
-
-Hui defende que é necessário uma superação da modernidade, que possui uma noção muito limitada de tecnologia (influenciada pelo pensamento heideggeriano).
+Para Hui, é necessário uma cosmopolítica que considere as cosmotécnicas, pois a modernidade, juntamente com a sua globalização, promoveu uma ruptura ontológica e epistemológica ao buscar uma espécie de sincronização global do cosmos, levando a uma universalização / singularização da questão da tecnologia, desconsiderando as múltiplas cosmotécnicas.
 
 ## Qual a argumentação oferecida para sustentar a tese / posição ?
+
+Hui argumenta que o pensamento moderno foi muito influenciado por uma noção heideggeriana muito estrita de técnica, que internacionaliza a técnica moderna como se fosse a única existente. 
+
+
+> "globalização tecnológica como uma forma de neocolonização que impõe sua racionalidade via instrumentalidade"
 
  portanto, é necessário uma superação da mesma, que possui uma noção estrita demais sobre técnica, muito influenciada pelo pensamento heideggeriano.
 

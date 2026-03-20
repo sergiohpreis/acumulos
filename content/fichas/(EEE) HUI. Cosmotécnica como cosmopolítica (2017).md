@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Friday, March 20th 2026, 12:35:05 pm
+date modified: Friday, March 20th 2026, 1:08:08 pm
 draft: false
 tags:
   - yuk-hui
@@ -78,7 +78,7 @@ Hui apresenta uma definição preliminar de cosmotécnica e defende que a crise 
 
 ### Segunda Parte: O autor apresenta o conceito moderno de técnica presente em Heidegger e propõe ir além do mesmo para uma superação da modernidade (§2-4)
 
-Hui afirma que seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)|The Question Concerning Technology in China]] é uma tentativa de responder a [[HEIDEGGER Martin. A Questão da Técnica (1954)]] para uma **superação da modernidade**, afirmando que o conceito de técnica presente em Heidegger embora muito usado também é muito estrito, mostrando que o veredito de Heidegger antecipa uma *"globalização tecnológica como uma forma de neocolonização que impõe sua racionalidade via instrumentalidade"*, como o que se observa "nas políticas transhumanistas e neorreacionárias" e propondo uma recolocação da questão da **técnica como uma variedade de cosmotécnica**, e não como technē ou tecnologia moderna.
+Hui afirma que seu livro [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)|The Question Concerning Technology in China]] é uma tentativa de responder a [[HEIDEGGER Martin. A Questão da Técnica (1954)]] para uma **superação da modernidade**. Heidegger trata a tecnologia como internacional (e não universal), como se só existisse essa tecnologia moderna descrita por ele, por isso Hui acredita que o seu discurso, amplamente usado como base , é muito estrito e antecipa uma *"globalização tecnológica como uma forma de neocolonização que impõe sua racionalidade via instrumentalidade"* (ex: "nas políticas transhumanistas e neorreacionárias") e propondo uma recolocação da questão da **técnica como uma variedade de cosmotécnica**, e não como technē ou tecnologia moderna.
 
 ### Terceira Parte: O autor descreve o pensamento cosmotécnico chinês através da unidade do "chi" e "tao" (§4-9)
 

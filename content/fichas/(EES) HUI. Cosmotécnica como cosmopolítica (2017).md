@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Friday, March 20th 2026, 12:37:26 pm
+date modified: Friday, March 20th 2026, 12:44:31 pm
 draft: true
 tags:
   - yuk-hui
@@ -16,10 +16,21 @@ date: 2026-03-19
 
 ## Qual o problema central enfrentado pelo texto?
 
-Para Hui, as crises expressas nas mais diversas formas, como por exemplo, no Antropoceno, são causadas pela modernidade, juntamente com a sua globalização, que acabam promovendo rupturas ontológicas e epistemológicas
-
-Hui defende que a modernidade, juntamente com a sua globalização, causou uma crise que é expressa, por exemplo, como o Antropoceno. Nesse sentido, busca apresentar uma solução para o que chama de uma "superação da modernidade", dialogando com autores do movimento antropológico chamado de "virada ontológica", defendendo que
+Para Hui, as crises que são expressas nas mais diversas formas (como por exemplo, no Antropoceno), são causadas pela modernidade. Estabelece um dialogo com o movimento antropológico contemporâneo chamado de "virada ontológica", apontando as limitações em suas formulações (sobre tudo da pluralidade ontológica de Descola).
 
 ## Qual a tese / posição proposta pelo autor?
 
+pA
+
+que juntamente com a sua globalização, promovem uma ruptura ontológica e epistemológica buscando uma espécie de sincronização global. 
+
+Para Hui, é necessário uma superação da modernidade
+
+ através de uma cosmopolítica que considere as cosmotécnicas.
+
+
+Hui defende que é necessário uma superação da modernidade, que possui uma noção muito limitada de tecnologia (influenciada pelo pensamento heideggeriano).
+
 ## Qual a argumentação oferecida para sustentar a tese / posição ?
+
+Hui propõe uma cosmopolítica que considere as cosmotécnicas, propondo então um retorno a filosofia política kantiana e a sua cosmopolítica que considere a modernização e a relação entre natureza e tecnologia.

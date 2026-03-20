@@ -1,7 +1,7 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Friday, March 20th 2026, 1:09:27 pm
-draft: true
+date modified: Friday, March 20th 2026, 1:16:22 pm
+draft: false
 tags:
   - yuk-hui
   - cosmopolítica
@@ -9,7 +9,7 @@ tags:
   - filosofia
   - antropologia
   - moderno
-date: 2026-03-19
+date: 2026-03-20
 ---
 
 > [!info] Texto em [[HUI Yuk. Tecnodiversidade (2020)]]
@@ -24,13 +24,6 @@ Para Hui, é necessário uma cosmopolítica que considere as cosmotécnicas, poi
 
 ## Qual a argumentação oferecida para sustentar a tese / posição ?
 
-Hui argumenta que o pensamento moderno foi muito influenciado por uma noção heideggeriana muito estrita de técnica, que internacionaliza a técnica moderna como se fosse a única existente. 
+Hui argumenta que o pensamento moderno foi muito influenciado por uma noção heideggeriana muito estrita de técnica, que internacionaliza (e não universaliza) a tecnologia moderna como se fosse a única existente, com um veredito que antecipa a *"globalização tecnológica como uma forma de neocolonização que impõe sua racionalidade via instrumentalidade"*.
 
-
-> "globalização tecnológica como uma forma de neocolonização que impõe sua racionalidade via instrumentalidade"
-
- portanto, é necessário uma superação da mesma, que possui uma noção estrita demais sobre técnica, muito influenciada pelo pensamento heideggeriano.
-
-Para Hui, é necessário uma cosmopolítica que leve em conta as cosmotécnicas, propondo um retorno a cosmopolítica kantiana frente a necessidade de considerar a relação entre tecnologia e natureza, entretanto, considerando a modernidade defendendo que todo pais não europeu deveria sistematizar a sua própria cosmotécnica
-
-Hui propõe uma cosmopolítica que considere as cosmotécnicas, propondo então um retorno a filosofia política kantiana e a sua cosmopolítica que considere a modernização e a relação entre natureza e tecnologia.
+Para Hui, é necessário uma cosmopolítica que leve em conta as cosmotécnicas, e embora a chamada "virada ontológica" busque apresentar uma proposta que considere múltiplas ontologias (ex: as quatro ontologias de Descola), possui um tratamento insuficiente a questão da tecnologia ao atribuir demasiada importância a natureza e ao não humano, por isso, propõe um retorno a cosmopolítica kantiana, que considere a relação entre tecnologia e natureza sem deixar de considerar a modernização, defendendo que assim como feito em [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)]], todo país europeu deveria sistematizar a sua cosmotécnica e a história do pensamento sobre tecnologia para uma superação da modernidade que não leve ao fascismo e as guerras.

@@ -10,7 +10,7 @@ date: 2026-03-20
 
 > [!info] Texto em [[HUI Yuk. Tecnodiversidade (2020)]]
 
-### Primeira Parte: xxxxxxxxx (§1-)
+### Primeira Parte: O autor apresenta apresenta a obsolescência do pr dos neorreacionários (§1-)
 
 ---
 

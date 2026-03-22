@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Saturday, March 21st 2026, 6:05:07 pm
+date modified: Sunday, March 22nd 2026, 7:19:55 pm
 draft: true
 tags:
   - yuk-hui
@@ -13,7 +13,9 @@ date: 2026-03-20
 
 ## 1. A decadência do ocidente... outra vez?
 
-### Primeira Parte: O autor exemplifica a principal atitude e objetivo dos neorreacionários com relação ao Iluminismo (§1,2)
+### Primeira Parte: O autor apresenta o pensamento neorreacionário e os seus componentes
+
+O autor exemplifica a principal atitude e objetivo dos neorreacionários com relação ao Iluminismo (§1,2)
 
 ### Segunda Parte: O autor explica o conceito de "consciência infeliz" hegeliana e o associa ao pensamento neorreacionário (§3-5)
 

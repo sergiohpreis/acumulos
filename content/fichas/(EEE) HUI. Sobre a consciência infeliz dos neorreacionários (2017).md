@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Sunday, March 22nd 2026, 7:30:50 pm
+date modified: Sunday, March 22nd 2026, 8:02:56 pm
 draft: true
 tags:
   - yuk-hui
@@ -20,6 +20,10 @@ date: 2026-03-20
 ### Terceira Parte: O autor explora a adoção dos neorreacionários a idéia de declínio do ocidente (§5,6)
 
 ## 2. Crítica ao Iluminismo
+
+O autor argumenta  que a rejeição ao Iluminismo dos neorreacionários se configura como um ataque aos valores iluministas de democracia e liberdade
+
+O autor argumenta que o retorno a monarquia dos neorreacionários se coloca como um ataque aos valores iluministas de democracia e liberdade
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Sunday, March 22nd 2026, 7:29:25 pm
+date modified: Sunday, March 22nd 2026, 7:30:50 pm
 draft: true
 tags:
   - yuk-hui
@@ -17,7 +17,7 @@ date: 2026-03-20
 
 ### Segunda Parte: O autor explica o conceito de "consciência infeliz" hegeliana e a sua relação com o pensamento neorreacionário (§3-5)
 
-### Terceira Parte: O autor explora a rejeição ao Iluminismo dos neorreacionários e a sua adoção a ideia de declínio do ocidente (§5,6)
+### Terceira Parte: O autor explora a adoção dos neorreacionários a idéia de declínio do ocidente (§5,6)
 
 ## 2. Crítica ao Iluminismo
 

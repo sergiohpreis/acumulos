@@ -25,6 +25,8 @@ date: 2026-03-20
 
 ### Quinta Parte: O autor explora o desejo por produtividade dos neorreacionários associando-o a transformação dialética da globalização (universalização) (§10,11)
 
+
+
 ---
 
 [[(EES) HUI. Sobre a consciência infeliz dos neorreacionários (2017)]]

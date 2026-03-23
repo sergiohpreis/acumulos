@@ -23,7 +23,7 @@ date: 2026-03-20
 
 ### Quarta Parte: O autor explora a contradição entre democracia e liberdade presente no pensamento neorreacionário com relação aos valores Iluministas (§7-9)
 
-### Quinta Parte: O autor explora o desejo por produtividade dos neorreacionários associando-o a transformação dialética da globalização (§10,11)
+### Quinta Parte: O autor explora o desejo por produtividade dos neorreacionários associando-o a transformação dialética da globalização (universalização) (§10,11)
 
 ---
 

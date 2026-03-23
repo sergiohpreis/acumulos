@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 5th 2026, 7:48:23 am
-date modified: Friday, March 20th 2026, 12:14:24 am
+date modified: Monday, March 23rd 2026, 8:09:11 pm
 tags:
   - filosofia
   - mitologia
@@ -8,8 +8,9 @@ tags:
   - heraclito
   - parmênides
   - história-da-filosofia
+  - platão
 draft: false
-date: 2026-03-12T18:00:00
+date: 2026-03-23
 ---
 
 > [!note] O "Livro do Dissenso" é uma proposta pedagógica do Núcleo de Formação Filosófica do INEF
@@ -139,3 +140,20 @@ Faz sentido pensar em uma ideia de logos, de ordenação, algo que torna possív
 Quando Sócrates afirma que a vida sem inspeção não vale a pena ser vivida, ele afirma que esse é o sentido da vida para ele, inspecionar a si e as outros, mas o trecho também demonstra que seu foco em falar primeiramente "sobre as virtudes", ou seja, demonstra o seu campo de interesse teórico. 
 
 Hoje a atividade que mais me da prazer é justamente a de estudar, pelo descobrimento, descobrir não necessariamente é sinônimo de alegria, porque podemos descobrir coisas que não nos são boas, mas como a descoberta segue adiante, o mal não é definitivo.
+
+### Aula: Platão
+
+**Citação:**
+
+> “E agora, meu caro Glauco, é preciso aplicar exatamente essa alegoria ao que dissemos anteriormente. Devemos assimilar o mundo que apreendemos pela vista à estada na prisão, a luz do fogo que ilumina a caverna à ação do sol. Quanto à subida e à contemplação do que há no alto, considera que se trata da ascensão da alma até o lugar inteligível, e não te enganarás sobre minha esperança, já que desejas conhecê-la." - Platão
+
+**Guia de reflexão:**
+
+1. O que Platão queria dizer, com base na aula que você acabou de assistir?
+2. Como essas ideias podem ser interpretadas e aplicadas no mundo atual?
+3. O que essas reflexões significam para você pessoalmente?
+4. Complete esta frase: “Com base nesse entendimento, nesta semana, tomarei esta ação concreta de ...”
+
+**Resposta:**
+
+TBD

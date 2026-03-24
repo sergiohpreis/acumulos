@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Monday, March 23rd 2026, 10:26:30 pm
+date modified: Monday, March 23rd 2026, 10:38:31 pm
 draft: true
 tags:
   - yuk-hui
@@ -25,9 +25,15 @@ date: 2026-03-20
 
 ### Quinta Parte: O autor explora o desejo por produtividade presente no pensamento neorreacionário e a sua relação com a ideia de uma universalização apresentada como globalização (§10,11)
 
+## ~~3. A consciência infeliz neorreacionária~~
+
 ### Sexta Parte: O autor explora a universalização enquanto um processo de modernização possibilitado pela globalização e pela colonização (§12-15)
 
-### Sétima Parte: O autor explora as causas da ascenção do ultranacionalismo c (§16-x)
+### Sétima Parte: O autor explora o caráter internacional do movimento neorreacionário e a sua relação com a globalização (§16-18)
+
+## ~~4. Como pensar depois do derretimento
+
+### Oitava Parte: O autor explora a s(§19)
 
 ---
 

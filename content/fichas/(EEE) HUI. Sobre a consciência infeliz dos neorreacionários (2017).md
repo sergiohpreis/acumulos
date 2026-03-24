@@ -1,12 +1,12 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
 date modified: Monday, March 23rd 2026, 11:33:14 pm
-draft: true
+draft: false
 tags:
   - yuk-hui
   - filosofia
   - iluminismo
-date: 2026-03-20
+date: 2026-03-23
 ---
 
 > [!info] Texto em [[HUI Yuk. Tecnodiversidade (2020)]]

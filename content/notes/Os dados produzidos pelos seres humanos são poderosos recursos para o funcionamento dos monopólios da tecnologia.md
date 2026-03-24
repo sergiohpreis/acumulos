@@ -5,8 +5,9 @@ tags:
   - dados
   - tecnologia
   - imperialismo
+  - reflexões
 draft: false
-date: 2025-01-07
+date: 2025-03-24
 ---
 
 > [!info] Refs

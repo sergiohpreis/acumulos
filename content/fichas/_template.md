@@ -1,19 +1,32 @@
 ---
 date created: Thursday, March 19th 2026, 8:30:52 pm
-date modified: Thursday, March 19th 2026, 8:36:32 pm
+date modified: Tuesday, March 24th 2026, 6:59:55 pm
 draft: false
 date: 2026-03-19
 ---
 
-## EEE (Estrutura Expositiva Expressa)
+# Informações da Obra
 
-### Primeira Parte: O autor propõe o fim da globalização e a chegada do Antropoceno como sentidos de cosmopolítica (§1)
+- Qual o título preciso do texto?
+- Quem é o autor?
+- Quando e onde o texto foi publicado?
+- Em linhas gerais, de que o texto trata?
+• Qual o contexto da publicação?
+• Caso se trate de tradução, há informações sobre sua qualidade?
 
-(PEQUENO RESUMO)
+Com base nessa respostas, escrever um pequeno resumo da obra
 
-### Segunda Parte Parte: xxxxxxx
+# EEE (Estrutura Expositiva Expressa)
 
-## EES (Estrutura Expositiva Sintética)
+### Primeira Parte: \[Título dado pelo leitor] (§1-X) \[a quais parágrafos do texto a divisão corresponde]
+
+Neste trecho, o autor \[ ... ] _\[acrescenta-se_ _pequeno_ _resumo_ _do_ _trecho]_
+
+### N Parte: \[Título dado pelo leitor] (§X-X) \[a quais parágrafos do texto a divisão corresponde]
+
+Neste trecho, o autor \[ ... ] _\[acrescenta-se_ _pequeno_ _resumo_ _do_ _trecho]_
+
+# EES (Estrutura Expositiva Sintética)
 
 ## Qual o problema central enfrentado pelo texto?
 

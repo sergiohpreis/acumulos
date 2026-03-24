@@ -24,7 +24,7 @@ tags:
   - epistemologia
   - filosofia
 draft: false
-date: 2026-03-24T10:36:49.368388739-03:00
+date: 2026-03-24T10:41:42.029676232-03:00
 ---
 
 ## Resumo
@@ -37,5 +37,5 @@ date: 2026-03-24T10:36:49.368388739-03:00
 ## Notas
 
 ### 2026-03-24 10:36
-Vou iniciar essa leitura junto com o clube do livro do Filosofia Vermelha, começando pelos livros I e II
+Vou iniciar essa leitura junto com o clube do livro do Filosofia Vermelha, começando pelos livros I (21 até 106) e II (107 até 517)
 

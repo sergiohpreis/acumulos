@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Monday, March 23rd 2026, 11:33:14 pm
+date modified: Tuesday, March 24th 2026, 11:52:30 am
 draft: false
 tags:
   - yuk-hui
@@ -50,7 +50,7 @@ Para Hui, o movimento neorreacionário e a "alt right" são:
 
 Explora as manifestações do ultranacionalismo contemporâneo como em Dugin (quarta teoria política), Wan Chin em Hong Kong e crítica as revoluções comunistas por uma falha em respeitar a tradição, propondo então uma transformação na própria tradição para construir uma nova episteme.
 
-## ~~4. Como pensar depois do derretimento
+## ~~4. Como pensar depois do derretimento~~
 
 ### Oitava Parte: O autor explora a ideia de singularidade como solução presente no pensamento neorreacionário (modernistas reacionários) (§19,20)
 

@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Monday, March 23rd 2026, 11:29:58 pm
+date modified: Monday, March 23rd 2026, 11:33:14 pm
 draft: true
 tags:
   - yuk-hui
@@ -23,27 +23,27 @@ Associa o pensamento de Thiel a condição da "consciência infeliz" hegeliana e
 
 > *"A consciência infeliz é o momento trágico em que a consciência percebe a contradição no âmago de sua natureza até então despreocupada ou mesmo cômica. O que a consciência-de-si pensava que fosse finalizado e inteiro se revela inacabado e fragmentado. Ela reconhece o Outro do eu como uma contradição, enquanto, ao mesmo tempo, não sabe como suprassumi-lo."* (P51, §3)
 
-### Terceira Parte: O autor explora a adoção dos neorreacionários a idéia de declínio do ocidente e da rejeição ao Iluminismo(§5,6)
+### Terceira Parte: O autor compara a adoção dos neorreacionários a idéia de declínio do ocidente e da rejeição ao Iluminismo(§5,6)
 
-Explora como para os neorreacionários, "o Iluminismo em geral - e a democracia em particular - se mostra como um Outro alienado do eu", analisando essa adoção a idéia de "declínio do Ocidente" como "a repetição de momentos históricos conhecidos".
+Mostra como para os neorreacionários, "o Iluminismo em geral - e a democracia em particular - se mostra como um Outro alienado do eu", analisando essa adoção a idéia de "declínio do Ocidente" como "a repetição de momentos históricos conhecidos".
 
 ## ~~2. Crítica ao Iluminismo~~
 
-### Quarta Parte: O autor explora a incompatibilidade entre democracia e liberdade presente no pensamento neorreacionário com relação aos valores Iluministas (§7-10)
+### Quarta Parte: O autor detalha a incompatibilidade entre democracia e liberdade presente no pensamento neorreacionário com relação aos valores Iluministas (§7-10)
 
 Hui analisa a crítica ao Iluminismo presente no pensamento neorreacionário relacionando esse debate com o Século das Luzes europeu, demonstrando como os neorreacionários apresentam essa consciência infeliz que causa uma confusão de sentimentos, e portanto, levando a um retorno aos pensadores conservadores do Iluminismo (uma negação da negação).
 
-### Quinta Parte: O autor explora o desejo por produtividade presente no pensamento neorreacionário e a sua relação com a ideia de uma universalização apresentada como globalização (§10,11)
+### Quinta Parte: O autor associa o desejo por produtividade presente no pensamento neorreacionário a ideia de uma universalização apresentada como globalização (§10,11)
 
 Explora a adoção do "sinofuturismo" como modelo e associa a ascensão dos neorreacionários a um fracasso de uma universalização apresentada como globalização, associando o seu pensamento a um "protesto em face de uma transformação dialética da globalização".
 
 ## ~~3. A consciência infeliz neorreacionária~~
 
-### Sexta Parte: O autor explora a universalização / sincronização enquanto um processo de modernização (§12-15)
+### Sexta Parte: O autor explica a universalização / sincronização enquanto um processo de modernização (§12-15)
 
 Crítica a ideia de uma modernização reflexiva do século XX e concorda com Latour sobre a reflexividade como um modo de universalização por outros meios que não a guerra e explora as consequências dessa modernização enquanto universalização.
 
-### Sétima Parte: O autor explora o caráter internacional do movimento neorreacionário e a sua relação com a globalização, propondo uma transformação na relação com a tradição (§16-18)
+### Sétima Parte: O autor exemplifica o caráter internacional do movimento neorreacionário e a sua relação com a globalização, propondo uma transformação na relação com a tradição (§16-18)
 
 Para Hui, o movimento neorreacionário e a "alt right" são:
 > expressões de uma ansiedade quanto ao fato de o Ocidente ser incapaz de superar a atual fase de globalização e de manter os privilégios desfrutados ao longo das últimas centenas de anos (P65, §16)

@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 5th 2026, 7:48:23 am
-date modified: Monday, March 23rd 2026, 11:39:15 pm
+date modified: Monday, March 23rd 2026, 11:43:38 pm
 tags:
   - filosofia
   - mitologia
@@ -159,3 +159,20 @@ Hoje a atividade que mais me da prazer é justamente a de estudar, pelo descobri
 Quando Platão fala sobre "à subida e à contemplação do que há no alto" ele esta falando sobre a dialética ascendente, onde o homem ascendente até o mundo das formas, inteligível, herdado desde o nascimento mas por nós esquecidos. Para Platão, existe um mundo "ideal", as formas, onde esta presente a perfeição, a tarefa do filósofo é ascender até esse mundo e descender, transformando esse conhecimento e compartilhando-o.
 
 A idéia de compartilhar, de ascender, não me é estranha, entretanto, não existe um mundo ideal, as coisas não são eternas, imutáveis, o mundo material muda, e a realidade é dialética, se trata mais sobre estar, do que sobre ser.
+
+### Aula: Metafísica de Aristóteles
+
+**Citação:**
+
+> “É de grande utilidade proceder gradualmente para o que é mais cognoscível. Na verdade, todos chegam ao saber desta forma: partindo das coisas menos cognoscíveis por natureza \[= as coisas sensíveis\] em direção àquelas mais cognoscíveis por natureza \[= as coisas inteligíveis\].” Aristóteles
+
+**Guia de reflexão:**
+
+1. O que Aristóteles queria dizer, com base na aula?
+2. Como essas ideias podem ser interpretadas e aplicadas no mundo atual?
+3. O que essas reflexões significam para você pessoalmente?
+4. Complete esta frase: “Com base nesse entendimento, nesta semana, tomarei esta ação concreta de ...”
+
+**Resposta:**
+
+TBD

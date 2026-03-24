@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Monday, March 23rd 2026, 11:08:43 pm
+date modified: Monday, March 23rd 2026, 11:12:45 pm
 draft: true
 tags:
   - yuk-hui
@@ -54,9 +54,11 @@ Explora as manifestações do ultranacionalismo contemporâneo como em Dugin (qu
 
 ### Oitava Parte: O autor explora a ideia de singularidade como solução presente no pensamento neorreacionário (modernistas reacionários) (§19,20)
 
-Apresenta a tática retórica da classificação dos empreendedores e de Trump como bode expiatórios e explora o pensamento dos 
+Apresenta a tática retórica da classificação dos empreendedores e de Trump como bode expiatórios e explora o pensamento dos neorreacionários que buscam a singularidade como solução tecnológica
 
 ### Nona Parte: O autor propõe uma nova ordem mundial a partir do "derretimento" em oposição a universalização do projeto iluminista (§20-23)
+
+O autor se opõe ao transumanismo de Land, propondo uma reestruturação, dissolvendo as velhas estruturas pelas novas tecnologias e novas formas de pensar, pensar uma nova história do mundo em oposição a universalização iluminista.
 
 ---
 

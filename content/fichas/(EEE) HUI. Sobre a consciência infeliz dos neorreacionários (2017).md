@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Sunday, March 22nd 2026, 10:57:20 pm
+date modified: Monday, March 23rd 2026, 10:18:25 pm
 draft: true
 tags:
   - yuk-hui
@@ -21,11 +21,9 @@ date: 2026-03-20
 
 ## ~~2. Crítica ao Iluminismo~~
 
-### Quarta Parte: O autor explora a contradição entre democracia e liberdade presente no pensamento neorreacionário com relação aos valores Iluministas (§7-9)
+### Quarta Parte: O autor explora a incompatibilidade entre democracia e liberdade presente no pensamento neorreacionário com relação aos valores Iluministas (§7-10)
 
-### Quinta Parte: O autor explora o desejo por produtividade dos neorreacionários associando-o a transformação dialética da globalização (universalização) (§10,11)
-
-
+### Quinta Parte: O autor explora o desejo por produtividade dos neorreacionários associando-o a uma (§10,11)
 
 ---
 

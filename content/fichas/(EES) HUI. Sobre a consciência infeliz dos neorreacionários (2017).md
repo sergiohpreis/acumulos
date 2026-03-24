@@ -1,10 +1,13 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Tuesday, March 24th 2026, 11:38:27 am
+date modified: Tuesday, March 24th 2026, 11:41:52 am
 draft: false
 tags:
   - yuk-hui
   - iluminismo
+  - globalização
+  - modernização
+  - democracia
 date: 2026-03-24
 ---
 
@@ -23,4 +26,4 @@ Para Hui, o pensamento neorreacionário é fruto da consciência infeliz (concei
 
 ## Qual a argumentação oferecida para sustentar a tese / posição ?
 
-Hui apresenta o fenômeno da consciência infeliz, como uma impossibilidade de que certas contradições sejam resolvidas, portanto, analisa os discursos de Thiel, Land e Moldbug (os principais expoentes do pensamento neorreacionário), mostrando que suas reivindicações encontram ecos em discussões passadas, que não são superadas pelas propostas dos neorreacionários de retorno a monarquia
+Hui apresenta o fenômeno da consciência infeliz, como uma impossibilidade de que certas contradições sejam resolvidas, portanto, analisa os discursos de Thiel, Land e Moldbug (os principais expoentes do pensamento neorreacionário), mostrando que suas reivindicações encontram ecos em discussões passadas, que não são superadas pelas propostas dos neorreacionários de retorno a monarquia. Hui propõe que a globalização é uma forma de universalização e sincronização gerada pela modernização, e defende que é necessário a sua superação por uma nova ordem mundial que vá em uma direção aposta a essa singularidade.

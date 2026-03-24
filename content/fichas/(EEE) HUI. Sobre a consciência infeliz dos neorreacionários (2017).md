@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Monday, March 23rd 2026, 11:12:45 pm
+date modified: Monday, March 23rd 2026, 11:29:58 pm
 draft: true
 tags:
   - yuk-hui
@@ -15,7 +15,7 @@ date: 2026-03-20
 
 ### Primeira Parte: O autor apresenta o pensamento neorreacionário e a relação dos seus componentes com a rejeição ao Iluminismo de Peter Thiel (§1,2)
 
-A partir de uma afirmação de Peter Thiel explora a afirmação da "obsolescência do Iluminismo" e a caracteriza como "a principal atitude dos neorreacionários", apresentando seus autores de maior destaque: *Mencius Moldbug* e *Nick Land*
+A partir de uma afirmação de Peter Thiel sobre a "obsolescência do Iluminismo" e a caracteriza como "a principal atitude dos neorreacionários", apresentando seus autores de maior destaque: *Mencius Moldbug* e *Nick Land*
 
 ### Segunda Parte: O autor explica o conceito de "consciência infeliz" hegeliana e o associa ao pensamento neorreacionário contra o Iluminismo(§3-5)
 

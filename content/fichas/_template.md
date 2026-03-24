@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 8:30:52 pm
-date modified: Tuesday, March 24th 2026, 6:59:55 pm
+date modified: Tuesday, March 24th 2026, 7:00:08 pm
 draft: false
 date: 2026-03-19
 ---
@@ -11,10 +11,10 @@ date: 2026-03-19
 - Quem é o autor?
 - Quando e onde o texto foi publicado?
 - Em linhas gerais, de que o texto trata?
-• Qual o contexto da publicação?
-• Caso se trate de tradução, há informações sobre sua qualidade?
+- Qual o contexto da publicação?
+- Caso se trate de tradução, há informações sobre sua qualidade?
 
-Com base nessa respostas, escrever um pequeno resumo da obra
+*Com base nessa respostas, escrever um pequeno resumo*
 
 # EEE (Estrutura Expositiva Expressa)
 

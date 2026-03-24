@@ -62,4 +62,4 @@ O autor se opõe ao transumanismo de Land, propondo uma reestruturação, dissol
 
 ---
 
-[[(EES) HUI. Sobre a consciência infeliz dos neorreacionários (2017)]]
+[[(EES) (2017) HUI. Sobre a consciência infeliz dos neorreacionários]]

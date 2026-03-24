@@ -14,7 +14,7 @@ date: 2026-03-24
 > [!info] Texto presente no livro [[HUI Yuk. Tecnodiversidade (2020)]]
 
 > [!info] Estrutural Expresso
-> [[(EEE) HUI. Cosmotécnica como cosmopolítica (2017)]] 
+> [[(EEE) (2017) HUI. Cosmotécnica como cosmopolítica]] 
 
 ## Qual o problema central enfrentado pelo texto?
 

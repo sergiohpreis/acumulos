@@ -120,7 +120,7 @@ Crítica a noção ocidental de entrelaçamento de Danny Hillis, por pregar uma 
 
 
 # Fichas
- - [[(EEE) HUI. Cosmotécnica como cosmopolítica (2017)]]
+ - [[(EEE) (2017) HUI. Cosmotécnica como cosmopolítica]]
 
 
 

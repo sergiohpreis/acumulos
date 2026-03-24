@@ -98,4 +98,4 @@ Se afasta dos tradicionalistas, que para Hui possuem um projeto de **substancial
 
 ---
 
-[[(EES) HUI. Cosmotécnica como cosmopolítica (2017)]]
+[[(EES) (2017) HUI. Cosmotécnica como cosmopolítica]]

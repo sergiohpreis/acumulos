@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Wednesday, March 25th 2026, 6:24:44 pm
+date modified: Wednesday, March 25th 2026, 6:39:02 pm
 tags:
   - yuk-hui
   - iluminismo
@@ -26,13 +26,13 @@ O autor busca analisa a força universalizante do Iluminismo e defende que carac
 
 Para Hui, a aceleração é necessária a globalização, como uma forma de fazer o universalismo iluminista acelerar ainda mais ("nos processos de colonização e de modernização, diferenças tecnológicas também preservam e reforça diferenças de poder"). 
 
-### Quinta Parte: O autor propõe uma nova noção de humanidade para sair do impasse da relação entre o universal e o relativo (§13,14)
+### Quinta Parte: O autor rejeita a noção de humanidade relacionando o aceleracionismo a um humanismo extremo  (§13-16)
 
-Hui questiona se suas noções exibem uma contraposição do universal e do relativo, criticando o relativismo tanto de esquerda quanto direita que rejeita integrar o universal ao particular. Por isso, propõe uma nova noção de humanismo, como a de Carl Schmidt (em "O conceito de político / Teoria do Partisan").
+Hui questiona se suas noções exibem uma contraposição do universal e do relativo, criticando o relativismo tanto de esquerda quanto direita que rejeita integrar o universal ao particular. Para o autor, "as qualidade disruptivas e apocalípticas à aceleração não são de modo algum anti-humanistas", mas sim, revelam um "humanismo extremo que luta para se salvar por meio da destruição em massa", sendo assim, a "aceleração da desorientação" não cria uma saída para o eixo de tempo global.
 
-### Sexta Parte: O autor defende que a aceleração (§x)
+### Sexta Parte: O autor propõe uma nova forma de aceleração da tecnologia a partir das tecnodiversidades (§17,18)
 
-xxxxxxxxxxxxxx
+Para escapar da "sincronização trazida pelo eixo de tempo global da modernidade ocidental", Hui propõe que a tecnologia precisa de um nova direçãomovimento, um novo referencial e uma nova orientação
 
 ---
 

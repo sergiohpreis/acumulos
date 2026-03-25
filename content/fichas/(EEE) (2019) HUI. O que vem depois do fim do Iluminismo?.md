@@ -10,9 +10,13 @@ date: 2026-03-23
 
 > [!info] Texto em [[HUI Yuk. Tecnodiversidade (2020)]]
 
-### Primeira Parte: xxxxxxxxxxxx (§1,2)
+### Primeira Parte: O autor expõe o pensamento anti-iluminista de Kissinger  (§1-3)
 
-xxxxxxxxxxx
+Neste trecho, Hui analisa alguns fragmentos de textos presentes em Kissinger, para então propor uma resposta ao seu artigo "How the Enlightment Ends"
+
+### Segunda Parte: O autor expõe o pensamento anti-iluminista de Kissinger  (§1-3)
+
+Neste trecho, Hui analisa alguns fragmentos de textos presentes em Kissinger, para então propor uma resposta ao seu artigo "How the Enlightment Ends"
 
 ---
 

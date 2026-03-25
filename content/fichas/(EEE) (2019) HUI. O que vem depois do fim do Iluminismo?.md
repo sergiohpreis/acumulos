@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Wednesday, March 25th 2026, 6:39:02 pm
+date modified: Wednesday, March 25th 2026, 6:41:05 pm
 tags:
   - yuk-hui
   - iluminismo
@@ -32,7 +32,7 @@ Hui questiona se suas noções exibem uma contraposição do universal e do rela
 
 ### Sexta Parte: O autor propõe uma nova forma de aceleração da tecnologia a partir das tecnodiversidades (§17,18)
 
-Para escapar da "sincronização trazida pelo eixo de tempo global da modernidade ocidental", Hui propõe que a tecnologia precisa de um nova direçãomovimento, um novo referencial e uma nova orientação
+Para escapar da *"sincronização trazida pelo eixo de tempo global da modernidade ocidental"*, Hui propõe que a tecnologia precisa de um nova direção do movimento, um novo referencial e uma nova orientação, defendendo uma reapropriação da tecnologia moderna *"por meio da reflexão sistemática e da abordagem da questão das epistemologias e das epistemes à luz de múltiplas cosmotécnicas - ou, colocado de modo mais simples, da tecnodiversidade"*.
 
 ---
 

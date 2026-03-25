@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Wednesday, March 25th 2026, 6:02:16 pm
+date modified: Wednesday, March 25th 2026, 6:19:54 pm
 tags:
   - yuk-hui
   - iluminismo
@@ -18,9 +18,13 @@ Neste trecho, Hui analisa alguns fragmentos de textos presentes em Kissinger, pa
 
 A partir de uma relação entre o pensamento de Kissinger e a ideia de uma decadência do Ocidente presente em Spengler, o autor demonstra como o Iluminismo não era apenas um movimento intelectual em busca da razão e racionalidade, mas um movimento essencialmente político ao situar o Ocidente como fonte de uma universalização. Expõe o dilema da globalização tecnológica utilizando o Japão como exemplo dessa autorrealização que leva a uma autonegação ("a dialética do iluminismo de um ponto de vista geopolítico). 
 
-### Terceira Parte: O autor avalia a sensibilidade as diferenças culturais presentes no pensamento iluminista  (§8,9)
+### Terceira Parte: O autor avalia a sensibilidade as diferenças culturais presente no pensamento iluminista (§8,9)
 
-O autor busca analisa a força universalizante
+O autor busca analisa a força universalizante do Iluminismo e defende que caracterizar o Iluminismo apenas como essa força, é ingênuo, defendendo que escritores como Voltaire valorizavam as diferenças culturais (e afirma o contrário de Herder).
+
+### Quarta Parte: O autor argumenta que a aceleração tecnológica é a continuação do Iluminismo e não o seu fim (§10-)
+
+Para Hui, a aceleração é necessária a globalização, uma vez que "nos processos de colonização e de modernização, diferenças tecnológicas também preservam e reforça diferenças de poder
 
 ---
 

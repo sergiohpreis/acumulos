@@ -1,6 +1,6 @@
 ---
 date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Wednesday, March 25th 2026, 6:19:54 pm
+date modified: Wednesday, March 25th 2026, 6:24:44 pm
 tags:
   - yuk-hui
   - iluminismo
@@ -22,9 +22,17 @@ A partir de uma relação entre o pensamento de Kissinger e a ideia de uma decad
 
 O autor busca analisa a força universalizante do Iluminismo e defende que caracterizar o Iluminismo apenas como essa força, é ingênuo, defendendo que escritores como Voltaire valorizavam as diferenças culturais (e afirma o contrário de Herder).
 
-### Quarta Parte: O autor argumenta que a aceleração tecnológica é a continuação do Iluminismo e não o seu fim (§10-)
+### Quarta Parte: O autor argumenta que a aceleração tecnológica é a continuação do Iluminismo e não sua ruptura (§10-13)
 
-Para Hui, a aceleração é necessária a globalização, uma vez que "nos processos de colonização e de modernização, diferenças tecnológicas também preservam e reforça diferenças de poder
+Para Hui, a aceleração é necessária a globalização, como uma forma de fazer o universalismo iluminista acelerar ainda mais ("nos processos de colonização e de modernização, diferenças tecnológicas também preservam e reforça diferenças de poder"). 
+
+### Quinta Parte: O autor propõe uma nova noção de humanidade para sair do impasse da relação entre o universal e o relativo (§13,14)
+
+Hui questiona se suas noções exibem uma contraposição do universal e do relativo, criticando o relativismo tanto de esquerda quanto direita que rejeita integrar o universal ao particular. Por isso, propõe uma nova noção de humanismo, como a de Carl Schmidt (em "O conceito de político / Teoria do Partisan").
+
+### Sexta Parte: O autor defende que a aceleração (§x)
+
+xxxxxxxxxxxxxx
 
 ---
 

@@ -1,4 +1,6 @@
 ---
+created: 2026-03-06T20:17:26-03:00
+modified: 2026-03-06T20:17:26-03:00
 title: SPINOZA. Ética (1677)
 authors:
   - Spinoza

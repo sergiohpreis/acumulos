@@ -1,4 +1,6 @@
 ---
+created: 2026-03-24T10:41:42-03:00
+modified: 2026-03-24T10:41:42-03:00
 title: LOCKE John. Ensaio sobre o Entendimento Humano (1689)
 authors:
   - John Locke

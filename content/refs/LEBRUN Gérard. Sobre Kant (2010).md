@@ -1,4 +1,6 @@
 ---
+created: 2026-02-27T14:18:50-03:00
+modified: 2026-02-27T14:18:50-03:00
 title: LEBRUN Gérard. Sobre Kant (2010)
 authors:
   - Gérard Lebrun

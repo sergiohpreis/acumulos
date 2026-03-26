@@ -1,4 +1,6 @@
 ---
+created: 2026-03-19T13:19:19-03:00
+modified: 2026-03-19T13:19:19-03:00
 title: KANT Immanuel. Crítica da Razão Pura (1781)
 authors:
   - Immanuel Kant

@@ -1,4 +1,6 @@
 ---
+created: 2026-03-05T09:33:45-03:00
+modified: 2026-03-05T09:33:45-03:00
 title: SONTAG Susan. Diante da dor dos outros (2003)
 authors:
   - Susan Sontag

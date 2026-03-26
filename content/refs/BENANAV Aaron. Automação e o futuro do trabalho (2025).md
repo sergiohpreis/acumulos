@@ -1,4 +1,6 @@
 ---
+created: 2026-03-05T21:40:55-03:00
+modified: 2026-03-26T10:45:44-03:00
 title: BENANAV Aaron. Automação e o futuro do trabalho (2025)
 authors:
   - Aaron Benanav

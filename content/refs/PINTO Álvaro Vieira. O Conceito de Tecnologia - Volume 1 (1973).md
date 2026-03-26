@@ -1,4 +1,6 @@
 ---
+created: 2026-03-16T14:12:11-03:00
+modified: 2026-03-16T14:12:11-03:00
 title: PINTO Álvaro Vieira. O Conceito de Tecnologia - Volume 1 (1973)
 authors:
   - Álvaro Vieira Pinto

@@ -1,4 +1,6 @@
 ---
+created: 2026-03-01T21:05:26-03:00
+modified: 2026-03-01T21:05:26-03:00
 title: HEIDEGGER Martin. Ser e Tempo (1927)
 authors:
   - Martin Heidegger

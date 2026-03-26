@@ -1,4 +1,6 @@
 ---
+created: 2026-02-23T12:34:04-03:00
+modified: 2026-02-23T12:34:04-03:00
 title: JR. Martin Luther King,. O Grito da Consciência (1967)
 authors:
   - Martin Luther King, Jr.

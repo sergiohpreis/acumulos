@@ -1,4 +1,6 @@
 ---
+created: 2026-02-25T19:46:16-03:00
+modified: 2026-02-25T19:46:16-03:00
 title: Lenin - Vida e Obra
 status:
   - READ

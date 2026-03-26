@@ -1,4 +1,6 @@
 ---
+created: 2026-03-03T15:55:18-03:00
+modified: 2026-03-03T15:55:18-03:00
 title: HEIDEGGER Martin. A Questão da Técnica (1954)
 authors:
   - Martin Heidegger

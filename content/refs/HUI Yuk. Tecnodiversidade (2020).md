@@ -1,4 +1,6 @@
 ---
+created: 2026-03-19T20:11:46-03:00
+modified: 2026-03-19T20:11:46-03:00
 title: HUI Yuk. Tecnodiversidade (2020)
 authors:
   - Yuk Hui

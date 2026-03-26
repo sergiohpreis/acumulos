@@ -1,4 +1,6 @@
 ---
+created: 2026-03-17T08:55:49-03:00
+modified: 2026-03-17T08:55:49-03:00
 title: HEGEL Georg Wilhelm Friedrich. Textos Essenciais de Hegel (1770)
 authors:
   - Georg Wilhelm Friedrich Hegel

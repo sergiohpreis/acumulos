@@ -1,4 +1,6 @@
 ---
+created: 2026-03-05T22:08:56-03:00
+modified: 2026-03-05T22:08:56-03:00
 title: MARX Karl. Manuscritos econômicos-filosóficos (1844)
 authors:
   - Karl Marx

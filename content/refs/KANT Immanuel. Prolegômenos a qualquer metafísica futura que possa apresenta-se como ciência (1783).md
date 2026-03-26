@@ -1,4 +1,6 @@
 ---
+created: 2026-02-25T19:45:38-03:00
+modified: 2026-02-25T19:45:38-03:00
 title: KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)
 authors:
   - Immanuel Kant

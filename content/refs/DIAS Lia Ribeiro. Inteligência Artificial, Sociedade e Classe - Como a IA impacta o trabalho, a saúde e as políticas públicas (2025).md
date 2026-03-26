@@ -1,4 +1,6 @@
 ---
+created: 2026-03-15T18:47:31-03:00
+modified: 2026-03-15T18:47:31-03:00
 title: DIAS Lia Ribeiro. Inteligência Artificial, Sociedade e Classe - Como a IA impacta o trabalho, a saúde e as políticas públicas (2025)
 authors:
   - Lia Ribeiro Dias

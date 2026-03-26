@@ -1,4 +1,6 @@
 ---
+created: 2026-03-05T22:51:19-03:00
+modified: 2026-03-05T22:51:19-03:00
 title: KOJÈVE Alexandre. Introdução à leitura de Hegel (1939)
 authors:
   - Alexandre Kojève

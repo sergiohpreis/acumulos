@@ -1,6 +1,6 @@
 ---
-created: Saturday, March 7th 2026, 7:37:03 am
-modified: Thursday, March 26th 2026, 10:21:04 am
+created: 2026-03-07T07:37:03-03:00
+modified: 2026-03-26T10:26:12-03:00
 tags:
   - filosofia
   - tecnologia

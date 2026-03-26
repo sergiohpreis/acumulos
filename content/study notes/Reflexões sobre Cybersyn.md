@@ -1,13 +1,12 @@
 ---
-date created: Monday, January 26th 2026, 11:44:11 pm
-date modified: Sunday, March 1st 2026, 10:59:26 pm
+created: 2026-01-26T23:44:11-03:00
+modified: 2026-03-01T22:59:26-03:00
 status:
   - wip
 tags:
   - tecnologia
   - chile
 draft: false
-date: 2026-01-26T23:45:00
 ---
 
 Algumas reflexões sobre:  [[Cybersyn - Conversa de Rafael Grohmann com Eden Medina para o Digilabour (2024)]]

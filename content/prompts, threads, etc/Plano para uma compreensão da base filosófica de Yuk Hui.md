@@ -1,6 +1,6 @@
 ---
-date created: Wednesday, February 11th 2026, 5:44:16 pm
-date modified: Wednesday, February 11th 2026, 11:31:40 pm
+created: 2026-02-11T17:44:16-03:00
+modified: 2026-02-11T23:31:40-03:00
 ia:
   - claude
 prompt: https://claude.ai/chat/33d06b93-28b7-4f38-92d9-0a589c8add3c
@@ -14,7 +14,6 @@ description:
 permalink:
 aliases:
 draft: false
-date: 2026-02-11
 ---
 
 # Plano de Estudos em Filosofia

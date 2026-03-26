@@ -1,12 +1,11 @@
 ---
-date created: Thursday, February 26th 2026, 1:18:38 pm
-date modified: Monday, March 2nd 2026, 12:08:25 am
+created: 2026-02-26T13:18:38-03:00
+modified: 2026-03-02T00:08:25-03:00
 tags:
   - spec-driven
   - tecnologia
   - ciência-da-computação
 draft: false
-date: 2026-02-03T19:43:00
 ---
 
   

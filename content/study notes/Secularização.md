@@ -1,11 +1,10 @@
 ---
-date created: Wednesday, March 18th 2026, 5:41:36 pm
-date modified: Wednesday, March 18th 2026, 7:06:04 pm
+created: 2026-03-18T17:41:36-03:00
+modified: 2026-03-18T19:06:04-03:00
 tags:
   - filosofia
   - secularização
 draft: false
-date: 2026-03-18
 ---
 
 >[!info] De [[Abbagnano Nicola. Dicionário de Filosofia (2012)]]

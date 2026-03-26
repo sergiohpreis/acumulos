@@ -1,6 +1,6 @@
 ---
-date created: Friday, March 6th 2026, 7:14:04 am
-date modified: Saturday, March 7th 2026, 7:39:28 am
+created: 2026-03-06T07:14:04-03:00
+modified: 2026-03-07T07:39:28-03:00
 ---
 
 Tempo Histórico e Tempo Lógico

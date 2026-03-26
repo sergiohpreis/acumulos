@@ -1,11 +1,10 @@
 ---
-date created: Wednesday, February 18th 2026, 5:19:51 pm
-date modified: Wednesday, February 18th 2026, 5:23:19 pm
+created: 2026-02-18T17:19:51-03:00
+modified: 2026-02-18T17:23:19-03:00
 tags:
   - estudos
 draft: false
 title: Plano para o desenvolvimento de uma pós graduação
-date: 2025-02-18T17:30:00
 ---
 
 Há algum tempo que eu tenho tido vontade de começar uma pós-graduação (Mestrado / Doutorado). 

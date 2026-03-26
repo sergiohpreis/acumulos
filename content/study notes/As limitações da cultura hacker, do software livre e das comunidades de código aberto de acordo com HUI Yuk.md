@@ -1,13 +1,12 @@
 ---
-date created: Monday, March 9th 2026, 11:13:11 pm
-date modified: Monday, March 9th 2026, 11:30:55 pm
+created: 2026-03-09T23:13:11-03:00
+modified: 2026-03-09T23:30:55-03:00
 tags:
   - notebooklm
   - yuk-hui
   - tecnologia
   - open-source
 draft: false
-date: 2026-03-09T23:15:00
 ---
 
 Para HUI Yuk, embora a sociedade tenha se familiarizado amplamente com o desenvolvimento da cultura hacker, do software livre e das comunidades de código aberto nas últimas décadas, existe uma limitação profunda e estrutural nesse movimento.

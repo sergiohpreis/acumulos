@@ -1,12 +1,11 @@
 ---
-date created: Thursday, February 26th 2026, 8:39:37 pm
-date modified: Wednesday, March 11th 2026, 7:41:08 am
+created: 2026-02-26T20:39:37-03:00
+modified: 2026-03-11T07:41:08-03:00
 tags:
   - tecnologia
   - economia-política
   - capitalismo
 draft: false
-date: 2026-02-26T20:03:00
 ---
 
 O conceito de "monopólio da informação" busca capturar algo que o conceito clássico de monopólio industrial não abarca: o controle não apenas da produção de mercadorias, mas da **infraestrutura pela qual a informação circula, é armazenada e processada**.

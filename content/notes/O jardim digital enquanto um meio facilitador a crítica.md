@@ -1,8 +1,7 @@
 ---
-date created: Saturday, February 21st 2026, 10:57:50 am
-date modified: Saturday, February 21st 2026, 11:07:35 am
+created: 2026-02-21T10:57:50-03:00
+modified: 2026-02-21T11:07:35-03:00
 draft: false
-date: 2026-02-21T10:58:00
 tags:
   - reflexões
   - escrita

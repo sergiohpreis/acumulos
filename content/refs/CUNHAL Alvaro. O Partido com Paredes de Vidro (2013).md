@@ -1,6 +1,6 @@
 ---
-date created: Monday, December 16th 2024, 5:56:07 pm
-date modified: Monday, December 16th 2024, 5:56:37 pm
+created: 2024-12-16T17:56:07-03:00
+modified: 2024-12-16T17:56:37-03:00
 author:
   - Alvaro Cunhal
 year: 2013
@@ -14,7 +14,6 @@ tags:
   - need-collector-export
   - need-collector-improt
 draft: false
-date: 2024-12-16
 ---
 
 Alvaro Cunhal, Expressão Popular, 2013

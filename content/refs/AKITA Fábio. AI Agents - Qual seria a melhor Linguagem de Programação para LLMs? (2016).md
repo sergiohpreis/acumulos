@@ -1,6 +1,6 @@
 ---
-date created: Friday, February 20th 2026, 11:43:18 am
-date modified: Friday, February 20th 2026, 4:19:51 pm
+created: 2026-02-20T11:43:18-03:00
+modified: 2026-02-20T16:19:51-03:00
 type:
   - texto
 source: https://akitaonrails.com/2026/02/09/ai-agents-qual-seria-a-melhor-linguagem-de-programacao-para-llms/
@@ -12,7 +12,6 @@ tags:
   - ciência-da-computação
   - spec-driven
 draft: false
-date: 2026-02-20T16:20:00
 ---
 
 > **inversão fundamental**: "em programação tradicional, humanos escrevem a implementação e _esperam_ que ela corresponda à intenção. Aqui, humanos escrevem a intenção e o sistema _garante_ que a implementação corresponda — porque a especificação é formal o suficiente para ser verificável, mas de alto nível o suficiente para ser pensada em termos de produto, não de código.

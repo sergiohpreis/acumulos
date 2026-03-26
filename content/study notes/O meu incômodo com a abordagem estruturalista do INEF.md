@@ -1,10 +1,9 @@
 ---
-date created: Friday, March 6th 2026, 8:24:15 am
-date modified: Friday, March 6th 2026, 8:34:48 am
+created: 2026-03-06T08:24:15-03:00
+modified: 2026-03-06T08:34:48-03:00
 tags:
   - reflexões
 draft: false
-date: 2026-03-06T08:25:00
 ---
 
 Durante o curso do [[INEF - NFF - Guia Prático de Leituras Filosóficas]] fui introduzido a abordagem estrutural de leitura de textos filosóficos.

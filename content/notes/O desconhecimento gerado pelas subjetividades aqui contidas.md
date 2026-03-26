@@ -1,8 +1,7 @@
 ---
-date created: Friday, February 20th 2026, 1:11:46 pm
-date modified: Saturday, February 21st 2026, 11:09:23 am
+created: 2026-02-20T13:11:46-03:00
+modified: 2026-02-21T11:09:23-03:00
 draft: false
-date: 2026-02-20T13:13:00
 tags:
   - reflexões
   - ensaio

@@ -24,7 +24,6 @@ tags:
   - escrita
   - leitura
 draft: false
-date: 2026-03-15T18:58:01.10143416-03:00
 ---
 
 ## Resumo

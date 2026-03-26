@@ -1,13 +1,12 @@
 ---
-date created: Tuesday, February 11th 2025, 1:14:59 am
-date modified: Sunday, March 1st 2026, 10:55:22 pm
+created: 2025-02-11T01:14:59-03:00
+modified: 2026-03-01T22:55:22-03:00
 tags:
   - tecnologia
   - dependência
   - microserviços
 title: Como a relação de dependência se expressa nos variados sistemas e porque a competição pela atenção custa para a sociedade como um todo
 draft: false
-date: 2026-03-01T22:55:00
 ---
 
 Os diversos sistemas de software são compostos por diversos outros sistemas menores, que podemos chamar de **microserviços**. Essa arquitetura é conhecida como "arquitetura de microserviços" e é amplamente utilizada nos mais diversos softwares. 

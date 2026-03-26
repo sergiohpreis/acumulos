@@ -1,6 +1,6 @@
 ---
-date created: Thursday, February 26th 2026, 8:39:16 pm
-date modified: Monday, March 2nd 2026, 8:26:20 pm
+created: 2026-02-26T20:39:16-03:00
+modified: 2026-03-02T20:26:20-03:00
 tags:
   - filosofia
   - tecnologia
@@ -9,7 +9,6 @@ tags:
   - trabalho
   - ciência-da-computação
 draft: false
-date: 2026-03-02T00:02:00
 ---
 
 ## Problema de pesquisa

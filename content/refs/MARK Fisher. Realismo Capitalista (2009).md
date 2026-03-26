@@ -1,6 +1,6 @@
 ---
-date created: Monday, February 2nd 2026, 8:10:27 pm
-date modified: Tuesday, February 17th 2026, 8:58:21 am
+created: 2026-02-02T20:10:27-03:00
+modified: 2026-02-17T08:58:21-03:00
 year: 2009
 started_at: 2026-02-02T20:15:00
 finished_at: 2026-02-06T16:00:00
@@ -35,7 +35,6 @@ description: Anotações do "MARK Fisher. Realismo Capitalista (2009)"
 permalink:
 aliases:
 draft: false
-date: 2026-02-02
 ---
 
 ## Sessions

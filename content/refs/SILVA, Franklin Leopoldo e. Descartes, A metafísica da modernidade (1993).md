@@ -1,6 +1,6 @@
 ---
-date created: Wednesday, February 11th 2026, 2:41:53 am
-date modified: Wednesday, February 11th 2026, 11:31:03 pm
+created: 2026-02-11T02:41:53-03:00
+modified: 2026-02-11T23:31:03-03:00
 year: "1993"
 publisher: Editora Moderna
 status:
@@ -18,7 +18,6 @@ description: Anotações do "SILVA, Franklin Leopoldo e. Descartes, A metafísic
 permalink:
 aliases:
 draft: false
-date: 2026-02-11
 authors:
   - Franklin Leopoldo e Silva
 ---

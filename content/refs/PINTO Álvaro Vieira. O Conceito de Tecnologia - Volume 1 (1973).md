@@ -28,7 +28,6 @@ tags:
   - marxismo
   - filosofia
 draft: false
-date: 2026-03-16T14:12:11.440064921-03:00
 ---
 
 ## Resumo

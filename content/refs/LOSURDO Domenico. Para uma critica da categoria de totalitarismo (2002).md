@@ -1,6 +1,6 @@
 ---
-date created: Thursday, March 6th 2025, 8:07:33 am
-date modified: Monday, March 2nd 2026, 1:12:03 am
+created: 2025-03-06T08:07:33-03:00
+modified: 2026-03-02T01:12:03-03:00
 tags:
   - losurdo
   - chatpdf
@@ -13,7 +13,6 @@ status:
   - PAUSED
 source: https://marxists.architexturez.net/portugues/losurdo/2002/mes/totalitarismo.pdf
 draft: false
-date: 2025-03-06T08:07:00
 ---
 
 > [!info] Resumo via Chat PDF)

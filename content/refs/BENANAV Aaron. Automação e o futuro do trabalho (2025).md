@@ -30,7 +30,6 @@ tags:
   - trabalho
   - automação
 draft: false
-date: 2026-03-05T21:40:55.100866317-03:00
 ---
 
 ## Resumo

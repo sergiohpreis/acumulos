@@ -1,6 +1,6 @@
 ---
-date created: Friday, January 30th 2026, 6:11:41 pm
-date modified: Wednesday, February 11th 2026, 11:17:54 pm
+created: 2026-01-30T18:11:41-03:00
+modified: 2026-02-11T23:17:54-03:00
 draft: true
 tags:
   - tecnologia

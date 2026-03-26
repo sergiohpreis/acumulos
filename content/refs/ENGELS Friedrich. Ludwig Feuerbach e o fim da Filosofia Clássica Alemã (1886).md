@@ -1,6 +1,6 @@
 ---
-date created: Wednesday, December 4th 2024, 7:58:33 pm
-date modified: Monday, February 16th 2026, 9:32:08 am
+created: 2024-12-04T19:58:33-03:00
+modified: 2026-02-16T09:32:08-03:00
 authors:
   - Friedrich Engels
 status:
@@ -32,7 +32,6 @@ tags:
   - livros
 title: ENGELS Friedrich. Ludwig Feuerbach e o fim da Filosofia Clássica Alemã (1886)
 draft: false
-date: 2024-12-04T07:58:00
 type:
   - livro
 ---

@@ -1,8 +1,7 @@
 ---
-date created: Monday, January 5th 2026, 7:41:36 pm
-date modified: Sunday, February 22nd 2026, 10:17:01 pm
+created: 2026-01-05T19:41:36-03:00
+modified: 2026-02-22T22:17:01-03:00
 draft: false
-date: 2026-02-22T22:15:00
 tags:
   - coluna-prestes
   - brasil

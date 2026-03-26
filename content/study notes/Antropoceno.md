@@ -1,10 +1,9 @@
 ---
-date created: Wednesday, March 18th 2026, 12:48:16 am
-date modified: Wednesday, March 18th 2026, 12:50:32 am
+created: 2026-03-18T00:48:16-03:00
+modified: 2026-03-18T00:50:32-03:00
 tags:
   - antropoceno
 draft: false
-date: 2026-03-18
 ---
 
 > [!info] Com base em [Quem tenta cancelar o Antropoceno?](https://outraspalavras.net/terraeantropoceno/quem-tenta-cancelar-antropoceno/)

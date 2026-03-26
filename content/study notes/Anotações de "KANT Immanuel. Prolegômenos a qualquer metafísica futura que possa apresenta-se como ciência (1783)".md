@@ -1,6 +1,6 @@
 ---
-date created: Monday, February 16th 2026, 1:07:09 pm
-date modified: Thursday, March 5th 2026, 2:54:48 pm
+created: 2026-02-16T13:07:09-03:00
+modified: 2026-03-05T14:54:48-03:00
 tags:
   - kant
   - idealismo-alemão
@@ -9,7 +9,6 @@ tags:
   - filosofia
   - epistemologia
 draft: false
-date: 2026-03-05T14:55:00
 ---
 
 >[!info] [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]]

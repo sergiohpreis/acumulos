@@ -1,12 +1,11 @@
 ---
-date created: Saturday, March 7th 2026, 1:32:23 pm
-date modified: Saturday, March 7th 2026, 1:33:18 pm
+created: 2026-03-07T13:32:23-03:00
+modified: 2026-03-07T13:33:18-03:00
 tags:
   - filosofia
   - cosmotécnica
   - técnica
   - pinto
-date: 2026-03-07T13:30:00
 draft: false
 ---
 

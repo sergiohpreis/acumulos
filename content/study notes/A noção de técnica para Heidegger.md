@@ -1,12 +1,11 @@
 ---
-date created: Sunday, March 1st 2026, 5:27:52 pm
-date modified: Tuesday, March 3rd 2026, 2:10:35 am
+created: 2026-03-01T17:27:52-03:00
+modified: 2026-03-03T02:10:35-03:00
 tags:
   - técnica
   - heidegger
   - resumos
 draft: false
-date: 2026-03-05T14:55:00
 ---
 
 Em seu texto [[HEIDEGGER Martin. A Questão da Técnica (1954)|A Questão da Técnica de 1954]], Heidegger busca pela **essência da técnica** indo além da **concepção instrumental da técnica** (que a enxerga como um meio para um fim), afirmando que a técnica **não é meramente um meio**, mas também um **modo de desabrigar**, em um sentido de um "levar para frente", associado ao artístico, ao produzir (poíēsis) grego, Para Heidegger, a técnica é capaz de levar ao descobrimento da verdade.

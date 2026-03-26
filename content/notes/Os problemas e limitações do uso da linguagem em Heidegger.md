@@ -1,13 +1,12 @@
 ---
-date created: Sunday, March 1st 2026, 1:06:09 pm
-date modified: Sunday, March 1st 2026, 1:23:42 pm
+created: 2026-03-01T13:06:09-03:00
+modified: 2026-03-01T13:23:42-03:00
 tags:
   - linguagem
   - heidegger
   - gemini
   - determinismo
 draft: false
-date: 2026-03-01T13:15:00
 ---
 
 Para Heidegger, é impossível expressar certas idéias a não ser por determinadas línguas. Isso impõe uma fronteira epistemológica enorme, o que me parece levar a um determinismo linguístico.

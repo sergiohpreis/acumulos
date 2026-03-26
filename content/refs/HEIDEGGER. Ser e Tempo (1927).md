@@ -1,10 +1,9 @@
 ---
-date created: Sunday, March 1st 2026, 8:26:53 pm
-date modified: Sunday, March 1st 2026, 8:27:07 pm
+created: 2026-03-01T20:26:53-03:00
+modified: 2026-03-01T20:27:07-03:00
 tags:
   - heidegger
   - filosofia
   - need-collector-export
 draft: false
-date: 2026-03-01T20:30:00
 ---

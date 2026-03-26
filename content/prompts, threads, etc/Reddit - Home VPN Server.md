@@ -1,12 +1,11 @@
 ---
-date created: Thursday, February 5th 2026, 10:22:35 am
-date modified: Sunday, February 22nd 2026, 10:28:28 pm
+created: 2026-02-05T10:22:35-03:00
+modified: 2026-02-22T22:28:28-03:00
 tags:
   - vpn
   - self-hosted
   - reddit
 draft: false
-date: 2026-02-05
 ---
 
 # Home VPN Server

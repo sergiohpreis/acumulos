@@ -1,12 +1,11 @@
 ---
-date created: Saturday, February 21st 2026, 10:52:48 am
-date modified: Saturday, February 21st 2026, 11:04:46 am
+created: 2026-02-21T10:52:48-03:00
+modified: 2026-02-21T11:04:46-03:00
 tags:
   - escrita
   - jardim-digital
   - reflexões
 draft: false
-date: 2026-02-21T11:00:00
 ---
 
 As vezes já me peguei refletindo sobre o porque tenho escrito e o porque tenho sentido a necessidade de tornar público, e eu acho que a conclusão a que cheguei, embora um tanto quanto mórbida, traga algo de importante.

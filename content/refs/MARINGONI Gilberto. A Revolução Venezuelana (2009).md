@@ -27,7 +27,6 @@ tags:
   - venezuela
   - livros
 draft: false
-date: 2026-02-22T22:15:00
 type:
   - livro
 ---

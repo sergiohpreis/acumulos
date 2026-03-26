@@ -1,12 +1,11 @@
 ---
-date created: Thursday, February 26th 2026, 8:40:04 pm
-date modified: Sunday, March 1st 2026, 10:59:59 pm
+created: 2026-02-26T20:40:04-03:00
+modified: 2026-03-01T22:59:59-03:00
 tags:
   - tecnologia
   - marxismo
   - dependência
 draft: false
-date: 2026-02-26T20:03:00
 ---
 
 No sentido marxista, "anárquico" não significa caótico ou desordenado, mas refere-se à **ausência de planejamento social consciente** na produção. O capitalismo produz de maneira "anárquica" porque cada capital individual decide o que, quanto e como produzir de forma privada, sem coordenação com o conjunto da sociedade. A regulação se dá post factum, pela crise.

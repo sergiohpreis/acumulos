@@ -1,6 +1,6 @@
 ---
-date created: Monday, March 16th 2026, 5:49:24 pm
-date modified: Wednesday, March 18th 2026, 2:16:57 am
+created: 2026-03-16T17:49:24-03:00
+modified: 2026-03-18T02:16:57-03:00
 tags:
   - tecnodiversidade
   - tecnologia
@@ -10,7 +10,6 @@ tags:
   - cosmopolitismo
   - antropoceno
 draft: false
-date: 2026-03-18
 ---
 
 # Informações

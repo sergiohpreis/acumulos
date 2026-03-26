@@ -1,6 +1,6 @@
 ---
-date created: Wednesday, February 11th 2026, 2:29:48 am
-date modified: Thursday, March 5th 2026, 2:55:07 pm
+created: 2026-02-11T02:29:48-03:00
+modified: 2026-03-05T14:55:07-03:00
 tags:
   - filosofia
   - metafisica
@@ -10,7 +10,6 @@ tags:
   - racionalismo
   - resumos
 draft: false
-date: 2026-03-05T14:55:00
 ---
 
 >[!info] [[DESCARTES René. Meditações Metafísicas (1641)]]

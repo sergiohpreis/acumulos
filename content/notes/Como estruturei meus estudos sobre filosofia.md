@@ -1,6 +1,6 @@
 ---
-date created: Saturday, February 7th 2026, 10:09:55 am
-date modified: Wednesday, February 11th 2026, 5:49:13 pm
+created: 2026-02-07T10:09:55-03:00
+modified: 2026-02-11T17:49:13-03:00
 title: Como estruturei meus estudos sobre filosofia
 description: Como estruturei meus estudos sobre filosofia
 permalink:
@@ -8,7 +8,6 @@ aliases:
 tags:
   - filosofia
 draft: false
-date: 2026-02-07
 ---
 
 Já faz algum tempo que tenho vontade de estudar filosofia de maneira autodidata. Essa vontade se tornou mais presente quando cursei a disciplina de Geometria Euclidiana no Bacharelado em Matemática, iniciado em 2019 (e que está atualmente trancado). Achei fantástica a forma como os teoremas eram estruturados, a partir de axiomas, e busquei entender um pouco mais sobre a parte filosófica por trás da lógica. Na época, li alguns livros e artigos sobre o assunto e também conversei com a Regina, uma vizinha desde a infância que é professora de filosofia.

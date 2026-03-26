@@ -1,6 +1,6 @@
 ---
-date created: Thursday, April 10th 2025, 7:17:01 pm
-date modified: Friday, April 11th 2025, 9:13:00 am
+created: 2025-04-10T19:17:01-03:00
+modified: 2025-04-11T09:13:00-03:00
 prompt: https://chatgpt.com/c/67f84319-ea50-8010-aaa5-b36b440f377b
 ia:
   - chat-gpt
@@ -9,7 +9,6 @@ tags:
   - chatgpt
   - ia
 draft: false
-date: 2025-04-10T19:00:00
 ---
 
 Perfeito! Vou reunir informações sobre o Matrix.org com foco em três aspectos principais: segurança, privacidade e detalhes técnicos do funcionamento da plataforma e do protocolo.

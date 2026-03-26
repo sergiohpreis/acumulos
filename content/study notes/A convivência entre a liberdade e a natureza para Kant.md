@@ -1,6 +1,6 @@
 ---
-date created: Monday, February 23rd 2026, 4:44:55 pm
-date modified: Monday, February 23rd 2026, 5:27:14 pm
+created: 2026-02-23T16:44:55-03:00
+modified: 2026-02-23T17:27:14-03:00
 source: https://notebooklm.google.com/notebook/fa497b88-1b6e-48b0-963e-e9038ed0023f
 ia:
   - notebookllm
@@ -9,7 +9,6 @@ tags:
   - antinomias
   - notebooklm
 draft: false
-date: 2026-02-23T17:00:00
 ---
 
 > [!info] Motivações

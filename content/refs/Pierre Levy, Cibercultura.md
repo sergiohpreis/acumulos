@@ -1,6 +1,6 @@
 ---
-date created: Saturday, December 21st 2024, 12:18:14 am
-date modified: Saturday, February 21st 2026, 11:10:37 am
+created: 2024-12-21T00:18:14-03:00
+modified: 2026-02-21T11:10:37-03:00
 authors:
   - Pierry Levy
 status:
@@ -12,7 +12,6 @@ tags:
 type:
   - livro
 draft: false
-date: 2024-12-21T12:18:00
 ---
 
 > [!note] Informações obtidas com IA

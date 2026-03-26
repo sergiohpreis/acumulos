@@ -1,11 +1,10 @@
 ---
-date created: Thursday, August 21st 2025, 6:14:43 pm
-date modified: Wednesday, September 17th 2025, 1:05:57 am
+created: 2025-08-21T18:14:43-03:00
+modified: 2025-09-17T01:05:57-03:00
 tags:
   - capitalismo
   - alienação
 draft: false
-date: 2025-08-21T18:15:00
 ---
 
 The profession of programming has undergone radical transformation since the 1940s, evolving from direct machine control to AI-assisted development in ways that fundamentally validate Marx's analysis of technology under capitalism. This comprehensive examination reveals how each technological shift has intensified both worker productivity and capitalist value extraction, while creating new forms of alienation that extend Marx's insights into the digital age.

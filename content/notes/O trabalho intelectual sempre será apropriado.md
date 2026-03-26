@@ -1,11 +1,10 @@
 ---
-date created: Thursday, April 10th 2025, 12:46:11 am
-date modified: Thursday, April 10th 2025, 12:51:55 am
+created: 2025-04-10T00:46:11-03:00
+modified: 2025-04-10T00:51:55-03:00
 tags:
   - ia
   - alienação
 draft: false
-date: 2025-04-10T12:50:00
 ---
 
 Os artistas reclamam que as IAs são ruins pois se apropriam indevidamente de seus trabalhos, sem pedir autorização para tal.

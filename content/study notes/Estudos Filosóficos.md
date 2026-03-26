@@ -1,10 +1,9 @@
 ---
-date created: Tuesday, March 17th 2026, 12:35:52 am
-date modified: Tuesday, March 17th 2026, 12:37:02 am
+created: 2026-03-17T00:35:52-03:00
+modified: 2026-03-17T00:37:02-03:00
 tags:
   - filosofia
 draft: false
-date: 2026-03-17
 ---
 
 [[DESCARTES, René. Discurso sobre o Método (1637)]] #descartes 

@@ -1,6 +1,6 @@
 ---
-date created: Saturday, May 3rd 2025, 7:59:11 pm
-date modified: Sunday, February 22nd 2026, 10:54:27 pm
+created: 2025-05-03T19:59:11-03:00
+modified: 2026-02-22T22:54:27-03:00
 author:
   - The Tri Continental
 status:
@@ -11,7 +11,6 @@ tags:
   - privatizacoes
   - artigos
 draft: false
-date: 2025-05-03T20:00:00
 ---
 
 >[!info] https://thetricontinental.org/wp-content/uploads/2023/12/20230324_Artigo-Final_Levante_Aprovado.pdf

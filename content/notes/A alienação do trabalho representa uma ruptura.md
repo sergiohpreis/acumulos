@@ -1,13 +1,12 @@
 ---
-date created: Friday, March 21st 2025, 8:49:49 am
-date modified: Monday, February 16th 2026, 9:42:30 am
+created: 2025-03-21T08:49:49-03:00
+modified: 2026-02-16T09:42:30-03:00
 tags:
   - trabalho
   - alienação
   - marx
   - cinema
 draft: false
-date: 2025-03-21T08:49:00
 title: A alienação do trabalho representa uma ruptura
 ---
 

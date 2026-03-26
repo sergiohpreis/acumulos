@@ -1,8 +1,7 @@
 ---
-date created: Friday, February 20th 2026, 1:13:54 pm
-date modified: Friday, February 20th 2026, 2:53:27 pm
+created: 2026-02-20T13:13:54-03:00
+modified: 2026-02-20T14:53:27-03:00
 draft: true
-date: 2026-02-20T13:14:00
 ---
 
 Estava refletindo sobre uma discussão que aconteceu em um grupo que faço parte sobre o texto [[BARROS Douglas Rodrigues. Contra Nego Bispo (2026)]]. Não quero me aprofundar no texto em si, mas na discussão que se criou em torno do termo "contra".

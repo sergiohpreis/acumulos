@@ -1,6 +1,6 @@
 ---
-date created: Thursday, January 29th 2026, 8:51:48 pm
-date modified: Thursday, January 29th 2026, 10:12:58 pm
+created: 2026-01-29T20:51:48-03:00
+modified: 2026-01-29T22:12:58-03:00
 tags:
   - ia
   - yuk-hui

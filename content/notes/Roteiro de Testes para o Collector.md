@@ -1,6 +1,6 @@
 ---
-date created: Thursday, February 26th 2026, 6:11:34 pm
-date modified: Thursday, February 26th 2026, 7:16:59 pm
+created: 2026-02-26T18:11:34-03:00
+modified: 2026-02-26T19:16:59-03:00
 draft: true
 ---
 

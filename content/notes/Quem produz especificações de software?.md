@@ -1,8 +1,7 @@
 ---
-date created: Friday, February 20th 2026, 3:51:30 pm
-date modified: Friday, February 20th 2026, 4:29:28 pm
+created: 2026-02-20T15:51:30-03:00
+modified: 2026-02-20T16:29:28-03:00
 draft: false
-date: 2026-02-20T16:20:00
 tags:
   - ia
   - llm

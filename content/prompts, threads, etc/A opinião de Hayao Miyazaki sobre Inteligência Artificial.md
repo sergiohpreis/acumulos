@@ -1,6 +1,6 @@
 ---
-date created: Thursday, April 10th 2025, 12:32:35 am
-date modified: Thursday, April 10th 2025, 12:58:37 am
+created: 2025-04-10T00:32:35-03:00
+modified: 2025-04-10T00:58:37-03:00
 tags:
   - ia
   - deep-search
@@ -9,7 +9,6 @@ ia:
   - chat-gpt
 prompt: https://chatgpt.com/c/67f73b8c-eca8-8010-9514-2c7f295836d0
 draft: false
-date: 2025-04-10T12:30:00
 ---
 
 Claro! Vou buscar entrevistas e declarações públicas de Hayao Miyazaki em que ele compartilha sua opinião sobre Inteligência Artificial, especialmente em relação ao uso da IA na arte, animação e sociedade. Assim que eu tiver um panorama claro das falas e contextos em que ele abordou esse tema, volto com um resumo completo.

@@ -1,6 +1,6 @@
 ---
-date created: Thursday, February 5th 2026, 12:12:13 pm
-date modified: Friday, February 13th 2026, 2:59:18 am
+created: 2026-02-05T12:12:13-03:00
+modified: 2026-02-13T02:59:18-03:00
 title: Porque eu decidi criar um Digital Garden
 description: Aqui eu falo sobre o porquê eu decidi começar a manter um Jardim Digital (Digital Garden)
 permalink:
@@ -9,7 +9,6 @@ tags:
   - zettelkasten
   - digital-garden
 draft: false
-date: 2026-02-07
 ---
 
 Há algum tempo, por algum motivo, entrei em contato com a ideia de Digital Garden e acabei conhecendo o Quartz. O projeto em si é muito interessante, tecnicamente falando, mas a filosofia por trás da ideia me chamou muito a atenção.

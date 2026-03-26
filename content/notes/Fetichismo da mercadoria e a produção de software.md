@@ -1,12 +1,11 @@
 ---
-date created: Wednesday, February 26th 2026, 8:03:00 pm
-date modified: Wednesday, February 26th 2026, 8:03:00 pm
+created: 2026-02-26T20:03:00-03:00
+modified: 2026-02-26T20:03:00-03:00
 tags:
   - marxismo
   - tecnologia
   - filosofia
 draft: false
-date: 2026-02-26T20:03:00
 ---
 
 Em Marx, o fetichismo da mercadoria não é uma ilusão subjetiva, mas uma **aparência objetiva** produzida pelas relações sociais de produção. A mercadoria parece ter valor por si mesma, ocultando o trabalho humano que a produziu. O fetiche não está na cabeça das pessoas — está na estrutura da troca mercantil.

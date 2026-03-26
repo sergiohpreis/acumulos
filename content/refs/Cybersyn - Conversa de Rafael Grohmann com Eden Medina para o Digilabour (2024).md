@@ -1,6 +1,6 @@
 ---
-date created: Sunday, November 9th 2025, 2:27:20 pm
-date modified: Sunday, March 1st 2026, 10:59:16 pm
+created: 2025-11-09T14:27:20-03:00
+modified: 2026-03-01T22:59:16-03:00
 status:
   - finished
 type:
@@ -13,7 +13,6 @@ tags:
   - política
   - machine-learning
 draft: false
-date: 2025-11-09T15:00:00
 ---
 
 >[!info] https://digilabour.com.br/pt/aprendendo-com-cybersyn-50-anos-depois-entrevista-com-eden-medina/

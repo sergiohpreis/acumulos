@@ -26,7 +26,6 @@ tags:
   - filosofia
   - técnica
 draft: false
-date: 2026-03-03T15:55:18.052949681-03:00
 ---
 
 ## Resumo

@@ -1,6 +1,6 @@
 ---
-date created: Friday, February 6th 2026, 9:21:10 pm
-date modified: Wednesday, February 11th 2026, 2:15:16 am
+created: 2026-02-06T21:21:10-03:00
+modified: 2026-02-11T02:15:16-03:00
 started_at: 2026-02-06T21:00:00
 finished_at: 2026-02-07T13:40:00
 categories:
@@ -27,7 +27,6 @@ description:
 permalink:
 aliases:
 draft: false
-date: 2026-02-11
 authors:
   - Descartes
 ---

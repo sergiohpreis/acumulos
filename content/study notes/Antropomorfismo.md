@@ -1,11 +1,10 @@
 ---
-date created: Wednesday, March 18th 2026, 5:39:19 pm
-date modified: Wednesday, March 18th 2026, 5:39:33 pm
+created: 2026-03-18T17:39:19-03:00
+modified: 2026-03-18T17:39:33-03:00
 tags:
   - filosofia
   - antropomorfismo
 draft: false
-date: 2026-03-18
 ---
 
 >[!info] De acordo com [[Abbagnano Nicola. Dicionário de Filosofia (2012)]]

@@ -29,9 +29,8 @@ tags:
 type:
   - livro
 draft: false
-date: 2026-02-21T18:21:00
-date created: Saturday, February 21st 2026, 6:19:51 pm
-date modified: Saturday, February 21st 2026, 6:21:16 pm
+created: 2026-02-21T18:19:51-03:00
+modified: 2026-02-21T18:21:16-03:00
 ---
 
 ## Resumo

@@ -1,6 +1,6 @@
 ---
-date created: Sunday, February 15th 2026, 2:19:30 pm
-date modified: Sunday, February 15th 2026, 2:42:05 pm
+created: 2026-02-15T14:19:30-03:00
+modified: 2026-02-15T14:42:05-03:00
 title: DEBORD Guy. A Sociedade do Espetáculo (1967)
 authors:
   - Guy Debord
@@ -25,7 +25,6 @@ tags:
   - livros
 description:
 draft: false
-date: 2026-02-15T14:40:00
 type:
   - livro
 ---

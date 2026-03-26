@@ -1,12 +1,11 @@
 ---
-date created: Sunday, March 8th 2026, 12:03:52 am
-date modified: Sunday, March 8th 2026, 12:12:30 am
+created: 2026-03-08T00:03:52-03:00
+modified: 2026-03-08T00:12:30-03:00
 tags:
   - heidegger
   - pinto
   - yuk-hui
 draft: false
-date: 2026-03-08T00:05:00
 ---
 
 A escolha da Linha de Pesquisa "Lógica, Filosofia da Linguagem e Filosofia das Ciências", com a especialidade em "Teoria do Conhecimento e Filosofia da Ciência", é estrategicamente perfeita para acomodar o cruzamento entre Martin Heidegger, Álvaro Vieira Pinto e Yuk Hui, focando na **cibernética** e na **epistemologia da tecnologia**.

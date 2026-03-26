@@ -1,6 +1,6 @@
 ---
-date created: Thursday, February 5th 2026, 12:12:13 pm
-date modified: Sunday, February 22nd 2026, 10:06:48 pm
+created: 2026-02-05T12:12:13-03:00
+modified: 2026-02-22T22:06:48-03:00
 title: Acúmulos
 description: Tela de boas vindas aos meus acúmulos
 permalink:
@@ -12,7 +12,6 @@ tags:
   - matemática
   - marxismo
 draft: false
-date: 2026-02-22T22:00:00
 ---
 
 Se chama "Acúmulos" porque o que vem pra cá, já passou pelo [[Fluxo de pensamento da idéia ao acúmulo]]

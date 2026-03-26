@@ -1,12 +1,11 @@
 ---
-date created: Thursday, January 29th 2026, 9:08:15 pm
-date modified: Monday, March 2nd 2026, 12:19:35 am
+created: 2026-01-29T21:08:15-03:00
+modified: 2026-03-02T00:19:35-03:00
 tags:
   - spec-driven
   - ciência-da-computação
   - reflexões
 draft: false
-date: 2026-03-01T00:20:00
 ---
 
 Em [[Spec-driven development with AI - Get started with a new open source toolkit (2026)]] é proposto a seguinte definição para spec-driven development:

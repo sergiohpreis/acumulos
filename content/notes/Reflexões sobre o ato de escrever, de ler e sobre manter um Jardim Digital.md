@@ -1,6 +1,6 @@
 ---
-date created: Friday, February 13th 2026, 12:32:40 am
-date modified: Friday, February 13th 2026, 4:03:18 pm
+created: 2026-02-13T00:32:40-03:00
+modified: 2026-02-13T16:03:18-03:00
 title: Reflexões sobre o ato de escrever, de ler e sobre manter um Jardim Digital
 description: Profunda reflexão sobre o que significa o ato de escrever, de ler e sobre manter um Jardim Digital
 permalink:
@@ -10,7 +10,6 @@ tags:
   - digital-garden
   - reflexões
 draft: false
-date: 2026-02-13T01:46:00
 ---
 
 > [!info] O que escuto enquanto escrevo

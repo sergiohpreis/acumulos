@@ -1,11 +1,10 @@
 ---
-date created: Tuesday, March 24th 2026, 11:45:31 am
-date modified: Tuesday, March 24th 2026, 11:46:22 am
+created: 2026-03-24T11:45:31-03:00
+modified: 2026-03-24T11:46:22-03:00
 tags:
   - filosofia
   - iluminismo
 draft: true
-date: 2026-03-24
 ---
 
 > [!info] Texto presente no livro [[HUI Yuk. Tecnodiversidade (2020)]]

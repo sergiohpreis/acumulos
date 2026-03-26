@@ -1,6 +1,6 @@
 ---
-date created: Friday, February 13th 2026, 2:47:54 am
-date modified: Tuesday, February 17th 2026, 9:24:33 am
+created: 2026-02-13T02:47:54-03:00
+modified: 2026-02-17T09:24:33-03:00
 title: Fluxo de pensamento da idéia ao acúmulo
 description:
 permalink:
@@ -9,7 +9,6 @@ tags:
   - digital-garden
   - jardim-digital
 draft: false
-date: 2026-02-13T04:26:00
 ---
 
 A primeira coisa que eu faço quando eu penso em algo que eu quero escrever (que podemos chamar de idéia), é:

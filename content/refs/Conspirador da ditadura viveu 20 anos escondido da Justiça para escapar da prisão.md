@@ -1,12 +1,11 @@
 ---
-date created: Sunday, February 22nd 2026, 10:35:05 pm
-date modified: Sunday, February 22nd 2026, 10:39:19 pm
+created: 2026-02-22T22:35:05-03:00
+modified: 2026-02-22T22:39:19-03:00
 source: https://www.intercept.com.br/2025/01/07/conspirador-ditadura-gilberto-huber/
 tags:
   - ditadura
   - brasil
   - história
-date: 2026-02-22
 draft: true
 type:
   - matéria

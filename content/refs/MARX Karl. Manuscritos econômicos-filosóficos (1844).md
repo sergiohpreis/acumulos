@@ -26,7 +26,6 @@ tags:
   - filosofia
   - economia
 draft: false
-date: 2026-03-05T22:08:56.129216942-03:00
 ---
 
 ## Resumo

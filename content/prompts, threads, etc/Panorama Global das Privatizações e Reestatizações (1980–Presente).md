@@ -1,6 +1,6 @@
 ---
-date created: Friday, May 2nd 2025, 2:03:49 am
-date modified: Saturday, May 3rd 2025, 7:24:36 pm
+created: 2025-05-02T02:03:49-03:00
+modified: 2025-05-03T19:24:36-03:00
 ia:
   - chat-gpt
 source: https://chatgpt.com/c/68091379-f920-8010-b208-7313dc1b8881
@@ -10,7 +10,6 @@ tags:
   - brasil
 draft: false
 title: Panorama Global das Privatizações e Reestatizações (1980–Presente)
-date: 2025-05-02T02:03:00
 ---
 
 Perfeito. Vou preparar um panorama global das privatizações e reestatizações nos últimos anos, abrangendo todos os setores principais como energia, saneamento, transportes, saúde e outros serviços públicos. Vou incluir dados sobre os países que mais têm recorrido à reestatização, suas motivações e os impactos percebidos. Já volto com os resultados.

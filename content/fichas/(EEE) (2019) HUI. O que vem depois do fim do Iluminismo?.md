@@ -1,11 +1,10 @@
 ---
-date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Wednesday, March 25th 2026, 6:41:05 pm
+created: 2026-03-19T15:21:45-03:00
+modified: 2026-03-25T18:41:05-03:00
 tags:
   - yuk-hui
   - iluminismo
 draft: true
-date: 2026-03-23
 ---
 
 > [!info] Texto em [[HUI Yuk. Tecnodiversidade (2020)]]

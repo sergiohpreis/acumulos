@@ -1,8 +1,7 @@
 ---
-date created: Friday, March 6th 2026, 12:28:12 am
-date modified: Friday, March 6th 2026, 7:06:02 pm
+created: 2026-03-06T00:28:12-03:00
+modified: 2026-03-06T19:06:02-03:00
 draft: false
-date: 2026-03-06T00:30:00
 tags:
   - spinoza
   - ética

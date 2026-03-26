@@ -1,12 +1,11 @@
 ---
-date created: Thursday, February 26th 2026, 1:25:02 pm
-date modified: Sunday, March 1st 2026, 11:01:46 pm
+created: 2026-02-26T13:25:02-03:00
+modified: 2026-03-01T23:01:46-03:00
 tags:
   - tecnologia
   - reflexões
   - ciência-da-computação
 draft: false
-date: 2026-03-01T22:30:00
 ---
 
 A sociedade capitalista desenvolve de maneira anárquica uma dependência cada vez maior de uma enorme cadeia de sistemas, que possuem relação entre si e formam um grande complexo que podemos denominar complexo de microsserviços (ou arquitetura de microserviços), de [de acordo com o Google](https://cloud.google.com/learn/what-is-microservices-architecture?hl=pt-BR)

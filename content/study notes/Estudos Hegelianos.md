@@ -1,13 +1,12 @@
 ---
-date created: Thursday, March 5th 2026, 10:48:17 pm
-date modified: Thursday, March 5th 2026, 10:53:10 pm
+created: 2026-03-05T22:48:17-03:00
+modified: 2026-03-05T22:53:10-03:00
 tags:
   - hegel
   - filosofia
   - filosofia-alemã
   - spinoza
 draft: false
-date: 2026-03-05T23:00:00
 ---
 
 > [!note] Lendo: [[SPINOZA. Ética (1677)]]

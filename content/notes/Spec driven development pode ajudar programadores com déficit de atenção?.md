@@ -1,6 +1,6 @@
 ---
-date created: Saturday, January 17th 2026, 7:11:33 pm
-date modified: Thursday, February 26th 2026, 7:31:31 pm
+created: 2026-01-17T19:11:33-03:00
+modified: 2026-02-26T19:31:31-03:00
 tags:
   - spec-driven
   - tdah
@@ -8,7 +8,6 @@ tags:
   - tecnologia
 draft: false
 title: Spec driven development pode ajudar programadores com TDAH?
-date: 2026-02-16T08:03:00
 ---
 
 As vezes eu penso que sim, pois por exemplo, o fluxo para escrever um código é:

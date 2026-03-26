@@ -1,8 +1,7 @@
 ---
-date created: Thursday, March 19th 2026, 8:30:52 pm
-date modified: Tuesday, March 24th 2026, 7:00:08 pm
+created: 2026-03-19T20:30:52-03:00
+modified: 2026-03-24T19:00:08-03:00
 draft: false
-date: 2026-03-19
 ---
 
 # Informações da Obra

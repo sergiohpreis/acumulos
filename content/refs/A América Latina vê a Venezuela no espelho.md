@@ -1,6 +1,6 @@
 ---
-date created: Friday, January 30th 2026, 4:04:30 pm
-date modified: Sunday, March 8th 2026, 9:54:33 am
+created: 2026-01-30T16:04:30-03:00
+modified: 2026-03-08T09:54:33-03:00
 source: https://outraspalavras.net/geopoliticaeguerra/a-america-latina-ve-a-venezuela-no-espelho/
 author:
   - Rôney Rodrigues
@@ -16,7 +16,6 @@ tags:
   - américa-latina
   - política
 draft: false
-date: 2026-01-30T16:00:00
 ---
 
 >[!info] https://outraspalavras.net/geopoliticaeguerra/a-america-latina-ve-a-venezuela-no-espelho/

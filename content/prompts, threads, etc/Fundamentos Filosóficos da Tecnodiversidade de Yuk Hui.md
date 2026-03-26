@@ -1,6 +1,6 @@
 ---
-date created: Monday, February 16th 2026, 11:14:30 am
-date modified: Monday, February 16th 2026, 11:19:17 am
+created: 2026-02-16T11:14:30-03:00
+modified: 2026-02-16T11:19:17-03:00
 ia:
   - notebookllm
 source: https://notebooklm.google.com/notebook/2a1d114e-5576-4756-a791-6cbc6a4c4624
@@ -11,7 +11,6 @@ tags:
   - notebooklm
 title: Fundamentos Filosóficos da Tecnodiversidade de Yuk Hui
 draft: false
-date: 2026-02-16T11:15:00
 ---
 
 Para compreender a obra _Tecnodiversidade_ de Yuk Hui, é necessário transitar por uma base filosófica complexa e interdisciplinar. O autor articula um diálogo denso entre a tradição continental europeia (fenomenologia, existencialismo), a cibernética e a filosofia clássica chinesa.

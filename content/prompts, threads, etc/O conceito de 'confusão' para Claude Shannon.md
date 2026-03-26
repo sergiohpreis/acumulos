@@ -1,6 +1,6 @@
 ---
-date created: Friday, April 4th 2025, 1:46:30 am
-date modified: Monday, March 2nd 2026, 1:10:05 am
+created: 2025-04-04T01:46:30-03:00
+modified: 2026-03-02T01:10:05-03:00
 prompt: https://chatgpt.com/c/67ef63cb-0bc8-8010-b97a-a1deef0ec0ac
 ia:
   - chat-gpt
@@ -10,7 +10,6 @@ tags:
   - shannon
   - chatgpt
 draft: false
-date: 2025-04-04T01:46:00
 ---
 
 > [!info] PROMPT

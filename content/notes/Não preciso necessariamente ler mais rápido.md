@@ -1,6 +1,6 @@
 ---
-date created: Thursday, February 26th 2026, 3:20:05 pm
-date modified: Thursday, February 26th 2026, 3:20:11 pm
+created: 2026-02-26T15:20:05-03:00
+modified: 2026-02-26T15:20:11-03:00
 draft: true
 tags:
   - reflexões

@@ -1,13 +1,12 @@
 ---
-date created: Monday, March 2nd 2026, 12:24:02 am
-date modified: Monday, March 2nd 2026, 12:38:04 am
+created: 2026-03-02T00:24:02-03:00
+modified: 2026-03-02T00:38:04-03:00
 tags:
   - imagem
   - reflexões
   - guerra
   - mídia
 draft: false
-date: 2026-03-02T00:33:00
 ---
 
 Lendo [[SONTAG Susan. Diante da dor dos outros (2003)]] uma imagem não deixou de me vir a cabeça, que é a de um soldado brasileiro pertencente ao exercito de Israel, que dedica uma explosão de Gaza a sua esposa.

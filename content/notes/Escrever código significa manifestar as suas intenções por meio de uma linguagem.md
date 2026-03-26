@@ -1,12 +1,11 @@
 ---
-date created: Friday, January 30th 2026, 12:58:42 pm
-date modified: Sunday, March 1st 2026, 11:24:37 pm
+created: 2026-01-30T12:58:42-03:00
+modified: 2026-03-01T23:24:37-03:00
 tags:
   - spec-driven
   - tecnologia
   - llm
 draft: false
-date: 2026-03-01T23:30:00
 ---
 
 

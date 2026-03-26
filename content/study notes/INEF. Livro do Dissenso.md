@@ -1,6 +1,6 @@
 ---
-date created: Thursday, March 5th 2026, 7:48:23 am
-date modified: Monday, March 23rd 2026, 11:43:38 pm
+created: 2026-03-05T07:48:23-03:00
+modified: 2026-03-26T10:36:30-03:00
 tags:
   - filosofia
   - mitologia
@@ -10,7 +10,6 @@ tags:
   - história-da-filosofia
   - platão
 draft: false
-date: 2026-03-23
 ---
 
 > [!note] O "Livro do Dissenso" é uma proposta pedagógica do Núcleo de Formação Filosófica do INEF

@@ -1,6 +1,6 @@
 ---
-date created: Saturday, May 10th 2025, 8:25:32 pm
-date modified: Saturday, May 10th 2025, 8:25:43 pm
+created: 2025-05-10T20:25:32-03:00
+modified: 2025-05-10T20:25:43-03:00
 source: https://chatgpt.com/share/68229cbd-cb2c-8010-8041-4fc986f36e6d
 ia:
   - chat-gpt
@@ -11,7 +11,6 @@ tags:
   - chatgpt
 draft: false
 title: Análise do Diálogo entre Stalin e Caio Prado Júnior sobre o Meio Geográfico
-date: 2025-05-10T20:25:00
 ---
 
 ## Introdução

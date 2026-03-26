@@ -1,12 +1,11 @@
 ---
-date created: Tuesday, March 24th 2026, 6:55:08 pm
-date modified: Tuesday, March 24th 2026, 7:04:06 pm
+created: 2026-03-24T18:55:08-03:00
+modified: 2026-03-24T19:04:06-03:00
 tags:
   - filosofia
   - empirismo
   - epistemologia
 draft: false
-date: 2026-03-24
 ---
 
 Texto: Ensaio sobre o Entendimento Humano

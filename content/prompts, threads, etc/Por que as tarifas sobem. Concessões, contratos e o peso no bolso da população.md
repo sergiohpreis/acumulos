@@ -1,6 +1,6 @@
 ---
-date created: Monday, May 5th 2025, 11:49:54 pm
-date modified: Wednesday, May 28th 2025, 2:42:26 am
+created: 2025-05-05T23:49:54-03:00
+modified: 2025-05-28T02:42:26-03:00
 prompt: https://chatgpt.com/share/6836a24b-ae90-8010-9496-6eadb91e9061
 ia:
   - chat-gpt
@@ -8,7 +8,6 @@ tags:
   - privatizacoes
   - chatgpt
 draft: false
-date: 2025-05-05
 ---
 
 O aumento das contas de água e das passagens de trem não é fruto do acaso nem apenas da inflação. Esses reajustes estão diretamente ligados aos contratos firmados entre o Estado de São Paulo e empresas privadas que hoje operam serviços essenciais, como o abastecimento de água (Sabesp) e o transporte ferroviário (ViaMobilidade).

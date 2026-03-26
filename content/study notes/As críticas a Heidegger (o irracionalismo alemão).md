@@ -1,11 +1,10 @@
 ---
-date created: Friday, February 27th 2026, 7:22:44 pm
-date modified: Monday, March 2nd 2026, 1:08:17 am
+created: 2026-02-27T19:22:44-03:00
+modified: 2026-03-02T01:08:17-03:00
 source: https://pt.wikipedia.org/wiki/Martin_Heidegger
 tags:
   - heidegger
 draft: false
-date: 2026-02-27T19:30:00
 ---
 
 >[!note] https://pt.wikipedia.org/wiki/Martin_Heidegger

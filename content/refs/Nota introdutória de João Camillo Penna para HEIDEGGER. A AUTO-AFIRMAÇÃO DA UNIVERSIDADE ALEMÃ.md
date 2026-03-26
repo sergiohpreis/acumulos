@@ -1,10 +1,9 @@
 ---
-date created: Friday, February 27th 2026, 7:10:24 pm
-date modified: Friday, February 27th 2026, 7:21:29 pm
+created: 2026-02-27T19:10:24-03:00
+modified: 2026-02-27T19:21:29-03:00
 tags:
   - heidegger
 draft: false
-date: 2026-02-27T19:21:00
 ---
 
 > o compro-misso com a “revolução” nacional-socialista, emprestando de forma entusiasta o seu prestígio filosófico a uma causa mais do que duvidosa; a crença na missão de Adolf Hitler

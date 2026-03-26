@@ -28,7 +28,6 @@ tags:
   - idealismo
   - idealismo-alemão
 draft: false
-date: 2026-03-17T08:55:49.19224217-03:00
 ---
 
 ## Resumo

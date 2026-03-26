@@ -1,6 +1,6 @@
 ---
-date created: Friday, January 30th 2026, 11:43:20 am
-date modified: Monday, February 16th 2026, 3:47:10 am
+created: 2026-01-30T11:43:20-03:00
+modified: 2026-02-16T03:47:10-03:00
 source: https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/
 status:
   - finished
@@ -14,7 +14,6 @@ tags:
   - spec-driven
 draft: false
 title: Spec-driven development with AI - Get started with a new open source toolkit (2026)
-date: 2026-01-30T11:43:00
 authors:
   - Den Delimarsky
   - Github

@@ -1,12 +1,11 @@
 ---
-date created: Saturday, February 28th 2026, 2:36:31 pm
-date modified: Saturday, February 28th 2026, 2:37:57 pm
+created: 2026-02-28T14:36:31-03:00
+modified: 2026-02-28T14:37:57-03:00
 tags:
   - filosofia
   - heidegger
   - notebooklm
 draft: false
-date: 2026-02-28T14:30:00
 ---
 
 Na filosofia tradicional e na ciência, costumamos ver o mundo sob a relação "sujeito-objeto". Um "objeto" (do latim _ob-jectum_, aquilo que é lançado à frente; ou do alemão _Gegen-stand_, aquilo que fica de pé diante de nós) tem uma certa independência e autonomia. Ele se apresenta para nós com suas próprias fronteiras e características.

@@ -1,6 +1,6 @@
 ---
-date created: Sunday, February 15th 2026, 5:37:52 pm
-date modified: Sunday, February 15th 2026, 5:48:43 pm
+created: 2026-02-15T17:37:52-03:00
+modified: 2026-02-15T17:48:43-03:00
 ia:
   - gemini
 source: https://gemini.google.com/app/bcbf93cc9fff033e
@@ -13,7 +13,6 @@ tags:
 title: A Transição da Certeza à Crítica - De Descartes a Kant
 description:
 draft: false
-date: 2026-02-15T17:39:00
 ---
 
 ### 1. O Ponto de Partida: René Descartes (Racionalismo Dogmático)

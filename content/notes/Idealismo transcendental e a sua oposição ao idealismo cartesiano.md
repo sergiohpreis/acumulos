@@ -1,6 +1,6 @@
 ---
-date created: Monday, February 16th 2026, 2:10:23 am
-date modified: Monday, February 16th 2026, 2:31:47 am
+created: 2026-02-16T02:10:23-03:00
+modified: 2026-02-16T02:31:47-03:00
 tags:
   - idealismo
   - idealismo-transcedental
@@ -10,7 +10,6 @@ tags:
   - estudos
 title: Idealismo transcendental e a sua oposição ao idealismo cartesiano
 draft: false
-date: 2026-02-16T02:24:00
 ---
 
 Durante a leitura de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]], pude entender melhor o que distingui o idealismo de Kant (conhecido como "**Idealismo transcendental**") dos demais idealismos (como os de Berkley e Descartes).

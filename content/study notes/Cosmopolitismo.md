@@ -1,11 +1,10 @@
 ---
-date created: Wednesday, March 18th 2026, 12:50:17 am
-date modified: Wednesday, March 18th 2026, 12:52:06 am
+created: 2026-03-18T00:50:17-03:00
+modified: 2026-03-18T00:52:06-03:00
 tags:
   - cosmopolitismo
   - filosofia
 draft: false
-date: 2026-03-18
 ---
 
 > [!info] Com base em [[Abbagnano Nicola. Dicionário de Filosofia (1XXX)]]

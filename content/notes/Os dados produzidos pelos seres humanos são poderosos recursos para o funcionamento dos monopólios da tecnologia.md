@@ -1,13 +1,12 @@
 ---
-date created: Tuesday, January 7th 2025, 4:05:07 pm
-date modified: Sunday, February 22nd 2026, 10:40:09 pm
+created: 2025-01-07T16:05:07-03:00
+modified: 2026-02-22T22:40:09-03:00
 tags:
   - dados
   - tecnologia
   - imperialismo
   - reflexões
 draft: false
-date: 2025-03-24
 ---
 
 > [!info] Refs

@@ -24,7 +24,6 @@ tags:
   - epistemologia
   - filosofia
 draft: false
-date: 2026-03-24T10:41:42.029676232-03:00
 ---
 
 ## Resumo

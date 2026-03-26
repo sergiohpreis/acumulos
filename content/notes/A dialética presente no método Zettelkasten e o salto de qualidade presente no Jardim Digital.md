@@ -1,6 +1,6 @@
 ---
-date created: Wednesday, October 16th 2024, 4:51:58 am
-date modified: Friday, February 13th 2026, 3:17:12 am
+created: 2024-10-16T04:51:58-03:00
+modified: 2026-02-13T03:17:12-03:00
 tags:
   - dialetica
   - zettelkasten
@@ -9,7 +9,6 @@ tags:
 title:
 description:
 draft: false
-date: 2026-02-13
 ---
 
 Enquanto eu estudava sobre o materialismo histórico dialético em [[BESSE Guy, CAVEING Maurice. Politzer, Princípios Fundamentais de Filosofia (1978)]] por algum motivo me lembrei de [[SÖNKE Ahrens. How to Take Smart Notes (2017)]], onde é demonstrado o método Zettelkasten.

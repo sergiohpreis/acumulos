@@ -1,13 +1,12 @@
 ---
-date created: Wednesday, December 24th 2025, 12:00:08 am
-date modified: Wednesday, December 24th 2025, 12:00:11 am
+created: 2025-12-24T00:00:08-03:00
+modified: 2025-12-24T00:00:11-03:00
 prompt: https://chatgpt.com/c/694b569e-9e50-8329-9b8c-799cca51bd6f
 tags:
   - china
   - chatgpt
 draft: false
 title: O 4 de Maio de 1919 e o Movimento Quatro de Maio na China
-date: 2025-12-24T12:00:00
 ---
 
 O **4 de Maio de 1919** foi o marco inicial do **Movimento Quatro de Maio**, um dos eventos intelectuais e políticos mais importantes da China moderna.

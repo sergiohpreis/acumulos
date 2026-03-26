@@ -27,7 +27,6 @@ tags:
   - guerra
   - fotografia
 draft: false
-date: 2026-03-05T09:33:45.405030105-03:00
 ---
 
 ## Resumo

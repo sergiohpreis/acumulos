@@ -34,7 +34,6 @@ tags:
   - racionalismo
   - livros
 draft: false
-date: 2026-02-18T18:50:00
 type:
   - livro
 ---

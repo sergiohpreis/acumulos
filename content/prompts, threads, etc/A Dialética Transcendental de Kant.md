@@ -1,8 +1,7 @@
 ---
-date created: Monday, February 23rd 2026, 5:17:23 pm
-date modified: Monday, February 23rd 2026, 5:24:58 pm
+created: 2026-02-23T17:17:23-03:00
+modified: 2026-02-23T17:24:58-03:00
 draft: false
-date: 2026-02-23T17:17:00
 tags:
   - dialetica
   - filosofia

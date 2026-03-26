@@ -1,6 +1,6 @@
 ---
-date created: Tuesday, February 3rd 2026, 8:28:18 pm
-date modified: Monday, February 16th 2026, 9:47:27 am
+created: 2026-02-03T20:28:18-03:00
+modified: 2026-02-16T09:47:27-03:00
 title: BAUDRILLARD Jean. O sistema dos objetos (1968)
 authors:
   - Jean Baudrillard
@@ -26,7 +26,6 @@ tags:
   - sociologia
   - livros
 draft: false
-date: 2026-02-03T08:28:00
 type:
   - livro
 ---

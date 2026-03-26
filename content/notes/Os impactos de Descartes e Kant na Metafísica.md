@@ -1,6 +1,6 @@
 ---
-date created: Tuesday, February 17th 2026, 11:08:24 am
-date modified: Tuesday, February 17th 2026, 11:11:40 am
+created: 2026-02-17T11:08:24-03:00
+modified: 2026-02-17T11:11:40-03:00
 tags:
   - kant
   - descartes
@@ -9,7 +9,6 @@ tags:
   - metafisica
 draft: false
 title: Os impactos de Descartes e Kant na Metafísica
-date: 2026-02-17T11:15:00
 ---
 
 Esses dias assisti a um vídeo onde Pondé afirmava que era errada a afirmação que "Kant matou a metafísica", e durante os meus estudos de [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]], enquanto produzia [[Anotações de "KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)"]] pude perceber que é verdade.

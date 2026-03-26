@@ -34,7 +34,6 @@ tags:
   - filosofia-alemã
   - epistemologia
 draft: false
-date: 2026-02-25T19:45:38.500107267-03:00
 ---
 
 ## Resumo

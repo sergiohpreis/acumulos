@@ -1,6 +1,6 @@
 ---
-date created: Wednesday, February 11th 2026, 6:08:39 pm
-date modified: Saturday, February 21st 2026, 8:12:50 am
+created: 2026-02-11T18:08:39-03:00
+modified: 2026-02-21T08:12:50-03:00
 title: A Esquerda que confunde materialismo com empirismo, e portanto, fortalece os dogmas
 description:
 permalink:
@@ -11,7 +11,6 @@ tags:
   - capitalismo
   - marxismo
 draft: false
-date: 2026-02-21T08:10:00
 ---
 
 Parte de uma esquerda (por exemplo, ver as declarações [[BOULOS Guilherme. Entrevista Podcast 3 Irmãos (2026)]]) possui uma crença de que a ação prática possui uma legitimidade moral superior à formulação teórica. Concordando com [[MANOEL Jones. Rendição ao sistema e desprezo pela teoria (2026)]] é fato que a ação puramente empírica, desprovida de rigor intelectual e visão estratégica, inevitavelmente se rende às lógicas do sistema dominante e que, portanto, a experiência empírica, não é autossuficiente e sem um marco teórico, a prática leva a análises superficiais da realidade que resultam em ações ineficientes.

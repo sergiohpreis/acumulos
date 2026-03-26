@@ -1,6 +1,6 @@
 ---
-date created: Thursday, January 29th 2026, 10:14:42 pm
-date modified: Monday, February 16th 2026, 3:36:34 am
+created: 2026-01-29T22:14:42-03:00
+modified: 2026-02-16T03:36:34-03:00
 tags:
   - ia
 draft: true

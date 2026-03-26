@@ -1,6 +1,6 @@
 ---
-date created: Thursday, March 19th 2026, 3:21:45 pm
-date modified: Friday, March 20th 2026, 1:16:22 pm
+created: 2026-03-19T15:21:45-03:00
+modified: 2026-03-20T13:16:22-03:00
 draft: false
 tags:
   - yuk-hui
@@ -9,7 +9,6 @@ tags:
   - filosofia
   - antropologia
   - moderno
-date: 2026-03-20
 ---
 
 > [!info] Texto em [[HUI Yuk. Tecnodiversidade (2020)]]

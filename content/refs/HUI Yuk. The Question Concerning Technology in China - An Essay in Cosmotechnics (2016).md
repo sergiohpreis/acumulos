@@ -23,7 +23,6 @@ tags:
   - tecnologia
   - filosofia
 draft: false
-date: 2026-03-09T20:04:14.520089267-03:00
 ---
 
 ## Resumo

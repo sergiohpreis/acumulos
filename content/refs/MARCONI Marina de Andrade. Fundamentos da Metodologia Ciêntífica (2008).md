@@ -24,7 +24,6 @@ tags:
   - metodologia-científica
   - livros
 draft: false
-date: 2026-01-28
 type:
   - livro
 ---

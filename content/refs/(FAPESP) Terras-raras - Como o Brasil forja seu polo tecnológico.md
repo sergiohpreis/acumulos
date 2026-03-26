@@ -1,11 +1,10 @@
 ---
-date created: Monday, March 9th 2026, 11:45:32 pm
-date modified: Monday, March 9th 2026, 11:46:16 pm
+created: 2026-03-09T23:45:32-03:00
+modified: 2026-03-09T23:46:16-03:00
 tags:
   - brasil
   - terras-raras
 draft: false
-date: 2026-03-09T23:45:00
 source: https://outraspalavras.net/outrasmidias/terras-raras-como-o-brasil-forja-seu-polo-tecnologico/
 status:
   - READ

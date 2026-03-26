@@ -25,7 +25,6 @@ tags:
   - eua
   - rascismo
 draft: false
-date: 2026-02-23T12:34:04.884370548-03:00
 ---
 
 ## Summary

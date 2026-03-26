@@ -30,7 +30,6 @@ tags:
   - técnica
   - tecnologia
 draft: false
-date: 2026-03-19T20:11:46.874904313-03:00
 ---
 
 ## Resumo

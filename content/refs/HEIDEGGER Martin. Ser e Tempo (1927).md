@@ -24,7 +24,6 @@ tags:
   - filosofia
   - fenomenologia
 draft: false
-date: 2026-03-01T21:05:26.083945699-03:00
 ---
 
 ## Resumo

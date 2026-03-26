@@ -1,13 +1,12 @@
 ---
-date created: Monday, March 9th 2026, 8:57:51 pm
-date modified: Monday, March 9th 2026, 11:41:13 pm
+created: 2026-03-09T20:57:51-03:00
+modified: 2026-03-09T23:41:13-03:00
 tags:
   - licença-de-software
   - open-source
   - tecnologia
   - reflexões
 draft: false
-date: 2026-03-09T23:40:00
 ---
 
 Durante os meus [[Estudos sobre "Técnica, Tecnologia"]] me peguei refletindo sobre as licenças de software e software livre. 

@@ -30,7 +30,6 @@ tags:
   - idealismo
   - filosofia-alemã
 draft: false
-date: 2026-02-27T14:18:50.109474807-03:00
 ---
 
 ## Resumo

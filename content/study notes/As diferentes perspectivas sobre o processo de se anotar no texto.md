@@ -1,11 +1,10 @@
 ---
-date created: Monday, March 16th 2026, 11:09:39 pm
-date modified: Monday, March 16th 2026, 11:57:55 pm
+created: 2026-03-16T23:09:39-03:00
+modified: 2026-03-16T23:57:55-03:00
 tags:
   - técnica-estudo
   - leitura
 draft: false
-date: 2026-03-16
 ---
 
 Diversos autores abordam sobre esse tema sobre diversas perspectivas

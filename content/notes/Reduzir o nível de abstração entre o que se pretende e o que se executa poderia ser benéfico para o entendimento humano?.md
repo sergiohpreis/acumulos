@@ -1,12 +1,11 @@
 ---
-date created: Monday, January 26th 2026, 11:44:11 pm
-date modified: Monday, March 2nd 2026, 12:12:57 am
+created: 2026-01-26T23:44:11-03:00
+modified: 2026-03-02T00:12:57-03:00
 tags:
   - tecnologia
   - spec-driven
   - reflexões
 draft: false
-date: 2026-03-02T00:15:00
 ---
 
 Existem alguns artigos falando sobre Spec-Driven Developments:

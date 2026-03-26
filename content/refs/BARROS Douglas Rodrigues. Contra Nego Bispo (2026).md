@@ -1,13 +1,12 @@
 ---
-date created: Friday, February 20th 2026, 1:16:56 pm
-date modified: Friday, February 20th 2026, 2:28:12 pm
+created: 2026-02-20T13:16:56-03:00
+modified: 2026-02-20T14:28:12-03:00
 source: https://blogdaboitempo.com.br/2026/01/21/contra-nego-bispo/
 published_at: 2026-01-21
 published_year: 2026
 authors:
   - Douglas Rodrigues Barros
 draft: true
-date: 2026-02-20T14:45:00
 status:
   - READING
 type:

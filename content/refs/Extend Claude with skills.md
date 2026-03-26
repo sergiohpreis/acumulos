@@ -1,12 +1,11 @@
 ---
-date created: Friday, February 20th 2026, 2:28:44 pm
-date modified: Saturday, February 21st 2026, 4:55:24 pm
+created: 2026-02-20T14:28:44-03:00
+modified: 2026-02-21T16:55:24-03:00
 status:
   - pending
 authors:
   - Claude Code
 draft: true
-date: 2202-01-21T16:50:00
 ---
 
 > https://open.spotify.com/track/3Z3hgecucGIO6WXFSBxE4e?si=8436bafb939b4f6a

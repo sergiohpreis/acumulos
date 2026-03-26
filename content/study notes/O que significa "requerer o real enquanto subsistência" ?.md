@@ -1,12 +1,11 @@
 ---
-date created: Saturday, February 28th 2026, 4:04:59 pm
-date modified: Saturday, February 28th 2026, 4:05:28 pm
+created: 2026-02-28T16:04:59-03:00
+modified: 2026-02-28T16:05:28-03:00
 tags:
   - filosofia
   - heidegger
   - notebooklm
 draft: false
-date: 2026-02-28T16:05:00
 ---
 
 **O significado de "requerer o real enquanto subsistência"** "Requerer o real" significa impor uma exigência a tudo o que existe (a natureza, o mundo e as coisas). Essa exigência determina que a realidade não pode mais simplesmente "ser" ou "repousar em si mesma", mas deve se apresentar exclusivamente como **subsistência** (estoque, fundo de reserva ou recurso útil).

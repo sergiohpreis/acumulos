@@ -1,6 +1,6 @@
 ---
-date created: Tuesday, December 16th 2025, 4:55:18 pm
-date modified: Friday, February 13th 2026, 3:22:11 am
+created: 2025-12-16T16:55:18-03:00
+modified: 2026-02-13T03:22:11-03:00
 tags:
   - RAG
 type:
@@ -10,7 +10,6 @@ status:
 year: "2024"
 source: https://huggingface.co/blog/ngxson/make-your-own-rag
 draft: false
-date: 2025-12-16
 title: Code a simple RAG from scratch (2024)
 description:
 authors:

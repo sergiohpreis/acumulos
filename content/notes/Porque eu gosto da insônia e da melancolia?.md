@@ -1,13 +1,12 @@
 ---
-date created: Friday, February 13th 2026, 3:33:11 am
-date modified: Friday, February 13th 2026, 4:06:31 am
+created: 2026-02-13T03:33:11-03:00
+modified: 2026-02-13T04:06:31-03:00
 tags:
   - melancolia
   - sentimento
   - insônia
 draft: false
 title: Porque eu gosto da insônia e da melancolia?
-date: 2026-02-13T04:06:00
 ---
 
 Há algum tempo eu venho refletindo sobre o porquê eu tenho esse apreço pelo sentimento de melancolia e porquê vivência a insônia é tão bom...

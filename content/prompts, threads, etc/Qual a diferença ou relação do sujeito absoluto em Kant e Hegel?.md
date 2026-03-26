@@ -1,6 +1,6 @@
 ---
-date created: Sunday, February 22nd 2026, 8:07:08 pm
-date modified: Sunday, February 22nd 2026, 8:07:10 pm
+created: 2026-02-22T20:07:08-03:00
+modified: 2026-02-22T20:07:10-03:00
 source: https://gemini.google.com/app/a9e90a1acadf84bb
 ia:
   - gemini
@@ -11,7 +11,6 @@ tags:
   - idealismo
   - gemini
 draft: false
-date: 2026-02-22T20:08:00
 ---
 
 A relação é de **continuidade e ruptura**. Hegel aceita a descoberta kantiana de que o sujeito é ativo na construção do conhecimento, mas critica Kant por parar no meio do caminho.

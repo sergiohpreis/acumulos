@@ -29,7 +29,6 @@ tags:
   - tecnologia
   - política
 draft: false
-date: 2026-03-15T18:47:31.645860756-03:00
 ---
 
 ## Resumo

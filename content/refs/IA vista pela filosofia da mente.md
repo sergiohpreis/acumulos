@@ -1,6 +1,6 @@
 ---
-date created: Monday, May 26th 2025, 10:49:26 pm
-date modified: Thursday, March 5th 2026, 11:35:11 pm
+created: 2025-05-26T22:49:26-03:00
+modified: 2026-03-05T23:35:11-03:00
 tags:
   - ia
   - filosofia
@@ -13,7 +13,6 @@ status:
   - READ
 source: https://outraspalavras.net/outrasmidias/ia-vista-pela-filosofia-da-mente/
 draft: false
-date: 2026-03-05T23:30:00
 ---
 
 > [!info] https://outraspalavras.net/outrasmidias/ia-vista-pela-filosofia-da-mente/

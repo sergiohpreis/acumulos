@@ -1,12 +1,11 @@
 ---
-date created: Thursday, February 5th 2026, 10:22:35 am
-date modified: Saturday, February 7th 2026, 4:14:58 pm
+created: 2026-02-05T10:22:35-03:00
+modified: 2026-02-07T16:14:58-03:00
 tags:
   - ideias
   - colecionismo
 title: Sobre as motivações que me levaram a criar um agregador de coleções
 draft: false
-date: 2026-02-07
 ---
 
 Há algum tempo que eu tenho o hábito de registrar o tempo das minhas sessões de leituras... eu sempre penso que isso é um tanto quanto "neurótico" (eu não sei se é a melhor palavra), mas lendo [[SALOMON Délcio Vieira. Como Fazer uma Monografia (2004)]] ele sugere um método para aprimorar a leitura que se baseia também em cronometrar. Mas além disso, eu acho interessante ver como a leitura se faz presente ao longo da minha vida.

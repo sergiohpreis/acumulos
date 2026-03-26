@@ -1,9 +1,8 @@
 ---
-date created: Monday, March 9th 2026, 8:15:06 pm
-date modified: Monday, March 9th 2026, 8:21:54 pm
+created: 2026-03-09T20:15:06-03:00
+modified: 2026-03-09T20:21:54-03:00
 tags:
 draft: false
-date: 2025-03-09T20:15:00
 ---
 
 > [!info] [[DIAS Lia Ribeiro. Inteligência Artificial, Sociedade e Classe - Como a IA impacta o trabalho, a saúde e as políticas públicas (2025)]]

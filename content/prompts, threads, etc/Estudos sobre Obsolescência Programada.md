@@ -1,6 +1,6 @@
 ---
-date created: Thursday, January 16th 2025, 3:01:40 am
-date modified: Saturday, January 24th 2026, 1:31:10 am
+created: 2025-01-16T03:01:40-03:00
+modified: 2026-01-24T01:31:10-03:00
 prompt: https://chatgpt.com/share/6788a0fc-8868-8010-9479-3969d0939893
 ia:
   - chat-gpt
@@ -8,7 +8,6 @@ tags:
   - chatgpt
   - tecnologia
   - obsolescência
-date: 2025-01-16T03:00:00
 ---
 
 Existem diversos estudos sobre **obsolescência programada**, um tema amplamente debatido em áreas como economia, sociologia, sustentabilidade e direito. A obsolescência programada refere-se à prática de projetar produtos de forma que eles tenham uma vida útil limitada, incentivando os consumidores a substituí-los mais rapidamente. Aqui estão algumas perspectivas e tópicos abordados nos estudos sobre o tema:

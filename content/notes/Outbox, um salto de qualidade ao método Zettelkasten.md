@@ -1,13 +1,12 @@
 ---
-date created: Friday, February 13th 2026, 1:31:00 am
-date modified: Friday, February 13th 2026, 1:33:10 am
+created: 2026-02-13T01:31:00-03:00
+modified: 2026-02-13T01:33:10-03:00
 title:
 description:
 permalink:
 aliases:
 tags:
 draft: true
-date: 2026-02-28
 ---
 
 Eu li o livro [[SÖNKE Ahrens. How to Take Smart Notes (2017)]] e ele me influênciou muito sobre varios aspectos que comento melhor em em  [[Porque eu decidi criar um Digital Garden]].

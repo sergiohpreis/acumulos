@@ -1,6 +1,6 @@
 ---
-date created: Tuesday, November 18th 2025, 2:18:24 am
-date modified: Tuesday, November 18th 2025, 2:18:25 am
+created: 2025-11-18T02:18:24-03:00
+modified: 2025-11-18T02:18:25-03:00
 tags:
   - intuição
 draft: true

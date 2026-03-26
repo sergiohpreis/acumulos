@@ -1,8 +1,7 @@
 ---
-date created: Tuesday, January 27th 2026, 7:39:58 pm
-date modified: Saturday, February 21st 2026, 11:13:19 am
+created: 2026-01-27T19:39:58-03:00
+modified: 2026-02-21T11:13:19-03:00
 draft: false
-date: 2026-01-27T19:40:00
 tags:
   - internet
   - anime

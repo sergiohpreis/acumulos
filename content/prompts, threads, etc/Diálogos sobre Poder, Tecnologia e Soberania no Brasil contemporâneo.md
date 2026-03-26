@@ -1,12 +1,11 @@
 ---
-date created: Friday, February 20th 2026, 10:45:20 pm
-date modified: Friday, February 20th 2026, 11:57:45 pm
+created: 2026-02-20T22:45:20-03:00
+modified: 2026-02-20T23:57:45-03:00
 draft: false
 tags:
   - brasil
   - tecnologia
   - capitalismo
-date: 2026-02-20T22:45:00
 source: https://notebooklm.google.com/notebook/e2e1860d-e4b4-485b-a96d-be04910ae99b
 ---
 

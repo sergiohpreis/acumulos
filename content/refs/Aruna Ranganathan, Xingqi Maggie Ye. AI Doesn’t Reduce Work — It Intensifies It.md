@@ -1,12 +1,11 @@
 ---
-date created: Monday, March 9th 2026, 10:25:37 pm
-date modified: Monday, March 9th 2026, 10:28:32 pm
+created: 2026-03-09T22:25:37-03:00
+modified: 2026-03-09T22:28:32-03:00
 tags:
   - tecnologia
   - ia
   - trabalho
 draft: false
-date: 2026-03-09T22:30:00
 ---
 
 >[!info] https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it

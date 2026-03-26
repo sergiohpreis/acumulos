@@ -1,12 +1,11 @@
 ---
-date created: Sunday, March 1st 2026, 12:15:39 pm
-date modified: Sunday, March 1st 2026, 12:19:46 pm
+created: 2026-03-01T12:15:39-03:00
+modified: 2026-03-01T12:19:46-03:00
 tags:
   - heidegger
   - epistemologia
   - marxismo
 draft: false
-date: 2026-03-01T12:20:00
 ---
 
 Em [[HEIDEGGER Martin. A Questão da Técnica (1954)]]

@@ -1,6 +1,6 @@
 ---
-date created: Friday, April 4th 2025, 1:39:15 am
-date modified: Monday, February 16th 2026, 9:35:26 am
+created: 2025-04-04T01:39:15-03:00
+modified: 2026-02-16T09:35:26-03:00
 source: https://chatgpt.com/c/67ef5dbe-af2c-8010-9dbe-a9cadfba76a3
 ia:
   - chat-gpt
@@ -11,7 +11,6 @@ tags:
   - brasil
 draft: false
 title: IBM DES, o padrão federal de criptografia de dados
-date: 2025-04-04T01:39:00
 ---
 
 O **DES (Data Encryption Standard)** é um dos marcos mais importantes da história da criptografia moderna. Criado nos anos 1970, ele foi um padrão de criptografia muito usado em aplicações governamentais, bancárias e comerciais por décadas. Vamos ao que interessa:

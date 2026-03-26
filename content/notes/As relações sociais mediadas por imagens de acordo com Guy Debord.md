@@ -1,12 +1,11 @@
 ---
-date created: Sunday, February 15th 2026, 2:16:38 pm
-date modified: Sunday, February 15th 2026, 2:22:59 pm
+created: 2026-02-15T14:16:38-03:00
+modified: 2026-02-15T14:22:59-03:00
 tags:
   - espetáculo
   - capitalismo
 title: As relações sociais mediadas por imagens de acordo com Guy Debord
 description: Algumas reflexões sobre a obra "A Sociedade do Espetáculo"
-date: 2026-02-15T14:30:00
 draft: false
 ---
 

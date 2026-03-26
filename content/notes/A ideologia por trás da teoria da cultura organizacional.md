@@ -1,6 +1,6 @@
 ---
-date created: Tuesday, November 26th 2024, 7:51:39 pm
-date modified: Monday, December 9th 2024, 3:08:29 pm
+created: 2024-11-26T19:51:39-03:00
+modified: 2024-12-09T15:08:29-03:00
 tags:
   - cultura
   - big-techs

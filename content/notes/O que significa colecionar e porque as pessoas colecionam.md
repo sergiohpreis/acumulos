@@ -1,10 +1,9 @@
 ---
-date created: Tuesday, February 3rd 2026, 8:08:43 pm
-date modified: Tuesday, February 3rd 2026, 8:16:13 pm
+created: 2026-02-03T20:08:43-03:00
+modified: 2026-02-03T20:16:13-03:00
 tags:
   - colecionismo
 draft: false
-date: 2026-01-03
 ---
 
 Eu não acredito que o hábito de colecionar deva ser incentivado de maneira alguma, mas é fato que sendo incentivado ou não, as pessoas colecionam.

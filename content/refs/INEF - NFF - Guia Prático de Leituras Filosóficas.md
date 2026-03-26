@@ -1,10 +1,9 @@
 ---
-date created: Friday, March 6th 2026, 8:26:52 am
-date modified: Friday, March 6th 2026, 8:29:11 am
+created: 2026-03-06T08:26:52-03:00
+modified: 2026-03-06T08:29:11-03:00
 tags:
   - filosofia
 draft: false
-date: 2026-03-06T08:30:00
 ---
 
 >[!info] https://www.istonaoefilosofia.com.br/

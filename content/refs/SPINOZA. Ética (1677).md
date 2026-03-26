@@ -27,7 +27,6 @@ tags:
   - ética
   - racionalismo
 draft: false
-date: 2026-03-06T20:17:26.219967153-03:00
 ---
 
 ## Resumo

@@ -1,13 +1,12 @@
 ---
-date created: Friday, February 27th 2026, 8:40:50 pm
-date modified: Thursday, March 5th 2026, 2:55:56 pm
+created: 2026-02-27T20:40:50-03:00
+modified: 2026-03-05T14:55:56-03:00
 tags:
   - heidegger
   - técnica
   - causalidade
   - resumos
 draft: false
-date: 2026-03-05T14:55:00
 ---
 
 > [!Iinfo] [[HEIDEGGER Martin. A Questão da Técnica (1954)]]

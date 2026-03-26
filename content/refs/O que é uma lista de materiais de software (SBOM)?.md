@@ -1,13 +1,12 @@
 ---
-date created: Friday, February 27th 2026, 3:07:34 pm
-date modified: Friday, February 27th 2026, 3:08:21 pm
+created: 2026-02-27T15:07:34-03:00
+modified: 2026-02-27T15:08:21-03:00
 source: https://www.ibm.com/br-pt/think/topics/sbom
 tags:
   - ciência-da-computação
   - microserviços
   - dependência
 draft: false
-date: 2025-02-27T15:10:00
 ---
 
 >[!iinfo] https://www.ibm.com/br-pt/think/topics/sbom

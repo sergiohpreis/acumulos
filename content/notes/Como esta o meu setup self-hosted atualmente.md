@@ -1,12 +1,11 @@
 ---
-date created: Monday, January 5th 2026, 1:10:30 am
-date modified: Monday, February 16th 2026, 9:21:41 am
+created: 2026-01-05T01:10:30-03:00
+modified: 2026-02-16T09:21:41-03:00
 tags:
   - self-hosted
   - tecnologia
 draft: false
 title: Como esta o meu setup self-hosted atualmente
-date: 2026-01-05T01:10:00
 ---
 
 Atualmente, possuo dois servidores:

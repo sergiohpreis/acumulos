@@ -1,13 +1,12 @@
 ---
-date created: Thursday, March 5th 2026, 2:50:47 pm
-date modified: Thursday, March 5th 2026, 2:56:34 pm
+created: 2026-03-05T14:50:47-03:00
+modified: 2026-03-05T14:56:34-03:00
 tags:
   - ciência-da-computação
   - programar
   - programação
   - reflexões
 draft: false
-date: 2026-03-05T14:55:00
 ---
 
 Basicamente, para construir o [[Sobre as motivações que me levaram a criar um agregador de coleções|Collector]], eu não coloquei a mão em código.

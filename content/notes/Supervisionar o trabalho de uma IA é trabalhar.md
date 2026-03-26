@@ -1,13 +1,12 @@
 ---
-date created: Thursday, February 26th 2026, 1:24:00 pm
-date modified: Thursday, February 26th 2026, 1:24:04 pm
+created: 2026-02-26T13:24:00-03:00
+modified: 2026-02-26T13:24:04-03:00
 tags:
   - llm
   - ia
   - ciência-da-computação
   - tecnologia
 draft: false
-date: 2026-01-30T10:21:00
 ---
 
   

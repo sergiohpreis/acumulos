@@ -1,13 +1,12 @@
 ---
-date created: Wednesday, June 25th 2025, 12:52:21 pm
-date modified: Sunday, March 1st 2026, 11:17:52 pm
+created: 2025-06-25T12:52:21-03:00
+modified: 2026-03-01T23:17:52-03:00
 tags:
   - spec-driven
   - ciência-da-computação
   - tecnologia
   - técnica
 draft: false
-date: 2026-03-01T23:20:00
 ---
 
 Se [[Escrever código significa manifestar as suas intenções por meio de uma linguagem|escrever código significa manifestar as suas intenções por meio de uma linguagem]], me parece que a introdução das inteligências artificiais no fluxo de trabalho dos programadores (por exemplo, #spec-driven ) é mais um momento onde acontece uma mudança na linguagem utilizada para manifestar essa intenção.

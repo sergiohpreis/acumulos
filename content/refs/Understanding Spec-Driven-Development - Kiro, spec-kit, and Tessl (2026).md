@@ -1,6 +1,6 @@
 ---
-date created: Thursday, January 29th 2026, 8:23:54 pm
-date modified: Monday, March 2nd 2026, 12:15:01 am
+created: 2026-01-29T20:23:54-03:00
+modified: 2026-03-02T00:15:01-03:00
 source: https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
 status:
   - READ
@@ -14,7 +14,6 @@ authors:
 tags:
   - spec-driven
 draft: false
-date: 2026-01-29T08:23:00
 ---
 
 >[!info] https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html

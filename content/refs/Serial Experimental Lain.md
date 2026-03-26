@@ -1,6 +1,6 @@
 ---
-date created: Saturday, December 21st 2024, 12:12:48 am
-date modified: Friday, December 27th 2024, 1:48:16 am
+created: 2024-12-21T00:12:48-03:00
+modified: 2024-12-27T01:48:16-03:00
 authors:
   - Triangle Staff
   - Ryutaro Nakamura
@@ -13,7 +13,6 @@ tags:
   - anime
 draft: false
 title: Serial Experimental Lain
-date: 2024-12-21T12:12:00
 ---
 
 Uma série onde uma adolescente passa a viver uma vida dupla, uma delas em um espaço virtual chamado "Wired" es a outra no mundo material.

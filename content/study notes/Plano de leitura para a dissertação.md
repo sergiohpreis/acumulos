@@ -1,6 +1,6 @@
 ---
-date created: Thursday, February 27th 2026, 3:30:00 pm
-date modified: Thursday, February 27th 2026, 3:30:00 pm
+created: 2026-02-27T15:30:00-03:00
+modified: 2026-02-27T15:30:00-03:00
 tags:
   - estudos
   - filosofia
@@ -9,7 +9,6 @@ tags:
   - economia-política
   - técnica
 draft: false
-date: 2026-02-27T15:30:00
 ---
 
 # Plano de leitura para a dissertação

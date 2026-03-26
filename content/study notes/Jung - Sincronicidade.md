@@ -1,11 +1,10 @@
 ---
-date created: Wednesday, June 25th 2025, 12:52:13 pm
-date modified: Wednesday, June 25th 2025, 12:52:14 pm
+created: 2025-06-25T12:52:13-03:00
+modified: 2025-06-25T12:52:14-03:00
 tags:
   - psicologia
   - jung
 draft: false
-date: 2025-06-25T13:00:00
 ---
 
 Jung e Albert Einstein

@@ -1,6 +1,6 @@
 ---
-date created: Tuesday, March 17th 2026, 1:06:17 am
-date modified: Tuesday, March 17th 2026, 8:43:21 am
+created: 2026-03-17T01:06:17-03:00
+modified: 2026-03-17T08:43:21-03:00
 tags:
   - hegel
   - fenomenologia
@@ -10,7 +10,6 @@ tags:
   - filosofia-alemã
   - filosofia
 draft: false
-date: 2026-03-17
 ---
 
 ## Contracapa

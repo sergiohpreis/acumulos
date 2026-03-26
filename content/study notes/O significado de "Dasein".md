@@ -1,6 +1,6 @@
 ---
-date created: Friday, February 27th 2026, 8:41:32 pm
-date modified: Saturday, February 28th 2026, 7:10:42 am
+created: 2026-02-27T20:41:32-03:00
+modified: 2026-02-28T07:10:42-03:00
 tags:
   - heidegger
   - existencialismo
@@ -8,7 +8,6 @@ tags:
   - sonnet46
   - gemini
 draft: false
-date: 2026-02-27T20:42:00
 ---
 
 > [!note] Produzido por Claude (Sonnet 4.6)

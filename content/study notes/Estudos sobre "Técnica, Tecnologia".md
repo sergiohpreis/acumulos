@@ -1,12 +1,11 @@
 ---
-date created: Thursday, March 5th 2026, 9:33:15 pm
-date modified: Monday, March 16th 2026, 5:49:52 pm
+created: 2026-03-05T21:33:15-03:00
+modified: 2026-03-16T17:49:52-03:00
 tags:
   - tecnologia
   - técnica
   - estudos
 draft: false
-date: 2026-03-16
 ---
 
 > [!note] Depois pode ser interessante transformar isso em uma [[INEF - NFF - Guia Prático de Leituras Filosóficas|ficha bibliográfica]] ou [[INEF - NFF - Guia Prático de Leituras Filosóficas|ficha temática]]

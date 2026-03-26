@@ -1,6 +1,6 @@
 ---
-date created: Thursday, February 26th 2026, 2:00:16 pm
-date modified: Thursday, February 26th 2026, 2:16:39 pm
+created: 2026-02-26T14:00:16-03:00
+modified: 2026-02-26T14:16:39-03:00
 tags:
   - trabalho
   - marxismo
@@ -8,7 +8,6 @@ tags:
   - justiça
   - capitalismo
 draft: true
-date: 2026-02-26T14:15:00
 ---
 
 Quando um trabalhador é readmitido em uma empresa, isso representa uma vitória importante, porque a **ameaça de demissão** é um dos principais instrumentos de coerção da burguesia sobre a classe trabalhadora. Frente ao grande contingente de trabalhadores desempregados, a ameaça da demissão torna-se um instrumento cotidiano onde o que move o trabalhador não é o trabalho em si, mas o medo de se tornar parte desse crescente contingente. Quando um trabalhador é readmitido, a força desse instrumento de coerção diminui significativamente, pois a demissão não pode mais ser usada como um instrumento de ameaça definitivo, uma vez que não é mais realidade que a demissão levará necessariamente o trabalhador a esse contingente de desempregados definitivamente.

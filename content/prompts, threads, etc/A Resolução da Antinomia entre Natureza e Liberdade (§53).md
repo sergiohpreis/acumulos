@@ -1,8 +1,7 @@
 ---
-date created: Monday, February 23rd 2026, 5:05:15 pm
-date modified: Monday, February 23rd 2026, 5:06:37 pm
+created: 2026-02-23T17:05:15-03:00
+modified: 2026-02-23T17:06:37-03:00
 draft: false
-date: 2026-02-23T17:00:00
 tags:
   - kant
   - natureza

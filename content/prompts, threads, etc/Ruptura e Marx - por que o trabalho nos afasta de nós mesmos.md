@@ -1,6 +1,6 @@
 ---
-date created: Wednesday, May 28th 2025, 1:54:07 am
-date modified: Monday, February 16th 2026, 9:39:39 am
+created: 2025-05-28T01:54:07-03:00
+modified: 2026-02-16T09:39:39-03:00
 source: https://chatgpt.com/share/68369992-2410-8010-a073-5aded2ed9d9c
 ia:
   - chat-gpt
@@ -11,7 +11,6 @@ tags:
   - alienação
 title: Ruptura e Marx - por que o trabalho nos afasta de nós mesmos
 draft: false
-date: 2025-05-28T01:54:00
 ---
 
 A série _Ruptura_ apresenta uma realidade onde o trabalhador é dividido em duas consciências: uma ativa no trabalho, outra fora dele. Embora fictício, esse enredo expressa, de forma simbólica, a **alienação do trabalho** na sociedade capitalista.

@@ -1,13 +1,12 @@
 ---
-date created: Thursday, April 10th 2025, 1:20:39 am
-date modified: Thursday, March 5th 2026, 11:45:44 pm
+created: 2025-04-10T01:20:39-03:00
+modified: 2026-03-05T23:45:44-03:00
 tags:
   - ia
   - chatgpt
   - experimento-ia
   - reflexões
 draft: false
-date: 2026-03-05T23:45:00
 ---
 
 1. Peguei uma das imagens geradas ao estilo de Hayao Miyazaki e pedi para que ela identificasse quem era o autor da obra. 

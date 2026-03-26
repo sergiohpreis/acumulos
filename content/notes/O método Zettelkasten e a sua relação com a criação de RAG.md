@@ -1,6 +1,6 @@
 ---
-date created: Wednesday, December 17th 2025, 7:37:55 pm
-date modified: Friday, February 13th 2026, 3:04:54 am
+created: 2025-12-17T19:37:55-03:00
+modified: 2026-02-13T03:04:54-03:00
 tags:
   - zettelkasten
   - RAG
@@ -10,7 +10,6 @@ title: O método Zettelkasten e a sua relação com a criação de RAG
 description:
 permalink:
 aliases:
-date: 2026-02-13T03:05:00
 ---
 
 Basicamente, o método Zettelkasten se preocupa em relacionar as informações obtidas, de modo que, em algum momento, esse acúmulo engendre algo mais completo (para mais infos: [[A dialética presente no método Zettelkasten e o salto de qualidade presente no Jardim Digital]]).

@@ -28,7 +28,6 @@ tags:
   - metafísica
   - kant
 draft: false
-date: 2026-02-25T19:46:49.363065011-03:00
 ---
 
 ## Resumo

@@ -1,9 +1,8 @@
 ---
-date created: Monday, March 16th 2026, 6:35:40 pm
-date modified: Monday, March 16th 2026, 6:36:05 pm
+created: 2026-03-16T18:35:40-03:00
+modified: 2026-03-16T18:36:05-03:00
 draft: false
 tags:
   - reflexões
   - tecnologia
-date: 2026-03-16
 ---

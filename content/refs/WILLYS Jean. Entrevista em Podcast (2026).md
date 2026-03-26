@@ -1,8 +1,7 @@
 ---
-date created: Friday, February 20th 2026, 10:44:17 pm
-date modified: Friday, February 20th 2026, 10:50:12 pm
+created: 2026-02-20T22:44:17-03:00
+modified: 2026-02-20T22:50:12-03:00
 draft: false
-date: 2026-02-20T22:45:00
 source: https://www.youtube.com/watch?v=-x_cdGCnq-A
 tags:
   - vídeo

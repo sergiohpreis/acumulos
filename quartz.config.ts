@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "pt-BR",
     baseUrl: "acumulos.sergiohpreis.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["**/_template"],
     defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",

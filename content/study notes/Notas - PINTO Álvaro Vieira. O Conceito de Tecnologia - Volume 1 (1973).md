@@ -7,7 +7,6 @@ tags:
   - técnica
   - marx
 draft: false
-date: 2026-03-09T21:41:00
 ---
 
 > [!info] [[PINTO Álvaro Vieira. O Conceito de Tecnologia - Volume 1 (1973)]]

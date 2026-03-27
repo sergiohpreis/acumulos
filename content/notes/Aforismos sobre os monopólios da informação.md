@@ -1,6 +1,6 @@
 ---
 created: 2026-03-16T13:56:35-03:00
-modified: 2026-03-16T13:56:56-03:00
+modified: 2026-03-27T01:58:03-03:00
 tags:
   - informação
   - imperialismo
@@ -9,4 +9,6 @@ tags:
 draft: false
 ---
 
-1. Os monopólios da informação detém toda a informação do conjunto de sistemas que dependem de sua infraestrutura
+Os monopólios da informação detém todas as informações provenientes do conjunto de sistemas que dependem de suas infraestruturas.
+
+Uma parcela significativa das ações humanas geram um rastro digital, que é apropriado e ocultado. Esse rastro gera valor para os monopólios da informação

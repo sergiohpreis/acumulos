@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-03-26T10:36:30-03:00
+modified: 2026-03-27T01:05:17-03:00
 tags:
   - filosofia
   - mitologia
@@ -174,4 +174,4 @@ A idéia de compartilhar, de ascender, não me é estranha, entretanto, não exi
 
 **Resposta:**
 
-TBD
+O sensível é o ponto de partida da experiência humana, para mim faz sentido afirmar isso. Kant se propôs a debater esse ponto em [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]] / [[KANT Immanuel. Crítica da Razão Pura (1781)]] (li apenas o primeiro). Esse me parece ser o processo do conhecimento científico.

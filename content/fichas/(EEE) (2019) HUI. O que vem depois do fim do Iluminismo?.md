@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-27T19:06:09-03:00
+modified: 2026-03-27T19:17:13-03:00
 tags:
   - yuk-hui
   - iluminismo
@@ -47,9 +47,15 @@ Partindo de uma reflexão com base na afirmação de "fim do Iluminismo" de Kirs
 
 Explora o conceito de guerra como solução e a mentalidade colonial surgida com a modernidade, justificando que os mesmos são resultados de abordagens inadequadas da questão da tecnologia. 
 
-### Nonta Parte: O autor propõe uma nova abordagem para a questão da tecnologia (§23-X)
+### Nona Parte: O autor propõe uma nova abordagem para a questão da tecnologia para superar a universalidade e racionalidade do pensamento iluminista (§23,24)
 
-Para Hui a tecnologia nunca foi abordada de maneira correta pois nunca se superou a visão da tecnologia enquanto ferramenta, nunca se superou os limites da utilidade e da eficiência. Portanto, Hui propõe
+Para Hui a tecnologia nunca foi abordada de maneira correta pois nunca se superou a visão da tecnologia enquanto ferramenta, nunca se superou os limites da utilidade e da eficiência. Portanto, Hui propõe uma noção de tecnologia que repense o seu processo histórico, superando essa universalização iluminista
+
+### Decima Parte: O autor propõe uma nova abordagem para a história da razão e de suas relações com a natureza e a tecnologia (§24-x)
+
+Para Hui, essa relação precisa ser "construída e abordada de maneira diferente do que se tem feito", portanto, é necessário "redescobrir múltiplas cosmotécnicas" sem recusar a tecnologia moderna, mas sim, reapropriando-se da mesma, atribuindo "outras posições as composições" (conceito heideggeriano presente em [[HEIDEGGER Martin. A Questão da Técnica (1954)]]).
+
+> "... precisamos escapar de seu eixo de tempo global, escapar de um (trans)humanismo que submete outros seres aos termos de nosso destino e propor uma nova agenda e uma nova imaginação tecnológicas que possibilitem novas formas de vida social, política e estética e novas relações com não humanos, a Terra e o cosmos." (P95,§25)
 
 ---
 

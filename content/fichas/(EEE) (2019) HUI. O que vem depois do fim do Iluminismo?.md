@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-27T14:19:58-03:00
+modified: 2026-03-27T14:28:44-03:00
 tags:
   - yuk-hui
   - iluminismo
@@ -33,9 +33,13 @@ Hui questiona se suas noções exibem uma contraposição do universal e do rela
 
 Para escapar da *"sincronização trazida pelo eixo de tempo global da modernidade ocidental"*, Hui propõe que a tecnologia precisa de um nova direção do movimento, um novo referencial e uma nova orientação, defendendo uma reapropriação da tecnologia moderna *"por meio da reflexão sistemática e da abordagem da questão das epistemologias e das epistemes à luz de múltiplas cosmotécnicas - ou, colocado de modo mais simples, da tecnodiversidade"*.
 
-### Sétima Parte: O autor propõe a elaboração de uma estratégia geral para a reapropriação de tecnologias por meio da multiplicidade irredutível das tecnicidades
+### Sétima Parte: O autor propõe a elaboração de uma estratégia geral para a reapropriação de tecnologias por meio da multiplicidade irredutível das tecnicidades (§19-21)
 
-Hui não rejeita a noção de uma dimensão universal na tecnologia, afirmando que a técnica é "antropologicamente universal no processo de hominização" e por isso propõe uma rearticulação da questão da tecnologia que seja capaz de conceber uma multiplicidade de cosmoéticas (não só a pré-moderna e a moderna)
+Hui não rejeita a noção de uma dimensão universal na tecnologia, afirmando inclusive que que a técnica é "antropologicamente universal no processo de hominização" e por isso propõe uma rearticulação da questão da tecnologia que seja capaz de conceber uma multiplicidade de cosmoéticas (não só a pré-moderna e a moderna).
+
+Expõe alguns pensamentos de Herder e alguma de suas apropriações, propondo que o encerramento do Iluminismo deve ter como base essas apropriações (Gadamer Berlin e Taylor) para se entender "o poder transformativo da heterogeneidade em vez de regredir para um certo Volk \[povo\]". 
+
+Para Hui, existe uma demanda por um pluralismo que funciona como um lembrete da necessidade da reapropriação da ciência e tecnologia moderna.
 
 ---
 

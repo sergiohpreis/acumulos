@@ -41,6 +41,12 @@ Expõe alguns pensamentos de Herder e alguma de suas apropriações, propondo qu
 
 Para Hui, existe uma demanda por um pluralismo que funciona como um lembrete da necessidade da reapropriação da ciência e tecnologia moderna.
 
+### Oitava Parte: O autor questiona a irreversibilidade da identificação do pensamento iluminista universalizante com a tecnologia moderna (§22-24)
+
+Partindo de uma reflexão com base na afirmação de "fim do Iluminismo" de Kirschner, o autor entende a mesma como a marca da "concretização de um único eixo de tempo g"
+
+
+
 ---
 
 [[(EES) (2019) HUI. O que vem depois do fim do Iluminismo?]]

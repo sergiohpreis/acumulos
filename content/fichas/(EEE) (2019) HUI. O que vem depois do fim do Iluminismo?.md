@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-27T14:05:41-03:00
+modified: 2026-03-27T14:19:58-03:00
 tags:
   - yuk-hui
   - iluminismo
@@ -33,7 +33,9 @@ Hui questiona se suas noções exibem uma contraposição do universal e do rela
 
 Para escapar da *"sincronização trazida pelo eixo de tempo global da modernidade ocidental"*, Hui propõe que a tecnologia precisa de um nova direção do movimento, um novo referencial e uma nova orientação, defendendo uma reapropriação da tecnologia moderna *"por meio da reflexão sistemática e da abordagem da questão das epistemologias e das epistemes à luz de múltiplas cosmotécnicas - ou, colocado de modo mais simples, da tecnodiversidade"*.
 
-### Sétima Parte: O autor propõe a elaboração de uma estratégia geral para a reapropriação de tecnologias
+### Sétima Parte: O autor propõe a elaboração de uma estratégia geral para a reapropriação de tecnologias por meio da multiplicidade irredutível das tecnicidades
+
+Hui não rejeita a noção de uma dimensão universal na tecnologia, afirmando que a técnica é "antropologicamente universal no processo de hominização" e por isso propõe uma rearticulação da questão da tecnologia que seja capaz de conceber uma multiplicidade de cosmoéticas (não só a pré-moderna e a moderna)
 
 ---
 

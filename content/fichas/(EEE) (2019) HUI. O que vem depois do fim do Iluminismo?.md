@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-27T19:17:13-03:00
+modified: 2026-03-27T19:21:40-03:00
 tags:
   - yuk-hui
   - iluminismo
@@ -51,7 +51,7 @@ Explora o conceito de guerra como solução e a mentalidade colonial surgida com
 
 Para Hui a tecnologia nunca foi abordada de maneira correta pois nunca se superou a visão da tecnologia enquanto ferramenta, nunca se superou os limites da utilidade e da eficiência. Portanto, Hui propõe uma noção de tecnologia que repense o seu processo histórico, superando essa universalização iluminista
 
-### Decima Parte: O autor propõe uma nova abordagem para a história da razão e de suas relações com a natureza e a tecnologia (§24-x)
+### Decima Parte: O autor propõe uma nova abordagem para a história da razão e de suas relações com a natureza e a tecnologia (§24-26)
 
 Para Hui, essa relação precisa ser "construída e abordada de maneira diferente do que se tem feito", portanto, é necessário "redescobrir múltiplas cosmotécnicas" sem recusar a tecnologia moderna, mas sim, reapropriando-se da mesma, atribuindo "outras posições as composições" (conceito heideggeriano presente em [[HEIDEGGER Martin. A Questão da Técnica (1954)]]).
 

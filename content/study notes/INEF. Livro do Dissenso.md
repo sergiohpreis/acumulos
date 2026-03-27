@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-03-27T01:05:17-03:00
+modified: 2026-03-27T13:47:27-03:00
 tags:
   - filosofia
   - mitologia
@@ -175,3 +175,20 @@ A idéia de compartilhar, de ascender, não me é estranha, entretanto, não exi
 **Resposta:**
 
 O sensível é o ponto de partida da experiência humana, para mim faz sentido afirmar isso. Kant se propôs a debater esse ponto em [[KANT Immanuel. Prolegômenos a qualquer metafísica futura que possa apresenta-se como ciência (1783)]] / [[KANT Immanuel. Crítica da Razão Pura (1781)]] (li apenas o primeiro). Esse me parece ser o processo do conhecimento científico.
+
+### Aula: Ética e Política de Aristóteles
+
+**Citação:**
+
+> “Assim sendo, o bem próprio do homem é a atividade da alma em conformidade com a virtude; se as virtudes são muitas, segundo a melhor e mais perfeita. Isso vale também para uma vida completa. Se uma andorinha, ou um só dia, não faz verão, tampouco um só dia, ou um breve tempo, proporciona beatitude ou felicidade.” - Aristóteles
+
+**Guia de reflexão:**
+
+1. O que Aristóteles queria dizer, com base na aula?
+2. Como essas ideias podem ser interpretadas e aplicadas no mundo atual?
+3. O que essas reflexões significam para você pessoalmente?
+4. Complete esta frase: “Com base nesse entendimento, nesta semana, tomarei esta ação concreta de \[...\]”
+
+**Resposta:**
+
+xxxxxxx

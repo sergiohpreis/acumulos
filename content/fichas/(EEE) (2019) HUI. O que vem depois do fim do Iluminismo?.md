@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-27T14:28:44-03:00
+modified: 2026-03-27T19:06:09-03:00
 tags:
   - yuk-hui
   - iluminismo
@@ -41,11 +41,15 @@ Expõe alguns pensamentos de Herder e alguma de suas apropriações, propondo qu
 
 Para Hui, existe uma demanda por um pluralismo que funciona como um lembrete da necessidade da reapropriação da ciência e tecnologia moderna.
 
-### Oitava Parte: O autor questiona a irreversibilidade da identificação do pensamento iluminista universalizante com a tecnologia moderna (§22-24)
+### Oitava Parte: O autor explora as causas da consciência infeliz do fascismo e xenofobia (§22-23)
 
-Partindo de uma reflexão com base na afirmação de "fim do Iluminismo" de Kirschner, o autor entende a mesma como a marca da "concretização de um único eixo de tempo g"
+Partindo de uma reflexão com base na afirmação de "fim do Iluminismo" de Kirschner, o autor entende a mesma como a marca da *"concretização de um único eixo de tempo global em que todos os tempos históricos convergem na métrica da modernidade européia"*, relacionando a consciência infeliz do fascismo e xenofobia como frutos de uma desorientação que podem ser vista como uma *"desterritorialização desejável e necessária do capitalismo contemporâneo, capaz de facilitar a acumulação para além das amarras temporais e espaciais"*.
 
+Explora o conceito de guerra como solução e a mentalidade colonial surgida com a modernidade, justificando que os mesmos são resultados de abordagens inadequadas da questão da tecnologia. 
 
+### Nonta Parte: O autor propõe uma nova abordagem para a questão da tecnologia (§23-X)
+
+Para Hui a tecnologia nunca foi abordada de maneira correta pois nunca se superou a visão da tecnologia enquanto ferramenta, nunca se superou os limites da utilidade e da eficiência. Portanto, Hui propõe
 
 ---
 

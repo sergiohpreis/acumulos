@@ -1,6 +1,6 @@
 ---
 created: 2026-03-24T18:55:08-03:00
-modified: 2026-03-27T20:25:42-03:00
+modified: 2026-03-28T16:04:41-03:00
 tags:
   - filosofia
   - empirismo
@@ -17,7 +17,7 @@ Tradução: Pedro Paulo Garrido Pimenta
 ---
 
 - Livro I
-	- Capítulo I: Introdução
-	- Capítulo II: Não há na mente princípios especulativos inatos
+	- ~~Capítulo I: Introdução~~
+	- ~~Capítulo II: Não há na mente princípios especulativos inatos~~
 	- Capítulo III: Não há princípios práticos inatos
 	- Capítulo IV: Outras considerações acerca de princípios inatos, especulativos e práticos

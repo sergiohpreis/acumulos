@@ -4,7 +4,7 @@ modified: 2026-03-27T19:21:40-03:00
 tags:
   - yuk-hui
   - iluminismo
-draft: true
+draft: false
 ---
 
 > [!info] Texto em [[HUI Yuk. Tecnodiversidade (2020)]]

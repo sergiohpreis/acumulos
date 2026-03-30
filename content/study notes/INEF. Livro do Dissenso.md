@@ -191,4 +191,4 @@ O sensível é o ponto de partida da experiência humana, para mim faz sentido a
 
 **Resposta:**
 
-xxxxxxx
+Aristóteles esta aqui falando sobre a Areté, que me parece algo como o sentido de ser, uma espécie de essência, aquilo que ao se fazer, se realiza o ser completamente. Por exemplo, o dia, realiza-se em um dia de verão,

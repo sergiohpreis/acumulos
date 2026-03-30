@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-03-27T13:47:27-03:00
+modified: 2026-03-30T14:01:27-03:00
 tags:
   - filosofia
   - mitologia
@@ -191,4 +191,6 @@ O sensível é o ponto de partida da experiência humana, para mim faz sentido a
 
 **Resposta:**
 
-Aristóteles esta aqui falando sobre a Areté, que me parece algo como o sentido de ser, uma espécie de essência, aquilo que ao se fazer, se realiza o ser completamente. Por exemplo, o dia, realiza-se em um dia de verão,
+Aristóteles esta aqui falando sobre a Areté, que me parece algo como o sentido de ser, uma espécie de essência, aquilo que ao se fazer, se realiza o ser completamente. Por exemplo, o dia, realiza-se em um dia de verão, proporcionando beatitude e felicidade, assim como, por exemplo, "vigor e saúde são a areté do corpo", é assim que eles se realizam.
+
+Me parece um tanto determinista essa concepção, como se cada qual, estivesse destinado a tal.

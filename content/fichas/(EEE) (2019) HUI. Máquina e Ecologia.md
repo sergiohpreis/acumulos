@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-30T23:39:10-03:00
+modified: 2026-03-30T23:48:47-03:00
 tags:
   - yuk-hui
   - máquina
@@ -23,6 +23,12 @@ O autor inicia explicando sobre a ascensão da cibernética no século XX e a di
 ### Terceira Parte: O autor esclarece o conceito de Ecologia para além da tentativa de compreender a relação entre o ser vivo e seu ambiente (§6-8)
 
 Apresenta os conceitos de "adaptação" e "adoção" de Jacob von Uexküll e o fenômeno da organicidade, que surge em uma tentativa de superação do conceito de Ecologia de Haeckel, que o autor aponta como insuficiente. Analisa o lançamento da Sputnik de acordo com o veredito de Marshall McLuhan (1974) sobre "perda do caráter biológico da ecologia", defendendo que *"a ecologia não é um conceito da natureza, mas da cibernética"*. Apresenta a "noção de Gaia" de Lovelock e propõe uma diferenciação da descrição das máquinas feitas por Marx no Século XIX.
+
+### Quarta Parte: XXXXXXXXXXXX (§X-X)
+
+O autor questiona a ideia de fim ou acabamento da filosofia em Heidegger frente a uma substituição da cibernética como pensamento reflexivo universal no lugar da filosofia. Hui argumenta que "o pensamento cibernético como pensamento supostamente universal e ecológico é aquele que supera, ou pelo menos finge superar, o dualismo pressuposto na ontologia e na epistemologia tradicionais". Hui lança um princípio fundamental, de que a origem do perigo da nossa época não esta no dualismo, mas sim, em um "poder totalizante não dualista" das tecnologias modernas, apontando a falha na "ideologia antidualista".
+
+Hui investiga a possibilidade da cibernética como solução dos problemas ecológicos e como possibilidade do fim da modernidade, expondo e analisando o pensamento de Heidegger sobre a relação entre organismo e tecnologia.
 
 ---
 

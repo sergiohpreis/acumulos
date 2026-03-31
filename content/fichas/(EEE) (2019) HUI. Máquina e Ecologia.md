@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-30T23:24:33-03:00
+modified: 2026-03-30T23:39:10-03:00
 tags:
   - yuk-hui
   - máquina
@@ -20,11 +20,9 @@ O autor apresenta os seus objetivos no capítulo, problematizando a ambiguidade 
 
 O autor inicia explicando sobre a ascensão da cibernética no século XX e a diferença da sua concepção organicista para a mecanicista. Apresenta a oposição entre os tempos newtoniano e bergsoniano, explicando mais profundamente sobre a noção de tempo para Bergson. Concorda com o pensamento de Simondon, que considera o pensamento reflexivo da cibernética como essencial para a eliminação desse dualismo. Apresenta a sua noção de recursividade presente em *"Recursivity e Contingency"* Propõe uma reconceitualização dessa relação entre "máquina e organismo, humano e ambiente, tecnologia e natureza" a partir da cibernética de Wierner, argumentando que todas as máquinas modernas são máquinas cibernéticas.
 
-### Terceira Parte: O autor esclarece o conceito de Ecologia para além da tentativa de compreender a relação entre o ser vivo e seu ambiente (§6-X)
+### Terceira Parte: O autor esclarece o conceito de Ecologia para além da tentativa de compreender a relação entre o ser vivo e seu ambiente (§6-8)
 
-Apresenta o conceito de ecologia desenvolvido por Jacob von Uexküll, que buscou superar o conceito de Ecologia de Haeckel (compreensão da relação entre ser vivo e seu ambiente), nesse s
-
-Apresenta os conceitos de "adaptação" e "adoção" de XX
+Apresenta os conceitos de "adaptação" e "adoção" de Jacob von Uexküll e o fenômeno da organicidade, que surge em uma tentativa de superação do conceito de Ecologia de Haeckel, que o autor aponta como insuficiente. Analisa o lançamento da Sputnik de acordo com o veredito de Marshall McLuhan (1974) sobre "perda do caráter biológico da ecologia", defendendo que *"a ecologia não é um conceito da natureza, mas da cibernética"*. Apresenta a "noção de Gaia" de Lovelock e propõe uma diferenciação da descrição das máquinas feitas por Marx no Século XIX.
 
 ---
 

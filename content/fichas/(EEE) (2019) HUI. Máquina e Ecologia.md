@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-31T22:45:59-03:00
+modified: 2026-03-31T22:52:17-03:00
 tags:
   - yuk-hui
   - máquina
@@ -34,9 +34,13 @@ Hui investiga a possibilidade da cibernética como solução dos problemas ecol�
 
 Apresenta os pensamentos de André Leroi-Gourhan (ambiente técnico) e de Gilbert Simondon (ambiente tecnogeográfico) e a influência que a cibernética exerceu sobre os esses pensamentos. Relaciona a afirmação de Heidegger sobre o fim da filosofia com  o pensamento Simondon e a substituição da cibernética pela filosofia.
 
-### Sexta Parte: O autor explora o conceito de domesticação dos seres humanos na relação entre humano e natureza (§16-X)
+### Sexta Parte: O autor explora o conceito de domesticação dos seres humanos na relação entre humano e natureza (§16-20)
 
-A partir do conceito de Peter Sloterdijk da "domesticação dos seres humanos", o autor busca analisar essa tecnologia de domesticação de rebanhos e relacionar a mesma com o conceito de "governamentalidade" de Foucault. Fala sobre os efeitos da generalização do algoritmo recursivo e da sua implementação nos computadores, responsáveis na visão do autor por dar "concretude ao pensamento cibernético", propondo que o modelo mecanicista de Marx 
+A partir do conceito de Peter Sloterdijk da "domesticação dos seres humanos", o autor busca analisar essa tecnologia de domesticação de rebanhos e relacionar a mesma com o conceito de "governamentalidade" de Foucault. Fala sobre os efeitos da generalização do algoritmo recursivo e da sua implementação nos computadores, responsáveis na visão do autor por dar "concretude ao pensamento cibernético", propondo que o capital passou de um modelo mecanicista proposto por Marx para um modelo organicista, reforçando o papel dos dados como fonte de informação e seus novos sentidos. Hui afiram que a "sociedade de controle" de Gilles Deleuze esta muito distante do discurso comum de uma sociedade de vigilância.
+
+### Sétima Parte: O argumenta sobre a localidade presente no pensamento de Heidegger (§21-X)
+
+Hui questiona se a cibernética e seu desenvolvimento seriam capazes de proporciona a superação da modernidade e seus enganos epistemológicos, ou se esse mode
 
 ---
 

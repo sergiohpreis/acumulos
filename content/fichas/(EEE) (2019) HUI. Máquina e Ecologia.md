@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-31T23:12:02-03:00
+modified: 2026-04-01T18:49:50-03:00
 tags:
   - yuk-hui
   - máquina
@@ -47,6 +47,10 @@ Hui questiona se a cibernética é capaz de propor uma superação da modernidad
 Hui argumenta sobre as limitações impostas pela lógica formal cibernética, resgatando o pensamento de Simondon, que propõe "relacionar o pensamento tecnológico a outros pensamentos", apresentando seu conceito de tecnicidade e através de alguns exemplos, afirma que a "cosmogeograficalidade constitui uma dimensão importante da localidade".
 
 Argumenta que o pensamento cibernético ainda é um pensamento totalizante, relacionando o mesmo com a lógica hegeliana e extraindo as consequências disso, propondo que "pensar para além da cibernética é pensar para além do efeito totalizante de um pensamento não dualista".
+
+### Nona Parte: O autor propõe uma reflexão sobre a ecologia das máquinas (§24-)
+
+Hui propõe a noção de tecnodiversidade enquanto correlata a biodiversidade
 
 ---
 

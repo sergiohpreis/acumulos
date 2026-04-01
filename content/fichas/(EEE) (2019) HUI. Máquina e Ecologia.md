@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-31T22:52:17-03:00
+modified: 2026-03-31T23:09:33-03:00
 tags:
   - yuk-hui
   - máquina
@@ -38,9 +38,13 @@ Apresenta os pensamentos de André Leroi-Gourhan (ambiente técnico) e de Gilber
 
 A partir do conceito de Peter Sloterdijk da "domesticação dos seres humanos", o autor busca analisar essa tecnologia de domesticação de rebanhos e relacionar a mesma com o conceito de "governamentalidade" de Foucault. Fala sobre os efeitos da generalização do algoritmo recursivo e da sua implementação nos computadores, responsáveis na visão do autor por dar "concretude ao pensamento cibernético", propondo que o capital passou de um modelo mecanicista proposto por Marx para um modelo organicista, reforçando o papel dos dados como fonte de informação e seus novos sentidos. Hui afiram que a "sociedade de controle" de Gilles Deleuze esta muito distante do discurso comum de uma sociedade de vigilância.
 
-### Sétima Parte: O argumenta sobre a localidade presente no pensamento de Heidegger (§21-X)
+### Sétima Parte: O argumenta sobre a localidade presente no pensamento de Heidegger (§21,22)
 
-Hui questiona se a cibernética e seu desenvolvimento seriam capazes de proporciona a superação da modernidade e seus enganos epistemológicos, ou se esse mode
+Hui questiona se a cibernética é capaz de propor uma superação da modernidade ou se esta inserida nesse paradigma, afirmando que a crítica de Heidegger não é nem transumanista nem humanista, mas segundo sua interpretação, local. Hui aprofunda sobre a noção de localidade do ser em Heidegger e sobre a incapacidade do século XX em articular a relação entre tecnologia e localidade frente a um pensamento dotado de humanismo europeu, criticando tanto as políticas reacionárias quanto o aceleracionismo.
+
+### Oitava Parte: O autor justifica sobre o porquê de a cibernética ainda não ser suficiente como solução não dualista (§23-X)
+
+Hui argumenta sobre as limitações impostas pela lógica formal cibernética, resgatando o pensamento de Simondon, que propõe "relacionar o pensamento tecnológico a outros pensamentos", apresentando seu conceito de tecnicidade e através de alguns exemplos, afirma que a "cosmogeograficalidade constitui uma dimensão importante da localidade".
 
 ---
 

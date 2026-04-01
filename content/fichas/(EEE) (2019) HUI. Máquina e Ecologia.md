@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-01T18:51:14-03:00
+modified: 2026-04-01T19:04:33-03:00
 tags:
   - yuk-hui
   - máquina
@@ -48,13 +48,17 @@ Hui argumenta sobre as limitações impostas pela lógica formal cibernética, r
 
 Argumenta que o pensamento cibernético ainda é um pensamento totalizante, relacionando o mesmo com a lógica hegeliana e extraindo as consequências disso, propondo que "pensar para além da cibernética é pensar para além do efeito totalizante de um pensamento não dualista".
 
-### Nona Parte: O autor propõe uma reflexão sobre a ecologia das máquinas (§24-)
+### Nona Parte: O autor propõe uma reflexão sobre a ecologia das máquinas a partir do conceito de Tecnodiversidade (§24-)
 
 Hui propõe a noção de tecnodiversidade enquanto correlata a biodiversidade e enquanto uma questão de localidade em essência, localidade no sentido de um reposicionamento das tecnologias modernas. Hui aponta a localidade como crucial para que se conceba uma "multiplicidade de cosmotécnicas", ou seja, para se fazer com que "múltiplas localidades inventem seus próprios pensamentos e futuros tecnológicos", afastando-se de posições etnocentricas, nacionalistas ou fascistas, buscando repensar o processo de modernização e globalização.
 
 Hui aponta a necessidade de se superar o pensamento de Heidegger, se engajando com o mesmo mas levando suas reflexões para além da Europa, e nesse sentido, propondo se redescobrir diferentes cosmotécnicas, apresentando a primeira definição do termo como "a unificação da moral e do cósmico por meio de atividades técnicas", para Hui "atividades técnicas unificam a ordem moral e a ordem cósmica".  Justifica a sua reinterpretação dos conceitos de "tendência técnica" e "fatos técnicos" proposto por Leroi-Gourhan e se opõe ao conceito desse último.
 
-Crítica as 
+Hui crítica os estudos que comparam o avanço tecnológico entre Europa e China, justificando a necessidade de não ser necessário essas comparações, mas sim "explorar os diferentes sistemas de pensamento tecnológico". 
+
+Enfim, Hui nos propõe atribuir outras posições a tecnologia moderna para então, sermos capazes de imaginar *"uma nova terra e um povo que não existe ainda"* (citando Deleuze e Guattari).
+
+> ... um retorno à questão da localidade, de modo a rearticular o conceito de técnica por meio de seu reposicionamento nos limites do ambiente, da cultura e do pensamento geográfico.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-31T22:39:17-03:00
+modified: 2026-03-31T22:45:59-03:00
 tags:
   - yuk-hui
   - máquina
@@ -30,9 +30,13 @@ O autor questiona a ideia de fim ou acabamento da filosofia em Heidegger frente 
 
 Hui investiga a possibilidade da cibernética como solução dos problemas ecológicos e como possibilidade do fim da modernidade, expondo o pensamento de Heidegger sobre a relação entre organismo e tecnologia para então repensar a relação entre tecnologia e ambiente, propondo uma nova visão no sentido dado por *Watsuji Tetsurô (1961)*
 
-### Quinta Parte: O autor expõe dois sentidos pelos quais podem ser entendidos o complexo tecnológico-ambiental (12-X)
+### Quinta Parte: O autor expõe dois sentidos pelos quais podem ser entendidos o complexo tecnológico-ambiental (§12-15)
 
-Apresenta os pensamentos de André Leroi-Gourhan (ambiente técnico) e de Gilbert Simondon (ambiente tecnogeográfico) e a influência que a cibernética exerceu sobre os seu
+Apresenta os pensamentos de André Leroi-Gourhan (ambiente técnico) e de Gilbert Simondon (ambiente tecnogeográfico) e a influência que a cibernética exerceu sobre os esses pensamentos. Relaciona a afirmação de Heidegger sobre o fim da filosofia com  o pensamento Simondon e a substituição da cibernética pela filosofia.
+
+### Sexta Parte: O autor explora o conceito de domesticação dos seres humanos na relação entre humano e natureza (§16-X)
+
+A partir do conceito de Peter Sloterdijk da "domesticação dos seres humanos", o autor busca analisar essa tecnologia de domesticação de rebanhos e relacionar a mesma com o conceito de "governamentalidade" de Foucault. Fala sobre os efeitos da generalização do algoritmo recursivo e da sua implementação nos computadores, responsáveis na visão do autor por dar "concretude ao pensamento cibernético", propondo que o modelo mecanicista de Marx 
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-30T23:56:06-03:00
+modified: 2026-03-31T22:39:17-03:00
 tags:
   - yuk-hui
   - máquina
@@ -26,13 +26,13 @@ Apresenta os conceitos de "adaptação" e "adoção" de Jacob von Uexküll e o f
 
 ### Quarta Parte: O autor questiona a noção da cibernética como fim da filosofia (§9-11)
 
-O autor questiona a ideia de fim ou acabamento da filosofia em Heidegger frente a uma substituição da cibernética como pensamento reflexivo universal no lugar da filosofia. Hui lança uma hipótese de que apesar do fato de que "o pensamento cibernético como pensamento supostamente universal e ecológico é aquele que supera, ou pelo menos finge superar, o dualismo pressuposto na ontologia e na epistemologia tradicionais", a origem do perigo da nossa época não esta no dualismo, mas sim, em um "poder totalizante não dualista" das tecnologias modernas, apontando a falha na "ideologia antidualista".
+O autor questiona a ideia de fim ou acabamento da filosofia em Heidegger frente a uma substituição da cibernética como pensamento reflexivo universal no lugar da filosofia. Hui argumenta que apesar do fato de que *"o pensamento cibernético como pensamento supostamente universal e ecológico é aquele que supera, ou pelo menos finge superar, o dualismo pressuposto na ontologia e na epistemologia tradicionais"*, a origem do perigo da nossa época não esta no dualismo, mas sim, em um *"poder totalizante não dualista"* das tecnologias modernas, apontando a falha na *"ideologia antidualista"*.
 
-Hui investiga a possibilidade da cibernética como solução dos problemas ecológicos e como possibilidade do fim da modernidade, expondo o pensamento de Heidegger sobre a relação entre organismo e tecnologia para então repensar a relação entre tecnologia e ambiente, propondo uma nova visão no sentido dado por Watsuji Tetsurô (1961)
+Hui investiga a possibilidade da cibernética como solução dos problemas ecológicos e como possibilidade do fim da modernidade, expondo o pensamento de Heidegger sobre a relação entre organismo e tecnologia para então repensar a relação entre tecnologia e ambiente, propondo uma nova visão no sentido dado por *Watsuji Tetsurô (1961)*
 
-### Quinta Parte: XXXXXXXX (§X-X)
+### Quinta Parte: O autor expõe dois sentidos pelos quais podem ser entendidos o complexo tecnológico-ambiental (12-X)
 
-TBD
+Apresenta os pensamentos de André Leroi-Gourhan (ambiente técnico) e de Gilbert Simondon (ambiente tecnogeográfico) e a influência que a cibernética exerceu sobre os seu
 
 ---
 

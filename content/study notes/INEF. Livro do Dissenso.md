@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-03-30T14:01:27-03:00
+modified: 2026-04-01T11:53:32-03:00
 tags:
   - filosofia
   - mitologia
@@ -9,6 +9,9 @@ tags:
   - parmênides
   - história-da-filosofia
   - platão
+  - aristoteles
+  - estoicismo
+  - epicurismo
 draft: false
 ---
 
@@ -194,3 +197,22 @@ O sensível é o ponto de partida da experiência humana, para mim faz sentido a
 Aristóteles esta aqui falando sobre a Areté, que me parece algo como o sentido de ser, uma espécie de essência, aquilo que ao se fazer, se realiza o ser completamente. Por exemplo, o dia, realiza-se em um dia de verão, proporcionando beatitude e felicidade, assim como, por exemplo, "vigor e saúde são a areté do corpo", é assim que eles se realizam.
 
 Me parece um tanto determinista essa concepção, como se cada qual, estivesse destinado a tal.
+
+### Aula: Estoicismo e Epicurismo
+
+**Citações:**
+
+> “Assim como os cirurgiões têm sempre à mão as lancetas e bisturis para as súbitas urgências de sua arte, também tu deves ter os teus princípios sempre prontos para a compreensão das coisas, tanto as humanas quanto as divinas, nunca esquecendo, mesmo na mais trivial da ações, como as duas estão tão intimamente ligadas. Porque nada de humano pode ser feito com acerto sem referência ao divino, e reciprocamente.” - Marco Aurélio
+
+> “Que ninguém hesite em se dedicar à filosofia enquanto jovem, nem se canse de fazê-lo depois de velho, porque ninguém jamais é demasiado jovem ou demasiado velho para alcançar a saúde do espírito. Quem afirma que a hora de se dedicar à filosofia ainda não chegou, ou que ela já passou, é como se dissesse que ainda não chegou ou que já passou a hora de ser feliz.“ - Epicuro
+
+**Guia de reflexão:**
+
+1. O que Marco Aurélio e Epicuro queriam dizer, com base na aula?
+2. Como essas ideias podem ser interpretadas e aplicadas no mundo atual?
+3. O que essas reflexões significam para você pessoalmente?
+4. Complete esta frase: “Com base nesse entendimento, nesta semana, tomarei esta ação concreta de \[...\]”
+
+**Resposta:**
+
+TBD

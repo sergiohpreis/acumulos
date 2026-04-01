@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-03-31T23:09:33-03:00
+modified: 2026-03-31T23:12:02-03:00
 tags:
   - yuk-hui
   - máquina
@@ -42,9 +42,11 @@ A partir do conceito de Peter Sloterdijk da "domesticação dos seres humanos", 
 
 Hui questiona se a cibernética é capaz de propor uma superação da modernidade ou se esta inserida nesse paradigma, afirmando que a crítica de Heidegger não é nem transumanista nem humanista, mas segundo sua interpretação, local. Hui aprofunda sobre a noção de localidade do ser em Heidegger e sobre a incapacidade do século XX em articular a relação entre tecnologia e localidade frente a um pensamento dotado de humanismo europeu, criticando tanto as políticas reacionárias quanto o aceleracionismo.
 
-### Oitava Parte: O autor justifica sobre o porquê de a cibernética ainda não ser suficiente como solução não dualista (§23-X)
+### Oitava Parte: O autor justifica sobre o porquê de a cibernética ainda não ser suficiente como solução não dualista (§23,24)
 
 Hui argumenta sobre as limitações impostas pela lógica formal cibernética, resgatando o pensamento de Simondon, que propõe "relacionar o pensamento tecnológico a outros pensamentos", apresentando seu conceito de tecnicidade e através de alguns exemplos, afirma que a "cosmogeograficalidade constitui uma dimensão importante da localidade".
+
+Argumenta que o pensamento cibernético ainda é um pensamento totalizante, relacionando o mesmo com a lógica hegeliana e extraindo as consequências disso, propondo que "pensar para além da cibernética é pensar para além do efeito totalizante de um pensamento não dualista".
 
 ---
 

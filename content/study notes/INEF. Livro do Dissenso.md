@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-01T11:53:32-03:00
+modified: 2026-04-02T17:53:57-03:00
 tags:
   - filosofia
   - mitologia
@@ -216,3 +216,5 @@ Me parece um tanto determinista essa concepção, como se cada qual, estivesse d
 **Resposta:**
 
 TBD
+
+### Aula: Cinismo e Ceticismo

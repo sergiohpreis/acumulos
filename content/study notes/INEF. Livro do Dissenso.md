@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-02T17:53:57-03:00
+modified: 2026-04-02T18:03:00-03:00
 tags:
   - filosofia
   - mitologia
@@ -198,7 +198,7 @@ Aristóteles esta aqui falando sobre a Areté, que me parece algo como o sentido
 
 Me parece um tanto determinista essa concepção, como se cada qual, estivesse destinado a tal.
 
-### Aula: Estoicismo e Epicurismo
+### Aula: Estoicismo e Epicurismo (WIP)
 
 **Citações:**
 
@@ -217,4 +217,4 @@ Me parece um tanto determinista essa concepção, como se cada qual, estivesse d
 
 TBD
 
-### Aula: Cinismo e Ceticismo
+### Aula: Cinismo e Ceticismo (TBD)

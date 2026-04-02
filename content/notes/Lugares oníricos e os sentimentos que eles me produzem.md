@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T19:26:52-03:00
-modified: 2026-04-02T20:19:00-03:00
+modified: 2026-04-02T20:20:18-03:00
 draft: false
 ---
 
@@ -22,4 +22,4 @@ Porque esses espaços são de alguma forma atrativos? Será que tem algo a ver c
 
 Eu sinto que em meus sonhos, já passei por lugares assim, e sendo sincero, não consigo distinguir se os sonhos aconteceram primeiro, ou então a partir do momento que me dei conta da existência de tal estética, comecei a fazer a associação, mas eu sei que não estou só. 
 
-A primeira vez que eu senti vontade de aprender mesmo a desenhar, foi para poder representar um sonho que tive. Porque parece que alguns lugares tem cara de sonho? O que são os espaços oníricos?
+A primeira vez que eu senti vontade de aprender mesmo a desenhar, foi para poder representar um sonho que tive. Porque parece que alguns lugares tem cara de sonho? O que são os espaços oníricos? 

@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T15:49:54-03:00
+modified: 2026-04-03T15:51:07-03:00
 tags:
   - yuk-hui
   - máquina
@@ -12,17 +12,30 @@ draft: false
 
 > [!info] Texto em [[HUI Yuk. Tecnodiversidade (2020)]]
 
-### Primeira Parte: O autor constata o dualismo da crítica presente no raciocínio que opõe máquina e ecologia (§1-3)
+### Primeira Parte: O autor problematiza o dualismo da crítica presente no raciocínio que opõe máquina e ecologia (§1-3)
 
 O autor busca problematizar os termos "máquina" e "ecologia" para propor uma nova "ecologia política" centrada em seu conceito de tecnodiversidade, apresentando brevemente a teoria da cosmotécnica presente em [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)|The Question Concerning Technology in China]], onde defende uma postura contrária a forma como certas tradições filosóficas lidam com a tecnologia, apresentando as limitações presentes nesse raciocínio que fixa máquina e ecologia como binários insuperáveis, como no caso da consciência infeliz.
 
 ### Segunda Parte: O autor apresenta a redefinição de máquina pela cibernética (§3-5)
 
-O autor apresenta diversos conceitos que surgiram com a ascensão da cibernética (de Wiener) no século XX, demonstrando como esses conceitos fizeram com que as noções mecanicistas fossem superadas através de uma reconceitualização dessa relação entre "máquina e organismo, humano e ambiente, tecnologia e natureza", todas as máquinas modernas são máquinas cibernéticas.
+O autor explora os efeitos do surgimento da cibernética em meados do século XX, que tornou as concepções mecanicistas (causalidade linear) obsoletas frente ao mecano-organicismo (causalidade circular). Explora sobre a superação do dualismo presente no pensamento re
+
+
+
+O autor apresenta diversos conceitos que surgiram com a ascensão da cibernética (de Wiener) no século XX, 
+
+A cibernética é parte de 
+
+
+O autor argumenta que com a chegada da cibernética, o mecanicismo foi substituído pelo mecano-organicismo, ou seja, ao invés de operar sobre a base da causalidade linear, a cibernética opera em uma causalidade circular, sendo assim reflexiva podendo determinar a si mesma. 
+
+Apresenta o organicismo e a relação com o tempo orgânico de Bergson
+
+demonstrando como esses conceitos fizeram com que as noções mecanicistas fossem superadas através de uma reconceitualização dessa relação entre "máquina e organismo, humano e ambiente, tecnologia e natureza", todas as máquinas modernas são máquinas cibernéticas.
 
 ### Terceira Parte: O autor apresenta a redefinição da ecologia como um sistema cibernético (§6-8)
 
-O autor apresenta os conceitos de Ecologia de Ernst Haeckel, onde ecologia é "a totalidade de relações entre um ser vivo e o ambiente em que ele está inserido" e de Jacob Von Uexküll onde a ecologia aparece como um "processo de seleção do Umgebung (o ambiente físico) para o Unwelt (a 'interpretação' do mundo pelo ser vivo)". Utiliza-se do veredito de Marshall McLuhan sobre a "perda do caráter biológico da ecologia" para apresentar a Terra como um "sistema cibernético". Para Hui, "as máquinas modernas e a ecologia são dois discursos que aderem ao mesmo princípio, o da cibernética".
+O autor apresenta os conceitos de Ecologia de Ernst Haeckel, onde ecologia é "a totalidade de relações entre um ser vivo e o ambiente em que ele está inserido" e de Jacob Von Uexküll onde a ecologia aparece como um "processo de seleção do Umgebung (o ambiente físico) para o Umwelt (a 'interpretação' do mundo pelo ser vivo)". Utiliza-se do veredito de Marshall McLuhan sobre a "perda do caráter biológico da ecologia" para apresentar a Terra como um "sistema cibernético". Para Hui, "as máquinas modernas e a ecologia são dois discursos que aderem ao mesmo princípio, o da cibernética".
 
 ### Quarta Parte: O autor questiona a noção da cibernética como fim da filosofia (§9-11)
 

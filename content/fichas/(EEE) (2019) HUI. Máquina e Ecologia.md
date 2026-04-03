@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T16:02:34-03:00
+modified: 2026-04-03T16:15:19-03:00
 tags:
   - yuk-hui
   - máquina
@@ -24,7 +24,11 @@ O autor explora os efeitos do surgimento da cibernética em meados do século XX
 
 O autor apresenta os conceitos de Ecologia de Ernst Haeckel, onde ecologia é "a totalidade de relações entre um ser vivo e o ambiente em que ele está inserido" e de Jacob Von Uexküll onde a ecologia aparece como um "processo de seleção do Umgebung (o ambiente físico) para o Umwelt (a 'interpretação' do mundo pelo ser vivo)". Utiliza-se do veredito de Marshall McLuhan sobre a "perda do caráter biológico da ecologia" para apresentar a Terra como um "sistema cibernético". Para Hui, "as máquinas modernas e a ecologia são dois discursos que aderem ao mesmo princípio, o da cibernética".
 
-### Quarta Parte: O autor questiona a noção da cibernética como fim da filosofia (§9-11)
+### Quarta Parte: O autor crítica a cibernética enquanto pensamento reflexivo universal (§9-11)
+
+Hui afirma que a cibernética substitui a filosofia como pensamento reflexivo universal, trazendo a noção de Heidegger sobre "fim ou o acabamento da filosofia". A partir disso, expõe um princípio fundamentaas consequências do "poder totalizante não dualista"
+
+
 
 O autor questiona a ideia de fim ou acabamento da filosofia em Heidegger frente a uma substituição da cibernética como pensamento reflexivo universal no lugar da filosofia. Hui argumenta que apesar do fato de que *"o pensamento cibernético como pensamento supostamente universal e ecológico é aquele que supera, ou pelo menos finge superar, o dualismo pressuposto na ontologia e na epistemologia tradicionais"*, a origem do perigo da nossa época não esta no dualismo, mas sim, em um *"poder totalizante não dualista"* das tecnologias modernas, apontando a falha na *"ideologia antidualista"*.
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T16:29:09-03:00
+modified: 2026-04-03T16:37:02-03:00
 tags:
   - yuk-hui
   - máquina
@@ -28,11 +28,9 @@ O autor apresenta os conceitos de Ecologia de Ernst Haeckel, onde ecologia é "a
 
 Hui afirma que a cibernética substitui a filosofia como pensamento reflexivo universal, trazendo a noção de Heidegger sobre "fim ou o acabamento da filosofia". A partir disso, expõe um princípio fundamental sobre a possibilidade do "poder totalizante não dualista" da cibernética como origem do perigo de nossa época, questionando a capacidade da mesma de oferecer soluções para os problemas ecológicos do nosso tempo e de por fim à modernidade. Apresenta o pensamento de Augustin Berque que busca se opor ao dualismo cartesiano através de um pensamento não binário (semelhante ao oriental) para propor então um novo programa para mesologia frente a ascensão da cibernética e seu modelo organicista.
 
-### Quinta Parte: O autor explora os dois sentidos influenciados pelo pensamento cibernético para repensar a relação entre tecnologia e ambiente (§11-15)
+### Quinta Parte: O autor apresenta dois sentidos influenciados pelo organicismo e pela cibernética que são uteis para repensar a relação entre tecnologia e ambiente (§11-15)
 
-Hui explica o sentido de "ambiente técnico" do paleoantropólogo André Leroi-Gourhan, onde "o ambiente interno e o ambiente externo formam uma relação recíproca sob a mediação do ambiente técnico"
-
-Explora os pensamentos de André Leroi-Gourhan (ambiente técnico) e de Gilbert Simondon (ambiente tecnogeográfico) e a influência que a cibernética exerceu sobre os esses pensamentos. Relaciona a afirmação de Heidegger sobre o fim da filosofia com  o pensamento Simondon e a substituição da cibernética pela filosofia.
+Hui explica o sentido de "ambiente técnico" do paleoantropólogo André Leroi-Gourhan, onde "o ambiente interno e o ambiente externo formam uma relação recíproca sob a mediação do ambiente técnico", e também o termo "ambiente tecnogeográfico", cunhado por Gilbert Simondon, onde "o ambiente geográfico, o que inclui os recursos naturais, não é mais apenas um objeto de exploração, mas está integrado ao funcionamento do objeto técnico". A partir da comparação entre esses pensamentos e a influência da metáfora do organismo e da Cibernética no mesmo, situa a afirmação de Heidegger em que a cibernética marca o fim da filosofia, apontando para a necessidade do desenvolvimento de uma "geofilosofia".
 
 ### Sexta Parte: O autor explora o conceito de domesticação dos seres humanos na relação entre humano e natureza (§16-20)
 

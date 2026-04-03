@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-02T18:03:00-03:00
+modified: 2026-04-03T10:51:39-03:00
 tags:
   - filosofia
   - mitologia
@@ -198,7 +198,7 @@ Aristóteles esta aqui falando sobre a Areté, que me parece algo como o sentido
 
 Me parece um tanto determinista essa concepção, como se cada qual, estivesse destinado a tal.
 
-### Aula: Estoicismo e Epicurismo (WIP)
+### Aula: Estoicismo e Epicurismo
 
 **Citações:**
 
@@ -215,6 +215,6 @@ Me parece um tanto determinista essa concepção, como se cada qual, estivesse d
 
 **Resposta:**
 
-Tanto Marco Aurélio, quanto Epicuro acreditavam que a filosofia deveria ser utilizado com um objetivo de se al
+Tanto Marco Aurélio, quanto Epicuro acreditavam que a filosofia deveria ser utilizado com um objetivo de se alcançar a felicidade, portanto, quando Marco Aurélio diz sobre se ter "os teus princípios sempre prontos" ou quando Epicuro diz que não ser a hora certa de filosofar significa dizer "que ainda não chegou ou que já passou a hora de ser feliz." os mesmos estão atribuindo a filosofia como uma espécie de ferramenta para a felicidade, portanto, tais sabedorias, reflexões e etc, devem conduzir a tal
 
-### Aula: Cinismo e Ceticismo (TBD)
+### Aula: Cinismo e Ceticismo (WIP)

@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T16:59:31-03:00
+modified: 2026-04-03T17:32:51-03:00
 tags:
   - yuk-hui
   - máquina
@@ -34,11 +34,13 @@ Hui explica o sentido de "ambiente técnico" do paleoantropólogo André Leroi-G
 
 ### Sexta Parte: O autor remete a trajetória tecnológica que redefine humano e natureza a um processo de "domesticação" (§16-20)
 
-Partindo do conceito de Peter Sloterdijk da "domesticação dos seres humanos", o autor busca analisar essa tecnologia de domesticação de rebanho, relacionando a mesma com o conceito de "governamentalidade" / "ambientalidade" de Foucault. Associa essa forma de governamentalidade a um "tipo molar" que trata "cada sujeito como ser igual, mas específico", onde essa relação entre o individual e o seu ambiente é captado na forma de dados, que transforma o capital de um modelo mecanicista para um modelo organicista permeado por máquinas informacionais, resultando em uma sociedade não de vigilância, mas muito semelhante a "sociedade do controle" descrita por Gilles Deleuze.
+Partindo do conceito de Peter Sloterdijk da "domesticação dos seres humanos", o autor busca analisar essa tecnologia de domesticação de rebanho, relacionando a mesma com o conceito de "governamentalidade" / "ambientalidade" de Foucault. Aponta como as tecnologias que surgem desde o século XX superam o modo molar de controle que trata "cada sujeito como ser igual, mas específico" através de um modo molecular que trata cada ser humano "como um indivíduo que se diferencia de outros indivíduos", onde essa relação entre o individual e o seu ambiente é captado na forma de dados, que transforma o capital de um modelo mecanicista para um modelo organicista permeado por máquinas informacionais, resultando em uma sociedade não de vigilância, mas muito semelhante a "sociedade do controle" descrita por Gilles Deleuze.
 
 ---
 
-### Sétima Parte: O argumenta sobre a localidade presente no pensamento de Heidegger (§21,22)
+### Sétima Parte: O autor questiona se o modelo genérico sugerido pela cibernética ainda esta inserido no paradigma da modernidade segundo Heidegger
+
+argumenta sobre a localidade presente no pensamento de Heidegger (§21,22)
 
 Hui questiona se a cibernética é capaz de propor uma superação da modernidade ou se esta inserida nesse paradigma, afirmando que a crítica de Heidegger não é nem transumanista nem humanista, mas segundo sua interpretação, local. Hui aprofunda sobre a noção de localidade do ser em Heidegger e sobre a incapacidade do século XX em articular a relação entre tecnologia e localidade frente a um pensamento dotado de humanismo europeu, criticando tanto as políticas reacionárias quanto o aceleracionismo.
 

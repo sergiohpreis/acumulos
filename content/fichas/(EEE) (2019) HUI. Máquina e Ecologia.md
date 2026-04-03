@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T15:35:34-03:00
+modified: 2026-04-03T15:49:54-03:00
 tags:
   - yuk-hui
   - máquina
@@ -12,21 +12,17 @@ draft: false
 
 > [!info] Texto em [[HUI Yuk. Tecnodiversidade (2020)]]
 
-### Primeira Parte: O autor apresenta o dualismo da crítica presente no raciocínio que opõe máquina e ecologia (§1-3)
+### Primeira Parte: O autor constata o dualismo da crítica presente no raciocínio que opõe máquina e ecologia (§1-3)
 
-O autor busca problematizar os termos "máquina" e "ecologia" para propor uma nova "ecologia política" centrada em seu conceito de tecnodiversidade, apresentando brevemente a teoria da cosmotécnica presente em [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)|The Question Concerning Technology in China]], onde defende uma postura contrária a forma como certas tradições filosóficas lidam com a tecnologia, apresentando as limitações presentes nesse pensamento que opõe de forma binária máquina e ecologia.
+O autor busca problematizar os termos "máquina" e "ecologia" para propor uma nova "ecologia política" centrada em seu conceito de tecnodiversidade, apresentando brevemente a teoria da cosmotécnica presente em [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)|The Question Concerning Technology in China]], onde defende uma postura contrária a forma como certas tradições filosóficas lidam com a tecnologia, apresentando as limitações presentes nesse raciocínio que fixa máquina e ecologia como binários insuperáveis, como no caso da consciência infeliz.
 
 ### Segunda Parte: O autor apresenta a redefinição de máquina pela cibernética (§3-5)
 
-O autor inicia explicando sobre a ascensão da cibernética no século XX e a diferença do mecano-organicismo para a mecanicismo. Resume a oposição entre os tempos newtoniano e bergsoniano apresentados por Wierner, explicando mais profundamente sobre a noção de **tempo orgânico** para Bergson. Concorda com Hans e Simondon que veem a cibernética como uma "superação do dualismo", apresentando a sua teoria da recursividade (em seu livro *"Recursivity e Contingency"*), uma categoria mais ampla em que situa o feedback. Propõe uma reconceitualização dessa relação entre "máquina e organismo, humano e ambiente, tecnologia e natureza" a partir da cibernética de Wierner, argumentando que todas as máquinas modernas são máquinas cibernéticas.
+O autor apresenta diversos conceitos que surgiram com a ascensão da cibernética (de Wiener) no século XX, demonstrando como esses conceitos fizeram com que as noções mecanicistas fossem superadas através de uma reconceitualização dessa relação entre "máquina e organismo, humano e ambiente, tecnologia e natureza", todas as máquinas modernas são máquinas cibernéticas.
 
 ### Terceira Parte: O autor apresenta a redefinição da ecologia como um sistema cibernético (§6-8)
 
-O autor apresenta os conceitos de Ecologia de Ernst Haeckel, onde ecologia é "a totalidade de relações entre um ser vivo e o ambiente em que ele está inserido" e de Jacob Von Uexküll onde a ecologia aparece como um "processo de seleção do umgebung (o ambiente físico) para o Unwel (a 'interpretação' do mundo pelo ser vivo)"
-
-e , onde em Haeckel (fim do século XIX) temos o termo ecologia como  e em Von XXXXX temos a 
-
-Apresenta os conceitos de "adaptação" e "adoção" de Jacob von Uexküll e o fenômeno da organicidade, que surge em uma tentativa de superação do conceito de Ecologia de Haeckel, que o autor aponta como insuficiente. Analisa o lançamento da Sputnik de acordo com o veredito de Marshall McLuhan (1974) sobre "perda do caráter biológico da ecologia", defendendo que *"a ecologia não é um conceito da natureza, mas da cibernética"*. Apresenta a "noção de Gaia" de Lovelock e propõe uma diferenciação da descrição das máquinas feitas por Marx no Século XIX.
+O autor apresenta os conceitos de Ecologia de Ernst Haeckel, onde ecologia é "a totalidade de relações entre um ser vivo e o ambiente em que ele está inserido" e de Jacob Von Uexküll onde a ecologia aparece como um "processo de seleção do Umgebung (o ambiente físico) para o Unwelt (a 'interpretação' do mundo pelo ser vivo)". Utiliza-se do veredito de Marshall McLuhan sobre a "perda do caráter biológico da ecologia" para apresentar a Terra como um "sistema cibernético". Para Hui, "as máquinas modernas e a ecologia são dois discursos que aderem ao mesmo princípio, o da cibernética".
 
 ### Quarta Parte: O autor questiona a noção da cibernética como fim da filosofia (§9-11)
 

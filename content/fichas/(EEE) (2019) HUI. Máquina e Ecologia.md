@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T16:37:02-03:00
+modified: 2026-04-03T16:48:39-03:00
 tags:
   - yuk-hui
   - máquina
@@ -32,9 +32,9 @@ Hui afirma que a cibernética substitui a filosofia como pensamento reflexivo un
 
 Hui explica o sentido de "ambiente técnico" do paleoantropólogo André Leroi-Gourhan, onde "o ambiente interno e o ambiente externo formam uma relação recíproca sob a mediação do ambiente técnico", e também o termo "ambiente tecnogeográfico", cunhado por Gilbert Simondon, onde "o ambiente geográfico, o que inclui os recursos naturais, não é mais apenas um objeto de exploração, mas está integrado ao funcionamento do objeto técnico". A partir da comparação entre esses pensamentos e a influência da metáfora do organismo e da Cibernética no mesmo, situa a afirmação de Heidegger em que a cibernética marca o fim da filosofia, apontando para a necessidade do desenvolvimento de uma "geofilosofia".
 
-### Sexta Parte: O autor explora o conceito de domesticação dos seres humanos na relação entre humano e natureza (§16-20)
+### Sexta Parte: O autor remete a trajetória tecnológica que redefine humano e natureza a um processo de "domesticação" (§16-20)
 
-A partir do conceito de Peter Sloterdijk da "domesticação dos seres humanos", o autor busca analisar essa tecnologia de domesticação de rebanhos e relacionar a mesma com o conceito de "governamentalidade" de Foucault. Fala sobre os efeitos da generalização do algoritmo recursivo e da sua implementação nos computadores, responsáveis na visão do autor por dar "concretude ao pensamento cibernético", propondo que o capital passou de um modelo mecanicista proposto por Marx para um modelo organicista, reforçando o papel dos dados como fonte de informação e seus novos sentidos. Hui afiram que a "sociedade de controle" de Gilles Deleuze esta muito distante do discurso comum de uma sociedade de vigilância.
+Partindo do conceito de Peter Sloterdijk da "domesticação dos seres humanos", o autor busca analisar essa tecnologia de domesticação de rebanho, relacionando a mesma com o conceito de "governamentalidade" / "ambientalidade" de Foucault. Associa essa forma de governamentalidade a um "tipo molar" que trata "cada sujeito como ser igual, mas específico", onde essa relação entre o individual e o seu ambiente é captado na forma de dados, que transforma o capital de um modelo mecanicista para um modelo organicista permeado por máquinas informacionais, resultando em uma sociedade de vigilância distante da "sociedade do controle" descrita por Gilles Deleuze.
 
 ### Sétima Parte: O argumenta sobre a localidade presente no pensamento de Heidegger (§21,22)
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T17:39:44-03:00
+modified: 2026-04-03T17:46:58-03:00
 tags:
   - yuk-hui
   - máquina
@@ -40,9 +40,9 @@ Partindo do conceito de Peter Sloterdijk da "domesticação dos seres humanos", 
 
 ### Sétima Parte: O autor avalia a possibilidade da cibernética enquanto superação do moderno (§21,22)
 
-Hui questiona tanto a cibernética quanto uma resposta à "crítica do industrialismo moldado pela tendência dualista" do pensamento moderno (tal qual esboçado por Ludwig von Bertalanffy) e sua superação, tanto quanto a cibernética enquanto um modelo inserido no paradigma da modernidade, tal qual esboçado por Heidegger.
+Hui questiona tanto a cibernética quanto uma resposta à "crítica do industrialismo moldado pela tendência dualista" do pensamento moderno (tal qual esboçado por Ludwig von Bertalanffy) e sua superação, tanto quanto a cibernética enquanto um modelo inserido no paradigma da modernidade, tal qual esboçado por Heidegger. Para Hui, estar inserido no paradigma da modernidade é "enfraquecer a necessidade de localidade e diversidade em função de uma insistência na episteme universal e no conceito de progresso", e nesse sentido, Hui opõe a resposta de Heidegger tanto da crítica humanista de Simondon quanto a uma crítica transumanista de substituição da natureza pela tecnologia classificando-a como local, demonstrando como para Heidegger, "o ser é uma noção específica a uma localidade". Entretanto, Hui aponta que a ambiguidade no destino da localidade na época tecnológica da origem a políticas reacionárias
 
-Par 
+Hui questiona a capacidade da cibernética enquanto uma superação do paradigma da modernidade, ou então a mesma enquanto parte desse paradigma, como esboçado por Heidegger. Explora a localidade presente no pensamento de Heidegger e afirma que as políticas reacionárias do século XX são frutos de uma incapacidade entre articular a relação entre localidade e tecnologia, tal qual como as políticas aceleracionistas
 
 
 

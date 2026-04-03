@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T16:15:19-03:00
+modified: 2026-04-03T16:29:09-03:00
 tags:
   - yuk-hui
   - máquina
@@ -26,17 +26,13 @@ O autor apresenta os conceitos de Ecologia de Ernst Haeckel, onde ecologia é "a
 
 ### Quarta Parte: O autor crítica a cibernética enquanto pensamento reflexivo universal (§9-11)
 
-Hui afirma que a cibernética substitui a filosofia como pensamento reflexivo universal, trazendo a noção de Heidegger sobre "fim ou o acabamento da filosofia". A partir disso, expõe um princípio fundamentaas consequências do "poder totalizante não dualista"
+Hui afirma que a cibernética substitui a filosofia como pensamento reflexivo universal, trazendo a noção de Heidegger sobre "fim ou o acabamento da filosofia". A partir disso, expõe um princípio fundamental sobre a possibilidade do "poder totalizante não dualista" da cibernética como origem do perigo de nossa época, questionando a capacidade da mesma de oferecer soluções para os problemas ecológicos do nosso tempo e de por fim à modernidade. Apresenta o pensamento de Augustin Berque que busca se opor ao dualismo cartesiano através de um pensamento não binário (semelhante ao oriental) para propor então um novo programa para mesologia frente a ascensão da cibernética e seu modelo organicista.
 
+### Quinta Parte: O autor explora os dois sentidos influenciados pelo pensamento cibernético para repensar a relação entre tecnologia e ambiente (§11-15)
 
+Hui explica o sentido de "ambiente técnico" do paleoantropólogo André Leroi-Gourhan, onde "o ambiente interno e o ambiente externo formam uma relação recíproca sob a mediação do ambiente técnico"
 
-O autor questiona a ideia de fim ou acabamento da filosofia em Heidegger frente a uma substituição da cibernética como pensamento reflexivo universal no lugar da filosofia. Hui argumenta que apesar do fato de que *"o pensamento cibernético como pensamento supostamente universal e ecológico é aquele que supera, ou pelo menos finge superar, o dualismo pressuposto na ontologia e na epistemologia tradicionais"*, a origem do perigo da nossa época não esta no dualismo, mas sim, em um *"poder totalizante não dualista"* das tecnologias modernas, apontando a falha na *"ideologia antidualista"*.
-
-Hui investiga a possibilidade da cibernética como solução dos problemas ecológicos e como possibilidade do fim da modernidade, expondo o pensamento de Heidegger sobre a relação entre organismo e tecnologia para então repensar a relação entre tecnologia e ambiente, propondo uma nova visão no sentido dado por *Watsuji Tetsurô (1961)*
-
-### Quinta Parte: O autor expõe dois sentidos pelos quais podem ser entendidos o complexo tecnológico-ambiental (§12-15)
-
-Apresenta os pensamentos de André Leroi-Gourhan (ambiente técnico) e de Gilbert Simondon (ambiente tecnogeográfico) e a influência que a cibernética exerceu sobre os esses pensamentos. Relaciona a afirmação de Heidegger sobre o fim da filosofia com  o pensamento Simondon e a substituição da cibernética pela filosofia.
+Explora os pensamentos de André Leroi-Gourhan (ambiente técnico) e de Gilbert Simondon (ambiente tecnogeográfico) e a influência que a cibernética exerceu sobre os esses pensamentos. Relaciona a afirmação de Heidegger sobre o fim da filosofia com  o pensamento Simondon e a substituição da cibernética pela filosofia.
 
 ### Sexta Parte: O autor explora o conceito de domesticação dos seres humanos na relação entre humano e natureza (§16-20)
 

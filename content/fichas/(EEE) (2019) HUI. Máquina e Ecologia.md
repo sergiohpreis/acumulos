@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T15:19:57-03:00
+modified: 2026-04-03T15:26:12-03:00
 tags:
   - yuk-hui
   - máquina
@@ -16,11 +16,12 @@ draft: false
 
 O autor busca problematizar os termos "máquina" e "ecologia" para propor uma nova "ecologia política" centrada em seu conceito de tecnodiversidade, apresentando brevemente a teoria da cosmotécnica presente em [[HUI Yuk. The Question Concerning Technology in China - An Essay in Cosmotechnics (2016)|The Question Concerning Technology in China]], onde defende uma postura contrária a forma como certas tradições filosóficas lidam com a tecnologia, apresentando as limitações presentes nesse pensamento que opõe de forma binária máquina e ecologia.
 
-### Segunda Parte: O autor descreve o surgimento da cibernético e o seu mecano-organicismo
+### Segunda Parte: O autor descreve alguns conceitos da cibernética enquanto a superação da concepção mecânica das máquinas (§3-5)
 
-a cibernética para uma reconceitualização da relação entre tecnologia e natureza (§3-5)
+O autor inicia explicando sobre a ascensão da cibernética no século XX e a diferença do mecano-organicismo para a mecanicismo. Resume a oposição entre os tempos newtoniano e bergsoniano apresentados por Wierner, explicando mais profundamente sobre a noção de **tempo orgânico** para Bergson. Concorda com Hans e Simondon que veem a cibernética como uma "superação do dualismo", apresentando a sua teoria da recursividade (em seu livro *"Recursivity e Contingency"*), uma categoria mais ampla em que situa o feedback 
 
-O autor inicia explicando sobre a ascensão da cibernética no século XX e a diferença da sua concepção organicista para a mecanicista. Apresenta a oposição entre os tempos newtoniano e bergsoniano, explicando mais profundamente sobre a noção de tempo para Bergson. Concorda com o pensamento de Simondon, que considera o pensamento reflexivo da cibernética como essencial para a eliminação desse dualismo. Apresenta a sua noção de recursividade presente em *"Recursivity e Contingency"* Propõe uma reconceitualização dessa relação entre "máquina e organismo, humano e ambiente, tecnologia e natureza" a partir da cibernética de Wierner, argumentando que todas as máquinas modernas são máquinas cibernéticas.
+
+Concorda com o pensamento de Simondon, que considera o pensamento reflexivo da cibernética como essencial para a eliminação desse dualismo, apresenta a sua noção de recursividade presente em  Propõe uma reconceitualização dessa relação entre "máquina e organismo, humano e ambiente, tecnologia e natureza" a partir da cibernética de Wierner, argumentando que todas as máquinas modernas são máquinas cibernéticas.
 
 ### Terceira Parte: O autor esclarece o conceito de Ecologia para além da tentativa de compreender a relação entre o ser vivo e seu ambiente (§6-8)
 

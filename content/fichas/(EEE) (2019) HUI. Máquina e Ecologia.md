@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T17:46:58-03:00
+modified: 2026-04-03T17:57:58-03:00
 tags:
   - yuk-hui
   - máquina
@@ -38,22 +38,9 @@ Partindo do conceito de Peter Sloterdijk da "domesticação dos seres humanos", 
 
 ---
 
-### Sétima Parte: O autor avalia a possibilidade da cibernética enquanto superação do moderno (§21,22)
+### Sétima Parte: O autor avalia a possibilidade da cibernética enquanto superação do pensamento dualista moderno (§21-24)
 
-Hui questiona tanto a cibernética quanto uma resposta à "crítica do industrialismo moldado pela tendência dualista" do pensamento moderno (tal qual esboçado por Ludwig von Bertalanffy) e sua superação, tanto quanto a cibernética enquanto um modelo inserido no paradigma da modernidade, tal qual esboçado por Heidegger. Para Hui, estar inserido no paradigma da modernidade é "enfraquecer a necessidade de localidade e diversidade em função de uma insistência na episteme universal e no conceito de progresso", e nesse sentido, Hui opõe a resposta de Heidegger tanto da crítica humanista de Simondon quanto a uma crítica transumanista de substituição da natureza pela tecnologia classificando-a como local, demonstrando como para Heidegger, "o ser é uma noção específica a uma localidade". Entretanto, Hui aponta que a ambiguidade no destino da localidade na época tecnológica da origem a políticas reacionárias
-
-Hui questiona a capacidade da cibernética enquanto uma superação do paradigma da modernidade, ou então a mesma enquanto parte desse paradigma, como esboçado por Heidegger. Explora a localidade presente no pensamento de Heidegger e afirma que as políticas reacionárias do século XX são frutos de uma incapacidade entre articular a relação entre localidade e tecnologia, tal qual como as políticas aceleracionistas
-
-
-
-
-
-Hui questiona se a cibernética é capaz de propor uma superação da modernidade ou se esta inserida nesse paradigma (ou seja, enfraquece a necessidade de localidade e diversidade em função de uma
-
-
-, afirmando que a crítica de Heidegger não é nem transumanista nem humanista, mas segundo sua interpretação, local. Hui aprofunda sobre a noção de localidade do ser em Heidegger e sobre a incapacidade do século XX em articular a relação entre tecnologia e localidade frente a um pensamento dotado de humanismo europeu, criticando tanto as políticas reacionárias quanto o aceleracionismo.
-
-### Oitava Parte: O autor justifica sobre o porquê de a cibernética ainda não ser suficiente como solução não dualista (§23,24)
+Hui questiona a capacidade da cibernética enquanto uma superação do paradigma da modernidade, ou então a mesma enquanto parte desse paradigma, como esboçado por Heidegger, explora a localidade presente em seu pensamento. Afirma que tanto as políticas reacionárias do século XX, quanto as políticas aceleracionistas são frutos de uma incapacidade de articulação da relação entre tecnologia e localidade, sendo que ambas resultam em uma ignorância do meio que também é uma ignorância da localidade, uma falha em estabelecer uma relação íntima com a Terra devido a uma perspectiva de tecnologia globalizante.
 
 Hui argumenta sobre as limitações impostas pela lógica formal cibernética, resgatando o pensamento de Simondon, que propõe "relacionar o pensamento tecnológico a outros pensamentos", apresentando seu conceito de tecnicidade e através de alguns exemplos, afirma que a "cosmogeograficalidade constitui uma dimensão importante da localidade".
 

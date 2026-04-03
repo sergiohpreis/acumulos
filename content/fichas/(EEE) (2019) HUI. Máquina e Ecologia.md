@@ -1,12 +1,15 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T19:29:57-03:00
+modified: 2026-04-03T19:33:44-03:00
 tags:
   - yuk-hui
-  - máquina
   - tecnologia
   - cosmotécnica
   - tecnodiversidade
+  - cibernética
+  - ecologia
+  - mecanicismo
+  - organicismo
 draft: false
 ---
 
@@ -34,19 +37,19 @@ Hui explica o sentido de ***"ambiente técnico"*** do paleoantropólogo André L
 
 ### Sexta Parte: O autor remete a trajetória tecnológica que redefine humano e natureza a um processo de "domesticação" (§16-20)
 
-Partindo do conceito de Peter Sloterdijk da "domesticação dos seres humanos", o autor busca analisar essa tecnologia de domesticação de rebanho, relacionando a mesma com o conceito de "governamentalidade" / "ambientalidade" de Foucault. Aponta como as tecnologias que surgem desde o século XX superam o modo molar de controle que trata "cada sujeito como ser igual, mas específico" através de um modo molecular que trata cada ser humano "como um indivíduo que se diferencia de outros indivíduos", onde essa relação entre o individual e o seu ambiente é captado na forma de dados, que transforma o capital de um modelo mecanicista para um modelo organicista permeado por máquinas informacionais, resultando em uma sociedade não de vigilância, mas pelo contrário, uma "sociedade do controle" como descrita por Gilles Deleuze.
+Partindo do conceito de Peter Sloterdijk da *"domesticação dos seres humanos"*, o autor busca analisar essa tecnologia de domesticação de rebanho, relacionando a mesma com o conceito de ***"governamentalidade" / "ambientalidade"*** de Foucault. Aponta como as tecnologias que surgem desde o século XX superam o modo **molar** de controle que trata *"cada sujeito como ser igual, mas específico"* através de um modo **molecular** que trata cada ser humano *"como um indivíduo que se diferencia de outros indivíduos"*, onde essa relação entre o individual e o seu ambiente é captado na forma de dados, que transforma o capital de um modelo mecanicista para um modelo organicista permeado por máquinas informacionais, resultando em uma sociedade não de vigilância, mas pelo contrário, uma "sociedade do controle" como descrita por Gilles Deleuze.
 
 ### Sétima Parte: O autor avalia a possibilidade da cibernética enquanto superação do pensamento dualista moderno (§21-22)
 
-Hui questiona a capacidade da cibernética enquanto uma superação do paradigma da modernidade. Explora a localidade no pensamento de Heidegger que acredita que a cibernética é parte desse paradigma moderno e afirma que tanto as políticas reacionárias do século XX, quanto as políticas aceleracionistas são frutos de uma incapacidade de articulação da relação entre tecnologia e localidade, sendo que ambas resultam em uma ignorância do meio que também é uma ignorância da localidade, uma falha em estabelecer uma relação íntima com a Terra devido a uma perspectiva de tecnologia globalizante.
+Hui questiona a capacidade da cibernética enquanto uma superação do paradigma da modernidade. Explora a **localidade** no pensamento de Heidegger que acredita que a cibernética é parte desse paradigma moderno e afirma que tanto as políticas **reacionárias** do século XX, quanto as políticas **aceleracionistas** são frutos de uma incapacidade de articulação da relação entre tecnologia e localidade, sendo que ambas resultam em uma ignorância do meio que também é uma ignorância da localidade, uma falha em estabelecer uma relação íntima com a Terra devido a uma ***"perspectiva de tecnologia globalizante"***.
 
-### Oitava Parte: O autor explora a noção de tecnicidade presente em Simondon para justificar a cibernética como insuficiente para uma solução não dualista (§23-24)
+### Oitava Parte: O autor explora a noção de tecnicidade presente em Simondon para justificar a insuficiência da cibernética como uma solução não dualista (§23-24)
 
-Hui argumenta sobre as limitações impostas pela lógica formal cibernética, resgatando o pensamento de Simondon, que propõe "relacionar o pensamento tecnológico a outros pensamentos", apresentando seu conceito de tecnicidade e a necessidade de se levar o seu projeto adiante com base na "investigação das especificidades cosmológicas das culturas". Apresenta o pensamento de Tetsurō Watsuji sobre o fûdo como um exemplo de como a "cosmogeograficalidade constitui uma dimensão importante da localidade". Argumenta que o pensamento cibernético ainda é um pensamento totalizante, relacionando o mesmo com a lógica hegeliana e extraindo as consequências disso, propondo que "pensar para além da cibernética é pensar para além do efeito totalizante de um pensamento não dualista".
+Hui argumenta sobre as limitações impostas pela lógica formal cibernética, resgatando o pensamento de Simondon, que propõe *"relacionar o pensamento tecnológico a outros pensamentos"*, apresentando seu conceito de **tecnicidade** e a necessidade de se levar o seu projeto adiante com base na "investigação das especificidades cosmológicas das culturas". Apresenta o pensamento de Tetsurō Watsuji sobre o fûdo como um exemplo de como a *"**cosmogeograficalidade** constitui uma dimensão importante da localidade"*. Argumenta que o pensamento cibernético ainda é um pensamento totalizante, relacionando o mesmo com a lógica hegeliana e extraindo as consequências disso, propondo que *"pensar para além da cibernética é pensar para **além do efeito totalizante** de um pensamento não dualista"*.
 
 ### Nona Parte: O autor propõe a noção de tecnodiversidade como retorno a localidade para uma rearticulação das tecnologias modernas (§24-27)
 
-Hui propõe a reintrodução da localidade no discurso sobre as máquinas, e retornando ao conceito de ecologia e de biodiversidade, propõe a sua noção de tecnodiversidade para um reposicionamento das tecnologias modernas, para repensar o processo de modernização e de globalização a partir da localidade, mas afastando-se de posições etnocêntricas, nacionalistas ou fascistas. Apresenta a sua noção de cosmotécnica como "unificação da moral e do cósmico por meio de atividades técnicas", inclusive justificando a sua reinterpretação de Leroi-Gourhan. Hui conclui defendendo que é necessário não competir para ver quem é mais avançado, mas sim, "explorar os diferentes sistemas de pensamento tecnológico", uma diversidade que busque "rearticular o conceito de técnica por meio de seu reposicionamento nos limites do ambiente, da cultura e do pensamento geográfico".
+Hui propõe a reintrodução da localidade no discurso sobre as máquinas, e retornando ao conceito de ecologia e de biodiversidade, propõe a sua noção de **tecnodiversidade** para um reposicionamento das tecnologias modernas, para repensar o processo de modernização e de globalização a partir da localidade, mas afastando-se de posições *etnocêntricas*, *nacionalistas* ou *fascistas*. Apresenta a sua noção de **cosmotécnica** como *"unificação da moral e do cósmico por meio de atividades técnicas"*, inclusive justificando a sua reinterpretação de Leroi-Gourhan. Hui conclui defendendo que é necessário não competir para ver quem é mais avançado, mas sim, *"explorar os diferentes sistemas de pensamento tecnológico"*, uma diversidade que busque *"rearticular o conceito de técnica por meio de seu reposicionamento nos limites do ambiente, da cultura e do pensamento geográfico"*.
 
 ---
 

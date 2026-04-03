@@ -215,6 +215,6 @@ Me parece um tanto determinista essa concepção, como se cada qual, estivesse d
 
 **Resposta:**
 
-TBD
+Tanto Marco Aurélio, quanto Epicuro acreditavam que a filosofia deveria ser utilizado com um objetivo de se al
 
 ### Aula: Cinismo e Ceticismo (TBD)

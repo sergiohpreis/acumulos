@@ -1,6 +1,10 @@
 ---
 created: 2026-04-02T19:26:52-03:00
 modified: 2026-04-02T20:20:18-03:00
+tags:
+  - liminal
+  - dream
+  - reflexões
 draft: false
 ---
 

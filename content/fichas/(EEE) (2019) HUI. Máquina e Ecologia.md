@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T15:21:45-03:00
-modified: 2026-04-03T17:32:51-03:00
+modified: 2026-04-03T17:39:44-03:00
 tags:
   - yuk-hui
   - máquina
@@ -38,11 +38,20 @@ Partindo do conceito de Peter Sloterdijk da "domesticação dos seres humanos", 
 
 ---
 
-### Sétima Parte: O autor questiona se o modelo genérico sugerido pela cibernética ainda esta inserido no paradigma da modernidade segundo Heidegger
+### Sétima Parte: O autor avalia a possibilidade da cibernética enquanto superação do moderno (§21,22)
 
-argumenta sobre a localidade presente no pensamento de Heidegger (§21,22)
+Hui questiona tanto a cibernética quanto uma resposta à "crítica do industrialismo moldado pela tendência dualista" do pensamento moderno (tal qual esboçado por Ludwig von Bertalanffy) e sua superação, tanto quanto a cibernética enquanto um modelo inserido no paradigma da modernidade, tal qual esboçado por Heidegger.
 
-Hui questiona se a cibernética é capaz de propor uma superação da modernidade ou se esta inserida nesse paradigma, afirmando que a crítica de Heidegger não é nem transumanista nem humanista, mas segundo sua interpretação, local. Hui aprofunda sobre a noção de localidade do ser em Heidegger e sobre a incapacidade do século XX em articular a relação entre tecnologia e localidade frente a um pensamento dotado de humanismo europeu, criticando tanto as políticas reacionárias quanto o aceleracionismo.
+Par 
+
+
+
+
+
+Hui questiona se a cibernética é capaz de propor uma superação da modernidade ou se esta inserida nesse paradigma (ou seja, enfraquece a necessidade de localidade e diversidade em função de uma
+
+
+, afirmando que a crítica de Heidegger não é nem transumanista nem humanista, mas segundo sua interpretação, local. Hui aprofunda sobre a noção de localidade do ser em Heidegger e sobre a incapacidade do século XX em articular a relação entre tecnologia e localidade frente a um pensamento dotado de humanismo europeu, criticando tanto as políticas reacionárias quanto o aceleracionismo.
 
 ### Oitava Parte: O autor justifica sobre o porquê de a cibernética ainda não ser suficiente como solução não dualista (§23,24)
 

@@ -246,4 +246,4 @@ tomarei esta ação concreta de \[...\]”
 
 **Resposta:**
 
-TBD
+Sexto Empírico nos trás essa classificação da filosofia em três tipos no que diz respeito ao que 

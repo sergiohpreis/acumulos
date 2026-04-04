@@ -1,6 +1,6 @@
 ---
 created: 2026-03-28T16:15:16-03:00
-modified: 2026-04-03T21:18:59-03:00
+modified: 2026-04-03T21:29:48-03:00
 tags:
   - filosofia
 draft: true
@@ -17,10 +17,8 @@ Estabelecer a relação entre máquina e ecologia para além do dualismo da crí
 
 ## Qual a tese / posição proposta pelo autor?
 
-Hui argumenta que a cibernética, embora pretenda superar o dualismo do pensamento moderno da origem a um pensamento total
-
-Hui argumenta que a cibernética substituiu a filosofia enquanto pensamento reflexivo universal, sendo assim, busca entender até que ponto o pensamento cibernético pode superar o pensamento dualista moderno
+Hui argumenta que a cibernética, embora pretenda superar o dualismo do pensamento moderno dá origem a um pensamento totalizante que desconsidera a questão da localidade, e por isso propõe a tecnodiversidade como caminho para reintroduzir a localidade na relação com a tecnologia.
 
 ## Qual a argumentação oferecida para sustentar a tese / posição ?
 
-O autor demonstra como o pensamento cibernético permeou as noções de máquina e ecologia, objetivando superar o dualismo do pensamento moderno, entretanto, propõe uma universalização que desconsidera as localidades, e nesse sentido, Hui propõe um reposicionamento da tecnologia moderna sobre a perspectiva das tecnodiversidades a partir do estudo sistemático das cosmotécnicas.
+Hui argumenta que tanto a ecologia quanto a máquina foram redefinidas pelo pensamento cibernético, que surge no século XX e substitui a concepção mecanicista pela concepção organicista. Hui dialoga com o pensamento Heideggeriano de "fim da filosofia", onde a cibernética substitui a filosofia como pensamento reflexivo universal, entretanto, ainda que busque superar um dualismo presente no pensamento moderno, apresenta uma universalização que desconsidera totalmente a questão da localidade, e além disso, fazendo com que a trajetória tecnológica leve o ser humano a um processo de domesticação. Para Hui, é necessário superar o pensamento cibernético através de uma relação com a tecnologia que seja capaz de considerar as cosmotécnicas, a tecnologia moderna deve se reposicionar a partir da noção das tecnodiversidades.

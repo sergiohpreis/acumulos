@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-03T10:51:39-03:00
+modified: 2026-04-04T09:37:52-03:00
 tags:
   - filosofia
   - mitologia
@@ -218,3 +218,32 @@ Me parece um tanto determinista essa concepção, como se cada qual, estivesse d
 Tanto Marco Aurélio, quanto Epicuro acreditavam que a filosofia deveria ser utilizado com um objetivo de se alcançar a felicidade, portanto, quando Marco Aurélio diz sobre se ter "os teus princípios sempre prontos" ou quando Epicuro diz que não ser a hora certa de filosofar significa dizer "que ainda não chegou ou que já passou a hora de ser feliz." os mesmos estão atribuindo a filosofia como uma espécie de ferramenta para a felicidade, portanto, tais sabedorias, reflexões e etc, devem conduzir a tal
 
 ### Aula: Cinismo e Ceticismo (WIP)
+
+**Citação:**
+
+> “O resultado natural de qualquer investigação é que aquele que
+investiga ou bem encontra o objeto de sua busca, ou bem nega que seja
+encontrável e confessa ser ele inapreensível, ou ainda, persiste na sua
+busca. O mesmo ocorre com os objetos investigados pela filosofia, e
+provavelmente por isso que alguns afirmaram ter descoberto a verdade;
+outros, que a verdade não pode ser apreendida; enquanto outros
+continuam buscando. Aqueles que afirmam ter descoberto a verdade
+são os “dogmáticos”; assim são chamados especialmente, Aristóteles,
+por exemplo, Epicuro, os estoicos e alguns outros. Clitômaco,
+Carnéades e outros acadêmicos consideram a verdade inapreensível, e
+os céticos continuam buscando. Portanto, parece razoável sustentar
+que há três tipos de filosofia: a dogmática, a acadêmica e a cética.” -
+Sexto Empírico
+
+**Guia de reflexão:**
+
+1. O que Sexto Empírico queria dizer, com base na aula?
+2. Como essas ideias podem ser interpretadas e aplicadas no mundo
+atual?
+3. O que essas reflexões significam para você pessoalmente?
+4. Complete esta frase: “Com base nesse entendimento, nesta semana,
+tomarei esta ação concreta de \[...\]”
+
+**Resposta:**
+
+TBD

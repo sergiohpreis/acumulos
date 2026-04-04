@@ -1,6 +1,6 @@
 ---
 created: 2025-01-07T16:05:07-03:00
-modified: 2026-02-22T22:40:09-03:00
+modified: 2026-04-04T20:18:58-03:00
 tags:
   - dados
   - tecnologia
@@ -20,15 +20,8 @@ draft: false
 Hoje eu li algumas notícias que envolviam o uso de tecnologias de IA, vou resumir em poucas palavras o conteúdo de cada uma delas (depois posso colocar as fontes):
 
 - Pessoas de todo o mundo estão tendo seus globos oculares escaneados em troca de criptomoedas e de um perfil no novo projeto do criador do Chat GPT, o projeto Worldcoin
-- Meta (dona do facebook e instagram) encerrará o sistema de checagem de fatos, usando modelo semelhante ao do X, se submetendo aos interesses de Trump
+- Meta (dona do facebook e instagram) encerrará o sistema de checagem de fatos, usando modelo semelhante ao do X
 - O Comando de Observações Especiais dos Estados Unidos está procurando empresas que possam auxiliar a criar usuários de internet deepfake que "pareçam ser indivíduos únicos, reconhecíveis como seres humanos, mas que não existam no mundo real"
-
-Porque nós não pagamos nada para usar o Facebook ou o Instagram? Como pode uma empresa tão grande, com milhões de usuários, permitir o uso gratuito das suas plataformas? Como conseguem se manter "sem lucro"?
-
-O ponto central é que os nossos dados nas mãos dessas big techs (grandes monopólios de tecnologia) já viraram moeda de troca, e hoje, **o modelo de negócio dessas empresas consiste na obtenção massiva de dados**. 
-- Esses dados são utilizados ativamente para o direcionamento de conteúdo de propaganda para o público alvo, afinal, quem melhor conhece os hábitos e comportamentos das pessoas dos que as redes digitais, que possuem uma gigantesca malha de dados sobre pessoas e as suas relações (amizades, gostos, interesses atuais e etc).
-
-O problema não é existir uma tecnologia capaz de obter e utilizar informações do nosso globo ocular, ou então uma tecnologia que seja capaz de reproduzir de maneira perfeita um ser humano, o problema é que **no capitalismo, as tecnologias estão submetidas aos interesses dos monopólios,** e sendo assim, todo o progresso tecnológico possível **é limitado pelas vontades dessas empresas**. E sabemos que a vontade dessas empresas é ampliar os seus lucros, ainda que para isso seja necessário destruir a saude mental do povo, como é o exemplo das redes sociais.
 
 Também li uma matéria hoje, que falava sobre como Gilbert Jacob Huber Junior, dono de um conglomerado empresarial que monopolizou por décadas a produção de listas telefônicas no país, também fundou o Instituto de Pesquisas e Estudos Sociais, o IPÊS, cujo os mapeamentos sobre o comportamento social da população levantados pelo IPÊS deram origem ao banco de dados do Serviço Nacional de Informação (SNI), que funcionava como um órgão de espionagem da ditadura.
 - Matéria: [[Conspirador da ditadura viveu 20 anos escondido da Justiça para escapar da prisão]]

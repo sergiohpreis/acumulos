@@ -1,9 +1,14 @@
 ---
 created: 2026-03-28T16:15:16-03:00
-modified: 2026-04-03T21:29:48-03:00
+modified: 2026-04-03T21:31:59-03:00
 tags:
   - filosofia
-draft: true
+  - tecnodiversidade
+  - cibernética
+  - heidegger
+  - cosmotécnica
+  - ecologia
+draft: false
 ---
 
 > [!info] Texto presente no livro [[HUI Yuk. Tecnodiversidade (2020)]]
@@ -21,4 +26,4 @@ Hui argumenta que a cibernética, embora pretenda superar o dualismo do pensamen
 
 ## Qual a argumentação oferecida para sustentar a tese / posição ?
 
-Hui argumenta que tanto a ecologia quanto a máquina foram redefinidas pelo pensamento cibernético, que surge no século XX e substitui a concepção mecanicista pela concepção organicista. Hui dialoga com o pensamento Heideggeriano de "fim da filosofia", onde a cibernética substitui a filosofia como pensamento reflexivo universal, entretanto, ainda que busque superar um dualismo presente no pensamento moderno, apresenta uma universalização que desconsidera totalmente a questão da localidade, e além disso, fazendo com que a trajetória tecnológica leve o ser humano a um processo de domesticação. Para Hui, é necessário superar o pensamento cibernético através de uma relação com a tecnologia que seja capaz de considerar as cosmotécnicas, a tecnologia moderna deve se reposicionar a partir da noção das tecnodiversidades.
+Hui argumenta que tanto a ecologia quanto a máquina foram redefinidas pelo pensamento cibernético, que surge no século XX e substitui a concepção mecanicista pela concepção organicista. Hui dialoga com o pensamento Heideggeriano de "fim da filosofia", onde a cibernética substitui a filosofia como pensamento reflexivo universal, entretanto, ainda que busque superar um dualismo presente no pensamento moderno, apresenta uma universalização que desconsidera totalmente a questão da localidade. Para Hui, é necessário superar o pensamento cibernético através de uma relação com a tecnologia que seja capaz de considerar as cosmotécnicas, tornando possível um reposicionamento da tecnologia moderna a partir da noção de tecnodiversidade.

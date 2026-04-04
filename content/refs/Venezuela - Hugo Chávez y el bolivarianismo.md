@@ -7,7 +7,7 @@ type:
 status:
 tags:
   - venezuela
-draft: false
+draft: true
 ---
 
 Status: Quero Ler

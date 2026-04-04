@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-04T09:37:52-03:00
+modified: 2026-04-04T10:13:32-03:00
 tags:
   - filosofia
   - mitologia
@@ -246,4 +246,4 @@ tomarei esta ação concreta de \[...\]”
 
 **Resposta:**
 
-Sexto Empírico nos trás essa classificação da filosofia em três tipos no que diz respeito ao que 
+Sexto Empírico nos trás essa classificação da filosofia em três tipos, com relação a forma como se entende a verdade, ou seja, sobre a possibilidade de se encontrar o objeto de sua busca. Parece fazer sentido a postura cética, porque penso que a mesma nos leva a conhecer mais, tanto que muitas vezes, é necessário realizar essa suspensão do juízo ao estudar um autor, que por exemplo, descordamos, para nesse sentido, dar abertura a forma como o mesmo pensa para que então possa ser criticado com fundamento, concordo quando o professor diz na aula que tanto a afirmação sobre a possibilidade da verdade quanto a que afirma sobre a impossibilidade da mesma carregam pesos grandes e portanto, me parecem um tanto quanto exageradas. Entretanto, é necessário ao meu ver adotar uma postura e seguir adiante, pois ainda que diversas epistemologias façam sentido, alguma nos conduzirá a uma melhor vida.

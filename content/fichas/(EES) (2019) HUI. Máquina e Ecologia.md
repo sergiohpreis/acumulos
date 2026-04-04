@@ -13,7 +13,7 @@ draft: true
 
 ## Qual o problema central enfrentado pelo texto?
 
-XXXXXX
+Superar o dualismo da crítica que o
 
 ## Qual a tese / posição proposta pelo autor?
 

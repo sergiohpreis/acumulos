@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-06T10:37:23-03:00
+modified: 2026-04-06T18:24:46-03:00
 tags:
   - filosofia
   - mitologia
@@ -257,7 +257,7 @@ Sexto Empírico nos trás essa classificação da filosofia em três tipos, com 
 > “No princípio já existia a palavra.
 E a palavra se dirigia a Deus.
 E a palavra era Deus.
-[...]
+\[...\]
 A palavra se fez homem
 E acampou entre nós.
 Contemplamos sua glória.” - Evangelho de João
@@ -272,4 +272,4 @@ atual?
 
 **Resposta:**
 
-TBD
+O trecho se refere a mencionada transição do Logos impessoal para o Logos pessoal, a palavra de Deus encarnada. Agora, a lei divina está encarnada entre os homens, e portanto, cabe aos homens contemplar tal glória, e confiar na palavra, nessa verdade agora universal, e não mas cosmológica.

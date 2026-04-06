@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-04T10:13:32-03:00
+modified: 2026-04-06T10:37:23-03:00
 tags:
   - filosofia
   - mitologia
@@ -217,7 +217,7 @@ Me parece um tanto determinista essa concepção, como se cada qual, estivesse d
 
 Tanto Marco Aurélio, quanto Epicuro acreditavam que a filosofia deveria ser utilizado com um objetivo de se alcançar a felicidade, portanto, quando Marco Aurélio diz sobre se ter "os teus princípios sempre prontos" ou quando Epicuro diz que não ser a hora certa de filosofar significa dizer "que ainda não chegou ou que já passou a hora de ser feliz." os mesmos estão atribuindo a filosofia como uma espécie de ferramenta para a felicidade, portanto, tais sabedorias, reflexões e etc, devem conduzir a tal
 
-### Aula: Cinismo e Ceticismo (WIP)
+### Aula: Cinismo e Ceticismo
 
 **Citação:**
 
@@ -247,3 +247,29 @@ tomarei esta ação concreta de \[...\]”
 **Resposta:**
 
 Sexto Empírico nos trás essa classificação da filosofia em três tipos, com relação a forma como se entende a verdade, ou seja, sobre a possibilidade de se encontrar o objeto de sua busca. Parece fazer sentido a postura cética, porque penso que a mesma nos leva a conhecer mais, tanto que muitas vezes, é necessário realizar essa suspensão do juízo ao estudar um autor, que por exemplo, descordamos, para nesse sentido, dar abertura a forma como o mesmo pensa para que então possa ser criticado com fundamento, concordo quando o professor diz na aula que tanto a afirmação sobre a possibilidade da verdade quanto a que afirma sobre a impossibilidade da mesma carregam pesos grandes e portanto, me parecem um tanto quanto exageradas. Entretanto, é necessário ao meu ver adotar uma postura e seguir adiante, pois ainda que diversas epistemologias façam sentido, alguma nos conduzirá a uma melhor vida.
+
+## Trilha: Filosofia | Curso: História da Filosofia | Módulo: 02 - Filosofia Medieval
+
+### Aula: Introdução à Filosofia Medieval
+
+**Citação:**
+
+> “No princípio já existia a palavra.
+E a palavra se dirigia a Deus.
+E a palavra era Deus.
+[...]
+A palavra se fez homem
+E acampou entre nós.
+Contemplamos sua glória.” - Evangelho de João
+
+**Guia de reflexão:**
+
+1. O que o Evangelho de João queria dizer, com base na aula?
+2. Como essas ideias podem ser interpretadas e aplicadas no mundo
+atual?
+3. O que essas reflexões significam para você pessoalmente?3.
+4. Complete esta frase: “Com base nesse entendimento, nesta semana, tomarei esta ação concreta de \[...\]”
+
+**Resposta:**
+
+TBD

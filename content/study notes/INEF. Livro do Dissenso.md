@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-06T18:24:46-03:00
+modified: 2026-04-07T18:09:39-03:00
 tags:
   - filosofia
   - mitologia
@@ -273,3 +273,24 @@ atual?
 **Resposta:**
 
 O trecho se refere a mencionada transição do Logos impessoal para o Logos pessoal, a palavra de Deus encarnada. Agora, a lei divina está encarnada entre os homens, e portanto, cabe aos homens contemplar tal glória, e confiar na palavra, nessa verdade agora universal, e não mas cosmológica.
+
+### Aula: Agostinho de Hipona
+
+**Citação:**
+
+> “Tagarelava à boca cheia como um sabichão, mas, se não buscasse em
+Cristo Nosso Salvador o caminho para Vós, não seria perito, mas perituro. Já
+então cheio do meu castigo, começava a querer parecer um sábio; não
+chorava e, por acréscimo, inchava-me com a ciência” - Agostinho de Hipona
+
+**Guia de reflexão:**
+
+1. O que Agostinho queria dizer, com base na aula?
+2. Como essas ideias podem ser interpretadas e aplicadas no mundo
+atual?
+3. O que essas reflexões significam para você pessoalmente?
+4. Complete esta frase: “Com base nesse entendimento, nesta semana, tomarei esta ação concreta de \[...\]”
+
+**Resposta:**
+
+Para Agostinho, e a sua filosofia cristão, a verdade estava em cristo, portanto, não faz sentido afirmar nenhuma sabedoria que não tenha como fonte esse Cristo salvador, que é então, a personificação do logos, que agora, torna-se pessoal, encarnado em cristo, e não mais impessoal. Claramente essas ideias (a de interioridade por exemplo) ressoam muito no comportamento das sociedades influenciadas pelo cristianismo, e como explicado na aula, podemos ver a concepção de interioridade reverberando até hoje.

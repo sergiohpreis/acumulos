@@ -1,6 +1,6 @@
 ---
 created: 2026-04-08T21:11:38-03:00
-modified: 2026-04-08T21:44:10-03:00
+modified: 2026-04-08T22:01:35-03:00
 draft: true
 ---
 
@@ -14,12 +14,11 @@ Logo abaixo, outra pessoa comenta:
 
 Me parece muito evidente de que vivemos em um período da história do Brasil onde a intolerância religiosa atinge níveis nunca antes atingidos, e só cresce a cada dia. Lendo outros comentários, tendo também a concordar com alguns comentários feitos no vídeo que afirmam que a influência do **neopentecostalismo** na política fortaleceu essa escalada de intolerância, pois inúmeros são os casos onde a bancada evangélica tentou traduzir alguns valores cristãos para a forma de leis, desconsiderando os indivíduos que não são adeptos a tal doutrina.
 
-Busquei por algum estudo que pudesse trazer um panorama histórico da intolerância no Brasil e encontrei a primeira edição da pesquisa “Respeite o meu Terreiro”, que teve apoio do Instituto Raça e Igualdade, cujo objetivo era "mapear o racismo religioso em todo o Brasil"
+Busquei por algum estudo que pudesse trazer um panorama histórico da intolerância no Brasil e encontrei o resultado da pesquisa “Respeite o meu Terreiro: Racismo religioso contra os povos tradicionais de religiões de matriz africana no Brasil”, idealizada pela Rede Nacional de Religiões Afro-brasileiras e Saúde (Renafro), juntamente ao terreiro Ilê Omolu Oxum, cujo objetivo é
 
+> compreender o mapeamento da violência baseada no racismo religioso contra comunidades afro-religiosas, abordando especialmente as nuances desses atos, seus agentes, instâncias, padrões e as formas de resistência
 
-O Caderno Informativo apresenta o resultado da pesquisa “Respeite o meu Terreiro:
-Racismo religioso contra os povos tradicionais de religiões de matriz africana no
-Brasil”, idealizada pela Rede Nacional de Religiões Afro-brasileiras e Saúde (Renafro), juntamente ao terreiro Ilê Omolu Oxum 
+O estudo comprova essa percepção, mostrando que vivemos uma escalada de violência "especialmente entre 2017 e 2022" e nos mostrando que 59% dos criminosos (sim, a legislação brasileira equipara a injúria racial ao crime de racismo e protege a liberdade religiosa) identificados pelas lideranças religiosas são de origem evangélica, e os relatos mais comuns consistem em 
 
 ## Outros comentários
 

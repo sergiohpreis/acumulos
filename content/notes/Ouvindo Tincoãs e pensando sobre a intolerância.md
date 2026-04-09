@@ -12,7 +12,14 @@ Logo abaixo, outra pessoa comenta:
 
 > Era muito diferente. Se ouvia muita musica afro-religiosa em rádios. Tinha o Ruy Maurity, a fantastica Clara Nunes, Vinicius e Toquinho. Tudo era muito amalgamado na cultura nacional. Grosso modo, as igrejas neo-pentecostais detonaram tudo isso. Hoje só dá gospel e todo o resto é satânico. E nesse aspecto, a tolerância religiosa, o país só andou prá trás.
 
+Me parece muito evidente de que vivemos em um período da história do Brasil onde a intolerância religiosa atinge níveis nunca antes atingidos, e só cresce a cada dia. Lendo outros comentários, tendo também a concordar com alguns comentários feitos no vídeo que afirmam que a influência do **neopentecostalismo** na política fortaleceu essa escalada de intolerância, pois inúmeros são os casos onde a bancada evangélica tentou traduzir alguns valores cristãos para a forma de leis, desconsiderando os indivíduos que não são adeptos a tal doutrina.
 
+Busquei por algum estudo que pudesse trazer um panorama histórico da intolerância no Brasil e encontrei a primeira edição da pesquisa “Respeite o meu Terreiro”, que teve apoio do Instituto Raça e Igualdade, cujo objetivo era "mapear o racismo religioso em todo o Brasil"
+
+
+O Caderno Informativo apresenta o resultado da pesquisa “Respeite o meu Terreiro:
+Racismo religioso contra os povos tradicionais de religiões de matriz africana no
+Brasil”, idealizada pela Rede Nacional de Religiões Afro-brasileiras e Saúde (Renafro), juntamente ao terreiro Ilê Omolu Oxum 
 
 ## Outros comentários
 

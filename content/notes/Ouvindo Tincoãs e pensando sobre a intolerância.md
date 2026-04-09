@@ -1,6 +1,6 @@
 ---
 created: 2026-04-08T21:11:38-03:00
-modified: 2026-04-08T22:28:50-03:00
+modified: 2026-04-08T22:39:52-03:00
 draft: true
 ---
 
@@ -14,6 +14,20 @@ Logo abaixo, outra pessoa comenta:
 
 Me parece muito evidente de que vivemos em um período da história do Brasil onde a intolerância religiosa atinge níveis nunca antes atingidos, e só cresce a cada dia. Lendo outros comentários, tendo também a concordar com alguns comentários feitos no vídeo que afirmam que a influência do **neopentecostalismo** na política fortaleceu essa escalada de intolerância, pois inúmeros são os casos onde a bancada evangélica tentou traduzir alguns valores cristãos para a forma de leis, desconsiderando os indivíduos que não são adeptos a tal doutrina.
 
+É possível encontrar estudos (como por exemplo, o XXXXX) que comprovam que a influência da bancada evangélica dentro do congresso cresce a cada ano. 
+
+
+
+> Embora a aproximação entre Estado e religião possa, a priori, parecer inofensiva, precisamos lembrar que, historicamente, a religião foi utilizada nos Estados como forma de conseguir a obediência, ora pelo medo da punição divina, ora para atingir a salvação.
+
+É possível encontrar estudos que mostrar que a influência da bancada evangélica dentro do congresso cresce a cada ano, de acordo com o estudo XXXXXXX, "chegam a 80% os filiados aos partidos políticos no Congresso que compõem a bancada evangélica (Correio Brasiliense, 2022)", esse mesmo estudo mostra uma parcela considerável dos evangélicos não acreditavam que todas as religiões tinham o mesmo valor. 
+
+
+chegam a 80% os filiados aos partidos políticos no Congresso que
+compõem a bancada evangélica (Correio Brasiliense, 2022), o que acentua a crise entre as
+diferenças que existem entre as religiões brasileiras e a implementação de propostas que
+favoreçam também as minorias.
+
 ## Respeite o Meu Terreiro
 
 >[!Info] https://www.gov.br/mdh/pt-br/navegue-por-temas/liberdade-religiosa/RelatorioFinalRespeitaMeuTerreiro.pdf
@@ -26,7 +40,12 @@ O estudo comprova essa percepção, mostrando que vivemos uma escalada de violê
 
 ## O ESTADO À SOMBRA DOS ALTARES: LAICIDADE E INFLUÊNCIA RELIGIOSA NA POLÍTICA BRASILEIRA
 
-A constituição de 1988 buscou estabelecer um ideal de laicidade, entretanto o nosso país, embora laíco, vive sob uma constant
+A constituição de 1988 buscou estabelecer um ideal de laicidade, entretanto o nosso país, embora laico, vive sob uma constante influência religiosa dentro do Congresso Nacional.
+
+Os dados apontaram para uma diminuição paulatina da população que segue o
+catolicismo e um aumento progressivo da religião evangélica, de modo que algumas projeções já percebem que, por volta de 2032, a quantidade de católicos e protestantes no Brasil coincidirá para o mesmo patamar.
+
+chegam a 80% os filiados aos partidos políticos no Congresso que compõem a bancada evangélica (Correio Brasiliense, 2022), o que acentua a crise entre as diferenças que existem entre as religiões brasileiras e a implementação de propostas que favoreçam também as minorias.
 
 ## Outros comentários
 

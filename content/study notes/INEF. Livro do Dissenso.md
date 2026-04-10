@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-09T21:57:15-03:00
+modified: 2026-04-10T08:31:43-03:00
 tags:
   - filosofia
   - mitologia
@@ -299,7 +299,7 @@ Para Agostinho, e a sua filosofia cristão, a verdade estava em cristo, portanto
 
 **Citação:**
 
-> “Se neste escrito adianto alguma coisa que não encontre demonstrada por uma autoridade maior [Sagrada Escritura, Padres], desejo que se pense que, embora apresente a conclusão, por causa das razões que me parecem certas, como sendo necessária, esta não deverá ser considerada como absolutamente necessária, mas tão somente como podendo parece-lo em sua relação com os princípios estabelecidos.” - Anselmo de Cantuária
+> “Se neste escrito adianto alguma coisa que não encontre demonstrada por uma autoridade maior \[Sagrada Escritura, Padres\], desejo que se pense que, embora apresente a conclusão, por causa das razões que me parecem certas, como sendo necessária, esta não deverá ser considerada como absolutamente necessária, mas tão somente como podendo parece-lo em sua relação com os princípios estabelecidos.” - Anselmo de Cantuária
 
 **Guia de reflexão:**
 

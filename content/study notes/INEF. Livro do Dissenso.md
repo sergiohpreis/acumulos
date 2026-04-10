@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-07T18:09:39-03:00
+modified: 2026-04-09T21:57:15-03:00
 tags:
   - filosofia
   - mitologia
@@ -294,3 +294,20 @@ atual?
 **Resposta:**
 
 Para Agostinho, e a sua filosofia cristão, a verdade estava em cristo, portanto, não faz sentido afirmar nenhuma sabedoria que não tenha como fonte esse Cristo salvador, que é então, a personificação do logos, que agora, torna-se pessoal, encarnado em cristo, e não mais impessoal. Claramente essas ideias (a de interioridade por exemplo) ressoam muito no comportamento das sociedades influenciadas pelo cristianismo, e como explicado na aula, podemos ver a concepção de interioridade reverberando até hoje.
+
+### Aula: Boécio e Anselmo de Cantuária
+
+**Citação:**
+
+> “Se neste escrito adianto alguma coisa que não encontre demonstrada por uma autoridade maior [Sagrada Escritura, Padres], desejo que se pense que, embora apresente a conclusão, por causa das razões que me parecem certas, como sendo necessária, esta não deverá ser considerada como absolutamente necessária, mas tão somente como podendo parece-lo em sua relação com os princípios estabelecidos.” - Anselmo de Cantuária
+
+**Guia de reflexão:**
+
+1. O que Anselmo queria dizer, com base na aula?
+2. Como essas ideias podem ser interpretadas e aplicadas no mundo atual?
+3. O que essas reflexões significam para você pessoalmente?
+4. Complete esta frase: “Com base nesse entendimento, nesta semana, tomarei esta ação concreta de \[...\]”
+
+**Resposta:**
+
+TBD

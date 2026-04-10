@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-10T08:31:43-03:00
+modified: 2026-04-10T08:44:58-03:00
 tags:
   - filosofia
   - mitologia
@@ -310,4 +310,4 @@ Para Agostinho, e a sua filosofia cristão, a verdade estava em cristo, portanto
 
 **Resposta:**
 
-TBD
+Esse trecho se refere ao conceito de razão necessária de Anselmo, onde admiti-se que certos mistérios são indemonstráveis. Esses princípios podem ser comparados aos axiomas matemáticos, buscando-se não demonstrar certas afirmações para se extrair conclusões que podem ser deduzidas desses princípios. Dessa forma, assim como Euclides assumiu que por dois pontos passam uma reta, Anselmo assumiu que Deus existe, e a partir dessa afirmação, extraiu um argumento racional sobre essa existência (Ratio Anselmi).

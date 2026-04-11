@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-10T08:44:58-03:00
+modified: 2026-04-11T19:59:16-03:00
 tags:
   - filosofia
   - mitologia
@@ -12,6 +12,9 @@ tags:
   - aristoteles
   - estoicismo
   - epicurismo
+  - medieval
+  - fé
+  - idade-média
 draft: false
 ---
 
@@ -311,3 +314,20 @@ Para Agostinho, e a sua filosofia cristão, a verdade estava em cristo, portanto
 **Resposta:**
 
 Esse trecho se refere ao conceito de razão necessária de Anselmo, onde admiti-se que certos mistérios são indemonstráveis. Esses princípios podem ser comparados aos axiomas matemáticos, buscando-se não demonstrar certas afirmações para se extrair conclusões que podem ser deduzidas desses princípios. Dessa forma, assim como Euclides assumiu que por dois pontos passam uma reta, Anselmo assumiu que Deus existe, e a partir dessa afirmação, extraiu um argumento racional sobre essa existência (Ratio Anselmi).
+
+### Aula: Tomás de Aquino
+
+**Citação:**
+
+> “Um mestre não pode comunicar ao discípulo senão o saber que ele próprio já possui. Ora, o conhecimento natural dos princípios deriva de Deus, Causa da Natureza. Logo, tais princípios estão contidos na sua sabedoria. Donde se conclui que tudo o que contraria tais princípios contradiz a divina sabedoria, e portanto não pode proceder de Deus. Daí a impossibilidade de qualquer espécie de contradição entre a razão e a revelação, ambas oriundas de um e o mesmo deus.” - Tomás de Aquino
+
+**Guia de reflexão:**
+
+1. O que Tomás de Aquino queria dizer, com base na aula?
+2. Como essas ideias podem ser interpretadas e aplicadas no mundo atual?
+3. O que essas reflexões significam para você pessoalmente?
+4. Complete esta frase: “Com base nesse entendimento, nesta semana, tomarei esta ação concreta de \[...\]”
+
+**Resposta:**
+
+TBD

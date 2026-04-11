@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-11T19:59:16-03:00
+modified: 2026-04-11T20:16:30-03:00
 tags:
   - filosofia
   - mitologia
@@ -330,4 +330,4 @@ Esse trecho se refere ao conceito de razão necessária de Anselmo, onde admiti-
 
 **Resposta:**
 
-TBD
+Com Tomás de Aquino, se inaugura uma junção entra a fé e a razão, nesse sentido, não existe, para Aquino, nenhuma *"espécie de contradição entre a razão e a revelação"*, pois os princípios de deus estão contidos na sabedoria, pois Deus é a causa da natureza, todo o que contrária tais princípios, não pode proceder de Deus, e esse não é o caso da razão, que assim como a revelação são ambas *"oriundas de um e o mesmo deus"*.

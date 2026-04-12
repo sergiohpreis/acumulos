@@ -1,18 +1,18 @@
 ---
-created: 2026-04-04T12:10:38-03:00
-modified: 2026-04-04T12:11:40-03:00
 title: HUI Yuk. Tecnodiversidade (2020)
 authors:
   - Yuk Hui
 status:
-  - READING
-rating: 5
+  - READ
+rating: 4
 published_year: 2020
 categories:
   - Filosofia
   - Cosmotécnica
   - Técnica
   - Tecnologia
+  - China
+  - Descolonização
 pages: 224
 isbn: 9786586497229
 publisher:
@@ -23,7 +23,7 @@ shelf:
   - Tecnologia
 format:
   - PHYSICAL
-finish_date: 2026-02-02
+finish_date: 2026-04-12
 edition_year: 2020
 tags:
   - livros
@@ -31,22 +31,36 @@ tags:
   - cosmotécnica
   - técnica
   - tecnologia
+  - china
+  - descolonização
 draft: false
+created: 2026-04-12T10:28:19-03:00
+modified: 2026-04-12T10:29:21-03:00
 ---
 
 ## Resumo
 
-- Sessões: 45
-- Páginas lidas: 397
-- Tempo total: 26h 52m
-- Avaliação: ⭐⭐⭐⭐⭐ (5/5)
+- Sessões: 55
+- Páginas lidas: 506
+- Tempo total: 31h 41m
+- Avaliação: ⭐⭐⭐⭐ (4/5)
 - Autores: Yuk Hui
-- Status: Lendo
+- Status: Lido
 - Total de páginas: 224
-- Finalizado em: 02/02/2026
+- Finalizado em: 12/04/2026
 
 ## Sessões
 
+- **2026-04-12 10:04 - 10:26** - Páginas 207-224 (18 páginas) - Leitura + Anotações: "Cem Anos de Crise". Finalizando o livro - 0h22m
+- **2026-04-12 09:02 - 09:29** - Páginas 200-206 (7 páginas) - Leitura + Anotações: "Cem Anos de Crise" - 0h27m
+- **2026-04-11 20:18 - 20:45** - Páginas 189-199 (11 páginas) - Leitura + Anotações: "Cem Anos de Crise" - 0h27m
+- **2026-04-10 17:42 - 18:07** - Páginas 178-188 (11 páginas) - Finalizando Leitura + Anotações: "Sobre os limites da Inteligência Artificial" - 0h25m
+- **2026-04-10 13:30 - 14:00** - Páginas 171-178 (8 páginas) - Leitura + Anotações: "Sobre os limites da Inteligência Artificial" - 0h30m
+- **2026-04-09 16:02 - 16:28** - Páginas 163-171 (9 páginas) - Leitura + Anotações: "Sobre os limites da Inteligência Artificial" - 0h26m
+- **2026-04-08 16:00 - 16:28** - Páginas 157-163 (7 páginas) - Leitura + Anotações: "Sobre os limites da Inteligência Artificial" - 0h28m
+- **2026-04-06 19:51 - 20:23** - Páginas 147-156 (10 páginas) - Finalizando: Leitura + Anotações: "Variedades da experiência da Arte" - 0h31m
+- **2026-04-06 13:08 - 13:47** - Páginas 129-147 (19 páginas) - Leitura + Anotações: "Variedades da experiência da Arte" (Recapitulando algumas páginas também) - 0h39m
+- **2026-04-04 14:20 - 14:52** - Páginas 133-141 (9 páginas) - Leitura + Anotações: "Variedades da experiência da Arte" - 0h31m
 - **2026-04-04 11:38 - 12:10** - Páginas 127-133 (7 páginas) - Leitura + Anotações: "Variedades da experiência da Arte" - 0h32m
 - **2026-04-03 17:26 - 18:20** - Páginas 117-126 (10 páginas) - Revisando o fichamento (EEE): "Máquina e Ecologia" - 0h54m
 - **2026-04-03 16:07 - 16:49** - Páginas 108-117 (10 páginas) - Revisando o fichamento (EEE): "Máquina e Ecologia" - 0h42m

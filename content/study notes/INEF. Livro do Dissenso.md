@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-11T20:16:30-03:00
+modified: 2026-04-13T19:29:54-03:00
 tags:
   - filosofia
   - mitologia
@@ -331,3 +331,22 @@ Esse trecho se refere ao conceito de razão necessária de Anselmo, onde admiti-
 **Resposta:**
 
 Com Tomás de Aquino, se inaugura uma junção entra a fé e a razão, nesse sentido, não existe, para Aquino, nenhuma *"espécie de contradição entre a razão e a revelação"*, pois os princípios de deus estão contidos na sabedoria, pois Deus é a causa da natureza, todo o que contrária tais princípios, não pode proceder de Deus, e esse não é o caso da razão, que assim como a revelação são ambas *"oriundas de um e o mesmo deus"*.
+
+### Aula: Guilherme de Ockham
+
+**Citação:**
+
+> “Os artigos de fé não são princípios de demonstração nem conclusões, e nem mesmo prováveis, já que parecem falsos para todos, ou para a maioria ou para os sábios, entendendo por sábios os que se entregam à razão natural, já que só de tal modo se entende o sábio na ciência e na filosofia.” - Guilherme de Ockham
+
+**Guia de reflexão:**
+
+1. O que Guilherme de Ockham queria dizer, com base na aéula?1.
+2. Como essas ideias podem ser interpretadas e aplicadas no mundo
+atual?
+3. O que essas reflexões significam para você pessoalmente?3.
+4. Complete esta frase: “Com base nesse entendimento, nesta semana,
+tomarei esta ação concreta de \[...\]”
+
+**Resposta:**
+
+Ockham não acreditava que os princípios da fé pudessem ser demonstrados ou provados e isso tem relação com a sua defesa da onipotência de Deus, pois se tal racionalidade fosse possível, isso colocaria uma certa previsibilidade nas vontades de Deus, fazendo assim com que o mesmo já não fosse necessariamente onipotente. Ockham acredita que a razão deve ser usada na ciência e filosofia (que eram sinônimos na época), entretanto, a fé não pode ser provada e nem demonstrada.

@@ -1,6 +1,6 @@
 ---
 created: 2026-03-05T07:48:23-03:00
-modified: 2026-04-13T19:29:54-03:00
+modified: 2026-04-14T19:21:34-03:00
 tags:
   - filosofia
   - mitologia
@@ -350,3 +350,9 @@ tomarei esta ação concreta de \[...\]”
 **Resposta:**
 
 Ockham não acreditava que os princípios da fé pudessem ser demonstrados ou provados e isso tem relação com a sua defesa da onipotência de Deus, pois se tal racionalidade fosse possível, isso colocaria uma certa previsibilidade nas vontades de Deus, fazendo assim com que o mesmo já não fosse necessariamente onipotente. Ockham acredita que a razão deve ser usada na ciência e filosofia (que eram sinônimos na época), entretanto, a fé não pode ser provada e nem demonstrada.
+
+## Trilha: Filosofia | Curso: História da Filosofia | Módulo: 03 - Filosofia Moderna
+
+### Aula: Montaigne e Descarte
+
+TBD

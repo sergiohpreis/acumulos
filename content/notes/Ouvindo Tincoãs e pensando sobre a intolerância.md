@@ -1,6 +1,6 @@
 ---
 created: 2026-04-08T21:11:38-03:00
-modified: 2026-04-09T00:49:46-03:00
+modified: 2026-04-15T11:56:34-03:00
 draft: true
 ---
 
@@ -14,10 +14,11 @@ Logo abaixo, outra pessoa comenta:
 
 Me parece muito evidente de que vivemos em um período da história do Brasil onde a intolerância religiosa atinge níveis nunca antes atingidos, e só cresce a cada dia. Lendo outros comentários, tendo também a concordar com alguns comentários feitos no vídeo que afirmam que a influência do **neopentecostalismo** na política fortaleceu essa escalada de intolerância, pois inúmeros são os casos onde a bancada evangélica tentou traduzir alguns valores cristãos para a forma de leis, desconsiderando os indivíduos que não são adeptos a tal doutrina.
 
-É possível encontrar estudos (como por exemplo, o XXXXX) que comprovam que a influência da bancada evangélica dentro do congresso cresce a cada ano e também dados que comprovam que o Brasil vive o auge dessa intolerância religiosa (como por exemplo o recente caderno "Respeite o meu terreiro". Não se trata de dizer que os indivíduos que seguem as religiões cristãs sejam necessariamente pessoas intolerantes, mas é preciso reconhecer a influência que o setor evangélico tem exercido na política, e apontar as intenções criminosas dessas lideranças religiosas, que buscam traduzir seus valores religiosos em forma de lei, desconsiderando o princípio do Estado laíco e buscando condenar
+É possível encontrar estudos (como por exemplo, o XXXXX) que comprovam que a influência da bancada evangélica dentro do congresso cresce a cada ano e também dados que comprovam que o Brasil vive o auge dessa intolerância religiosa (como por exemplo o recente caderno "Respeite o meu terreiro"). Não se trata de dizer que os indivíduos que seguem as religiões cristãs sejam necessariamente pessoas intolerantes, mas é preciso reconhecer a influência que o setor evangélico tem exercido na política, e apontar as intenções criminosas dessas lideranças religiosas, que buscam traduzir seus valores religiosos em forma de lei, desconsiderando o princípio do Estado laíco.
 
-
-> Embora a aproximação entre Estado e religião possa, a priori, parecer inofensiva, precisamos lembrar que, historicamente, a religião foi utilizada nos Estados como forma de conseguir a obediência, ora pelo medo da punição divina, ora para atingir a salvação.
+> Embora a aproximação entre Estado e religião possa, a priori, parecer inofensiva, precisamos lembrar que, historicamente, a religião foi utilizada nos Estados como forma de conseguir a obediência, ora pelo medo da punição divina, ora para atingir a salvação. 
+> - O ESTADO À SOMBRA DOS ALTARES: LAICIDADE E INFLUÊNCIA RELIGIOSA
+NA POLÍTICA BRASILEIRA (Orlando Rocha Filho)
 
 É possível encontrar estudos que mostrar que a influência da bancada evangélica dentro do congresso cresce a cada ano, de acordo com o estudo XXXXXXX, "chegam a 80% os filiados aos partidos políticos no Congresso que compõem a bancada evangélica (Correio Brasiliense, 2022)", esse mesmo estudo mostra uma parcela considerável dos evangélicos não acreditavam que todas as religiões tinham o mesmo valor. 
 

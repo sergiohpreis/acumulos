@@ -1,6 +1,6 @@
 ---
 created: 2026-04-02T19:26:52-03:00
-modified: 2026-04-15T22:33:47-03:00
+modified: 2026-04-15T22:40:48-03:00
 tags:
   - liminal
   - dream
@@ -21,9 +21,9 @@ Há algum tempo eu conheci o conceito de espaços liminares (ou “liminal space
 ![[Pasted image 20260402193321.png]]
 ![[Pasted image 20260402193324.png]]
 
-Algumas obras de ficção recentes exploraram essa idéia, como por exemplo, os filmes "Backrooms" e "Vivarium", e até mesmo a série "Ruptura". Todas essas produções se passam nesses locais, vazios e estranhamente familiares, desconfortáveis e ao mesmo tempo convidativos, que te chamam a ficar ao mesmo tempo em que te alertam sobre a necessidade de sair. 
+Algumas obras de ficção recentes exploraram essa estética, como por exemplo, o recente filme “Backrooms” parece ter sido totalmente inspirado nessa ideia (não só na estética), o filme “Vivarium” que reproduz essa atmosfera do vazio e até mesmo a série “Ruptura”. Todas essas produções se passam nesses locais, vazios e estranhamente familiares, desconfortáveis e ao mesmo tempo convidativos, que te chamam a ficar ao mesmo tempo em que te alertam sobre a necessidade de sair.
 
-Porque esses espaços são de alguma forma atrativos? Será é algo geracional?
+Eu me pergunto, o que há de tão atrativo nessa imagens? Será algo relacionado a essa geração ? Porque eu sei que não é algo particular, essas comunidades estão lotadas, essa estética atrai, mas o que atrai?
 
 Eu sinto que em meus sonhos, já passei por lugares assim, e sendo sincero, não consigo distinguir se os sonhos aconteceram primeiro, ou então a partir do momento que me dei conta da existência de tal estética, comecei a fazer a associação, mas eu sei que não estou só. 
 

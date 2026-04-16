@@ -1,6 +1,6 @@
 ---
 created: 2026-03-24T18:55:08-03:00
-modified: 2026-04-16T17:19:46-03:00
+modified: 2026-04-16T17:25:18-03:00
 tags:
   - filosofia
   - empirismo
@@ -16,27 +16,26 @@ Tradução: Pedro Paulo Garrido Pimenta
 
 ---
 
-- Livro I
+- ~~Livro I~~
 	- ~~Capítulo I: Introdução~~
 	- ~~Capítulo II: Não há na mente princípios especulativos inatos~~
 	- ~~Capítulo III: Não há princípios práticos inatos~~
 	- ~~Capítulo IV: Outras considerações acerca de princípios inatos, especulativos e práticos~~
-
-- Livro 2
-	- Capítulo I: Das ideias em geral, e de sua origem
-	- Capítulo II: Das ideias simples
-	- Capítulo III: Das ideias de um só sentido
-	- Capítulo IV: Da solidez
-	- Capítulo V: Das ideias simples de mais de um sentido
-	- Capítulo VI: Das ideias simples da reflexão
-	- Capítulo VII: Das ideias simples tanto da sensação como da reflexão
-	- Capítulo VIII: Algumas considerações suplementares sobre nossas ideias simples
-	- Capítulo IX: Da percepção
-	- Capítulo X: Da retenção
-	- Capítulo XI: Do discernir, e de outras operações da mente
-	- Capítulo XII: Das ideias complexas
-	- Capítulo XIII: Dos modos simples e, primeiro, dos modos simples de espaço
-	- Capítulo XIV: Da duração e das simples ideias simples (leitura incerta)
+- Livro II
+	- ~~Capítulo I: Das ideias em geral, e de sua origem~~
+	- ~~Capítulo II: Das ideias simples~~
+	- ~~Capítulo III: Das ideias de um só sentido~~
+	- ~~Capítulo IV: Da solidez~~
+	- ~~Capítulo V: Das ideias simples de mais de um sentido~~
+	- ~~Capítulo VI: Das ideias simples da reflexão~~
+	- ~~Capítulo VII: Das ideias simples tanto da sensação como da reflexão~~
+	- ~~Capítulo VIII: Algumas considerações suplementares sobre nossas ideias simples~~
+	- ~~Capítulo IX: Da percepção~~
+	- ~~Capítulo X: Da retenção~~
+	- ~~Capítulo XI: Do discernir, e de outras operações da mente~~
+	- ~~Capítulo XII: Das ideias complexas~~
+	- ~~Capítulo XIII: Dos modos simples e, primeiro, dos modos simples de espaço~~
+	- ~~Capítulo XIV: Da duração e de seus modos simples~~
 	- Capítulo XV: Da duração e da expansão, consideradas juntas
 	- Capítulo XVI: Do número
 	- Capítulo XVII: Da infinitude

@@ -1,6 +1,6 @@
 ---
 created: 2026-04-19T22:27:24-03:00
-modified: 2026-04-19T22:53:16-03:00
+modified: 2026-04-20T19:55:17-03:00
 draft: true
 ---
 
@@ -10,10 +10,8 @@ Leia a proposta abaixo e desenvolva um parágrafo argumentativo com tese clara e
 
 Tema: O uso de redes sociais contribui para o desenvolvimento do pensamento crítico entre jovens universitários.
 
-1. Parágrafo argumentativo: Defenda sua posição sobre o tema, utilizando*
-*conectores argumentativos e progressão lógica.
-2. Refutação: Apresente um contra-argumento comum sobre o tema e refute-o*
-*com argumentos mais fortes ou mostrando suas limitações.
+1. Parágrafo argumentativo: Defenda sua posição sobre o tema, utilizando conectores argumentativos e progressão lógica.
+2. Refutação: Apresente um contra-argumento comum sobre o tema e refute-o com argumentos mais fortes ou mostrando suas limitações.
 
 ---
 

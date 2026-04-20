@@ -1,6 +1,7 @@
 ---
 created: 2026-04-19T22:27:24-03:00
 modified: 2026-04-19T22:53:16-03:00
+draft: true
 ---
 
 >[!note] Nota feita com base em um estudo proposto na aula de "Produção Textual" do Bacharelado de Filosofia

@@ -1,6 +1,6 @@
 ---
-date created: Thursday, February 12th 2026, 1:23:45 pm
-date modified: Thursday, March 5th 2026, 11:27:59 pm
+created: 2026-02-12T13:23:45-03:00
+modified: 2026-04-24T23:55:58-03:00
 type:
   - article
 author:

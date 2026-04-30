@@ -42,7 +42,7 @@ Tradução: Pedro Paulo Garrido Pimenta
 	- ~~Capítulo XVIII: De outros modos simples~~
 	- ~~Capítulo XIX: Dos modos do pensamento~~
 	- ~~Capítulo XX: Dos modos de prazer e de dor~~
-	- Capítulo XXI: Do poder
+	- ~~Capítulo XXI: Do poder~~
 	- Capítulo XXII: Dos modos mistos
 	- Capítulo XXIII: De nossas ideias complexas de substâncias
 	- Capítulo XXIV: Das ideias coletivas de substâncias

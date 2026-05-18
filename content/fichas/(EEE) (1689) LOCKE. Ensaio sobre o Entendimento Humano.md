@@ -1,6 +1,6 @@
 ---
 created: 2026-03-24T18:55:08-03:00
-modified: 2026-04-24T23:48:09-03:00
+modified: 2026-05-18T03:29:44-03:00
 tags:
   - filosofia
   - empirismo
@@ -43,15 +43,15 @@ Tradução: Pedro Paulo Garrido Pimenta
 	- ~~Capítulo XIX: Dos modos do pensamento~~
 	- ~~Capítulo XX: Dos modos de prazer e de dor~~
 	- ~~Capítulo XXI: Do poder~~
-	- Capítulo XXII: Dos modos mistos
-	- Capítulo XXIII: De nossas ideias complexas de substâncias
-	- Capítulo XXIV: Das ideias coletivas de substâncias
-	- Capítulo XXV: Da relação
-	- Capítulo XXVI: De causa e efeito e de outras relações
-	- Capítulo XXVII: Da identidade e diversidade
-	- Capítulo XXVIII: De outras relações
-	- Capítulo XXIX: Das ideias claras e obscuras, distintas e confusas
-	- Capítulo XXX: Das ideias fantásticas e das reais
-	- Capítulo XXXI: Das ideias adequadas e inadequadas
-	- Capítulo XXXII: Das ideias verdadeiras e falsas
+	- ~~Capítulo XXII: Dos modos mistos~~
+	- ~~Capítulo XXIII: De nossas ideias complexas de substâncias~~
+	- ~~Capítulo XXIV: Das ideias coletivas de substâncias~~
+	- ~~Capítulo XXV: Da relação~~
+	- ~~Capítulo XXVI: De causa e efeito e de outras relações~~
+	- ~~Capítulo XXVII: Da identidade e diversidade~~
+	- ~~Capítulo XXVIII: De outras relações~~
+	- ~~Capítulo XXIX: Das ideias claras e obscuras, distintas e confusas~~
+	- ~~Capítulo XXX: Das ideias fantásticas e das reais~~
+	- ~~Capítulo XXXI: Das ideias adequadas e inadequadas~~
+	- ~~Capítulo XXXII: Das ideias verdadeiras e falsas~~
 	- Capítulo XXXIII: Da associação das ideias

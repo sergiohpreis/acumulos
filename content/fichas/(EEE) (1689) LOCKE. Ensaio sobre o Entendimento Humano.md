@@ -1,6 +1,6 @@
 ---
 created: 2026-03-24T18:55:08-03:00
-modified: 2026-05-18T03:29:44-03:00
+modified: 2026-05-19T16:29:51-03:00
 tags:
   - filosofia
   - empirismo
@@ -16,12 +16,14 @@ Tradução: Pedro Paulo Garrido Pimenta
 
 ---
 
+# Livros
+
 - ~~Livro I~~
 	- ~~Capítulo I: Introdução~~
 	- ~~Capítulo II: Não há na mente princípios especulativos inatos~~
 	- ~~Capítulo III: Não há princípios práticos inatos~~
 	- ~~Capítulo IV: Outras considerações acerca de princípios inatos, especulativos e práticos~~
-- Livro II
+- ~~Livro II~~
 	- ~~Capítulo I: Das ideias em geral, e de sua origem~~
 	- ~~Capítulo II: Das ideias simples~~
 	- ~~Capítulo III: Das ideias de um só sentido~~
@@ -54,4 +56,9 @@ Tradução: Pedro Paulo Garrido Pimenta
 	- ~~Capítulo XXX: Das ideias fantásticas e das reais~~
 	- ~~Capítulo XXXI: Das ideias adequadas e inadequadas~~
 	- ~~Capítulo XXXII: Das ideias verdadeiras e falsas~~
-	- Capítulo XXXIII: Da associação das ideias
+	- ~~Capítulo XXXIII: Da associação das ideias~~
+
+## Leituras Complementares
+
+- [[ANTISERI Dario. Filosofia - Idade Moderna - Vol II (2018)]]
+

@@ -3,7 +3,8 @@ title: NIETZSCHE Friedrich. Além do Bem e do Mal (1886)
 authors:
   - Friedrich Nietzsche
 status:
-  - READING
+  - READ
+rating: 3
 published_year: 1886
 categories:
   - Filosofia
@@ -20,6 +21,7 @@ shelf:
 format:
   - PHYSICAL
 cover_url: https://www.edipro.com.br/wp-content/uploads/2020/07/alem-do-bem-e-do-mal.jpg
+finish_date: 2026-06-05
 edition_year: 2019
 sale_condition: NEW
 tags:
@@ -28,20 +30,25 @@ tags:
   - filosofia-alemã
   - nietzsche
 draft: false
-date: 2026-06-04T10:17:31.378045934-03:00
+date: 2026-06-05T23:38:39.731244804-03:00
 ---
 
 ## Resumo
 
-- Sessões: 20
-- Páginas lidas: 185
-- Tempo total: 4h 20m
+- Sessões: 23
+- Páginas lidas: 243
+- Tempo total: 4h 59m
+- Avaliação: ⭐⭐⭐ (3/5)
 - Autores: Friedrich Nietzsche
-- Status: Lendo
+- Status: Lido
 - Total de páginas: 240
+- Finalizado em: 05/06/2026
 
 ## Sessões
 
+- **2026-06-05 21:29 - 21:46** - Páginas 207-240 (34 páginas) - Capítulo IX. O que é nobre? - 0h16m
+- **2026-06-05 20:28 - 20:44** - Páginas 187-206 (20 páginas) - Capítulo VIII. Povos e Patrias - 0h15m
+- **2026-06-05 19:59 - 20:04** - Páginas 183-186 (4 páginas) - Capítulo VIII. Povos e Patrias - 0h05m
 - **2026-06-04 09:52 - 10:14** - Páginas 167-182 (16 páginas) - Capítulo VII. Nossas Virtudes - 0h22m
 - **2026-06-04 04:44 - 04:58** - Páginas 159-166 (8 páginas) - Capítulo VII. Nossas Virtudes - 0h14m
 - **2026-06-02 13:39 - 14:05** - Páginas 139-158 (20 páginas) - Capítulo VI. Nós, Eruditos - 0h26m
@@ -64,6 +71,9 @@ date: 2026-06-04T10:17:31.378045934-03:00
 - **2026-05-27 13:56 - 14:16** - Páginas 1-16 (16 páginas) - Capa, Contracapa, Orelhas; Introdução: Prelúdio a uma filosofia do futuro, I. A obra no itinerário do filósofo - 0h20m
 
 ## Notas
+
+### 2026-06-05 21:48
+No final, dei uma acelerada. Vou ler o livro da MARTON Scarlett para entender melhor. Quero ver também o debate com o Linck sobre a tier list (sei que ele estudou Nietzsche)
 
 ### 2026-06-04 10:17
 Coloquei um post-it em uma página onde Nietzsche fala sobre a violência. Considerando que já li que Georges Bataille tem base nele, irei depois retornar a esse texto quando ler "O Erotismo" e escrever o texto sobre a violência

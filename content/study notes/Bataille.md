@@ -56,5 +56,7 @@ Ineficiência da comunicação
 
 Compartilhamos a vertigem do abismo (morte);
 
+A morte tem o sentido da continuidade do ser;
+
 
 

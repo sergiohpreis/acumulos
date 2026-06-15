@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T08:33:11-03:00
+modified: 2026-06-15T08:40:24-03:00
 draft: false
 tags:
   - erotismo
@@ -54,6 +54,7 @@ Pathos e Logos; Ver o ser humano sem considerar o pathos, paixão, é um erro;
 Seres descontínuos colocados em jogo pela reprodução; Entre todos nós há um abismo de descontinuidade; 
 Ineficiência da comunicação
 
+Compartilhamos a vertigem do abismo (morte);
 
 
 

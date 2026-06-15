@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-14T22:35:57-03:00
+modified: 2026-06-14T22:49:19-03:00
 draft: false
 tags:
   - erotismo
@@ -17,10 +17,20 @@ tags:
 
 - Introdução
 
-### Apresentação
+### Sobre o Bataille
 
 Nietzscheano
 Racha com Breton, Manifesto Surrealista, considerava eles meio aburguesados e idealista
 Leitor de Nietzsche, Marx, Durkheim, Mauss, Freud
 Noção de Baixo Materialismo
 Noção de dispêndio, desperdício... (1949), economia
+Era um cara de esquerda, cujo os comunistas viam como estranho, nietzscheano de esquerda, era estranho aos marxistas da época
+
+### Leitura
+
+> "O erotismo ... é a aprovação da vida até na morte"
+
+A relação com a morte em vida, morrer e continuar vivo
+
+Hoje em dia já se observa que o sexo sem intenção de reprodução não é exclusivo ao ser humano. Seria possível falar de um erotismo animal
+*Indicação: Emanuelle Coccia, A vida sensível*

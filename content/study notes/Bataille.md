@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-14T23:31:01-03:00
+modified: 2026-06-15T08:33:11-03:00
 draft: false
 tags:
   - erotismo
@@ -51,6 +51,8 @@ Oposto a uma razão instrumental, ao lógico e ao racional; as vezes o mais lóg
 
 Pathos e Logos; Ver o ser humano sem considerar o pathos, paixão, é um erro;
 
+Seres descontínuos colocados em jogo pela reprodução; Entre todos nós há um abismo de descontinuidade; 
+Ineficiência da comunicação
 
 
 

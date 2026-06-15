@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-14T22:59:26-03:00
+modified: 2026-06-14T23:07:18-03:00
 draft: false
 tags:
   - erotismo
@@ -41,5 +41,7 @@ Marquês de Sade: libertinagem e morte; Sistematizar Sade
 Noção de Pulsão de Morte se encontra no texto
 
 **Exuberância**
-O que define o ser humano é a inutilidade, primeiro o útil depois inútil
+O que define o ser humano é a inutilidade, primeiro o útil depois inútil. Nossas necessidades são básicas, embora sejamos uma grande potencialidade; Fome é diferente de apetite, não queremos comer qualquer coisa; Mesmo o que é básico, resolvemos trocar, isso é uma postura humana, independente do regime (divergência com o comunismo por exemplo), não é restrito a classes sociais, ricos e pobres são assim; Spinoza e Nietzsche, Desejo é excesso, "sempre quero mais".
+
+Oposto a uma razão instrumental, ao lógico e ao racional; as vezes o mais lógico não é feito por exemplo em nome do pudor; a distinção do humano se
 

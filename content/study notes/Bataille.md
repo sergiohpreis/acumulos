@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-14T22:49:19-03:00
+modified: 2026-06-14T22:59:26-03:00
 draft: false
 tags:
   - erotismo
@@ -30,7 +30,16 @@ Era um cara de esquerda, cujo os comunistas viam como estranho, nietzscheano de 
 
 > "O erotismo ... é a aprovação da vida até na morte"
 
-A relação com a morte em vida, morrer e continuar vivo
+A relação com a morte em vida, morrer e continuar vivo; La petit mort (orgasmo, pequena morte)
 
-Hoje em dia já se observa que o sexo sem intenção de reprodução não é exclusivo ao ser humano. Seria possível falar de um erotismo animal
+Hoje em dia já se observa que o sexo sem intenção de reprodução não é exclusivo ao ser humano; Seria possível falar de um erotismo animal
 *Indicação: Emanuelle Coccia, A vida sensível*
+
+Marquês de Sade: libertinagem e morte; Sistematizar Sade
+*Indicação de filme: Contos proibidos do Marquês de Sade* - O gozo na execução pública, Sade olhando e escrevendo
+
+Noção de Pulsão de Morte se encontra no texto
+
+**Exuberância**
+O que define o ser humano é a inutilidade, primeiro o útil depois inútil
+

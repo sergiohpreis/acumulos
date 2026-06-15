@@ -1,21 +1,26 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-14T22:29:05-03:00
+modified: 2026-06-14T22:35:57-03:00
 draft: false
 tags:
   - erotismo
   - bataille
 ---
 
-## 2026-06-14
+## [[BATAILLE Georges. O erotismo (1957)]]
 
-Terminei de ler [[BATAILLE Georges. O erotismo (1957)]] e pretendo me aprofundar mais em sua obra.
+2026-06-14: Terminei de ler e pretendo me aprofundar mais em sua obra.
 
 ## LIVE CABEÇUDA: lendo e explicando O Erotismo de Georges Bataille (por QnS)
 
-parte 1 | parte 2 | parte 3
+[parte 1](https://www.youtube.com/watch?v=7cd90b7ELCE&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=15) | parte 2 | parte 3
 
 - Introdução
 
+### Apresentação
+
 Nietzscheano
-Racha com Breton, Manifesto Surrealista
+Racha com Breton, Manifesto Surrealista, considerava eles meio aburguesados e idealista
+Leitor de Nietzsche, Marx, Durkheim, Mauss, Freud
+Noção de Baixo Materialismo
+Noção de dispêndio, desperdício... (1949), economia

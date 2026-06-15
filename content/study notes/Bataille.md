@@ -49,3 +49,9 @@ A atividade sexual como exuberância
 
 Oposto a uma razão instrumental, ao lógico e ao racional; as vezes o mais lógico não é feito por exemplo em nome do pudor; a distinção do humano;
 
+Pathos e Logos; Ver o ser humano sem considerar o pathos, paixão, é um erro;
+
+
+
+
+

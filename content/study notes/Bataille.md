@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T09:16:01-03:00
+modified: 2026-06-15T13:08:58-03:00
 draft: false
 tags:
   - erotismo
@@ -14,7 +14,6 @@ tags:
 ## LIVE CABEÇUDA: lendo e explicando O Erotismo de Georges Bataille (por QnS)
 
 1. [parte 1](https://www.youtube.com/watch?v=7cd90b7ELCE&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=15)
-	1. parei em 46:56 
 2. parte 2
 3. parte 3
 

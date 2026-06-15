@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T08:40:24-03:00
+modified: 2026-06-15T09:16:01-03:00
 draft: false
 tags:
   - erotismo
@@ -57,6 +57,8 @@ Ineficiência da comunicação
 Compartilhamos a vertigem do abismo (morte);
 
 A morte tem o sentido da continuidade do ser;
+
+Pulsão de Morte, Freud; Para Bataille, o Eros é o thanatos e o thanatos é o Eros (corrigindo Freud);
 
 
 

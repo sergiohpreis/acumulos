@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T23:14:23-03:00
+modified: 2026-06-15T23:53:28-03:00
 draft: false
 tags:
   - erotismo
@@ -95,3 +95,9 @@ Tem que ter entrega para ter experiência erótica
 Ser dominado é ser livre da sua própria agência
 
 58:05
+
+---
+
+## Notebook LM
+
+> A compreensão do erotismo em Bataille exige sua inserção nos debates da economia política e da antropologia francesa.[1, 5] Em seu ensaio seminal _**A Noção de Despesa**_, Bataille propõe o conceito de economia geral, que contrasta com a economia restrita de cunho utilitarista e capitalista.[1, 5] Enquanto a economia tradicional baseia-se na escassez, na produção e na acumulação de bens, a economia geral batailliana postula que o movimento fundamental do universo é regido pela **superabundância** de energia cósmica, exemplificada pela irradiação incondicional do sol.[1, 5]

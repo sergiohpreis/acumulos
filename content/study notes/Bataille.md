@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T13:08:58-03:00
+modified: 2026-06-15T21:08:56-03:00
 draft: false
 tags:
   - erotismo
@@ -32,19 +32,21 @@ Era um cara de esquerda, cujo os comunistas viam como estranho, nietzscheano de 
 
 > "O erotismo ... é a aprovação da vida até na morte"
 
-A relação com a morte em vida, morrer e continuar vivo; La petit mort (orgasmo, pequena morte)
+A relação com a morte em vida, morrer e continuar vivo.
+La petite mort (expressão em francês que significa "a pequena morte") é um termo poético e eufemístico usado para descrever o período refratário ou a sensação de transe e esgotamento que ocorre logo após o orgasmo. 
 
-Hoje em dia já se observa que o sexo sem intenção de reprodução não é exclusivo ao ser humano; Seria possível falar de um erotismo animal
+Diferente do que afirma Bataille, hoje em dia já se pode observar que o sexo sem intenção de reprodução não é exclusivo ao ser humano, podendo inclusive se falar de um erotismo animal.
 *Indicação: Emanuelle Coccia, A vida sensível*
 
-Marquês de Sade: libertinagem e morte; Sistematizar Sade
+Marquês de Sade tem a relação com libertinagem e morte. Buscou-se sistematizar Sade
 *Indicação de filme: Contos proibidos do Marquês de Sade* - O gozo na execução pública, Sade olhando e escrevendo
 
-Noção de Pulsão de Morte se encontra no texto
+A noção de pulsão de morte se encontra no texto.
 
-**Exuberância**
-O que define o ser humano é a inutilidade, primeiro o útil depois inútil. Nossas necessidades são básicas, embora sejamos uma grande potencialidade; Fome é diferente de apetite, não queremos comer qualquer coisa; Mesmo o que é básico, resolvemos trocar, isso é uma postura humana, independente do regime (divergência com o comunismo por exemplo), não é restrito a classes sociais, ricos e pobres são assim; Spinoza e Nietzsche, Desejo é excesso, "sempre quero mais".
-A atividade sexual como exuberância
+> [!info] **Exuberância** em Bataille
+> Para Bataille, o que define o ser humano é justamente a inutilidade, ou seja, primeiro o inútil depois o útil. Nossas necessidades são básicas embora sejamos uma grande potencialidade, a fome é 
+> O que define o ser humano é a inutilidade, . Nossas necessidades são básicas, embora sejamos uma grande potencialidade; Fome é diferente de apetite, não queremos comer qualquer coisa; Mesmo o que é básico, resolvemos trocar, isso é uma postura humana, independente do regime (divergência com o comunismo por exemplo), não é restrito a classes sociais, ricos e pobres são assim; Spinoza e Nietzsche, Desejo é excesso, "sempre quero mais".
+> A atividade sexual como exuberância;
 
 Oposto a uma razão instrumental, ao lógico e ao racional; as vezes o mais lógico não é feito por exemplo em nome do pudor; a distinção do humano;
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T21:08:56-03:00
+modified: 2026-06-15T21:14:18-03:00
 draft: false
 tags:
   - erotismo
@@ -44,22 +44,21 @@ Marquês de Sade tem a relação com libertinagem e morte. Buscou-se sistematiza
 A noção de pulsão de morte se encontra no texto.
 
 > [!info] **Exuberância** em Bataille
-> Para Bataille, o que define o ser humano é justamente a inutilidade, ou seja, primeiro o inútil depois o útil. Nossas necessidades são básicas embora sejamos uma grande potencialidade, a fome é 
+> Para Bataille, o que define o ser humano é justamente a inutilidade, ou seja, primeiro o inútil depois o útil. Nossas necessidades são básicas embora sejamos uma grande potencialidade, a fome é diferente de apetite, e não queremos comer qualquer coisa.
+> Independente do regime, isso acontecerá (divergência com o comunismo), independente das classes sociais.
+> Noções de Spinoza e Nietzsche onde o desejo é um excesso ("sempre quero mais")
 > O que define o ser humano é a inutilidade, . Nossas necessidades são básicas, embora sejamos uma grande potencialidade; Fome é diferente de apetite, não queremos comer qualquer coisa; Mesmo o que é básico, resolvemos trocar, isso é uma postura humana, independente do regime (divergência com o comunismo por exemplo), não é restrito a classes sociais, ricos e pobres são assim; Spinoza e Nietzsche, Desejo é excesso, "sempre quero mais".
-> A atividade sexual como exuberância;
 
-Oposto a uma razão instrumental, ao lógico e ao racional; as vezes o mais lógico não é feito por exemplo em nome do pudor; a distinção do humano;
+Bataille enxerga a atividade sexual como exuberância.
 
-Pathos e Logos; Ver o ser humano sem considerar o pathos, paixão, é um erro;
+Se opõe a uma razão instrumental, ao lógico, ao racional, pois muitas vezes, o mais lógico não é feito em nome do pudor (ex: sala de aula quente e todo mundo com roupa). Essa é a distinção do humano. Existe uma relação entre o pathos e o logos, ver o ser humano sem o pathos (paixões) é um erro.
 
-Seres descontínuos colocados em jogo pela reprodução; Entre todos nós há um abismo de descontinuidade; 
-Ineficiência da comunicação
+Somo seres descontínuos colocados em jogo pela reprodução e entre todos nós há um abismo de descontinuidade; 
 
-Compartilhamos a vertigem do abismo (morte);
+Defende uma Ineficiência da comunicação
+Compartilhamos a vertigem do abismo (morte), que tem o sentido da continuidade do ser;
 
-A morte tem o sentido da continuidade do ser;
-
-Pulsão de Morte, Freud; Para Bataille, o Eros é o thanatos e o thanatos é o Eros (corrigindo Freud);
+Com relação a pulsão de morte, Bataille busca corrigir Freud, pois para ele, o Eros é o Thanatos e o Thanatos é o Eros;\
 
 
 

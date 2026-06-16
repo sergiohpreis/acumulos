@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T22:19:15-03:00
+modified: 2026-06-15T22:29:02-03:00
 draft: false
 tags:
   - erotismo
@@ -9,17 +9,17 @@ tags:
 
 ## [[BATAILLE Georges. O erotismo (1957)]]
 
-2026-06-14: Terminei de ler e pretendo me aprofundar mais em sua obra.
+- **2026-06-14**: Terminei de ler e pretendo me aprofundar mais em sua obra.
 
 ## LIVE CABEÇUDA: lendo e explicando O Erotismo de Georges Bataille (por QnS)
 
 1. [parte 1](https://www.youtube.com/watch?v=7cd90b7ELCE&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=15)
-2. parte 2
+2. [parte 2](https://www.youtube.com/watch?v=LF3E0YakdVU&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=14)
 3. parte 3
 
-- Introdução
+### Leitura - Introdução
 
-### Sobre o Bataille
+#### Sobre o Bataille
 
 Nietzscheano
 Racha com Breton, Manifesto Surrealista, considerava eles meio aburguesados e idealista
@@ -28,7 +28,7 @@ Noção de Baixo Materialismo
 Noção de dispêndio, desperdício... (1949), economia
 Era um cara de esquerda, cujo os comunistas viam como estranho, nietzscheano de esquerda, era estranho aos marxistas da época
 
-### Leitura
+#### Pt.1
 
 > "O erotismo ... é a aprovação da vida até na morte"
 
@@ -60,5 +60,7 @@ Compartilhamos a vertigem do abismo (morte), que tem o sentido da continuidade d
 
 Com relação a pulsão de morte, Bataille busca corrigir Freud, pois para ele, o Eros é o Thanatos e o Thanatos é o Eros;
 
+#### Pt.2
 
+asasasa
 

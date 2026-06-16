@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T22:37:50-03:00
+modified: 2026-06-15T22:48:01-03:00
 draft: false
 tags:
   - erotismo
@@ -73,7 +73,13 @@ continuidade, descontinuidade -> premissas teóricas
 erotismo, pornografia -> qual é o limite? difícil de delimitar
 para bataille, erotismo engloba a pornografia, pornografia é uma expressão do erotismo
 
-violência elementar -> dominio do erotismo, dominio da violência, dominio da violação
+violência elementar -> domínio do erotismo, domínio da violência, domínio da violação
 
+quase como se fosse -> transar é morrer em algum nível -> o seu eu, se perder
+a violação para a continuidade
+
+movimento de dissolução do ser
+na mulher a dissolução é evidente, ela vira dois
+o gozo é um extase, estar fora
 
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T22:29:02-03:00
+modified: 2026-06-15T22:37:50-03:00
 draft: false
 tags:
   - erotismo
@@ -62,5 +62,18 @@ Com relação a pulsão de morte, Bataille busca corrigir Freud, pois para ele, 
 
 #### Pt.2
 
-asasasa
+Os 3 tipos de erotismo, sentimento de continuidade profunda
+
+> todo erotismo é sagrado
+
+continuidade -> essencialmente religiosa
+
+continuidade, descontinuidade -> premissas teóricas
+
+erotismo, pornografia -> qual é o limite? difícil de delimitar
+para bataille, erotismo engloba a pornografia, pornografia é uma expressão do erotismo
+
+violência elementar -> dominio do erotismo, dominio da violência, dominio da violação
+
+
 

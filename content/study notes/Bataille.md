@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T23:53:28-03:00
+modified: 2026-06-16T08:48:24-03:00
 draft: false
 tags:
   - erotismo
@@ -78,6 +78,8 @@ violência elementar -> domínio do erotismo, domínio da violência, domínio d
 quase como se fosse -> transar é morrer em algum nível -> o seu eu, se perder
 a violação para a continuidade
 
+**erotismo dos corpos**
+
 movimento de dissolução do ser
 na mulher a dissolução é evidente, ela vira dois
 o gozo é um extase, estar fora
@@ -94,7 +96,11 @@ Tem que ter entrega para ter experiência erótica
 
 Ser dominado é ser livre da sua própria agência
 
-58:05
+**erotismo dos corações**
+-> paixão
+paixão feliz -> sofrimento
+-> os amantes, como se relacionam, sentimentos como saudade e etc, ciúmes, crimes passionais, pode produzir coisas horríveis
+
 
 ---
 

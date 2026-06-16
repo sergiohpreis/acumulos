@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T22:58:00-03:00
+modified: 2026-06-15T23:08:58-03:00
 draft: false
 tags:
   - erotismo
@@ -84,5 +84,12 @@ o gozo é um extase, estar fora
 relação com a depressão pós gozo
 
 desnudamento -> colocamos sobre peles, vergonha da nudez
+nudez -> território da dissolução
 
 sacrifício como ato erótico
+
+fascinação pela morte, você coloca sua descontinuidade em questão no erotismo, embora não morra
+
+Tem que ter entrega para ter experiência erótica
+
+Ser dominado é ser livre da sua própria agência

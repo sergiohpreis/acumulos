@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-16T08:48:24-03:00
+modified: 2026-06-16T08:59:09-03:00
 draft: false
 tags:
   - erotismo
@@ -100,6 +100,16 @@ Ser dominado é ser livre da sua própria agência
 -> paixão
 paixão feliz -> sofrimento
 -> os amantes, como se relacionam, sentimentos como saudade e etc, ciúmes, crimes passionais, pode produzir coisas horríveis
+
+O erotismo dos corações podem se manifestar até mesmo em relações de pais para filho
+
+> [!info] continuidade, descontinuidade
+> continuidade -> dissolução do ser, quanto mais dissoluto, mais discontínuo... no sexo, fisicamente, no coração, sem o outro você não se reconhece
+
+continuidade plena é morte, nos dissolvemos mas não por completo, dissolução completa é morte, nos diluímos até certo ponto
+
+amor próprio na lógica do bataille, não existe
+bataille leitor de hegel, aluno do kojeve (que influênciou todo o século XX)
 
 
 ---

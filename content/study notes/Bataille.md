@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T22:48:01-03:00
+modified: 2026-06-15T22:58:00-03:00
 draft: false
 tags:
   - erotismo
@@ -81,5 +81,8 @@ a violação para a continuidade
 movimento de dissolução do ser
 na mulher a dissolução é evidente, ela vira dois
 o gozo é um extase, estar fora
+relação com a depressão pós gozo
 
+desnudamento -> colocamos sobre peles, vergonha da nudez
 
+sacrifício como ato erótico

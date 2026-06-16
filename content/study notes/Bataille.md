@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T23:08:58-03:00
+modified: 2026-06-15T23:14:23-03:00
 draft: false
 tags:
   - erotismo
@@ -93,3 +93,5 @@ fascinação pela morte, você coloca sua descontinuidade em questão no erotism
 Tem que ter entrega para ter experiência erótica
 
 Ser dominado é ser livre da sua própria agência
+
+58:05

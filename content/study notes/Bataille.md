@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-15T21:14:18-03:00
+modified: 2026-06-15T22:19:15-03:00
 draft: false
 tags:
   - erotismo
@@ -58,7 +58,7 @@ Somo seres descontínuos colocados em jogo pela reprodução e entre todos nós 
 Defende uma Ineficiência da comunicação
 Compartilhamos a vertigem do abismo (morte), que tem o sentido da continuidade do ser;
 
-Com relação a pulsão de morte, Bataille busca corrigir Freud, pois para ele, o Eros é o Thanatos e o Thanatos é o Eros;\
+Com relação a pulsão de morte, Bataille busca corrigir Freud, pois para ele, o Eros é o Thanatos e o Thanatos é o Eros;
 
 
 

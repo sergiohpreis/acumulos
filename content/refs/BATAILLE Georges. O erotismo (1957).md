@@ -3,7 +3,7 @@ title: BATAILLE Georges. O erotismo (1957)
 authors:
   - Georges Bataille
 status:
-  - READING
+  - READ
 rating: 5
 published_year: 1957
 categories:
@@ -11,6 +11,7 @@ categories:
   - Erotismo
   - Literatura Francesa
   - Filosofia
+  - Sagrado
 pages: 339
 isbn: 9786588239094
 publisher:
@@ -22,6 +23,7 @@ shelf:
 format:
   - PHYSICAL
 cover_url: https://m.media-amazon.com/images/I/81xa5g4E+8L._SL1500_.jpg
+finish_date: 2026-06-14
 edition_year: 2013
 sale_condition: NEW
 tags:
@@ -30,23 +32,30 @@ tags:
   - erotismo
   - literatura-francesa
   - filosofia
+  - sagrado
 draft: false
-created: 2026-06-14T14:42:23-03:00
-modified: 2026-06-14T14:43:16-03:00
+date: 2026-06-18T13:55:34.22500778-03:00
 ---
 
 ## Resumo
 
-- Sessões: 28
-- Páginas lidas: 282
-- Tempo total: 7h 09m
+- Sessões: 34
+- Páginas lidas: 344
+- Tempo total: 8h 09m
 - Avaliação: ⭐⭐⭐⭐⭐ (5/5)
 - Autores: Georges Bataille
-- Status: Lendo
+- Status: Lido
 - Total de páginas: 339
+- Finalizado em: 14/06/2026
 
 ## Sessões
 
+- **2026-06-14 21:45 - 21:53** - Páginas 327-339 (13 páginas) - Dossê O erotismo: A significação do erotismo | Adição a O erotismo | Projeto de uma conclusão para O erotismo - 0h07m
+- **2026-06-14 21:24 - 21:33** - Páginas 317-326 (10 páginas) - Debate sobre o erotismo - 0h08m
+- **2026-06-14 21:10 - 21:21** - Páginas 303-316 (14 páginas) - Posfácio: Traços de Eros - Eliane Robert Moraes - 0h10m
+- **2026-06-14 20:47 - 20:51** - Páginas 299-302 (4 páginas) - Conclusão - 0h03m
+- **2026-06-14 20:37 - 20:45** - Páginas 292-298 (7 páginas) - Segunda parte - Estudos diversos sobre o erotismo: Estudo VII - Prefácio de "Madame Edwarda" - 0h08m
+- **2026-06-14 16:00 - 16:20** - Páginas 278-291 (14 páginas) - Segunda parte - Estudos diversos sobre o erotismo: Estudo VI - A santidade, o erotismo e a solidão - 0h19m
 - **2026-06-14 14:05 - 14:21** - Páginas 266-277 (12 páginas) - Segunda parte - Estudos diversos sobre o erotismo: Estudo V - Mística e sensualidade -- A sensualidade, a ternura e o amor | A escória, o cinismo sexual e a obscenidade | A unidade entre a experiência mística e o erotismo | A continência e a condição de um momento incondicionado - 0h15m
 - **2026-06-14 13:11 - 13:28** - Páginas 253-266 (14 páginas) - Segunda parte - Estudos diversos sobre o erotismo: Estudo V - Mística e sensualidade -- A moral da morte a si mesmo e sua diferença com a moral comum | O instante presente e a morte no "voo nupcial" e na vida do religioso | A tentação do religioso e o deleite moroso | A sensualidade culpada e a morte - 0h16m
 - **2026-06-14 07:45 - 07:56** - Páginas 248-253 (6 páginas) - Segunda parte - Estudos diversos sobre o erotismo: Estudo V - Mística e sensualidade -- Da largueza de visão moderna dos cristãos ao "medo do sexual" | O caráter sagrado da sexualidade e a pretensa especificidade sexual da vida mística - 0h11m

@@ -1,10 +1,15 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-18T13:47:06-03:00
+modified: 2026-06-18T13:54:25-03:00
 draft: false
 tags:
   - erotismo
   - bataille
+  - transgressão
+  - morte
+  - sagrado
+  - violência
+  - sacrifício
 ---
 
 ## [[BATAILLE Georges. O erotismo (1957)]]
@@ -15,7 +20,7 @@ tags:
 
 1. [parte 1](https://www.youtube.com/watch?v=7cd90b7ELCE&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=15)
 2. [parte 2](https://www.youtube.com/watch?v=LF3E0YakdVU&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=14)
-3. parte 3
+3. [parte 3](https://www.youtube.com/live/t2P7BoWBetU?si=6AZMm6qHoEzLFZ07)
 
 ### Leitura - Introdução
 
@@ -137,14 +142,19 @@ Rituais, Bruxaria, Místico e etc (experiência mística)
 A arte, a poesia, também entra no lugar de morte, de continuidade
 violência interior, conduz ao limite de todo o possível? (algo assim)
 
+Síntese do Raciocínio de Bataille
 - continuidade, descontinuidade; continuidade máxima = morte;
 - erotismos
-	- erotismo dos corpos
+	- erotismo dos **corpos**
 		- esporte até
-	- erotismo dos corações
+	- erotismo dos **corações**
 		- varios tipos de amores
-	- erotismo sagrado
-		- 
+		- intensidade pela ausência
+	- erotismo **sagrado**
+		- algo levado a morte
+- a arte vai por ai também
+- transgressão e violência, transgressão sem interdição não é transgressão
+	- transgressão 
 
 ---
 

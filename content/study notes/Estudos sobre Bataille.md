@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-18T18:19:02-03:00
+modified: 2026-06-18T18:21:06-03:00
 draft: false
 tags:
   - erotismo
@@ -81,7 +81,9 @@ Os 3 tipos de erotismo habilitam um sentimento de continuidade profunda. Para Ba
 **erotismo dos corpos**
 
 
-O erotismo dos corpos é um movimento de dissolução do ser, para Bataille, na mulher essa dissolução é evidente, pois ela vira dois (ela l)
+O erotismo dos corpos é um movimento de dissolução do ser, para Bataille, na mulher essa dissolução é evidente, pois ela vira dois (ela engravida). O gozo tem relação com um extase, um estar fora, não atoa, existe a tal "depressão pós gozo".
+
+A nudez é um território de dissolução, nós estamos sobre pele, temos vergonha da nudez, por exemplo, uma sensação de vergonha ao se olhar no espelho ao sair do banho.
 
 movimento de dissolução do ser
 na mulher a dissolução é evidente, ela vira dois

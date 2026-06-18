@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-18T13:54:25-03:00
+modified: 2026-06-18T18:07:19-03:00
 draft: false
 tags:
   - erotismo
@@ -18,13 +18,15 @@ tags:
 
 ## LIVE CABEÇUDA: lendo e explicando O Erotismo de Georges Bataille (por QnS)
 
-1. [parte 1](https://www.youtube.com/watch?v=7cd90b7ELCE&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=15)
-2. [parte 2](https://www.youtube.com/watch?v=LF3E0YakdVU&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=14)
-3. [parte 3](https://www.youtube.com/live/t2P7BoWBetU?si=6AZMm6qHoEzLFZ07)
+[parte 1](https://www.youtube.com/watch?v=7cd90b7ELCE&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=15) | [parte 2](https://www.youtube.com/watch?v=LF3E0YakdVU&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=14) | [parte 3](https://www.youtube.com/live/t2P7BoWBetU?si=6AZMm6qHoEzLFZ07)
 
-### Leitura - Introdução
+> [!info] Nessa live, foi lida apenas a **introdução**
 
 #### Sobre o Bataille
+
+Bataille era leitor de Nietzsche, Hegel, Marx, Durkheim, Mauss, Freud. Sua filosofia era conhecida como "baixo materialismo", se opunha aos demais materialistas por entender que faltam coisas como, por exemplo, porra, merda e sangue.
+
+Possuía uma teoria econômica, com base em sua no
 
 Nietzscheano
 Racha com Breton, Manifesto Surrealista, considerava eles meio aburguesados e idealista

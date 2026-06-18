@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-16T09:02:23-03:00
+modified: 2026-06-18T12:36:40-03:00
 draft: false
 tags:
   - erotismo
@@ -112,6 +112,10 @@ amor próprio na lógica do bataille, não existe
 - bataille leitor de hegel, aluno do kojeve (que influênciou todo o século XX)
 - kojeve: ser o que somos implica demandar reconhecimento, você precisa ser reconhecido para estar vivo; alguem precisa dizer que existimos para nos sentirmos existentes; desejo de ser desejado; desejo de ser reconhecido pelo outro;
 - o amor é sempre relacional, o amor precisa do outro; amor próprio como narcisismo
+
+#### Pt.3
+
+
 
 ---
 

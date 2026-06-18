@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-18T18:32:24-03:00
+modified: 2026-06-18T18:38:17-03:00
 draft: false
 tags:
   - erotismo
@@ -16,7 +16,7 @@ tags:
 
 - **2026-06-14**: Terminei de ler e pretendo me aprofundar mais em sua obra.
 
-## LIVE CABEÇUDA: lendo e explicando O Erotismo de Georges Bataille (por QnS)
+## LIVE CABEÇUDA (por QnS)
 
 [parte 1](https://www.youtube.com/watch?v=7cd90b7ELCE&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=15) | [parte 2](https://www.youtube.com/watch?v=LF3E0YakdVU&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=14) | [parte 3](https://www.youtube.com/live/t2P7BoWBetU?si=6AZMm6qHoEzLFZ07)
 
@@ -30,7 +30,7 @@ Possuía uma teoria econômica, com base em sua noção de dispêndio (1949). Ap
 
 ### Pt.1
 
-**Relação com a morte; continuidade e descontinuidade**
+#### **Relação com a morte; continuidade e descontinuidade**
 
 > "O erotismo ... é a aprovação da vida até na morte"
 
@@ -73,7 +73,7 @@ Para Bataille, existe uma violência elementar, o domínio do erotismo também o
 
 Sobre a luz da teoria de Bataille, a pornografia seria como uma expressão do erotismo, não sendo tão simples de delimitar.
 
-**Os 3 tipos de erotismo**
+#### **Os 3 tipos de erotismo**
 
 Os 3 tipos de erotismo habilitam um sentimento de continuidade profunda. Para Bataille, "todo erotismo é sagrado", essa continuidade é essencialmente religiosa
 - Não entendi isso
@@ -89,7 +89,6 @@ Algo como ser dominado e ser livre de sua própria agência, não qualquer sexo,
 Sacrifício como ato erótico. Existe um fascínio pela morte, nós colocamos a nossa descontinuidade no erotismo, embora não morremos.
 
 **EROTISMO DOS CORAÇÕES**
-
 
 -> paixão
 paixão feliz -> sofrimento

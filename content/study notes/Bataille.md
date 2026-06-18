@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-18T13:11:50-03:00
+modified: 2026-06-18T13:47:06-03:00
 draft: false
 tags:
   - erotismo
@@ -126,10 +126,25 @@ O ser amante, para o ser amado, é a transparência do mundo (algo assim)
 		- o outro informa quem nós somos
 - Não é o amor romântico, contempla crimes passionais
 
-
-Jesus é um exemplo do sacrificio, do sagrado, que da o sentido de continuidade
+Jesus é um exemplo do sacrifício, do sagrado, que da o sentido de continuidade.
 
 Relação com Walter Benjamin, Experimento e Experiência
+- Experimento você faz, experiência você tem
+
+Rituais, Bruxaria, Místico e etc (experiência mística)
+- todos temos experiência mística, momento sagrado, não necessariamente religioso
+
+A arte, a poesia, também entra no lugar de morte, de continuidade
+violência interior, conduz ao limite de todo o possível? (algo assim)
+
+- continuidade, descontinuidade; continuidade máxima = morte;
+- erotismos
+	- erotismo dos corpos
+		- esporte até
+	- erotismo dos corações
+		- varios tipos de amores
+	- erotismo sagrado
+		- 
 
 ---
 

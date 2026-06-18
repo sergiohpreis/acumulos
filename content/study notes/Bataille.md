@@ -126,6 +126,9 @@ O ser amante, para o ser amado, é a transparência do mundo (algo assim)
 		- o outro informa quem nós somos
 - Não é o amor romântico, contempla crimes passionais
 
+
+Jesus é um exemplo do sacríficio, do sagrado, que da o sentido de co
+
 ---
 
 ## Notebook LM

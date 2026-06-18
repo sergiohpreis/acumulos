@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-18T12:36:40-03:00
+modified: 2026-06-18T12:53:10-03:00
 draft: false
 tags:
   - erotismo
@@ -115,7 +115,16 @@ amor próprio na lógica do bataille, não existe
 
 #### Pt.3
 
-
+O ser amante, para o ser amado, é a transparência do mundo (algo assim)
+- O mundo transparece ao amar 
+- Relação com pensamento Nietzsche, Heidegger, Hegel
+	- Ideia de Aletheia do Heidegger
+	- Nietzche, existe paixão na razão
+	- Se reconhecer, desejo de ser desejado
+	- teoria do desejo
+		- somos sujeitos do reconhecimento, desejamos ser desejados, anseamos pelo reconhecimento
+		- o outro informa quem nós somos
+- Não é o amor romântico, contempla crimes passionais
 
 ---
 

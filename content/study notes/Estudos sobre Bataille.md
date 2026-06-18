@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-18T18:21:06-03:00
+modified: 2026-06-18T18:32:24-03:00
 draft: false
 tags:
   - erotismo
@@ -78,30 +78,19 @@ Sobre a luz da teoria de Bataille, a pornografia seria como uma expressão do er
 Os 3 tipos de erotismo habilitam um sentimento de continuidade profunda. Para Bataille, "todo erotismo é sagrado", essa continuidade é essencialmente religiosa
 - Não entendi isso
 
-**erotismo dos corpos**
-
+**EROTISMO DOS CORPOS**
 
 O erotismo dos corpos é um movimento de dissolução do ser, para Bataille, na mulher essa dissolução é evidente, pois ela vira dois (ela engravida). O gozo tem relação com um extase, um estar fora, não atoa, existe a tal "depressão pós gozo".
 
 A nudez é um território de dissolução, nós estamos sobre pele, temos vergonha da nudez, por exemplo, uma sensação de vergonha ao se olhar no espelho ao sair do banho.
 
-movimento de dissolução do ser
-na mulher a dissolução é evidente, ela vira dois
-o gozo é um extase, estar fora
-relação com a depressão pós gozo
+Algo como ser dominado e ser livre de sua própria agência, não qualquer sexo, mas sexo com entrega habilita uma experiência erótica
 
-desnudamento -> colocamos sobre peles, vergonha da nudez
-nudez -> território da dissolução
+Sacrifício como ato erótico. Existe um fascínio pela morte, nós colocamos a nossa descontinuidade no erotismo, embora não morremos.
 
-sacrifício como ato erótico
+**EROTISMO DOS CORAÇÕES**
 
-fascinação pela morte, você coloca sua descontinuidade em questão no erotismo, embora não morra
 
-Tem que ter entrega para ter experiência erótica
-
-Ser dominado é ser livre da sua própria agência
-
-**erotismo dos corações**
 -> paixão
 paixão feliz -> sofrimento
 -> os amantes, como se relacionam, sentimentos como saudade e etc, ciúmes, crimes passionais, pode produzir coisas horríveis

@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-18T18:07:19-03:00
+modified: 2026-06-18T18:19:02-03:00
 draft: false
 tags:
   - erotismo
@@ -22,25 +22,20 @@ tags:
 
 > [!info] Nessa live, foi lida apenas a **introdução**
 
-#### Sobre o Bataille
+### Sobre o Bataille
 
-Bataille era leitor de Nietzsche, Hegel, Marx, Durkheim, Mauss, Freud. Sua filosofia era conhecida como "baixo materialismo", se opunha aos demais materialistas por entender que faltam coisas como, por exemplo, porra, merda e sangue.
+Bataille era leitor de Nietzsche, Hegel, Marx, Durkheim, Mauss, Freud. Sua filosofia era conhecida como "baixo materialismo", se opunha aos demais materialistas por entender que faltam coisas como, por exemplo, porra, merda e sangue, e dai inclusive se da o seu racha com Breton, escritor do Manifesto Surrealista - os considerava aburguesados e idealistas.
 
-Possuía uma teoria econômica, com base em sua no
+Possuía uma teoria econômica, com base em sua noção de dispêndio (1949). Apesar de ser uma figurada de esquerda, era visto como estranho aos marxistas da época
 
-Nietzscheano
-Racha com Breton, Manifesto Surrealista, considerava eles meio aburguesados e idealista
-Leitor de Nietzsche, Marx, Durkheim, Mauss, Freud
-Noção de Baixo Materialismo
-Noção de dispêndio, desperdício... (1949), economia
-Era um cara de esquerda, cujo os comunistas viam como estranho, nietzscheano de esquerda, era estranho aos marxistas da época
+### Pt.1
 
-#### Pt.1
+**Relação com a morte; continuidade e descontinuidade**
 
 > "O erotismo ... é a aprovação da vida até na morte"
 
 A relação com a morte em vida, morrer e continuar vivo.
-La petite mort (expressão em francês que significa "a pequena morte") é um termo poético e eufemístico usado para descrever o período refratário ou a sensação de transe e esgotamento que ocorre logo após o orgasmo. 
+**La petite mort** (expressão em francês que significa "a pequena morte") é um termo poético e eufemístico usado para descrever o período refratário ou a sensação de transe e esgotamento que ocorre logo após o **orgasmo**. 
 
 Diferente do que afirma Bataille, hoje em dia já se pode observar que o sexo sem intenção de reprodução não é exclusivo ao ser humano, podendo inclusive se falar de um erotismo animal.
 *Indicação: Emanuelle Coccia, A vida sensível*
@@ -69,23 +64,24 @@ Com relação a pulsão de morte, Bataille busca corrigir Freud, pois para ele, 
 
 #### Pt.2
 
-Os 3 tipos de erotismo, sentimento de continuidade profunda
+As premissas teóricas de Bataille são a continuidade e a descontinuidade. Para Bataille, a continuidade é essencialmente religiosa
+- Porque?
 
-> todo erotismo é sagrado
+É quase como se transar fosse a mesma coisa que morrer, em um outro nível, onde o seu eu se perde, após essa violação, para uma continuidade, que não se completa, pois a sua completude é a própria morte.
 
-continuidade -> essencialmente religiosa
+Para Bataille, existe uma violência elementar, o domínio do erotismo também o domínio da violência, da violação.
 
-continuidade, descontinuidade -> premissas teóricas
+Sobre a luz da teoria de Bataille, a pornografia seria como uma expressão do erotismo, não sendo tão simples de delimitar.
 
-erotismo, pornografia -> qual é o limite? difícil de delimitar
-para bataille, erotismo engloba a pornografia, pornografia é uma expressão do erotismo
+**Os 3 tipos de erotismo**
 
-violência elementar -> domínio do erotismo, domínio da violência, domínio da violação
-
-quase como se fosse -> transar é morrer em algum nível -> o seu eu, se perder
-a violação para a continuidade
+Os 3 tipos de erotismo habilitam um sentimento de continuidade profunda. Para Bataille, "todo erotismo é sagrado", essa continuidade é essencialmente religiosa
+- Não entendi isso
 
 **erotismo dos corpos**
+
+
+O erotismo dos corpos é um movimento de dissolução do ser, para Bataille, na mulher essa dissolução é evidente, pois ela vira dois (ela l)
 
 movimento de dissolução do ser
 na mulher a dissolução é evidente, ela vira dois

@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-18T12:53:10-03:00
+modified: 2026-06-18T13:11:50-03:00
 draft: false
 tags:
   - erotismo
@@ -127,7 +127,9 @@ O ser amante, para o ser amado, é a transparência do mundo (algo assim)
 - Não é o amor romântico, contempla crimes passionais
 
 
-Jesus é um exemplo do sacríficio, do sagrado, que da o sentido de co
+Jesus é um exemplo do sacrificio, do sagrado, que da o sentido de continuidade
+
+Relação com Walter Benjamin, Experimento e Experiência
 
 ---
 

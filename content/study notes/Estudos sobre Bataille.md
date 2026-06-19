@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-18T21:48:07-03:00
+modified: 2026-06-19T08:23:47-03:00
 draft: false
 tags:
   - erotismo
@@ -90,16 +90,7 @@ Sacrifício como ato erótico. Existe um fascínio pela morte, nós colocamos a 
 
 **EROTISMO DOS CORAÇÕES**
 
--> paixão
-paixão feliz -> sofrimento
--> os amantes, como se relacionam, sentimentos como saudade e etc, ciúmes, crimes passionais, pode produzir coisas horríveis
-
-O erotismo dos corações podem se manifestar até mesmo em relações de pais para filho
-
-> [!info] continuidade, descontinuidade
-> continuidade -> dissolução do ser, quanto mais dissoluto, mais discontínuo... no sexo, fisicamente, no coração, sem o outro você não se reconhece
-
-continuidade plena é morte, nos dissolvemos mas não por completo, dissolução completa é morte, nos diluímos até certo ponto
+Sem o outro não nos reconhecemos, meio que isso é o erotismo dos corações, pode se manifestar até em relações de país para filho. Também no sentido de que paixão feliz é sofrimento, o erotismo dos corações podem produzir coisas horríveis, como crimes passionais
 
 amor próprio na lógica do bataille, não existe
 - bataille leitor de hegel, aluno do kojeve (que influênciou todo o século XX)

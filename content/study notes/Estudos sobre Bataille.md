@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-19T08:43:33-03:00
+modified: 2026-06-19T08:58:52-03:00
 draft: false
 tags:
   - erotismo
@@ -15,6 +15,7 @@ tags:
 ## [[BATAILLE Georges. O erotismo (1957)]]
 
 - **2026-06-14**: Terminei de ler e pretendo me aprofundar mais em sua obra.
+- 2026-06-19, 08:58: Considerando a sugestão de [[#Notebook LM - Próximos passos]], vou ler o artigo [Em busca da continuidade perdida: erotismo e morte em Georges Bataille](https://books.bacana.info/audiobookshelf/item/98c5cacd-36ca-4e85-9391-c30c0b3cba5f).
 
 ## LIVE CABEÇUDA (por QnS)
 
@@ -131,3 +132,31 @@ A arte, a poesia, também assumem esse lugar de continuidade, de uma violência 
 ## Notebook LM
 
 > A compreensão do erotismo em Bataille exige sua inserção nos debates da economia política e da antropologia francesa.[1, 5] Em seu ensaio seminal _**A Noção de Despesa**_, Bataille propõe o conceito de economia geral, que contrasta com a economia restrita de cunho utilitarista e capitalista.[1, 5] Enquanto a economia tradicional baseia-se na escassez, na produção e na acumulação de bens, a economia geral batailliana postula que o movimento fundamental do universo é regido pela **superabundância** de energia cósmica, exemplificada pela irradiação incondicional do sol.[1, 5]
+
+## Notebook LM - Próximos passos
+
+> [!question] PERGUNTA
+> Quais são os artigos que temos? Eu acabei de assistir uma aula sobre a introdução do livro, fiz algumas anotações, e queria pegar um próximo material pra me ajudar na compreensão do livro. O que me recomenda?
+
+Temos uma vasta coleção de materiais que abordam Georges Bataille sob diversas perspectivas (filosófica, psicanalítica, literária e econômica). Como você já estudou a introdução do livro, aqui está uma visão geral dos materiais disponíveis e algumas recomendações específicas:
+
+Mapeamento das Fontes Disponíveis
+
+- **Fundamentos e Antropologia:** Materiais que explicam a transição do animal para o homem através do trabalho e dos interditos.
+- **Psicanálise:** Artigos que ligam o erotismo de Bataille ao conceito de "gozo" em Lacan e ao "tabu" em Freud.
+- **Economia:** Estudos sobre a "economia geral" e a "noção de dispêndio" (gasto improdutivo), que são as raízes do pensamento dele.
+- **Literatura e Arte:** Análises sobre a soberania do mal na literatura e transcriações da obra para o mangá _ero-guro_.
+- **O Próprio Livro:** O texto integral de _O Erotismo_ para consulta direta.
+
+Recomendações para dar o Próximo Passo
+
+Considerando que você acabou de ver a introdução, o conteúdo seguinte do livro foca na distinção entre os tipos de erotismo e na relação entre o interdito e a transgressão. Recomendo os seguintes materiais:
+
+1. **Para consolidar a base teórica (Continuidade vs. Descontinuidade):** O artigo **"Em busca da continuidade perdida: erotismo e morte em Georges Bataille"** é excelente. Ele explica detalhadamente como o erotismo é a tentativa humana de recuperar a continuidade perdida com o advento da subjetividade e do trabalho. Também ajuda a entender por que a morte e o erotismo são faces da mesma moeda.
+2. **Para entender a estrutura do livro (Os Três Erotismos):** O texto **"O Erotismo na Fortuna Crítica de Georges Bataille"** traz uma tabela comparativa muito didática sobre o **erotismo dos corpos, dos corações e o sagrado**. Ele resume a dinâmica de operação do desejo e o paralelo sacrificial em cada uma dessas dimensões.
+3. **Para aprofundar na Antropologia e nos Tabus:** O material **"O Erotismo e o Sagrado: passàg_ens por Freud e Bataille"** é ideal se você quiser entender como as regras de proibição do incesto e o horror ao sangue/morte fundam a humanidade na visão de Bataille em diálogo com a psicanálise clássica.
+4. **Se você gosta de História e Economia:** O artigo **"The emergence of expenditure"** contextualiza como Bataille redirecionou sua crítica à utilidade burguesa para formular a "ciência do que é diferente" (heterologia).
+
+**Dica:** Além das leituras, você já tem no seu caderno o artefato **"Por que o prazer exige a morte" [Audio Overview]**, que foca justamente no Prefácio, Introdução e na primeira parte do livro, sendo um ótimo companheiro para suas anotações de aula.
+
+Qual desses caminhos mais te interessa agora: a parte mais **filosófica/existencial**, a **psicanalítica** ou a **antropológica**?

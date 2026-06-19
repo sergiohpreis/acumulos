@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-19T08:39:50-03:00
+modified: 2026-06-19T08:43:33-03:00
 draft: false
 tags:
   - erotismo
@@ -101,24 +101,24 @@ Linck explica que amor próprio meio que não existe na lógica de Bataille. Bat
 
 Parece existir uma relação com o pensamento de Nietzsche, Heidegger e Hegel. A idéia de Aletheia de Heidegger, a existência da paixão na paixão, e essa necessidade do desejo no outro. Como dito antes, nessa teoria do desejo, somos sujeitos do reconhecimento, desejamos ser desejados, ansiamos pelo reconhecimento, o outro informa quem nós somos, e isso não é um amor romântico, como dito, contempla crimes passionais
 
+**EROTISMO SAGRADO**
 
+Jesus é um bom exemplo de um sacrifício, de um sagrado que da justamente esse sentido de continuidade.
 
-Jesus é um exemplo do sacrifício, do sagrado, que da o sentido de continuidade.
+*Indicação: Walter Benjamin, Experimento e Experiência* (Experimento você faz, experiência você tem)
 
-Relação com Walter Benjamin, Experimento e Experiência
-- Experimento você faz, experiência você tem
+A experiência mística, o momento sagrado, embora aconteça nos rituais, na bruxaria e na religião, não são necessariamente religiosos. Por exemplo, podemos ter um ritual de relaxamento pós trabalho e etc.
 
-Rituais, Bruxaria, Místico e etc (experiência mística)
-- todos temos experiência mística, momento sagrado, não necessariamente religioso
+#### Arte, poesia e etc; violência e transgressão
 
-A arte, a poesia, também entra no lugar de morte, de continuidade
-violência interior, conduz ao limite de todo o possível? (algo assim)
+A arte, a poesia, também assumem esse lugar de continuidade, de uma violência interior que conduz ao limite de todo o possível.
 
-Síntese do Raciocínio de Bataille
+#### Síntese do Raciocínio de Bataille
+
 - continuidade, descontinuidade; continuidade máxima = morte;
 - erotismos
 	- erotismo dos **corpos**
-		- esporte até
+		- esporte também é um exemplo
 	- erotismo dos **corações**
 		- varios tipos de amores
 		- intensidade pela ausência

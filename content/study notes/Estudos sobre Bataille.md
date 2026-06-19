@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-19T08:23:47-03:00
+modified: 2026-06-19T08:39:50-03:00
 draft: false
 tags:
   - erotismo
@@ -90,25 +90,18 @@ Sacrifício como ato erótico. Existe um fascínio pela morte, nós colocamos a 
 
 **EROTISMO DOS CORAÇÕES**
 
-Sem o outro não nos reconhecemos, meio que isso é o erotismo dos corações, pode se manifestar até em relações de país para filho. Também no sentido de que paixão feliz é sofrimento, o erotismo dos corações podem produzir coisas horríveis, como crimes passionais
+Sem o outro não nos reconhecemos, meio que isso é o erotismo dos corações, pode se manifestar até em relações de país para filho. Também no sentido de que paixão feliz é sofrimento, o erotismo dos corações podem produzir coisas horríveis, como crimes passionais.
 
-amor próprio na lógica do bataille, não existe
-- bataille leitor de hegel, aluno do kojeve (que influênciou todo o século XX)
-- kojeve: ser o que somos implica demandar reconhecimento, você precisa ser reconhecido para estar vivo; alguem precisa dizer que existimos para nos sentirmos existentes; desejo de ser desejado; desejo de ser reconhecido pelo outro;
-- o amor é sempre relacional, o amor precisa do outro; amor próprio como narcisismo
+Linck explica que amor próprio meio que não existe na lógica de Bataille. Bataille era leitor de Hegel, e aluno de Kojeve (que influenciou todo o século XX). Para Kojeve, ser o que somos implica demanda reconhecimento, precisamos ser reconhecidos para estar vivo. Alguém precisa nos dizer que existimos para nos sentirmos existentes, ou seja, existe um desejo de ser desejado, de ser reconhecido pelo outro. Portanto, o amor é sempre relacional, e precisa do outro.
 
 ### Pt.3
 
-O ser amante, para o ser amado, é a transparência do mundo (algo assim)
-- O mundo transparece ao amar 
-- Relação com pensamento Nietzsche, Heidegger, Hegel
-	- Ideia de Aletheia do Heidegger
-	- Nietzche, existe paixão na razão
-	- Se reconhecer, desejo de ser desejado
-	- teoria do desejo
-		- somos sujeitos do reconhecimento, desejamos ser desejados, anseamos pelo reconhecimento
-		- o outro informa quem nós somos
-- Não é o amor romântico, contempla crimes passionais
+> O ser amante, para o ser amado, é a transparência do mundo
+- confirmar essa citação
+
+Parece existir uma relação com o pensamento de Nietzsche, Heidegger e Hegel. A idéia de Aletheia de Heidegger, a existência da paixão na paixão, e essa necessidade do desejo no outro. Como dito antes, nessa teoria do desejo, somos sujeitos do reconhecimento, desejamos ser desejados, ansiamos pelo reconhecimento, o outro informa quem nós somos, e isso não é um amor romântico, como dito, contempla crimes passionais
+
+
 
 Jesus é um exemplo do sacrifício, do sagrado, que da o sentido de continuidade.
 

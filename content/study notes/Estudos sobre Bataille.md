@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-18T18:38:17-03:00
+modified: 2026-06-18T21:48:07-03:00
 draft: false
 tags:
   - erotismo
@@ -62,7 +62,7 @@ Compartilhamos a vertigem do abismo (morte), que tem o sentido da continuidade d
 
 Com relação a pulsão de morte, Bataille busca corrigir Freud, pois para ele, o Eros é o Thanatos e o Thanatos é o Eros;
 
-#### Pt.2
+### Pt.2
 
 As premissas teóricas de Bataille são a continuidade e a descontinuidade. Para Bataille, a continuidade é essencialmente religiosa
 - Porque?
@@ -106,7 +106,7 @@ amor próprio na lógica do bataille, não existe
 - kojeve: ser o que somos implica demandar reconhecimento, você precisa ser reconhecido para estar vivo; alguem precisa dizer que existimos para nos sentirmos existentes; desejo de ser desejado; desejo de ser reconhecido pelo outro;
 - o amor é sempre relacional, o amor precisa do outro; amor próprio como narcisismo
 
-#### Pt.3
+### Pt.3
 
 O ser amante, para o ser amado, é a transparência do mundo (algo assim)
 - O mundo transparece ao amar 
@@ -143,8 +143,6 @@ Síntese do Raciocínio de Bataille
 - a arte vai por ai também
 - transgressão e violência, transgressão sem interdição não é transgressão
 	- transgressão 
-
----
 
 ## Notebook LM
 

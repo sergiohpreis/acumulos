@@ -3,7 +3,7 @@ title: BATAILLE Georges. O erotismo (1957)
 authors:
   - Georges Bataille
 status:
-  - READ
+  - READING
 rating: 5
 published_year: 1957
 categories:
@@ -34,22 +34,24 @@ tags:
   - filosofia
   - sagrado
 draft: false
-date: 2026-06-18T13:55:34.22500778-03:00
+date: 2026-06-20T21:12:08.331859257-03:00
 ---
 
 ## Resumo
 
-- Sessões: 34
-- Páginas lidas: 344
-- Tempo total: 8h 09m
+- Sessões: 36
+- Páginas lidas: 370
+- Tempo total: 9h 21m
 - Avaliação: ⭐⭐⭐⭐⭐ (5/5)
 - Autores: Georges Bataille
-- Status: Lido
+- Status: Lendo
 - Total de páginas: 339
 - Finalizado em: 14/06/2026
 
 ## Sessões
 
+- **2026-06-20 20:37 - 21:06** - Páginas 19-26 (8 páginas) - Prefácio: O lugar do erotismo - Raúl Antelo - 0h28m
+- **2026-06-20 19:42 - 20:25** - Páginas 1-18 (18 páginas) - Apresentação do tradutor - 0h42m
 - **2026-06-14 21:45 - 21:53** - Páginas 327-339 (13 páginas) - Dossê O erotismo: A significação do erotismo | Adição a O erotismo | Projeto de uma conclusão para O erotismo - 0h07m
 - **2026-06-14 21:24 - 21:33** - Páginas 317-326 (10 páginas) - Debate sobre o erotismo - 0h08m
 - **2026-06-14 21:10 - 21:21** - Páginas 303-316 (14 páginas) - Posfácio: Traços de Eros - Eliane Robert Moraes - 0h10m
@@ -84,4 +86,15 @@ date: 2026-06-18T13:55:34.22500778-03:00
 - **2026-06-06 17:19 - 17:55** - Páginas 27-45 (19 páginas) - Prólogo; Introdução - 0h35m
 - **2026-06-06 16:17 - 16:29** - Páginas 19-26 (8 páginas) - Prefácio: O lugar do erotismo - Raúl Antelo - 0h11m
 - **2026-06-06 15:43 - 16:03** - Páginas 1-18 (18 páginas) - Apresentação do tradutor - 0h19m
+
+## Notas
+
+### 2026-06-20 21:11
+O prefácio "O lugar do erotismo", de Raúl Antelo, mostra com clareza como as teorias de Bataille influenciaram Roland Barthes, onde em sua obra "Prazer do texto", pode-se ver expressa a premissa que "o luxo da linguagem faz parte das riquezas excedentes, do gasto inútil, da perda incondicional". Também se expressa essa influência em Lacan, onde no prefácio do seminário "Ainda", coloca como epígrafe-guia a frase "o gozo é aquilo que escapa à regra da utilidade. Ambas as influências apoiadas na noção Batailleana de dispêndio
+
+### 2026-06-20 20:18
+Na apresentação do tradutor, somos apresentados a trajetória de Bataille, passando desde os motivos de seu rompimento com o surrealismo bretoniano (e as suas constantes críticas, considerando-se um inimigo do surrealismo), até a formulação de sua economia. O tradutor introduz brevemente o erotismo de Bataille, apresentando seus conceitos de continuidade e descontinuidade, assim como do interdito e da transgressão, fazendo a relação do trabalho com a economia de dispêndio de Bataille.
+
+### 2026-06-20 19:33
+A idéia é começar uma nova leitura, mais detalhada, com fichamento, resumos e etc
 

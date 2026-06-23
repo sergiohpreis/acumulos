@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-22T20:52:37-03:00
+modified: 2026-06-23T13:55:14-03:00
 draft: false
 tags:
   - erotismo
@@ -15,7 +15,8 @@ tags:
 ## [[BATAILLE Georges. O erotismo (1957)]]
 
 - **2026-06-14**: Terminei de ler e pretendo me aprofundar mais em sua obra.
-- 2026-06-19, 08:58: Considerando a sugestão de [[#Notebook LM - Próximos passos]], vou ler o artigo [Em busca da continuidade perdida: erotismo e morte em Georges Bataille](https://books.bacana.info/audiobookshelf/item/98c5cacd-36ca-4e85-9391-c30c0b3cba5f).
+- **2026-06-19, 08:58**: Considerando a sugestão de [[#Notebook LM - Próximos passos]], vou ler o artigo [Em busca da continuidade perdida: erotismo e morte em Georges Bataille](https://books.bacana.info/audiobookshelf/item/98c5cacd-36ca-4e85-9391-c30c0b3cba5f).
+- **2026-06-23, 13:54**: Na verdade, reconsiderei... vou reler com mais atenção [[BATAILLE Georges. O erotismo (1957)]]
 
 ## LIVE CABEÇUDA (por QnS)
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-05-25T23:24:27-03:00
-modified: 2026-06-22T20:56:47-03:00
+modified: 2026-06-23T19:31:44-03:00
 draft:
 tags:
   - nietzsche
@@ -21,7 +21,8 @@ Quero entender essa crítica a moral feita por Nietszche.
 1. [[NIETZSCHE Friedrich. O Anticristo (1888)]]
 2. [[NIETZSCHE Friedrich. Crepúsculo dos Idolos (1888)]]
 3. [[NIETZSCHE Friedrich. Além do Bem e do Mal (1886)]]
-4. Genealogia da Moral
+4. [[NIETZSCHE Friedrich. Genealogia da Moral (1887)]]
+	1. Iniciando a leitura hoje (2026-06-23, 19:31)
 5. Obras Incompletas
 
 ## Comentadores

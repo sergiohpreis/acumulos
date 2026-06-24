@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T20:30:52-03:00
-modified: 2026-06-23T21:19:27-03:00
+modified: 2026-06-23T21:27:55-03:00
 draft: false
 ---
 
@@ -26,7 +26,7 @@ draft: false
 
 O autor argumenta que o espírito humano sempre foi aterrorizado pelos seus movimentos eróticos ("A santa se desvia com pavor do voluptuoso"). Portanto, é necessário encontrar uma coesão no espírito humano, olhando de frente para o que causa esse pavor, buscando a superação desse "estranho desconhecimento de si mesmo". Bataille aponta que o tema não é inédito, e que a sua busca é justamente pela coesão "na diversidade dos fatos descritos"
 
-## Segunda Parte: O autor esclarece sobre a sua recusa a abordagem científica (§9-11)
+## Segunda Parte: O autor esclarece sobre a sua recusa a abordagem científica na tratativa com o erotismo (§9-11)
 
 O autor argumenta que a abordagem científica não é capaz de atingir o sentido que o erotismo tem para os homens, e nesse sentido, alguns capítulos podem se afastar da "realidade sexual"
 
@@ -40,4 +40,12 @@ O autor explica como os capítulos da primeira e segunda parte foram elaborados,
 
 > "Uma questão separada nesse volume engloba sempre a questão inteira... este livro se reduz à visão de conjunto da vida humana, incessantemente retomada a partir de diferentes pontos de vista" (P30)
 
-## Quarta Parte:  (§14-XX)
+## Quarta Parte: O autor explica as razões da relação entre religião cristão e vida erótica (§14-15)
+
+O autor descreve sua obsessão pela imagem de Deus como uma paixão, e por isso, "os impulsos da religião cristã e os da vida erótica" aparecem em sua obra
+
+## Quinta Parte: O autor apresenta algumas referências e autoridades para o presente trabalho (§16-20)
+
+Apresenta a sua base em Michel Leiris e o Espelho da tauromaquia, que considerou o erotismo como um objeto da paixão, e não da ciência. Outra referência apresentada é **Alfred Métraux**, que lhe conferiu autoridade nas questões do **interdito** e **transgressão**
+
+# Introdução

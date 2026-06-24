@@ -1,24 +1,12 @@
 ---
 created: 2026-03-19T20:30:52-03:00
-modified: 2026-06-23T21:27:55-03:00
+modified: 2026-06-23T21:39:23-03:00
 draft: false
 ---
 
-# Informações da Obra
+A obra "O Erotismo" de Georges Bataille foi publicada em 1957, na França, e tem como objetivo falar sobre O erotismo sobre as perspectivas de interditos e transgressões, onde também busca estabelecer dialogo com outras idéias já existentes sobre o tema em busca de uma coesão fora de uma abordagem científica.
 
-- Qual o título preciso do texto?
-	- O Erotismo
-- Quem é o autor?
-	- Georges Bataille
-- Quando e onde o texto foi publicado?
-	- França, 1957
-- Em linhas gerais, de que o texto trata?
-	- Sobre o Erotismo
-- Qual o contexto da publicação?
-	- O objetivo é fazer uma coesão das teorias já existentes, buscar essa coesão "na diversidade dos fatos descritos"
-- Caso se trate de tradução, há informações sobre sua qualidade?
-
-*Com base nessa respostas, escrever um pequeno resumo*
+---
 
 # Prólogo
 
@@ -49,3 +37,5 @@ O autor descreve sua obsessão pela imagem de Deus como uma paixão, e por isso,
 Apresenta a sua base em Michel Leiris e o Espelho da tauromaquia, que considerou o erotismo como um objeto da paixão, e não da ciência. Outra referência apresentada é **Alfred Métraux**, que lhe conferiu autoridade nas questões do **interdito** e **transgressão**
 
 # Introdução
+
+TBD

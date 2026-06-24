@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T20:30:52-03:00
-modified: 2026-06-23T20:59:13-03:00
+modified: 2026-06-23T21:04:53-03:00
 draft: false
 ---
 
@@ -22,10 +22,11 @@ draft: false
 
 # Prólogo
 
-## Primeira Parte: \[Título dado pelo leitor] (§1-X) \[a quais parágrafos do texto a divisão corresponde]
+## Primeira Parte: O autor justifica a sua busca pela coesão do espírito humano com relação ao erotismo (§1-8)
 
-Neste trecho, o autor \[ ... ] _\[acrescenta-se_ _pequeno_ _resumo_ _do_ _trecho]_
+O autor argumenta que o espírito humano sempre foi aterrorizado pelos seus movimentos eróticos ("A santa se desvia com pavor do voluptuoso"). Portanto, é necessário encontrar uma coesão no espírito humano, olhando de frente para o que causa esse pavor, buscando a superação desse "estranho desconhecimento de si mesmo". Bataille aponta que o tema não é inédito, e que a sua busca é justamente pela coesão "na diversidade dos fatos descritos"
 
-## N Parte: \[Título dado pelo leitor] (§X-X) \[a quais parágrafos do texto a divisão corresponde]
+## Segunda Parte: O autor se opõe  (§1-8)
+
 
 Neste trecho, o autor \[ ... ] _\[acrescenta-se_ _pequeno_ _resumo_ _do_ _trecho]_

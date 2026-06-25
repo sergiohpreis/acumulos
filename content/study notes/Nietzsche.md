@@ -1,6 +1,6 @@
 ---
 created: 2026-05-25T23:24:27-03:00
-modified: 2026-06-23T20:22:54-03:00
+modified: 2026-06-25T18:14:03-03:00
 draft:
 tags:
   - nietzsche

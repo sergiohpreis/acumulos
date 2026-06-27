@@ -1,6 +1,6 @@
 ---
 created: 2026-03-24T18:55:08-03:00
-modified: 2026-06-27T16:15:58-03:00
+modified: 2026-06-27T16:38:45-03:00
 tags:
   - filosofia
   - empirismo
@@ -20,7 +20,7 @@ Lendo junto com o clube de leitura do filosofia vermelha
 
 ---
 
-# Livros
+# # Livros
 
 - ~~Livro I~~
 	- ~~Capítulo I: Introdução~~
@@ -60,9 +60,13 @@ Lendo junto com o clube de leitura do filosofia vermelha
 	- ~~Capítulo XXX: Das ideias fantásticas e das reais~~
 	- ~~Capítulo XXXI: Das ideias adequadas e inadequadas~~
 	- ~~Capítulo XXXII: Das ideias verdadeiras e falsas~~
-	- ~~Capítulo XXXIII: Da associação das ideias~~
 
 ## Leituras Complementares
 
 - [[ANTISERI Dario. Filosofia - Idade Moderna - Vol II (2018)]]
 
+## Anotações
+
+- Locke busca fazer uma taxinomia das idéias (organização a partir de características compartilhadas), para Locke, as idéias são a matéria prima do entendimento humano.
+- Berkeley criticou Locke
+- Noção de substância de Locke tem influência / relação nas de Spinoza e Leibniz

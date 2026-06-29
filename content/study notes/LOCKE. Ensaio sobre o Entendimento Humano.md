@@ -1,6 +1,6 @@
 ---
 created: 2026-03-24T18:55:08-03:00
-modified: 2026-06-27T16:38:45-03:00
+modified: 2026-06-28T23:31:47-03:00
 tags:
   - filosofia
   - empirismo
@@ -70,3 +70,7 @@ Lendo junto com o clube de leitura do filosofia vermelha
 - Locke busca fazer uma taxinomia das idéias (organização a partir de características compartilhadas), para Locke, as idéias são a matéria prima do entendimento humano.
 - Berkeley criticou Locke
 - Noção de substância de Locke tem influência / relação nas de Spinoza e Leibniz
+
+---
+
+![[Pasted image 20260628233146.png]]

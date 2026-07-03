@@ -3,7 +3,7 @@ title: BATAILLE Georges. A pura felicidade - Ensaios sobre o impossível (1970)
 authors:
   - Georges Bataille
 status:
-  - READING
+  - Lendo
 published_year: 1970
 categories:
   - Sociologia
@@ -32,8 +32,8 @@ tags:
   - bataille
   - filosofia
 draft: false
-created: 2026-07-03T17:32:42-03:00
-modified: 2026-07-03T17:41:58-03:00
+created: 2026-07-03T17:57:35-03:00
+modified: 2026-07-03T17:58:02-03:00
 ---
 
 **Georges Bataille** · 1970 · Autêntica · 9786559283491

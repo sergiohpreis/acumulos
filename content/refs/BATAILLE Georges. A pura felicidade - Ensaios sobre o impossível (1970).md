@@ -32,7 +32,8 @@ tags:
   - bataille
   - filosofia
 draft: false
-date: 2026-07-03T17:32:41.998328589-03:00
+created: 2026-07-03T17:32:42-03:00
+modified: 2026-07-03T17:41:58-03:00
 ---
 
 **Georges Bataille** · 1970 · Autêntica · 9786559283491
@@ -56,5 +57,6 @@ date: 2026-07-03T17:32:41.998328589-03:00
 ## Notas
 
 ### 2026-06-27 13:24
+
 Para o grupo "DAI Diálogos Alem do Impossível", iremos inicialmente ler dois textos que estão nesse livro: "America desaparecida" e "Diante de Lascaux, o homem civilizado se redescobre homem de desejo"
 

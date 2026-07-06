@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T20:30:52-03:00
-modified: 2026-07-06T20:23:28-03:00
+modified: 2026-07-06T20:33:52-03:00
 draft: false
 ---
 
@@ -12,8 +12,14 @@ A "sangrenta excentricidade" desses povos, suas refeições canibais, cerimonias
 
 Bataille faz uma análise de diversos aspectos da sociedade Inca, tanto quanto sua arquitetura, quanto sua organização social e produção artística, concluindo que havia "poucos traços brilhantes a relatar a respeito da civilização inca". Diferente dos povos costeiros, de civilização mais antiga (Colômbia, Equador, Panamá e as Antilhas)
 
-## Terceira Parte:  O autor compara a arte maia com a arte do Extremo Oriente (§6-9)
+## Terceira Parte:  O autor compara a arte maia com a arte do Extremo Oriente e seus impactos (§6-9)
 
-Para Bataille, a arte dos povos costeiros, de civilização mais antiga, era
+Para Bataille, "a arte maia é certamente mais humana do que qualquer outra na América", justamente por conta de seu "caráter de vegetação pesada e luxuriante", onde ambas se desenvolvem em países quentes e insalubres. Essa arte, embora tenha influenciado o desenvolvimento de civilizações posteriores, possui algo de "natimorto", com relação a perfeição e riqueza do trabalho
+
+## Quarta Parte:  O autor explora as manifestações do divino presentes no povo asteca e a sua religiosidade (§10-15)
+
+Para Bataille, as interpretações que foram feitas sobre a forma dos astecas representarem os deuses são cheias de incompreensões, apontando uma insuficiência nas classificações de "horríveis" ou "grotesca", e através do relato do monge Torquemada, que atribui os horrores da arte mexicana a uma manifestação de um "demônio que obsedava o espírito indígena", aproxima justamente "a maneira de representar o diabo para os cristão e os deuses para os mexicanos". Para os povos astecas, a religião era atrelada a um sentimento de "horror, de terror, aliado a uma espécie de humor ácido ainda mais apavorante que o horror".
+
+## Quarta Parte:  O autor explora as manifestações do divino presentes no povo asteca e a sua religiosidade (§10-15)
 
 

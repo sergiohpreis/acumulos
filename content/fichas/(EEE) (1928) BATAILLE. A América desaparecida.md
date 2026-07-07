@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T20:30:52-03:00
-modified: 2026-07-06T20:46:01-03:00
+modified: 2026-07-06T21:24:30-03:00
 draft: false
 tags:
   - bataille
@@ -11,11 +11,11 @@ tags:
 
 ## Primeira Parte: O autor propõe que a vida prodigiosa dos povos civilizados da América antes de Cristóvão Colombo tem relação com a sua "sangrenta excentricidade" (§1)
 
-A "sangrenta excentricidade" desses povos, suas refeições canibais, cerimonias com cadáveres, são objetos de fascínio para Bataille
+Para Bataille, a vida desses povos não é "prodigiosa" somente por sua descoberta e desaparecimento instantâneos, como também por sua "**sangrenta excentricidade**" (refeições canibais, cerimonias com cadáveres e etc).
 
-## Segunda Parte:  O autor explora alguns aspectos da civilização Inca (em Peru, Cusco) em comparação com os povos costeiros (§2-5)
+## Segunda Parte:  O autor explora alguns aspectos da civilização Inca (em Peru, Cusco) em comparação com outros povos da América (§2-5)
 
-Bataille faz uma análise de diversos aspectos da sociedade Inca, tanto quanto sua arquitetura, quanto sua organização social e produção artística, concluindo que havia "poucos traços brilhantes a relatar a respeito da civilização inca". Diferente dos povos costeiros, de civilização mais antiga (Colômbia, Equador, Panamá e as Antilhas)
+Bataille faz uma análise de diversos aspectos da sociedade Inca, passando por sua arquitetura, organização social e produção artística, concluindo que havia "poucos traços brilhantes a relatar a respeito da civilização inca". Diferente dos povos costeiros, de civilização mais antiga (Colômbia, Equador, Panamá e as Antilhas) e até mesmos os Tihuanaco (norte da Bolívia, região andina, não costeira).
 
 ## Terceira Parte:  O autor compara a arte maia com a arte do Extremo Oriente e seus impactos (§6-9)
 

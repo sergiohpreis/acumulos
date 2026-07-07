@@ -1,12 +1,11 @@
 ---
-created: 2026-07-06T22:52:35-03:00
-modified: 2026-07-07T13:39:17-03:00
+modified: 2026-07-07T13:39:27-03:00
 draft: false
 tags:
+  - lascaux
+  - arte
   - bataille
-  - horror
-  - violência
-  - américa-latina
+created: 2026-07-07T13:39:28-03:00
 ---
 
 ## Primeira Parte: O autor propõe que a vida prodigiosa dos povos civilizados da América antes de Cristóvão Colombo tem relação com a sua "sangrenta excentricidade" (§1)

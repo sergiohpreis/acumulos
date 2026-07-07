@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T20:30:52-03:00
-modified: 2026-07-06T22:25:08-03:00
+modified: 2026-07-06T22:39:58-03:00
 draft: false
 tags:
   - bataille
@@ -19,11 +19,13 @@ Bataille faz uma análise de diversos aspectos da sociedade Inca, passando por s
 
 ## Terceira Parte:  O autor avalia a arte da civilização dos maias-quiché (§6-9)
 
-Bataille concorda com a idéia de que a civilização dos maias-quiché é "a mais brilhante e mais interessante de todas as da América desaparecida", tendo se desenvolvido alguns séculos antes da conquista espanhola, entretanto, em plena decadência quando os espanhóis chegaram. Considera a sua arte mais como a "mais humana" dentre todas as outras da América, e ainda que não tenha sido influenciada, compartilha características em comum com artes contemporâneas do Extremo Oriente, da arte khmer, como por exemplo, o seu "caráter de vegetação pesada e luxuriante", proveniente de países quentes e insalubres. Enquanto os mitos religiosos e organização social desse povo influenciou o desenvolvimento de civilizações posteriores, sua arte possui algo de "natimorto, de insipidamente horrível a despeito da perfeição da riqueza do trabalho".
+Bataille concorda com a idéia de que a civilização dos maias-quiché é "a mais brilhante e mais interessante de todas as da América desaparecida", tendo se desenvolvido alguns séculos antes da conquista espanhola, entretanto, em plena decadência quando os espanhóis chegaram. Considera a sua arte mais como a "mais humana" dentre todas as outras da América, e ainda que não tenha sido influenciada, compartilha características em comum com artes contemporâneas do Extremo Oriente, da arte khmer, como por exemplo, o seu "caráter de vegetação pesada e luxuriante", proveniente de países quentes e insalubres. 
+
+Enquanto os mitos religiosos e organização social desse povo influenciaram o desenvolvimento de civilizações posteriores dos altos planaltos, sua arte possui algo de "natimorto, de insipidamente horrível a despeito da perfeição da riqueza do trabalho".
 
 ## Quarta Parte:  O autor apresenta seu fascínio pelo povo asteca, sua religiosidade e as suas manifestações do divino (§10-17)
 
-Bataille acredita que o povo asteca é o "mais vivo" e "o mais sedutor" entre os diversos indígenas da América e afirma que as interpretações que foram feitas sobre a forma dos astecas representarem os deuses são cheias de incompreensões, apontando uma insuficiência nas classificações de "horríveis" ou "grotesca", e através do relato do monge Torquemada, que atribui os horrores da arte mexicana a uma manifestação de um "demônio que obsedava o espírito indígena", aproxima justamente "a maneira de representar o diabo para os cristão e os deuses para os mexicanos". Para os povos astecas, a religião era atrelada a um sentimento de "horror, de terror, aliado a uma espécie de humor ácido ainda mais apavorante que o horror". Ainda assim, os demônios das igrejas europeias só seriam comparáveis aos deuses astecas se tivessem o seu "caráter de potência".
+Bataille acredita que o povo asteca, dentre os diversos indígenas da América, "não deixa de ser o mais vivo, o mais sedutor, até mesmo por sua violência demente, por seu porte de sonâmbulo". Crítica os historiadores do México por conta das incompreensões sobre a forma que os astecas representam os deuses, apontando uma insuficiência nas classificações de "horríveis" ou "grotesca", onde através do relato do monge Torquemada, que atribui os horrores da arte mexicana a uma manifestação de um "demônio que obsedava o espírito indígena", aproxima justamente "a maneira de representar o diabo para os cristão e os deuses para os mexicanos", mas ainda assim os demônios das igrejas europeias só seriam comparáveis aos deuses astecas se tivessem o seu "caráter de potência, a grandeza dos fantasmas astecas", estes são os mais sangrentos "de todos que povoaram as nuvens terrestres". Para os povos astecas, a religião era atrelada a um sentimento de "horror, de terror, aliado a uma espécie de humor ácido ainda mais apavorante que o horror", e Bataille defende que existe uma espécie de prazer com esse tipo de mistificação. 
 
 ## Quinta Parte:  O autor verifica a relação dos povos astecas com a morte e a violência (§18-24)
 

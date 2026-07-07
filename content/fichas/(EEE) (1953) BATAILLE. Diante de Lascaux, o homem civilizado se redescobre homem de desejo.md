@@ -8,6 +8,14 @@ tags:
   - bataille
 ---
 
-## Primeira Parte: XXXXXXXXX (§1)
+## Primeira Parte: O autor avalia o tipo de sentimento evocado pelas pinturas de Lascaux (§1-2)
 
-XXXXXXXXXXXXX
+Resumo: TBD
+
+## Segunda Parte: O autor compara os sentimentos evocados pelas pinturas de Lascaux com os sentimentos evocados por outras obras de arte (§3)
+
+Resumo: TBD
+
+## Terceira Parte: O autor compara os sentimentos evocados pelas pinturas de Lascaux com os sentimentos evocados por outras obras de arte (§)
+
+Resumo: TBD

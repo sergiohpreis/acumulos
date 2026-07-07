@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T20:30:52-03:00
-modified: 2026-07-06T22:39:58-03:00
+modified: 2026-07-06T22:49:07-03:00
 draft: false
 tags:
   - bataille
@@ -25,9 +25,11 @@ Enquanto os mitos religiosos e organização social desse povo influenciaram o d
 
 ## Quarta Parte:  O autor apresenta seu fascínio pelo povo asteca, sua religiosidade e as suas manifestações do divino (§10-17)
 
-Bataille acredita que o povo asteca, dentre os diversos indígenas da América, "não deixa de ser o mais vivo, o mais sedutor, até mesmo por sua violência demente, por seu porte de sonâmbulo". Crítica os historiadores do México por conta das incompreensões sobre a forma que os astecas representam os deuses, apontando uma insuficiência nas classificações de "horríveis" ou "grotesca", onde através do relato do monge Torquemada, que atribui os horrores da arte mexicana a uma manifestação de um "demônio que obsedava o espírito indígena", aproxima justamente "a maneira de representar o diabo para os cristão e os deuses para os mexicanos", mas ainda assim os demônios das igrejas europeias só seriam comparáveis aos deuses astecas se tivessem o seu "caráter de potência, a grandeza dos fantasmas astecas", estes são os mais sangrentos "de todos que povoaram as nuvens terrestres". Para os povos astecas, a religião era atrelada a um sentimento de "horror, de terror, aliado a uma espécie de humor ácido ainda mais apavorante que o horror", e Bataille defende que existe uma espécie de prazer com esse tipo de mistificação. 
+Bataille acredita que o povo asteca, dentre os diversos indígenas da América, "não deixa de ser o mais vivo, o mais sedutor, até mesmo por sua violência demente, por seu porte de sonâmbulo", em sua visão, eram "bárbaros recentemente cultivados". Critica os historiadores do México por conta das incompreensões sobre a forma que os astecas representam os deuses, apontando uma insuficiência nas classificações de "horríveis" ou "grotesca", onde através do relato do monge Torquemada, que atribui os horrores da arte mexicana a uma manifestação de um "demônio que obsedava o espírito indígena", aproxima justamente "a maneira de representar o diabo para os cristão e os deuses para os mexicanos", mas ainda assim os demônios das igrejas europeias só seriam comparáveis aos deuses astecas se tivessem o seu "caráter de potência, a grandeza dos fantasmas astecas", estes são os mais sangrentos "de todos que povoaram as nuvens terrestres", mesmo que os demônios europeus compartilhem de uma mesma obsessão essencial. 
+
+Para os povos astecas, a religião era atrelada a um sentimento de "horror, de terror, aliado a uma espécie de humor ácido ainda mais apavorante que o horror", e Bataille sugere que existe uma espécie de prazer com esse tipo de mistificação. 
 
 ## Quinta Parte:  O autor verifica a relação dos povos astecas com a morte e a violência (§18-24)
 
-Bataille acreditava que a morte nada significava aos astecas, e que os mesmos pareciam ter um "gosto excessivo pela morte", que pode ser demonstrado inclusive pelo contrate entre as suas cidades floridas e os seus rituais sangrentos, avaliando inclusive que por conta desse gosto, sofreram uma espécie de enfeitiçamento e se entregaram de braços abertos aos espanhóis, e por isso, Cortés não precisou tanto do uso da força
+Bataille acreditava que a morte nada significava aos astecas, e que os mesmos pareciam ter um "gosto excessivo pela morte", que pode ser verificado inclusive pelo contraste entre as suas cidades floridas e os seus rituais sangrentos. Bataille avalia  que por conta desse gosto, sofreram uma espécie de enfeitiçamento e se entregaram de braços abertos aos espanhóis, e por isso, Cortés não precisou tanto do uso da força, uma vez que eles mesmos quiseram servir de "espetáculo" a esses personagens.
 

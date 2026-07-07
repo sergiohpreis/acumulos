@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T20:30:52-03:00
-modified: 2026-07-06T22:08:59-03:00
+modified: 2026-07-06T22:18:37-03:00
 draft: false
 tags:
   - bataille
@@ -19,12 +19,9 @@ Bataille faz uma análise de diversos aspectos da sociedade Inca, passando por s
 
 ## Terceira Parte:  O autor avalia a arte da civilização dos maias-quiché (§6-9)
 
-Bataille concorda com a idéia de que a civilização dos maias-quiché é "a mais brilhante e mais interessante de todas as da América desaparecida" e considera a sua arte mais como a "mais humana" dentre todas as outras da América, compartilhando características em comum com artes contemporâneas do Extremo Orientae
+Bataille concorda com a idéia de que a civilização dos maias-quiché é "a mais brilhante e mais interessante de todas as da América desaparecida", tendo se desenvolvido alguns séculos antes da conquista espanhola, entretanto, em plena decadência quando os espanhóis chegaram. Considera a sua arte mais como a "mais humana" dentre todas as outras da América, compartilhando características em comum com artes contemporâneas do Extremo Oriente, da arte khmer, que também possuem um "caráter de vegetação pesada e luxuriante", ainda que não tenha sofrido sua influência, ambas se desenvolveram em países quentes e insalubres. Enquanto os mitos religiosos e organização social desse povo influenciou o desenvolvimento de civilizações posteriores, sua arte possui algo de "natimorto, de insipidamente horrível a despeito da perfeição da riqueza do trabalho".
 
-
-justamente por conta de seu "caráter de vegetação pesada e luxuriante", que assim como as artes onde ambas se desenvolvem em países quentes e insalubres. Enquanto os mitos religiosos e organização social desse povo influenciou o desenvolvimento de civilizações posteriores, sua arte possui algo de "natimorto, de insipidamente horrível a despeito da perfeição da riqueza do trabalho".
-
-## Quarta Parte:  O autor explora a violência do povo asteca, sua religiosidade e as suas manifestações do divino (§10-17)
+## Quarta Parte:  O autor explora a origem do povo asteca, sua religiosidade e as suas manifestações do divino (§10-17)
 
 Para Bataille, as interpretações que foram feitas sobre a forma dos astecas representarem os deuses são cheias de incompreensões, apontando uma insuficiência nas classificações de "horríveis" ou "grotesca", e através do relato do monge Torquemada, que atribui os horrores da arte mexicana a uma manifestação de um "demônio que obsedava o espírito indígena", aproxima justamente "a maneira de representar o diabo para os cristão e os deuses para os mexicanos". Para os povos astecas, a religião era atrelada a um sentimento de "horror, de terror, aliado a uma espécie de humor ácido ainda mais apavorante que o horror".
 

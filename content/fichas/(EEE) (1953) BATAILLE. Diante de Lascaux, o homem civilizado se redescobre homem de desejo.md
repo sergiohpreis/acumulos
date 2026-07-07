@@ -16,6 +16,6 @@ Resumo: TBD
 
 Resumo: TBD
 
-## Terceira Parte: O autor compara os sentimentos evocados pelas pinturas de Lascaux com os sentimentos evocados por outras obras de arte (§)
+## Terceira Parte: O autor rejeita a noção comum quanto a representação de Lascaux através de um auto reconhecimento (§4-)
 
 Resumo: TBD

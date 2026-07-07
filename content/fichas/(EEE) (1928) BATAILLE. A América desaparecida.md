@@ -1,6 +1,6 @@
 ---
 created: 2026-03-19T20:30:52-03:00
-modified: 2026-07-06T22:49:07-03:00
+modified: 2026-07-06T22:52:35-03:00
 draft: false
 tags:
   - bataille
@@ -31,5 +31,5 @@ Para os povos astecas, a religião era atrelada a um sentimento de "horror, de t
 
 ## Quinta Parte:  O autor verifica a relação dos povos astecas com a morte e a violência (§18-24)
 
-Bataille acreditava que a morte nada significava aos astecas, e que os mesmos pareciam ter um "gosto excessivo pela morte", que pode ser verificado inclusive pelo contraste entre as suas cidades floridas e os seus rituais sangrentos. Bataille avalia  que por conta desse gosto, sofreram uma espécie de enfeitiçamento e se entregaram de braços abertos aos espanhóis, e por isso, Cortés não precisou tanto do uso da força, uma vez que eles mesmos quiseram servir de "espetáculo" a esses personagens.
+Bataille acreditava que a morte nada significava aos astecas, e que os mesmos pareciam ter um "gosto excessivo pela morte", que pode ser verificado inclusive pelo contraste entre as suas cidades floridas e os seus rituais sangrentos. Bataille avalia  que por conta desse gosto, sofreram uma espécie de enfeitiçamento e se entregaram de braços abertos aos espanhóis, e por isso, Cortés não precisou tanto do uso da força, uma vez que eles mesmos quiseram servir de "espetáculo" e "teatro" a esses deuses caprichosos, ao seu "escárnio" e "divertimento", morrendo tão bruscamente quanto um inseto que se esmaga.
 

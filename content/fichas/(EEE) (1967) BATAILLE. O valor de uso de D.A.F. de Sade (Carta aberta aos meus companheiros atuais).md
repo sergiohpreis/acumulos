@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-12T22:59:21-03:00
+modified: 2026-07-12T23:19:23-03:00
 draft: false
 tags:
   - bataille
@@ -26,8 +26,14 @@ A organização religiosa da sociedade, que dividiu os fatos sociais em religios
 
 Os objetos das atividades desses impulsos possuem um caráter em comum, pois são tratados como um "corpo estranho", que podem ser tanto expulso em uma ruptura brutal, quanto reabsorvidos e assim colocando o corpo em um "completo estado de expulsão" mais ou menos violento. Essa noção de corpo estranho (heterogêneo) permite demarcar a "identidade elementar subjetiva dos excrementos" e de tudo que pode ser visto como "sagrado, divino ou maravilhoso". (ver a nota na página 26 sobre a identidade de natureza entre Deus e o excremento)
 
-## Sexta parte: O autor  (§17-19)
+## Sexta parte: O autor propõe o processo de apropriação como homogeneidade e o da excreção como heterogeneidade (§17-19)
 
+> "O processo de **apropriação** caracteriza-se, assim, por uma **homogeneidade** (equilíbrio estático) entre o autor da apropriação e os objetos como resultado final, ao passo que a **excreção** se apresenta como resultado de uma **heterogeneidade** cada vez maior ao liberar impulsos cuja ambivalência é cada vez mais acentuada" (BATAILLE, 2024, p. 27, cap. Apropriação e excreção).
 
+## Sétima Parte: O autor descreve o processo de apropriação homogênea nos diferentes produtos da atividade do homem (§20-23)
+
+O homem não se apropria apenas dos alimentos, mas também dos diversos produtos de sua atividade por meio de uma homogeneidade. Nesse sentido, para Bataille, a produção "pode ser vista como a fase excretória de um processo de apropriação", ou seja, onde nós produzimos um corpo estranho, heterogêneo a nós mesmos.
+
+Entretanto, essa "homogeneidade de aspecto" que acontece nas cidades entre os homens e o que nos cerca
 
 ---

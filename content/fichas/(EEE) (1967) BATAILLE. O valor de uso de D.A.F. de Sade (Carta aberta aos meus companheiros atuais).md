@@ -18,9 +18,15 @@ O sadismo não é apenas uma concepção inteiramente outra que aquela que exist
 
 TBD
 
-## Quarta Parte: O autor propõe uma relação entre o desenvolvimento da organização religiosa e os impulsos excremenciais coletivos
+## Quarta Parte: O autor propõe uma relação entre o desenvolvimento da organização religiosa e os impulsos excremenciais coletivos (§15)
 
 A organização religiosa da sociedade, que dividiu os fatos sociais em religiosos e profanos, servem como base para a determinação de dois impulsos humanos, a EXCREÇÃO E APROPRIAÇÃO. A via da organização religiosa é a mais amplamente aberta a esses "impulsos excremenciais coletivos (impulsos orgiáticos) em oposição às instituições políticas, jurídicas e econômicas"
+
+## Quinta parte: O autor introduz a sua noção de corpo estranho e heterogêneo (§16)
+
+Os objetos das atividades desses impulsos possuem um caráter em comum, pois são tratados como um "corpo estranho", que podem ser tanto expulso em uma ruptura brutal, quanto reabsorvidos e assim colocando o corpo em um "completo estado de expulsão" mais ou menos violento. Essa noção de corpo estranho (heterogêneo) permite demarcar a "identidade elementar subjetiva dos excrementos" e de tudo que pode ser visto como "sagrado, divino ou maravilhoso". (ver a nota na página 26 sobre a identidade de natureza entre Deus e o excremento)
+
+## Sexta parte: O autor  (§17-19)
 
 
 

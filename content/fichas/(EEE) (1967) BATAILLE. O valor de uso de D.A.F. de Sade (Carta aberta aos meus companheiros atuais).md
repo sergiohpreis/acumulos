@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-12T23:19:23-03:00
+modified: 2026-07-12T23:22:22-03:00
 draft: false
 tags:
   - bataille
@@ -34,6 +34,6 @@ Os objetos das atividades desses impulsos possuem um caráter em comum, pois sã
 
 O homem não se apropria apenas dos alimentos, mas também dos diversos produtos de sua atividade por meio de uma homogeneidade. Nesse sentido, para Bataille, a produção "pode ser vista como a fase excretória de um processo de apropriação", ou seja, onde nós produzimos um corpo estranho, heterogêneo a nós mesmos.
 
-Entretanto, essa "homogeneidade de aspecto" que acontece nas cidades entre os homens e o que nos cerca
+Entretanto, essa "homogeneidade de aspecto" que acontece nas cidades entre os homens e o que nos cerca é apenas a ponta do iceberg, pois existe uma homogeneidade muito mais profunda que é resultado da busca incessante do homem pela identificação de "todos os elementos de que o mundo é composto", e que assim, substituiu todos os objetos desconhecidos, a priori inconcebíveis, por "séries ordenadas de concepções ou de ideias". Essa apropriação é obra tanto da filosofia, quanto da ciência e do senso comum, que buscando estabelecer essa "homogeneidade do mundo", terão que lidar com a excreção que virá.
 
 ---

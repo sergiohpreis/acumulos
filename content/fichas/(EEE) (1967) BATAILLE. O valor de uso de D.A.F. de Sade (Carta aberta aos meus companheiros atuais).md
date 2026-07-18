@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T11:56:38-03:00
+modified: 2026-07-18T12:08:36-03:00
 draft: false
 tags:
   - bataille
@@ -54,8 +54,23 @@ A "homogeneidade de aspecto" que se vê nas cidades é apenas uma manifestação
 
 > "... no sentido da excreção a partir do momento em que os dejetos irredutíveis da operação se encontrarem determinados" (BATAILLE, 2024, p. 28, cap. Apropriação e excreção).
 
-## 10. Avalia os dejetos das apropriações filosóficas e religiosas (§24-25)
+## 10. 6º Avalia os dejetos das apropriações filosóficas e religiosas e a possibilidade de uma heterogeneidade (§24-25)
 
 A filosofia encara os dejetos "sob formas abstratas da totalidade (nada, infinito, absoluto)", sendo incapaz de produzir um conteúdo positivo. Somente a forma religiosa de uma elaboração intelectual pode ser capaz de oferecer um dejeto heterogêneo, entretanto, o fato das religiões operarem uma profunda cisão no domínio sagrado, faz com que todo o domínio superior passe por uma "homogeneidade progressiva".
 
-> Deus perde rapidamente e quase inteiramente os elementos aterradores e 
+> "Deus perde rapidamente e quase inteiramente os elementos aterradores e os empréstimos tomados ao cadáver em simples decomposição para tornar-se, no último termo da degradação, o simples signo (paterno) da homogeneidade universal" (BATAILLE, 2024, p. 28, cap. Filosofia, religião e poesia em relação à heterologia).
+
+## 10. 7º Rejeita a religião enquanto uma heterologia teórica e prática (§26)
+
+A religião não é aquilo que "responde a necessidade de projeção (expulsão ou excreção)", mas um conjunto de 
+ 
+
+Define religião e 
+Nega a religião enquanto uma heterologia teórica
+
+ambas fatos sagrados e excremenciais
+
+ausência de rigor cientifico na religião
+trai as necessidades que pretendera não apenas regular como também satisfazer
+
+escatologia (nota p.29)

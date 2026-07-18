@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T12:08:36-03:00
+modified: 2026-07-18T12:13:29-03:00
 draft: false
 tags:
   - bataille
@@ -60,17 +60,14 @@ A filosofia encara os dejetos "sob formas abstratas da totalidade (nada, infinit
 
 > "Deus perde rapidamente e quase inteiramente os elementos aterradores e os empréstimos tomados ao cadáver em simples decomposição para tornar-se, no último termo da degradação, o simples signo (paterno) da homogeneidade universal" (BATAILLE, 2024, p. 28, cap. Filosofia, religião e poesia em relação à heterologia).
 
-## 10. 7º Rejeita a religião enquanto uma heterologia teórica e prática (§26)
+## 11. 7º Rejeita a religião enquanto uma heterologia teórica e prática (§26)
 
-A religião não é aquilo que "responde a necessidade de projeção (expulsão ou excreção)", mas um conjunto de 
- 
+A religião não é aquilo que "responde a necessidade de projeção (expulsão ou excreção)", mas um "conjunto de proibições, de obrigações e de licenças parciais que canalizam e regularizam socialmente essa projeção". A religião é diferente de uma heterologia teórica pois, ainda que ambas estejam relacionadas aos fatos sagrados e excremenciais, a religião não possui nenhum rigor científico, e trai as suas próprias necessidade (que busca não só regular como satisfazer).
 
-Define religião e 
-Nega a religião enquanto uma heterologia teórica
+## 12. 8º xxxxxxxxxxx (§27)
 
-ambas fatos sagrados e excremenciais
+poesia tão desclassificada quanto religião
 
-ausência de rigor cientifico na religião
-trai as necessidades que pretendera não apenas regular como também satisfazer
+poesia a mercê dos sistemas históricos de apropriação
 
-escatologia (nota p.29)
+concepção poética total do mundo -> homogeneidade estética qualquer

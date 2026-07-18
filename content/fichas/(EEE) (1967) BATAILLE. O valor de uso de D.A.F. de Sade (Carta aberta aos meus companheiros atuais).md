@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T11:19:52-03:00
+modified: 2026-07-18T11:28:29-03:00
 draft: false
 tags:
   - bataille
@@ -31,13 +31,16 @@ Manifesta a sua *"vontade que permaneceu doentia de agitação"* em aprofundar m
 
 A organização religiosa da sociedade, que divide os fatos sociais em fatos religiosos e profanos são bases para dois impulsos humanos, a **EXCREÇÃO** e **APROPRIAÇÃO**. Essa organização religiosa, ao contrário das *"instituições políticas, jurídicas e econômicas"*, são a principal via para a manifestação desses *"impulsos excremenciais coletivos (impulsos orgiáticos)"*
 
-## 6. Constata os objetos da atividade como corpos estranhos e heterogêneos (§16)
+## 6. Explora a noção de "corpo estranho (heterogêneo)" e a relação entre a identidade elementar subjetiva dos excrementos e do sagrado (§16)
 
 Os objetos das atividades provenientes desses impulsos possuem um caráter em comum, pois são tratados como um "corpo estranho", que tanto podem ser expulsos em uma ruptura brutal, ou reabsorvido colocando o corpo em um "completo estado de expulsão mais ou menos violento".
 
-Essa noção de corpo estranho (heterogêneo) permite demarcar a "identidade elementar subjetiva dos excrementos" e de tudo que pode ser visto como "sagrado, divino ou maravilhoso". É a semelhança entre Deus e a merda, ambos de alguma forma quebram uma normalidade do cotidiano
+Essa noção de corpo estranho (heterogêneo) permite demarcar a "identidade elementar subjetiva dos excrementos" e de tudo que pode ser visto como "sagrado, divino ou maravilhoso". É a semelhança entre Deus e a merda, ambos de alguma forma quebram uma normalidade do cotidiano.
 
 (ver a nota na página 26 sobre a identidade de natureza entre Deus e o excremento)
+
+
+Na nota de roda pé da página 26, existe uma situação que fala sobre uma *"identidade de natureza, do ponto de vista psicológico, entre Deus e o excremento"*. Os impulsos orgiáticos 
 
 ## 7. Remete o processo apropriação como homogeneidade e o da excreção como heterogeneidade (§17-19)
 

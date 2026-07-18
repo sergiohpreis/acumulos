@@ -25,7 +25,7 @@ Não é uma concepção inteiramente outra do que existia antes de Sade, mas apa
 
 Bataille manifesta a sua "vontade que permaneceu doentia de agitação" em aprofundar mais sobre a obra de Sade, buscando se afastar de concepções que buscam colocar os escritos de Sade apenas como artísticos, como algo "inconcebível fora da ficção". 
 
-## Quarta Parte: O autor propõe uma relação entre o desenvolvimento da organização religiosa e os impulsos excremenciais coletivos (§15)
+## Quarta Parte: Relação entre o desenvolvimento da organização religiosa e os impulsos excremenciais coletivos (§15)
 
 A organização religiosa da sociedade, que dividiu os fatos sociais em religiosos e profanos, servem como base para a determinação de dois impulsos humanos, a EXCREÇÃO E APROPRIAÇÃO. A via da organização religiosa é a mais amplamente aberta a esses "impulsos excremenciais coletivos (impulsos orgiáticos) em oposição às instituições políticas, jurídicas e econômicas"
 

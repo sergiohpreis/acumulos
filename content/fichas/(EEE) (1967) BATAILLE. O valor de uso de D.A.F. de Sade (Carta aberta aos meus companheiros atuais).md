@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-17T23:54:54-03:00
+modified: 2026-07-18T00:16:35-03:00
 draft: false
 tags:
   - bataille
@@ -17,13 +17,13 @@ Bataille deixa claro que busca que o seu texto encontre os seus companheiros em 
 
 Bataille sugere que é necessário ir além das visões reducionistas dos apologistas de Sade, que busca ou se opor a ele, ou adorá-lo, ou até mesmo tratá-lo como um "corpo estranho", resultando em sua excreção. É necessário que a vida e obra de Sade tenha um valor de uso além do *"valor de uso vulgar dos excrementos"*, onde se ama apenas o *"prazer rápido (e violento) de evacuá-los e não mais vê-los"*.
 
-## 3. Como o sadismo aparece (§9)
+## 3. Síntese de como o sadismo aparece (§9)
 
 Não é uma concepção inteiramente outra do que existia antes de Sade, mas aparece como, positivamente, *"irrupção das forças excremenciais"* e de outro, como uma *"limitação correspondente"*, uma *"subserviência estreita de tudo o que opomos a essa irrupção"*.
 
-## Terceira Parte: O autor argumenta sobre a necessidade de uma introdução aos valores estabelecidos por Sade (§10-14)
+## 4. Desqualifica os autores que ignorar Sade e os seu reducionismo (§10-14)
 
-TBD
+Bataille manifesta a sua "vontade que permaneceu doentia de agitação" em aprofundar mais sobre a obra de Sade, buscando se afastar de concepções que buscam colocar os escritos de Sade apenas como artísticos, como algo "inconcebível fora da ficção". 
 
 ## Quarta Parte: O autor propõe uma relação entre o desenvolvimento da organização religiosa e os impulsos excremenciais coletivos (§15)
 

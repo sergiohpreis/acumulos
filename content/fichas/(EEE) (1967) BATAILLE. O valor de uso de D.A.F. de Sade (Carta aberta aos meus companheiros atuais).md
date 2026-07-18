@@ -1,12 +1,14 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-12T23:22:22-03:00
+modified: 2026-07-17T23:33:45-03:00
 draft: false
 tags:
   - bataille
 ---
 
-## 1. 
+## 1. Justifica os motivos da escrita da carta e delimita o seu público alvo (§1-5)
+
+Bataille deixa claro que busca que o seu texto encontre os seus companheiros em busca de *"testemunhas para constatar uma defecção tão completa"*. Quanto ao seu público alvo, para além de seus companheiros, além dos que já conhece, aquelesbusca atingir os homens (e massas) "comparativamente decompostos, que se tornaram amorfos e foram até mesmo expulsos de modo violento para fora de qualquer forma", cogita até mesmo que pode ser que esses homens sequer existam (e que as massas "seguramente não existem"). Mas ainda que não existam, para Bataille, é necessário que existirão, pois "os laços atuais são incapazes de arrastar por muito mais tempo a subserviência habitual dos caractere
 
 ## Primeira Parte: O autor rejeita as visões reducionistas sobre a vida e a obra de de Sade (§1-8)
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T12:13:29-03:00
+modified: 2026-07-18T12:28:33-03:00
 draft: false
 tags:
   - bataille
@@ -64,10 +64,6 @@ A filosofia encara os dejetos "sob formas abstratas da totalidade (nada, infinit
 
 A religião não é aquilo que "responde a necessidade de projeção (expulsão ou excreção)", mas um "conjunto de proibições, de obrigações e de licenças parciais que canalizam e regularizam socialmente essa projeção". A religião é diferente de uma heterologia teórica pois, ainda que ambas estejam relacionadas aos fatos sagrados e excremenciais, a religião não possui nenhum rigor científico, e trai as suas próprias necessidade (que busca não só regular como satisfazer).
 
-## 12. 8º xxxxxxxxxxx (§27)
+## 12. 8º Argumenta sobre as limitações da poesia na construção de uma heterogeneidade (§27)
 
-poesia tão desclassificada quanto religião
-
-poesia a mercê dos sistemas históricos de apropriação
-
-concepção poética total do mundo -> homogeneidade estética qualquer
+A poesia é "tão desclassificada quanto a religião", uma vez que sempre esteve a "mercê dos grandes sistemas históricos de apropriação", mas ainda que fosse autônoma, conseguiria obrigatoriamente uma "homogeneidade estética qualquer", uma concepção poética total do mundo. A duração da heterogeneidade dos elementos que põe em jogo dura enquanto essa realidade não se constitui como uma "realidade superior" que vulgariza a "realidade inferior vulgar", nesse sentido, a poesia se tornaria uma "medida das coisas", e a "pior vulgaridade assume um valor excremencial cada vez mais forte"

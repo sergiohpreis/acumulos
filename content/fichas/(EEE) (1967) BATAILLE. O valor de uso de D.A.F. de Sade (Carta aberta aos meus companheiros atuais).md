@@ -1,11 +1,12 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T11:49:43-03:00
+modified: 2026-07-18T11:56:38-03:00
 draft: false
 tags:
   - bataille
   - sade
   - fichamento
+  - heterologia
 ---
 
 ## 1. Esclarece os motivos e delimita o público alvo (§1-5)
@@ -47,8 +48,14 @@ Nesse sentido, quando buscamos nos apropriar, podemos ter um consumo sacramental
 
 Nos diferentes produtos da atividade humana, existe uma certa identificação entre o possuidor e o objeto possuído, que se da "por meio de uma homogeneidade (identidade)". A produção e a venda podem ser vistas como *"a fase excretória de um processo de apropriação"*, ou seja, o que produzo sai de mim para ser apropriado pelo outro.
 
-## 8. Crítica a apropriação filosófica e aponta consequências de sua busca por uma homogeneidade do mundo (§22-23)
+## 9. Crítica a apropriação realizada pelo homem e aponta as consequências de sua busca por uma homogeneidade do mundo (§22-23)
 
 A "homogeneidade de aspecto" que se vê nas cidades é apenas uma manifestação de uma homogeneidade muito maior, que começa a partir do momento em que o homem buscou *"substituir em toda parte os objetos exteriores, a priori inconcebíveis, por séries ordenadas de concepções ou de ideias"*. Tal homogeneidade foi produzida tanto pela filosofia, como também pela ciência e senso comum, e terá como resultado uma fase terminal, uma excreção.
 
 > "... no sentido da excreção a partir do momento em que os dejetos irredutíveis da operação se encontrarem determinados" (BATAILLE, 2024, p. 28, cap. Apropriação e excreção).
+
+## 10. Avalia os dejetos das apropriações filosóficas e religiosas (§24-25)
+
+A filosofia encara os dejetos "sob formas abstratas da totalidade (nada, infinito, absoluto)", sendo incapaz de produzir um conteúdo positivo. Somente a forma religiosa de uma elaboração intelectual pode ser capaz de oferecer um dejeto heterogêneo, entretanto, o fato das religiões operarem uma profunda cisão no domínio sagrado, faz com que todo o domínio superior passe por uma "homogeneidade progressiva".
+
+> Deus perde rapidamente e quase inteiramente os elementos aterradores e 

@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T01:24:18-03:00
+modified: 2026-07-18T02:19:57-03:00
 draft: false
 tags:
   - bataille
@@ -8,9 +8,9 @@ tags:
   - fichamento
 ---
 
-## 1. Esclarecimento sobre os motivos e delimitação do público alvo (§1-5)
+## 1. Esclarece sobre os motivos e delimita o público alvo (§1-5)
 
-Bataille deixa claro que busca que o seu texto encontre os seus companheiros em busca de *"testemunhas para constatar uma defecção tão completa"*. Quanto ao seu público alvo, para além de seus companheiros, além dos que já conhece, aqueles que busca atingir os homens (e massas) "comparativamente decompostos, que se tornaram amorfos e foram até mesmo expulsos de modo violento para fora de qualquer forma", cogita até mesmo que pode ser que esses homens sequer existam (e que as massas "seguramente não existem"). Mas ainda que não existam, para Bataille, é necessário que existirão, os homens decompostos pois "os laços atuais são incapazes de arrastar por muito mais tempo a subserviência habitual dos caracteres e dos costumes" e as massas quando assistirem "desaparecer o prestígio da realidade industrial", em outras palavras:
+Bataille deixa claro que busca que o seu texto encontre os seus companheiros como *"testemunhas para constatar uma defecção tão completa"*. Quanto ao seu **público alvo**, para além de seus companheiros, além dos que já conhece, aqueles que busca atingir os homens (e massas) "comparativamente decompostos, que se tornaram amorfos e foram até mesmo expulsos de modo violento para fora de qualquer forma", cogita até mesmo que pode ser que esses homens sequer existam (e que as massas "seguramente não existem"). Mas ainda que não existam, para Bataille, é necessário que existirão, os homens decompostos pois "os laços atuais são incapazes de arrastar por muito mais tempo a subserviência habitual dos caracteres e dos costumes" e as massas quando assistirem "desaparecer o prestígio da realidade industrial", em outras palavras:
 > "... quando o processo de **progresso material** e de **transformação rápida** de que tiveram que participar (tanto dócil quanto insurgentemente) culminar numa **estagnação** desagradável e sem saída" (BATAILLE, 2024, p. 22, cap. Apropriação e excreção).
 
 ## 2. Oposição as visões reducionistas sobre a vida e a obra de Sade e sugestão de um valor de uso além dos excrementos (§6-8)

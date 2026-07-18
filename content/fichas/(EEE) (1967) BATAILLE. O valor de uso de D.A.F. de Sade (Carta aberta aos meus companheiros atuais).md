@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T02:29:11-03:00
+modified: 2026-07-18T02:37:49-03:00
 draft: false
 tags:
   - bataille
@@ -27,18 +27,17 @@ Aparece como, positivamente, *"irrupção das **forças excremenciais**"* e de o
 
 Manifesta a sua *"vontade que permaneceu doentia de agitação"* em aprofundar mais sobre a obra de Sade, buscando se afastar de concepções que buscam colocar os escritos de Sade apenas como artísticos, como algo *"inconcebível fora da ficção"*. 
 
-## 5. Explora como a organização religiosa serve como base para os impulsos de excreção e apropriação 
+## 5. Explora como a organização religiosa serve como base para os impulsos de excreção e apropriação (§15)
 
-Relação entre o desenvolvimento da organização religiosa e os impulsos excremenciais coletivos (§15)
+A organização religiosa da sociedade, que divide os fatos sociais em fatos religiosos e profanos são bases para dois impulsos humanos, a **EXCREÇÃO** e **APROPRIAÇÃO**. Essa organização religiosa, ao contrário das *"instituições políticas, jurídicas e econômicas"*, são a principal via para a manifestação desses *"impulsos excremenciais coletivos (impulsos orgiáticos)"*
 
-Uma organização religiosa da sociedade, que divide os fatos sociais em religiosos e profanos, serve como base para a determinação de dois impulsos humanos, a EXCREÇÃO E APROPRIAÇÃO. A via da organização religiosa é a mais amplamente aberta a esses "impulsos excremenciais coletivos (impulsos orgiáticos) em oposição às instituições políticas, jurídicas e econômicas"
+## 6. Constata os objetos da atividade como corpos estranhos e heterogêneos (§16)
 
+Os objetos das atividades provenientes desses impulsos possuem um caráter em comum, pois são tratados como um "corpo estranho", que tanto podem ser expulsos em uma ruptura brutal, ou reabsorvido colocando o corpo em um "completo estado de expulsão mais ou menos violento".
 
-A organização religiosa da sociedade, que divide os fatos sociais em fatos religiosos e profanos são bases para dois impulsos humanos, a
+Essa noção de corpo estranho (heterogêneo) permite demarcar a "identidade elementar subjetiva dos excrementos" e de tudo que pode ser visto como "sagrado, divino ou maravilhoso". É a semelhança entre Deus e a merda, ambos de alguma forma quebram uma normalidade do cotidiano
 
-## 6. Constata os objetos da atividade como corpos estranhos e heterogêneo (§16)
-
-Os objetos das atividades desses impulsos possuem um caráter em comum, pois são tratados como um "corpo estranho", que podem ser tanto expulso em uma ruptura brutal, quanto reabsorvidos e assim colocando o corpo em um "completo estado de expulsão" mais ou menos violento. Essa noção de corpo estranho (heterogêneo) permite demarcar a "identidade elementar subjetiva dos excrementos" e de tudo que pode ser visto como "sagrado, divino ou maravilhoso". (ver a nota na página 26 sobre a identidade de natureza entre Deus e o excremento)
+(ver a nota na página 26 sobre a identidade de natureza entre Deus e o excremento)
 
 ## 7. Remete o processo apropriação como homogeneidade e o da excreção como heterogeneidade (§17-19)
 

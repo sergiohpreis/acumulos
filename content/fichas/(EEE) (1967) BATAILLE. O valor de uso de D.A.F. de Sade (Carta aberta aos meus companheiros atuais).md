@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T02:37:49-03:00
+modified: 2026-07-18T11:19:52-03:00
 draft: false
 tags:
   - bataille
@@ -27,7 +27,7 @@ Aparece como, positivamente, *"irrupção das **forças excremenciais**"* e de o
 
 Manifesta a sua *"vontade que permaneceu doentia de agitação"* em aprofundar mais sobre a obra de Sade, buscando se afastar de concepções que buscam colocar os escritos de Sade apenas como artísticos, como algo *"inconcebível fora da ficção"*. 
 
-## 5. Explora como a organização religiosa serve como base para os impulsos de excreção e apropriação (§15)
+## 5. Defende que a organização religiosa serve como base para impulsos de excreção e apropriação (orgiáticos) (§15)
 
 A organização religiosa da sociedade, que divide os fatos sociais em fatos religiosos e profanos são bases para dois impulsos humanos, a **EXCREÇÃO** e **APROPRIAÇÃO**. Essa organização religiosa, ao contrário das *"instituições políticas, jurídicas e econômicas"*, são a principal via para a manifestação desses *"impulsos excremenciais coletivos (impulsos orgiáticos)"*
 

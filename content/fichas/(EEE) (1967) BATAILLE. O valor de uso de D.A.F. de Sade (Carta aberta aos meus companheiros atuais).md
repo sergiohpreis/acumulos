@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T01:08:06-03:00
+modified: 2026-07-18T01:19:19-03:00
 draft: false
 tags:
   - bataille
@@ -17,9 +17,9 @@ Bataille deixa claro que busca que o seu texto encontre os seus companheiros em 
 
 Bataille sugere que é necessário ir além das visões reducionistas dos apologistas de Sade, que busca ou se opor a ele, ou adorá-lo, ou até mesmo tratá-lo como um "corpo estranho", resultando em sua excreção. É necessário que a vida e obra de Sade tenha um valor de uso além do *"valor de uso vulgar dos excrementos"*, onde se ama apenas o *"prazer rápido (e violento) de evacuá-los e não mais vê-los"*.
 
-## 3. Síntese de como o sadismo aparece (§9)
+## 3. Síntese de como o sadismo aparece enquanto uma concepção inteiramente outra (§9)
 
-Não é uma concepção inteiramente outra do que existia antes de Sade, mas aparece como, positivamente, *"irrupção das forças excremenciais"* e de outro, como uma *"limitação correspondente"*, uma *"subserviência estreita de tudo o que opomos a essa irrupção"*.
+Não é apenas uma concepção inteiramente outra do que existia antes de Sade, mas aparece como, positivamente, *"irrupção das forças excremenciais"* e de outro, como uma *"limitação correspondente"*, uma *"subserviência estreita de tudo o que opomos a essa irrupção"*. Se trata de um jogo de "forças subordinadas", escravos trabalhando para responder as suas necessidades.
 
 ## 4. Desqualifica os autores que ignorar Sade e os seu reducionismo (§10-14)
 
@@ -27,7 +27,7 @@ Bataille manifesta a sua "vontade que permaneceu doentia de agitação" em aprof
 
 ## 5. Relação entre o desenvolvimento da organização religiosa e os impulsos excremenciais coletivos (§15)
 
-A organização religiosa da sociedade, que dividiu os fatos sociais em religiosos e profanos, servem como base para a determinação de dois impulsos humanos, a EXCREÇÃO E APROPRIAÇÃO. A via da organização religiosa é a mais amplamente aberta a esses "impulsos excremenciais coletivos (impulsos orgiáticos) em oposição às instituições políticas, jurídicas e econômicas"
+Uma organização religiosa da sociedade, que divide os fatos sociais em religiosos e profanos, servem como base para a determinação de dois impulsos humanos, a EXCREÇÃO E APROPRIAÇÃO. A via da organização religiosa é a mais amplamente aberta a esses "impulsos excremenciais coletivos (impulsos orgiáticos) em oposição às instituições políticas, jurídicas e econômicas"
 
 ## 6. Constata os objetos da atividade como corpos estranhos e heterogêneo (§16)
 
@@ -37,16 +37,10 @@ Os objetos das atividades desses impulsos possuem um caráter em comum, pois sã
 
 > "O processo de **apropriação** caracteriza-se, assim, por uma **homogeneidade** (equilíbrio estático) entre o autor da apropriação e os objetos como resultado final, ao passo que a **excreção** se apresenta como resultado de uma **heterogeneidade** cada vez maior ao liberar impulsos cuja ambivalência é cada vez mais acentuada" (BATAILLE, 2024, p. 27, cap. Apropriação e excreção).
 
-Nesse sentido, quando buscamos nos apropriar, podemos ter um consumo sacramental (sacrificial) ou não. No dia a dia, tornamos os alimentos homogêneos (não comemos pedaços de seres crus). O elemento de apropriação "dotado de forma medida e raciona" é o que domina, a maior parte das vezes consumimos para buscar esse equilíbrio estático (a homogeneidade).
+Nesse sentido, quando buscamos nos apropriar, podemos ter um consumo sacramental (sacrificial) ou não. No dia a dia, tornamos os alimentos homogêneos (não comemos pedaços de seres crus). O elemento de apropriação "dotado de forma medida e raciona" é o que domina, a maior parte das vezes consumimos para buscar esse equilíbrio estático (a homogeneidade), esse não é o caso por exemplo de um consumo sacrificial, sob a forma elementar da orgia, que incorpora elementos heterogêneos a pessoa.
 
 ## 8. Descreve o processo de apropriação homogênea nos diferentes produtos da atividade do homem (§20-23)
 
-Nos diferentes produtos da atividade humana, existe uma certa identificação entre o possuidor e o objeto possuído, "por meio de uma homogeneidade (identidade)". 
+Nos diferentes produtos da atividade humana, existe uma certa identificação entre o possuidor e o objeto possuído, "por meio de uma homogeneidade (identidade)". Entretanto, a produção e a venda podem ser vistas como "a fase excretória de um processo de apropriação", ou seja, o que produzo sai de mim para ser apropriado pelo outro.
 
-Embora exista uma "homogeneidade de aspecto", que é realizada nas cidades entre os homens e aquilo que os cerca, essa é apenas uma forma de uma homogeneidade "muito mais consequente", quando o homem decide "substituir em toda parte os objetos exteriores, a priori inconcebíveis, por séries ordenadas de concepções ou ideias". Essas concepções resultam em representações diferentes daquilo que se imagina, gerando revoltas e escândalos, 
-
-O homem não se apropria apenas dos alimentos, mas também dos diversos produtos de sua atividade por meio de uma homogeneidade. Nesse sentido, para Bataille, a produção "pode ser vista como a fase excretória de um processo de apropriação", ou seja, onde nós produzimos um corpo estranho, heterogêneo a nós mesmos.
-
-Entretanto, essa "homogeneidade de aspecto" que acontece nas cidades entre os homens e o que nos cerca é apenas a ponta do iceberg, pois existe uma homogeneidade muito mais profunda que é resultado da busca incessante do homem pela identificação de "todos os elementos de que o mundo é composto", e que assim, substituiu todos os objetos desconhecidos, a priori inconcebíveis, por "séries ordenadas de concepções ou de ideias". Essa apropriação é obra tanto da filosofia, quanto da ciência e do senso comum, que buscando estabelecer essa "homogeneidade do mundo", terão que lidar com a excreção que virá.
-
----
+Embora exista uma "homogeneidade de aspecto", que é realizada nas cidades entre os homens e aquilo que os cerca, essa é apenas uma forma de uma homogeneidade "muito mais consequente", quando o homem decide "substituir em toda parte os objetos exteriores, a priori inconcebíveis, por séries ordenadas de concepções ou ideias", e isso como fruto do trabalho da ciência e da filosofia tradicional. Essas concepções resultam em representações diferentes daquilo que se imagina, gerando revoltas e escândalos, mas sempre buscando uma "homogeneidade do mundo", entretanto, para Bataille, inevitavelmente culminará em uma "fase terminal", na excreção, quando os "dejetos irredutíveis da operação se encontrarem determinados". A busca por homogeneidade resultará na excreção, pois a 

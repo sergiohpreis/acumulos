@@ -6,6 +6,8 @@ tags:
   - bataille
 ---
 
+## 1. 
+
 ## Primeira Parte: O autor rejeita as visões reducionistas sobre a vida e a obra de de Sade (§1-8)
 
 Resumo: Buscando formar um coro, Bataille sugere que é necessário ir além das visões reducionistas dos apologistas de Sade, que busca ou se opor a ele, ou adorá-lo. É necessário que a vida e obra de Sade tenha um valor de uso além do *"valor de uso vulgar dos excrementos"*

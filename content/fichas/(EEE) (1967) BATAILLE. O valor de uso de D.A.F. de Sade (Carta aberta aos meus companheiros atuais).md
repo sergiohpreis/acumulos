@@ -1,18 +1,21 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-17T23:33:45-03:00
+modified: 2026-07-17T23:49:01-03:00
 draft: false
 tags:
   - bataille
+  - sade
+  - fichamento
 ---
 
 ## 1. Justifica os motivos da escrita da carta e delimita o seu público alvo (§1-5)
 
-Bataille deixa claro que busca que o seu texto encontre os seus companheiros em busca de *"testemunhas para constatar uma defecção tão completa"*. Quanto ao seu público alvo, para além de seus companheiros, além dos que já conhece, aquelesbusca atingir os homens (e massas) "comparativamente decompostos, que se tornaram amorfos e foram até mesmo expulsos de modo violento para fora de qualquer forma", cogita até mesmo que pode ser que esses homens sequer existam (e que as massas "seguramente não existem"). Mas ainda que não existam, para Bataille, é necessário que existirão, pois "os laços atuais são incapazes de arrastar por muito mais tempo a subserviência habitual dos caractere
+Bataille deixa claro que busca que o seu texto encontre os seus companheiros em busca de *"testemunhas para constatar uma defecção tão completa"*. Quanto ao seu público alvo, para além de seus companheiros, além dos que já conhece, aquelesbusca atingir os homens (e massas) "comparativamente decompostos, que se tornaram amorfos e foram até mesmo expulsos de modo violento para fora de qualquer forma", cogita até mesmo que pode ser que esses homens sequer existam (e que as massas "seguramente não existem"). Mas ainda que não existam, para Bataille, é necessário que existirão, os homens decompostos pois "os laços atuais são incapazes de arrastar por muito mais tempo a subserviência habitual dos caracteres e dos costumes" e as massas quando assistirem "desaparecer o prestígio da realidade industrial", em outras palavras:
+> "... quando o processo de **progresso material** e de **transformação rápida** de que tiveram que participar (tanto dócil quanto insurgentemente) culminar numa **estagnação** desagradável e sem saída" (BATAILLE, 2024, p. 22, cap. Apropriação e excreção).
 
-## Primeira Parte: O autor rejeita as visões reducionistas sobre a vida e a obra de de Sade (§1-8)
+## 2. O autor se opõe as visões reducionistas sobre a vida e a obra de Sade e sugere um valor de uso além dos excrementos (§6-8)
 
-Resumo: Buscando formar um coro, Bataille sugere que é necessário ir além das visões reducionistas dos apologistas de Sade, que busca ou se opor a ele, ou adorá-lo. É necessário que a vida e obra de Sade tenha um valor de uso além do *"valor de uso vulgar dos excrementos"*
+Bataille sugere que é necessário ir além das visões reducionistas dos apologistas de Sade, que busca ou se opor a ele, ou adorá-lo, ou até mesmo tratá-lo como um "corpo estranho", resultando em sua excreção. É necessário que a vida e obra de Sade tenha um valor de uso além do *"valor de uso vulgar dos excrementos"*, onde se ama apenas o *"prazer rápido (e violento) de evacuá-los e não mais vê-los"*.
 
 ## Segunda Parte: O autor esclarece a sua noção de sadismo (§9)
 

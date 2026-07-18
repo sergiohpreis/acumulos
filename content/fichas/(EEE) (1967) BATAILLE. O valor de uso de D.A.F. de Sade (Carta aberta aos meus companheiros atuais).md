@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T11:28:29-03:00
+modified: 2026-07-18T11:36:41-03:00
 draft: false
 tags:
   - bataille
@@ -33,20 +33,19 @@ A organização religiosa da sociedade, que divide os fatos sociais em fatos rel
 
 ## 6. Explora a noção de "corpo estranho (heterogêneo)" e a relação entre a identidade elementar subjetiva dos excrementos e do sagrado (§16)
 
-Os objetos das atividades provenientes desses impulsos possuem um caráter em comum, pois são tratados como um "corpo estranho", que tanto podem ser expulsos em uma ruptura brutal, ou reabsorvido colocando o corpo em um "completo estado de expulsão mais ou menos violento".
+Na nota de roda pé da página 26, existe uma situação que fala sobre uma *"identidade de natureza, do ponto de vista psicológico, entre Deus e o excremento"*. Os impulsos orgiáticos sempre tem como objeto algo que se encontra como um corpo estranho, heterogêneo, que ao mesmo tempo que é expulso em uma "ruptura brutal", também é reabsorvido, colocando o corpo em um "completo estado de expulsão (de projeção) mais ou menos violento".
 
-Essa noção de corpo estranho (heterogêneo) permite demarcar a "identidade elementar subjetiva dos excrementos" e de tudo que pode ser visto como "sagrado, divino ou maravilhoso". É a semelhança entre Deus e a merda, ambos de alguma forma quebram uma normalidade do cotidiano.
+> "A noção de **corpo estranho (heterogêneo)** permite demarcar a identidade elementar subjetiva dos excrementos (esperma, mênstruos, urina, matérias fecais) e de tudo o que pôde ser olhado como **sagrado**, divino ou maravilhoso" (BATAILLE, 2024, p. 26, cap. Apropriação e excreção).
 
-(ver a nota na página 26 sobre a identidade de natureza entre Deus e o excremento)
-
-
-Na nota de roda pé da página 26, existe uma situação que fala sobre uma *"identidade de natureza, do ponto de vista psicológico, entre Deus e o excremento"*. Os impulsos orgiáticos 
-
-## 7. Remete o processo apropriação como homogeneidade e o da excreção como heterogeneidade (§17-19)
+## 7. Explora o processo de apropriação enquanto homogeneidade e o da excreção como heterogeneidade (§17-19)
 
 > "O processo de **apropriação** caracteriza-se, assim, por uma **homogeneidade** (equilíbrio estático) entre o autor da apropriação e os objetos como resultado final, ao passo que a **excreção** se apresenta como resultado de uma **heterogeneidade** cada vez maior ao liberar impulsos cuja ambivalência é cada vez mais acentuada" (BATAILLE, 2024, p. 27, cap. Apropriação e excreção).
 
 Nesse sentido, quando buscamos nos apropriar, podemos ter um consumo sacramental (sacrificial) ou não. No dia a dia, tornamos os alimentos homogêneos (não comemos pedaços de seres crus). O elemento de apropriação "dotado de forma medida e racional" é o que domina, a maior parte das vezes consumimos para buscar esse equilíbrio estático (a homogeneidade), esse não é o caso por exemplo de um consumo sacrificial, sob a forma elementar da orgia, que incorpora elementos heterogêneos a pessoa.
+
+## 8. Avalia a apropriação dos diferentes produtos da ativifeita pelo homem
+
+Descreve o processo de apropriação homogênea nos diferentes produtos da atividade do homem (§20-21)
 
 ## 8. Descreve o processo de apropriação homogênea nos diferentes produtos da atividade do homem (§20-23)
 

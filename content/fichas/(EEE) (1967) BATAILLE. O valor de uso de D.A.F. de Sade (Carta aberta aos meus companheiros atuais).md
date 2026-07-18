@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T00:16:35-03:00
+modified: 2026-07-18T01:08:06-03:00
 draft: false
 tags:
   - bataille
@@ -25,19 +25,25 @@ Não é uma concepção inteiramente outra do que existia antes de Sade, mas apa
 
 Bataille manifesta a sua "vontade que permaneceu doentia de agitação" em aprofundar mais sobre a obra de Sade, buscando se afastar de concepções que buscam colocar os escritos de Sade apenas como artísticos, como algo "inconcebível fora da ficção". 
 
-## Quarta Parte: Relação entre o desenvolvimento da organização religiosa e os impulsos excremenciais coletivos (§15)
+## 5. Relação entre o desenvolvimento da organização religiosa e os impulsos excremenciais coletivos (§15)
 
 A organização religiosa da sociedade, que dividiu os fatos sociais em religiosos e profanos, servem como base para a determinação de dois impulsos humanos, a EXCREÇÃO E APROPRIAÇÃO. A via da organização religiosa é a mais amplamente aberta a esses "impulsos excremenciais coletivos (impulsos orgiáticos) em oposição às instituições políticas, jurídicas e econômicas"
 
-## Quinta parte: O autor introduz a sua noção de corpo estranho e heterogêneo (§16)
+## 6. Constata os objetos da atividade como corpos estranhos e heterogêneo (§16)
 
 Os objetos das atividades desses impulsos possuem um caráter em comum, pois são tratados como um "corpo estranho", que podem ser tanto expulso em uma ruptura brutal, quanto reabsorvidos e assim colocando o corpo em um "completo estado de expulsão" mais ou menos violento. Essa noção de corpo estranho (heterogêneo) permite demarcar a "identidade elementar subjetiva dos excrementos" e de tudo que pode ser visto como "sagrado, divino ou maravilhoso". (ver a nota na página 26 sobre a identidade de natureza entre Deus e o excremento)
 
-## Sexta parte: O autor propõe o processo de apropriação como homogeneidade e o da excreção como heterogeneidade (§17-19)
+## 7. Remete o processo apropriação como homogeneidade e o da excreção como heterogeneidade (§17-19)
 
 > "O processo de **apropriação** caracteriza-se, assim, por uma **homogeneidade** (equilíbrio estático) entre o autor da apropriação e os objetos como resultado final, ao passo que a **excreção** se apresenta como resultado de uma **heterogeneidade** cada vez maior ao liberar impulsos cuja ambivalência é cada vez mais acentuada" (BATAILLE, 2024, p. 27, cap. Apropriação e excreção).
 
-## Sétima Parte: O autor descreve o processo de apropriação homogênea nos diferentes produtos da atividade do homem (§20-23)
+Nesse sentido, quando buscamos nos apropriar, podemos ter um consumo sacramental (sacrificial) ou não. No dia a dia, tornamos os alimentos homogêneos (não comemos pedaços de seres crus). O elemento de apropriação "dotado de forma medida e raciona" é o que domina, a maior parte das vezes consumimos para buscar esse equilíbrio estático (a homogeneidade).
+
+## 8. Descreve o processo de apropriação homogênea nos diferentes produtos da atividade do homem (§20-23)
+
+Nos diferentes produtos da atividade humana, existe uma certa identificação entre o possuidor e o objeto possuído, "por meio de uma homogeneidade (identidade)". 
+
+Embora exista uma "homogeneidade de aspecto", que é realizada nas cidades entre os homens e aquilo que os cerca, essa é apenas uma forma de uma homogeneidade "muito mais consequente", quando o homem decide "substituir em toda parte os objetos exteriores, a priori inconcebíveis, por séries ordenadas de concepções ou ideias". Essas concepções resultam em representações diferentes daquilo que se imagina, gerando revoltas e escândalos, 
 
 O homem não se apropria apenas dos alimentos, mas também dos diversos produtos de sua atividade por meio de uma homogeneidade. Nesse sentido, para Bataille, a produção "pode ser vista como a fase excretória de um processo de apropriação", ou seja, onde nós produzimos um corpo estranho, heterogêneo a nós mesmos.
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-18T12:28:33-03:00
+modified: 2026-07-19T21:48:25-03:00
 draft: false
 tags:
   - bataille
@@ -68,3 +68,7 @@ A religião não é aquilo que "responde a necessidade de projeção (expulsão 
 ## 12. 8º Argumenta sobre as limitações da poesia na construção de uma heterogeneidade (§27)
 
 A poesia é "tão desclassificada quanto a religião", uma vez que sempre esteve a "mercê dos grandes sistemas históricos de apropriação", mas ainda que fosse autônoma, conseguiria obrigatoriamente uma "homogeneidade estética qualquer", uma concepção poética total do mundo. A duração da heterogeneidade dos elementos que põe em jogo dura enquanto essa realidade não se constitui como uma "realidade superior" que vulgariza a "realidade inferior vulgar", nesse sentido, a poesia se tornaria uma "medida das coisas", e a "pior vulgaridade assume um valor excremencial cada vez mais forte"
+
+## 13. XXXXXXXX (§28-)
+
+XXXXXXX

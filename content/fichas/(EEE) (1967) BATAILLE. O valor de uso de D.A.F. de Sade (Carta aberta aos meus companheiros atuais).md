@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-20T00:17:52-03:00
+modified: 2026-07-20T19:38:54-03:00
 draft: false
 tags:
   - bataille
@@ -99,4 +99,8 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 
 ## 3. XXXXXXXXX (§15-23)
 
-1. Aponta as consequências da divisão dos fatos sociais em fatos religiosos e(§15)
+1. Aponta as consequências da divisão dos fatos sociais em fatos religiosos e fatos profanos (§15)
+	1. a organização religiosa é a via mais aberta aos impulsos excremenciais coletivos (orgiáticos), que são dois impulsos humanos polarizados, "a EXCREÇÃO e APROPRIAÇÃO"
+2. Relaciona o objeto da atividade desses impulsos a noção de corpo estranho (heterogêneo) (§16)
+	1. um "inteiramente outro" ("das ganz Anderes"), que pode tanto ser *" **expulso** no rastro de ruptura brutal"* ou **reabsorvido** *"no desejo de pôr o corpo e o espírito num completo **estado de expulsão** (de projeção) mais ou menos violento"*
+3. Explica como se da a produção de um "ritmo alternativo" entre o "processo de apropriação simples" e o "processo de excreção composto" (§17)

@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-19T21:51:55-03:00
+modified: 2026-07-19T22:03:30-03:00
 draft: false
 tags:
   - bataille
@@ -67,8 +67,14 @@ A religião não é aquilo que "responde a necessidade de projeção (expulsão 
 
 ## 12. 8º Argumenta sobre as limitações da poesia na construção de uma heterogeneidade (§27)
 
-A poesia é "tão desclassificada quanto a religião", uma vez que sempre esteve a "mercê dos grandes sistemas históricos de apropriação", mas ainda que fosse autônoma, conseguiria obrigatoriamente uma "homogeneidade estética qualquer", uma concepção poética total do mundo. A duração da heterogeneidade dos elementos que põe em jogo dura enquanto essa realidade não se constitui como uma "realidade superior" que vulgariza a "realidade inferior vulgar", nesse sentido, a poesia se tornaria uma "medida das coisas", e a "pior vulgaridade assume um valor excremencial cada vez mais forte"
+A poesia é "tão desclassificada quanto a religião", uma vez que sempre esteve a "mercê dos grandes sistemas históricos de apropriação", mas ainda que fosse autônoma, conseguiria obrigatoriamente uma "homogeneidade estética qualquer", uma concepção poética total do mundo. A duração da heterogeneidade dos elementos que põe em jogo dura enquanto essa realidade não se constitui como uma "realidade superior" que vulgariza a "realidade inferior vulgar", nesse sentido, a poesia se tornaria uma "medida das coisas", e a "pior vulgaridade assume um valor excremencial cada vez mais forte".
 
-## 13. 9º Rejeita a heterologia como ciência e a opõe aos sistemas filosófico (§28-29)
+## 13. 9º Rejeita a heterologia como ciência e a opõe aos sistemas filosóficos (§28-29)
 
-Apesar da heterologia "encarar cientificamente as questões da heterogeneidade", não é a ciência do heterogêneo, uma vez o mesmo se situa "fora do alcance do conhecimento científico". Além disso, também se opõe a qualquer sistema filosófico, que são representações que buscam
+Apesar da heterologia "encarar cientificamente as questões da heterogeneidade", não é a ciência do heterogêneo, uma vez o mesmo se situa "fora do alcance do conhecimento científico". Além disso, também se opõe a qualquer sistema filosófico, que são representações que buscam privar o universo que vivemos de toda fonte de "excitação", e desenvolver os humanos apenas para "fabricação", nesse sentindo, é uma completa inversão do processo filosófico.
+
+> "É por esse viés que ela procede à inversão completa do processo filosófico, que, de instrumento de apropriação que era, passa a estar serviço da excreção e introduz a reivindicação das satisfações violentas implicadas pela existência social" (BATAILLE, 2024, p. 30, cap. Teoria heterológica do conhecimento).
+
+## 13. 10º Demarca os limites da objetividade dos elementos heterogêneos (§30-31)
+
+O processo de limitação e o estudo das reações de antagonismo (expulsão) e de amor (reabsorção) que se alternam violentamente estão sob a alçada da heterologia como ciência, pela "afirmação do elemento heterogêneo", que "permanece indefinível e só pode ser ficado por meio de negações". Ou seja, apenas os resultados podem ser analisados, e não o próprio elemento, que só pode ser "objeto de uma série de negações

@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-20T00:09:03-03:00
+modified: 2026-07-20T00:17:52-03:00
 draft: false
 tags:
   - bataille
@@ -95,6 +95,6 @@ Bataille inicia a sua carta esclarecendo os motivos pelos quais decidiu a escrev
 
 ## 2. Rejeita o reducionismo interpretativo de Sade e define o sadismo como concepção 'inteiramente outra' (§6-14)
 
-Sugere que é necessário ir além das visões reducionistas dos apologistas de Sade, que buscam ou se opor a ele, ou adorá-lo, ou até mesmo tratá-lo como um *"corpo estranho"*, resultando meramente em sua excreção — movimento do qual participam também os literatos, que buscam colocar os escritos de Sade apenas como artísticos, como algo *"inconcebível fora da ficção"*. É necessário que a vida e obra de Sade tenha um valor de uso além do *"valor de uso vulgar dos excrementos"*. Por isso, defende o sadismo como uma concepção "inteiramente outra", positivamente como uma "**irrupção** das forças excremenciais" e do outro lado como uma "**limitação** correspondente", uma "subserviência estreita de tudo o que opomos a essa irrupção", forças subordinadas (a necessidade social, a dignidade humana, a pátria, a família, os sentimentos poéticos) que trabalham para suprir necessidades mais animalescas do homem; é nessas condições, diz Bataille, que tais valores aparecem sem nenhuma máscara. 
+Sugere que é necessário ir além das visões reducionistas dos **apologistas** de Sade, que buscam ou se opor a ele, ou adorá-lo, ou até mesmo tratá-lo como um *"corpo estranho"*, resultando meramente em sua **excreção** — movimento do qual participam também os **literatos**, que buscam colocar os escritos de Sade apenas como artísticos, como algo *"inconcebível fora da ficção"*. É necessário que a vida e obra de Sade tenha um valor de uso além do *"valor de uso vulgar dos excrementos"*. Por isso, defende o sadismo como uma concepção "inteiramente outra", positivamente como uma "**irrupção** das forças excremenciais" e do outro lado como uma "**limitação** correspondente", uma "subserviência estreita de tudo o que opomos a essa irrupção", forças subordinadas (a necessidade social, a dignidade humana, a pátria, a família, os sentimentos poéticos) que trabalham para suprir necessidades mais animalescas do homem; é nessas condições, diz Bataille, que tais valores aparecem sem nenhuma máscara. 
 
 ## 3. XXXXXXXXX (§15-23)

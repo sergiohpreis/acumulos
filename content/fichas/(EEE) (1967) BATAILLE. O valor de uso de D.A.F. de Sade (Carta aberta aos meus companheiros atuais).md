@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-19T23:16:43-03:00
+modified: 2026-07-19T23:24:00-03:00
 draft: false
 tags:
   - bataille
@@ -89,25 +89,6 @@ O ponto fraco das concepções de excreção e apropriação está no fato de qu
 
 ---
 
-## 1. Rejeita o reducionismo presente nas interpretações da obra de Sade
+## 1. Rejeita o reducionismo presente nas interpretações da obra de Sade propondo um novo valor de uso (§1-14)
 
-Bataille iniciar a sua carta esclarecendo os motivos pelos quais decidiu a escrever, e porque escolheu seus destinatários como "testemunhas" de sua defecção, argumentando inclusive sobre a necessidade da mesma. Rejeitando as concepções reducionistas da obra de Sade, apresenta a necessidade de se apresentar um novo valor de uso, que conceba o Sadismo tanto quanto 
-
-### 1. Esclarece os motivos e delimita o público alvo (§1-5)
-
-Bataille deixa claro que busca que o seu texto encontre os seus companheiros como *"testemunhas para constatar uma defecção tão completa"*. Quanto ao seu **público alvo**, para além de seus companheiros, além dos que já conhece, busca atingir os homens (e massas) *"comparativamente decompostos, que se tornaram **amorfos** e foram até mesmo expulsos de modo violento para fora de qualquer forma"*, cogita até mesmo que pode ser que esses homens sequer existam (e que as massas "seguramente não existem"). Mas ainda que não existam, para Bataille, é certo que existirão, os homens serão decompostos pois *"os laços atuais são incapazes de arrastar por muito mais tempo a subserviência habitual dos caracteres e dos costumes"* e as massas também, ao assistirem *"desaparecer o prestígio da realidade industrial"*, em outras palavras:
-> "... quando o processo de **progresso material** e de **transformação rápida** de que tiveram que participar (tanto dócil quanto insurgentemente) culminar numa **estagnação** desagradável e sem saída" (BATAILLE, 2024, p. 22, cap. Apropriação e excreção).
-
-As imposições do atual modo de produção, a realidade industrial, caminham rumo a uma estagnação, e isso é o motivo da ruína do homem e das massas.
-
-### 2. Rejeita as visões reducionistas sobre a vida e a obra de Sade e sugere um novo valor de uso (§6-8)
-
-Sugere que é necessário ir além das visões reducionistas dos apologistas de Sade, que buscam ou se opor a ele, ou adorá-lo, ou até mesmo tratá-lo como um *"corpo estranho"*, resultando meramente em sua excreção. É necessário que a vida e obra de Sade tenha um valor de uso além do *"valor de uso vulgar dos excrementos"*, onde se ama apenas o *"prazer rápido (e violento) de evacuá-los e não mais vê-los"*. 
-
-### 3. Concebe o sadismo aparece enquanto uma concepção "inteiramente outra"(§9)
-
-Aparece como, positivamente, *"irrupção das **forças excremenciais**"* e de outro, como uma *"limitação correspondente"*, uma *"**subserviência** estreita de tudo o que opomos a essa irrupção"*. Se trata de um jogo de *"forças subordinadas"*, escravos trabalhando para responder às suas necessidades mais animalescas.
-
-### 4. Desqualifica os autores que ignorar Sade e os seu reducionismo e introduz sobre os seus valores (§10-14)
-
-Manifesta a sua *"vontade que permaneceu doentia de agitação"* em aprofundar mais sobre a obra de Sade, buscando se afastar de concepções que buscam colocar os escritos de Sade apenas como artísticos, como algo *"inconcebível fora da ficção"*. 
+Bataille iniciar a sua carta esclarecendo os motivos pelos quais decidiu a escrever, e porque escolheu seus destinatários como "testemunhas" de sua defecção, argumentando inclusive sobre a necessidade da mesma. Rejeitando as concepções reducionistas da obra de Sade, apresenta a necessidade de se apresentar um novo valor de uso. Por isso, concebe o Sadismo através de uma concepção "inteiramente outra", como uma "irrupção das forças excremenciais", ao mesmo tempo que uma "limitação correspondente", uma "subserviência estreita de tudo o que opomos a essa irrupção", um jogo de forças subordinadas as necessidades animalescas do homem.

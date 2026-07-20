@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-19T23:59:07-03:00
+modified: 2026-07-20T00:09:03-03:00
 draft: false
 tags:
   - bataille
@@ -27,7 +27,7 @@ Aparece como, positivamente, *"irrupção das **forças excremenciais**"* e de o
 
 ## 4. Desqualifica os autores que ignorar Sade e os seu reducionismo e introduz sobre os seus valores (§10-14)
 
-Manifesta a sua *"vontade que permaneceu doentia de agitação"* em aprofundar mais sobre a obra de Sade, buscando se afastar de concepções que buscam colocar os escritos de Sade apenas como artísticos, como algo *"inconcebível fora da ficção"*. 
+Manifesta a sua *"vontade que permaneceu doentia de agitação"* em aprofundar mais sobre a obra de Sade, 
 
 ## 5. 1º Defende que a organização religiosa serve como base para impulsos de excreção e apropriação (orgiáticos) (§15)
 
@@ -49,7 +49,7 @@ Nesse sentido, quando buscamos nos apropriar, podemos ter um consumo sacramental
 
 Nos diferentes produtos da atividade humana, existe uma certa identificação entre o possuidor e o objeto possuído, que se da "por meio de uma homogeneidade (identidade)". A produção e a venda podem ser vistas como *"a fase excretória de um processo de apropriação"*, ou seja, o que produzo sai de mim para ser apropriado pelo outro.
 
-## 9. Crítica a apropriação realizada pelo homem e aponta as consequências de sua busca por uma homogeneidade do mundo (§22-23)
+## 9. 5º Crítica a apropriação realizada pelo homem e aponta as consequências de sua busca por uma homogeneidade do mundo (§22-23)
 
 A "homogeneidade de aspecto" que se vê nas cidades é apenas uma manifestação de uma homogeneidade muito maior, que começa a partir do momento em que o homem buscou *"substituir em toda parte os objetos exteriores, a priori inconcebíveis, por séries ordenadas de concepções ou de ideias"*. Tal homogeneidade foi produzida tanto pela filosofia, como também pela ciência e senso comum, e terá como resultado uma fase terminal, uma excreção.
 
@@ -95,4 +95,6 @@ Bataille inicia a sua carta esclarecendo os motivos pelos quais decidiu a escrev
 
 ## 2. Rejeita o reducionismo interpretativo de Sade e define o sadismo como concepção 'inteiramente outra' (§6-14)
 
-Defende o sadismo como uma concepção "inteiramente outra", positivamente como uma "**irrupção** das forças excremenciais" e do outro lado como uma "**limitação** correspondente", uma "subserviência estreita de tudo o que opomos a essa irrupção", forças subordinadas (a necessidade social, a dignidade humana, a pátria, a família, os sentimentos poéticos) que trabalham para suprir necessidades mais animalescas do homem; é nessas condições, diz Bataille, que tais valores aparecem sem nenhuma máscara
+Sugere que é necessário ir além das visões reducionistas dos apologistas de Sade, que buscam ou se opor a ele, ou adorá-lo, ou até mesmo tratá-lo como um *"corpo estranho"*, resultando meramente em sua excreção — movimento do qual participam também os literatos, que buscam colocar os escritos de Sade apenas como artísticos, como algo *"inconcebível fora da ficção"*. É necessário que a vida e obra de Sade tenha um valor de uso além do *"valor de uso vulgar dos excrementos"*. Por isso, defende o sadismo como uma concepção "inteiramente outra", positivamente como uma "**irrupção** das forças excremenciais" e do outro lado como uma "**limitação** correspondente", uma "subserviência estreita de tudo o que opomos a essa irrupção", forças subordinadas (a necessidade social, a dignidade humana, a pátria, a família, os sentimentos poéticos) que trabalham para suprir necessidades mais animalescas do homem; é nessas condições, diz Bataille, que tais valores aparecem sem nenhuma máscara. 
+
+## 3. XXXXXXXXX (§15-23)

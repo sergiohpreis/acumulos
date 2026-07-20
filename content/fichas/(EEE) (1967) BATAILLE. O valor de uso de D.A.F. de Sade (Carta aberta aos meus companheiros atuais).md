@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-19T22:16:54-03:00
+modified: 2026-07-19T22:37:52-03:00
 draft: false
 tags:
   - bataille
@@ -75,14 +75,14 @@ Apesar da heterologia "encarar cientificamente as questões da heterogeneidade",
 
 > "É por esse viés que ela procede à inversão completa do processo filosófico, que, de instrumento de apropriação que era, passa a estar serviço da excreção e introduz a reivindicação das satisfações violentas implicadas pela existência social" (BATAILLE, 2024, p. 30, cap. Teoria heterológica do conhecimento).
 
-## 13. 10º, 11º Demarca os limites da objetividade dos elementos heterogêneos (§30-32)
+## 14. 10º, 11º Demarca os limites da objetividade dos elementos heterogêneos (§30-32)
 
-O processo de limitação e o estudo das reações de antagonismo (expulsão) e de amor (reabsorção) que se alternam violentamente estão sob a alçada da heterologia como ciência, pela *"afirmação do elemento heterogêneo"*, que *"permanece indefinível e só pode ser ficado por meio de negações"*. Ou seja, apenas as relações do elemento podem ser analisados, e não o próprio, que só pode ser *"objeto de uma série de negações"*. A própria tentativa de situar esses elementos em um "domínio objetivo humano imediato" anularia o caráter excremencial, o incorporando a um sistema intelectual homogêneo.
+O processo de limitação e o estudo das reações de antagonismo (expulsão) e de amor (reabsorção) que se alternam violentamente estão sob a alçada da heterologia como ciência, pela *"afirmação do elemento heterogêneo"*, que *"permanece indefinível e só pode ser fixado por meio de negações"*. Ou seja, apenas as relações do elemento podem ser analisados, e não o próprio, que só pode ser *"objeto de uma série de negações"*. A própria tentativa de situar esses elementos em um "domínio objetivo humano imediato" anularia o caráter excremencial, o incorporando a um sistema intelectual homogêneo.
 
 > "... (em outros termos, a heterogeneidade objetiva tem o defeito de só pode ser encarada sob uma forma **abstrata**, enquanto apenas a heterogeneidade **subjetiva** dos elementos particulares é, na prática, concreta)." (BATAILLE, 2024, p. 31, cap. Teoria heterológica do conhecimento).
 
-Somente os dados da ciência, como resultados da apropriação, possuem "caráter objetivo imediato e apreciável".
+Somente os dados da ciência, como resultados da apropriação, possuem *"caráter objetivo imediato e apreciável"*.
 
-## 14. 12º  Argumenta sobre a necessidade de uma prática heterológica que escape da regressão a uma natureza homogênea(§33-34)
+## 15. 12º  Argumenta sobre a necessidade de uma prática heterológica que escape da regressão a uma natureza homogênea(§33-34)
 
-O ponto fraco das concepções de excreção e apropriação esta no fato de que "é preciso considerar amplamente a obstinação inconsciente que vem com as defecções e as escapatórias", e nesse sentido, é importante que não exista uma diluição, onde uma oposição não se torne "mais que uma forma enxertada". É preciso abraças a "dejeção dos elementos inassimiláveis" da prática da escatologia intelectual, essa gargalhada que "é a única saída imaginável, definitivamente terminal, e não o meio, da especulação filosófica"
+O ponto fraco das concepções de excreção e apropriação está no fato de que "é preciso considerar amplamente a obstinação inconsciente que vem com as defecções e as escapatórias", e nesse sentido, é importante que não exista uma diluição, onde a oposição não se torne mais que uma forma enxertada *"mais que uma forma enxertada"*. É preciso abraçar a "dejeção dos elementos inassimiláveis" da prática da escatologia intelectual, essa gargalhada que "é a única saída imaginável, definitivamente terminal, e não o meio, da especulação filosófica", passar de uma especulação de fatos abstratos a uma prática que tenha o mesmo mecanismo, mas que seja capaz de atingir "a heterogeneidade concreta para chegar aos transes extáticos e ao orgasmo".

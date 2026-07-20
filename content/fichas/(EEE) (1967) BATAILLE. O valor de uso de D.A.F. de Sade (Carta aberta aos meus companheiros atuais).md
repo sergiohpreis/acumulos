@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-19T23:44:47-03:00
+modified: 2026-07-19T23:59:07-03:00
 draft: false
 tags:
   - bataille
@@ -89,6 +89,10 @@ O ponto fraco das concepções de excreção e apropriação está no fato de qu
 
 ---
 
-## 1. Rejeita o reducionismo presente nas interpretações da obra de Sade apresentando uma concepção inteiramente outra sobre o Sadismo (§1-14)
+## 1. Justifica o isolamento do autor e a escolha de suas testemunhas (§1-5)
 
-Bataille inicia a sua carta esclarecendo os motivos pelos quais decidiu a escrever, e justificando a sua escolhas das "testemunhas" de sua defecção, que busca aqueles que serão parte da decomposição dos laços sociais atuais, incapazes de se sustentar. Entende o sadismo como  uma concepção "inteiramente outra", positivamente como uma "**irrupção** das forças excremenciais" e do outro lado como uma "**limitação** correspondente", uma "subserviência estreita de tudo o que opomos a essa irrupção", forças subordinadas que trabalham para suprir as necessidades mais animalescas do homem, que na obra de Sade, aparecem de maneira nua e crua.
+Bataille inicia a sua carta esclarecendo os motivos pelos quais decidiu a escrever, justificando a sua escolhas das "testemunhas" de sua defecção e preparando o terreno para que essa carta também encontre aqueles que inevitavelmente serão parte da decomposição dos laços sociais atuais que são incapazes de se sustentar. 
+
+## 2. Rejeita o reducionismo interpretativo de Sade e define o sadismo como concepção 'inteiramente outra' (§6-14)
+
+Defende o sadismo como uma concepção "inteiramente outra", positivamente como uma "**irrupção** das forças excremenciais" e do outro lado como uma "**limitação** correspondente", uma "subserviência estreita de tudo o que opomos a essa irrupção", forças subordinadas (a necessidade social, a dignidade humana, a pátria, a família, os sentimentos poéticos) que trabalham para suprir necessidades mais animalescas do homem; é nessas condições, diz Bataille, que tais valores aparecem sem nenhuma máscara

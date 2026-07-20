@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-19T21:48:25-03:00
+modified: 2026-07-19T21:51:55-03:00
 draft: false
 tags:
   - bataille
@@ -69,6 +69,6 @@ A religião não é aquilo que "responde a necessidade de projeção (expulsão 
 
 A poesia é "tão desclassificada quanto a religião", uma vez que sempre esteve a "mercê dos grandes sistemas históricos de apropriação", mas ainda que fosse autônoma, conseguiria obrigatoriamente uma "homogeneidade estética qualquer", uma concepção poética total do mundo. A duração da heterogeneidade dos elementos que põe em jogo dura enquanto essa realidade não se constitui como uma "realidade superior" que vulgariza a "realidade inferior vulgar", nesse sentido, a poesia se tornaria uma "medida das coisas", e a "pior vulgaridade assume um valor excremencial cada vez mais forte"
 
-## 13. XXXXXXXX (§28-)
+## 13. 9º Rejeita a heterologia como ciência e a opõe aos sistemas filosófico (§28-29)
 
-XXXXXXX
+Apesar da heterologia "encarar cientificamente as questões da heterogeneidade", não é a ciência do heterogêneo, uma vez o mesmo se situa "fora do alcance do conhecimento científico". Além disso, também se opõe a qualquer sistema filosófico, que são representações que buscam

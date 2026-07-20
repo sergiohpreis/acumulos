@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-19T23:24:00-03:00
+modified: 2026-07-19T23:36:09-03:00
 draft: false
 tags:
   - bataille
@@ -89,6 +89,6 @@ O ponto fraco das concepções de excreção e apropriação está no fato de qu
 
 ---
 
-## 1. Rejeita o reducionismo presente nas interpretações da obra de Sade propondo um novo valor de uso (§1-14)
+## 1. Rejeita o reducionismo presente nas interpretações da obra de Sade apresentando uma concepção inteiramente outra sobre o Sadismo (§1-14)
 
-Bataille iniciar a sua carta esclarecendo os motivos pelos quais decidiu a escrever, e porque escolheu seus destinatários como "testemunhas" de sua defecção, argumentando inclusive sobre a necessidade da mesma. Rejeitando as concepções reducionistas da obra de Sade, apresenta a necessidade de se apresentar um novo valor de uso. Por isso, concebe o Sadismo através de uma concepção "inteiramente outra", como uma "irrupção das forças excremenciais", ao mesmo tempo que uma "limitação correspondente", uma "subserviência estreita de tudo o que opomos a essa irrupção", um jogo de forças subordinadas as necessidades animalescas do homem.
+Bataille inicia a sua carta esclarecendo os motivos pelos quais decidiu a escrever, e justificando a sua escolhas das "testemunhas" de sua defecção, que se apresenta frente a eminência da decomposição ocasionada pelos laços sociais atuais. Rejeita as concepções reducionistas da obra de Sade e aponta a necessidade de se apresentar um novo valor de uso para a mesma. Por isso, concebe o Sadismo através de uma concepção "inteiramente outra", como uma "irrupção das forças excremenciais", ao mesmo tempo que uma "limitação correspondente", uma "subserviência estreita de tudo o que opomos a essa irrupção", um jogo de forças subordinadas as necessidades animalescas do homem.

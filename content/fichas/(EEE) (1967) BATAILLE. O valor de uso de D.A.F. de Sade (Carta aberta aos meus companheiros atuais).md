@@ -83,4 +83,6 @@ O processo de limitação e o estudo das reações de antagonismo (expulsão) e 
 
 Somente os dados da ciência, como resultados da apropriação, possuem "caráter objetivo imediato e apreciável".
 
-## 14. 12º  xxxxxxxxxxxxx (§33-34)
+## 14. 12º  Argumenta sobre a necessidade de uma prática heterológica que escape da regressão a uma natureza homogênea(§33-34)
+
+O ponto fraco das concepções de excreção e apropriação esta no fato de que "é preciso considerar amplamente a obstinação inconsciente que vem com as defecções e as escapatórias", e nesse sentido, é importante que não exista uma diluição, onde uma oposição não se torne "mais que uma forma enxertada". É preciso abraças a "dejeção dos elementos inassimiláveis" da prática da escatologia intelectual, essa gargalhada que "é a única saída imaginável, definitivamente terminal, e não o meio, da especulação filosófica"

@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-20T22:49:36-03:00
+modified: 2026-07-20T23:05:06-03:00
 draft: false
 tags:
   - bataille
@@ -114,10 +114,13 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 5. (§19) Caracteriza o processo de apropriação e de excreção com relação a sua homogeneidade e heterogeneidade
 	1. a apropriação é caracterizada por uma "homogeneidade (equilíbrio estático) entre o autor da apropriação e os objetos como resultado final"
 	2. a excreção é o resultado de uma "heterogeneidade cada vez maior ao liberar impulsos cuja ambivalência é cada vez mais acentuada
-	3. exemplifica o
+		1. exemplifica a excreção pelo "consumo sacrificial sob a forma elementar da orgia", que busca incorporar elementos heterogêneos para provocar um crescimento de força (conceito de mana)
 6.  (§20, 21) Explora a homogeneidade pessoal do homem com relação a apropriação dos produtos de sua atividade e a produção como fase excretória
 	1. "ocorrem por meio de uma homogeneidade (identidade) mais ou menos convencional estabelecida entre o possuidor e o objeto possuído
-7. (§23) Aponta a homogeneidade de aspecto como consequência de uma homogeneidade mais ampla
-	1. o homem buscou substituir os objetos exteriores, "a priori inconcebíveis, por séries ordenadas de concepções ou de ideias"
-	2. essa apropriação, tanto da ciência, do senso comum e da filosofia, "teve por objetivo o estabelecimento de uma homogeneidade do mundo"
+7. (§22, 23) Descreve a apropriação intelectual do mundo (ciência, senso comum, filosofia) e prevê sua culminação em excreção
+	1. a "homogeneidade de aspecto" é uma "forma subsidiaria de uma homogeneidade muito mais consequente"
+	2. o homem buscou substituir os objetos exteriores, "a priori inconcebíveis, por séries ordenadas de concepções ou de ideias"
+	3. essa apropriação, tanto da ciência, do senso comum e da filosofia, "teve por objetivo o estabelecimento de uma **homogeneidade do mundo**"
 		1. por tanto, inevitavelmente, culminará em uma "fase terminal no sentido da excreção", a partir que os "dejetos irredutíveis da operação se encontrarem determinados"
+
+## 3. Descreve os impulsos apropriação e excreção e as suas características homogêneas e heterogêneas (§15-23)

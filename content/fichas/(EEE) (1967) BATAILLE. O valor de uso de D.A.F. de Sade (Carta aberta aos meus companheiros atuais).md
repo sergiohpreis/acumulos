@@ -149,7 +149,7 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 1. (§28,29) Opõe a heterologia a qualquer representação homogênea do mundo, apresentando-a como uma inversão do processo filosófico
 	1. Nega a concepção da heterologia como "ciência do heterogêneo"
 	2. Opõe a heterologia a qualquer sistema filosófico (representação homogênea) do mundo
-	3. Crítica as representações homogêneas do mundo e o desenvolvimento de uma espécie humana servil dedicada a fabricação
+	3. Crítica as representações homogêneas do mundo e o desenvolvimento de uma espécie humana servil apta unicamente para a fabricação, para o consumo racional e para a conservação dos produtos."
 	4. Explora o processo intelectual e a liberação dos dejetos
 	5. Apresenta heterologia como retomada consciente do processo terminal
 	6. Explica a heterologia como inversão do processo filosófico (passa de instrumento de apropriação para estar a serviço da excreção)
@@ -159,10 +159,13 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 	3. Apresenta a anulação hipócrita do caráter excremencial mediante a tentativa de uma objetivação
 	4. Justifica a limitação da objetividade dos elementos heterogêneos como  interesse puramente teórico (possibilidades de uma heterogeneidade objetiva e subjetiva)
 3. (§32) Crítica a necessidade de uma apropriação homogênea do elemento heterogêneo
-	1. representação da busca por um mundo homogêneo e servil
-4. (§33, 34) Propõe a prática da heterologia em oposição a "regressão rumo a uma natureza homogênea
+	1. apresenta a tese sobre os dados científicos como únicos objetivamente apreensíveis
+	2. representação da busca por um mundo homogêneo e servil
+4. (§33, 34) Propõe a prática da heterologia em oposição a "regressão rumo a uma natureza homogênea" através da dejeção dos elementos inassimiláveis como fim
 	1. Atribui a necessidade da consideração da "obstinação inconsciente que vem com as defecções e as escapatórias" como o ponto fraco das concepções de excreção e apropriação
-	2. Propõe superação de uma forma dialética, ir além de uma busca por uma "noção de unidade do ser"
-	3. 
+	2. Propõe superação de uma forma dialética, ir além de uma busca por uma "noção da unidade do ser"
+	3. Defende a prática da heterologia como uma forma de resistir a uma diluição, que acontece ao se afastar do homem -- "a oposição perde sua importância até não ser mais que uma forma enxertada...". Uma prática que "culmina numa ação que vai decididamente de encontro a essa regressão rumo a uma natureza homogênea"
+	4. Exemplifica a gargalhada como essa "dejeção dos elementos inassimiláveis", que devem ser o fim, e não o meio da especulação filosófica
+	5. Propõe a passagem de "uma especulação que incide sobre fatos abstratos" e uma prática de mesmo mecanismo, mas que "atinge imediatamente a a heterogeneidade concreta para chegar aos transes extáticos e ao orgasmo"
 
 ## 6. Princípios de heterologia prática (§35-48)

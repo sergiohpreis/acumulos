@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-20T19:38:54-03:00
+modified: 2026-07-20T22:39:58-03:00
 draft: false
 tags:
   - bataille
@@ -97,12 +97,17 @@ Bataille inicia a sua carta esclarecendo os motivos pelos quais decidiu a escrev
 
 Sugere que é necessário ir além das visões reducionistas dos **apologistas** de Sade, que buscam ou se opor a ele, ou adorá-lo, ou até mesmo tratá-lo como um *"corpo estranho"*, resultando meramente em sua **excreção** — movimento do qual participam também os **literatos**, que buscam colocar os escritos de Sade apenas como artísticos, como algo *"inconcebível fora da ficção"*. É necessário que a vida e obra de Sade tenha um valor de uso além do *"valor de uso vulgar dos excrementos"*. Por isso, defende o sadismo como uma concepção "inteiramente outra", positivamente como uma "**irrupção** das forças excremenciais" e do outro lado como uma "**limitação** correspondente", uma "subserviência estreita de tudo o que opomos a essa irrupção", forças subordinadas (a necessidade social, a dignidade humana, a pátria, a família, os sentimentos poéticos) que trabalham para suprir necessidades mais animalescas do homem; é nessas condições, diz Bataille, que tais valores aparecem sem nenhuma máscara. 
 
-## 3. XXXXXXXXX (§15-23)
+## 3. Descreve os impulsos apropriação e excreção e as suas características homogêneas e heterogêneas (§15-23)
 
-1. Aponta as consequências da divisão dos fatos sociais em fatos religiosos e fatos profanos (§15)
+1. (§15) Aponta as consequências da divisão dos fatos sociais em fatos religiosos e fatos profanos
 	1. a organização religiosa é a via mais aberta aos impulsos excremenciais coletivos (orgiáticos), que são dois impulsos humanos polarizados, "a EXCREÇÃO e APROPRIAÇÃO"
-2. Relaciona o objeto da atividade desses impulsos a noção de corpo estranho (heterogêneo) (§16)
+2. (§16) Relaciona o objeto da atividade desses impulsos a noção de corpo estranho (heterogêneo)
 	1. um "inteiramente outro" ("das ganz Anderes"), que pode tanto ser *" **expulso** no rastro de ruptura brutal"* ou **reabsorvido** *"no desejo de pôr o corpo e o espírito num completo **estado de expulsão** (de projeção) mais ou menos violento"*
-3. Explica como se da a produção de um "ritmo alternativo" entre o "processo de apropriação simples" e o "processo de excreção composto" (§17)
-4. Explora a forma elementar da apropriação, o consumo oral (comunhão)
-	1. consumo que pode ser sacramental (sacrificial) ou não
+3. (§17) Explica como se da a produção de um "ritmo alternativo" entre o "processo de apropriação simples" e o "processo de excreção composto"
+4. (§18) Explora a forma elementar da apropriação, o consumo oral (comunhão)
+	1. se o caráter heterogêneo dos alimentos não é destruído, o consumo é sacramental, do contrário, é realizado com os alimentos preparados para um aspecto homogêneo
+5. (§19) Caracteriza o processo de apropriação e de excreção com relação a sua homogeneidade e heterogeneidade
+	1. a apropriação é caracterizada por uma "homogeneidade (equilíbrio estático) entre o autor da apropriação e os objetos como resultado final"
+	2. a excreção é o resultado de uma "heterogeneidade cada vez maior ao liberar impulsos cuja ambivalência é cada vez mais acentuada
+6.  (§20, 21) Explora a homogeneidade pessoal do homem com relação a apropriação dos produtos de sua atividade e a produção como fase excretória
+	1. "ocorrem por meio de uma homogeneidade (identidade) mais ou menos convencional estabelecida entre o possuidor e o objeto possuído

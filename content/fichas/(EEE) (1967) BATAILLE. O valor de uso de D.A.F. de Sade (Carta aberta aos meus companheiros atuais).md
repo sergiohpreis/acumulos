@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-20T22:39:58-03:00
+modified: 2026-07-20T22:49:36-03:00
 draft: false
 tags:
   - bataille
@@ -101,9 +101,11 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 
 1. (§15) Aponta as consequências da divisão dos fatos sociais em fatos religiosos e fatos profanos
 	1. a organização religiosa é a via mais aberta aos impulsos excremenciais coletivos (orgiáticos), que são dois impulsos humanos polarizados, "a EXCREÇÃO e APROPRIAÇÃO"
-2. (§16) Relaciona o objeto da atividade desses impulsos a noção de corpo estranho (heterogêneo)
-	1. um "inteiramente outro" ("das ganz Anderes"), que pode tanto ser *" **expulso** no rastro de ruptura brutal"* ou **reabsorvido** *"no desejo de pôr o corpo e o espírito num completo **estado de expulsão** (de projeção) mais ou menos violento"*
+2. (§16) Relaciona os objetos das atividades desses impulsos a noção de corpo estranho (heterogêneo)
+	1. Exemplifica algumas atividades como: atividade sexual, defecação, micção, morte e culto dos cadáveres, tabus, antropofagia ritual, sacrifícios de animais-deuses, omofagia, o riso de exclusão, os soluços, o êxtase religioso, o terror ligado à defecação involuntária, o hábito de tornar as mulheres "brilhantes e lúbricas" com joias, o jogo, a despesa desenfreada, usos fantásticos da moeda
+	2. um "inteiramente outro" ("das ganz Anderes"), que pode tanto ser *" **expulso** no rastro de ruptura brutal"* ou **reabsorvido** *"no desejo de pôr o corpo e o espírito num completo **estado de expulsão** (de projeção) mais ou menos violento"*
 3. (§17) Explica como se da a produção de um "ritmo alternativo" entre o "processo de apropriação simples" e o "processo de excreção composto"
+	1. Utiliza como exemplo uma citação de Sade, através do exemplo de Verneuil: *"Verneuil faz alguém cagar, come o cocô e quer que comam o dele. Aquela que ele faz comer sua merda vomita, ele engole o que ela põe pra fora"*
 4. (§18) Explora a forma elementar da apropriação, o consumo oral (comunhão)
 	1. se o caráter heterogêneo dos alimentos não é destruído, o consumo é sacramental, do contrário, é realizado com os alimentos preparados para um aspecto homogêneo
 5. (§19) Caracteriza o processo de apropriação e de excreção com relação a sua homogeneidade e heterogeneidade
@@ -111,3 +113,7 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 	2. a excreção é o resultado de uma "heterogeneidade cada vez maior ao liberar impulsos cuja ambivalência é cada vez mais acentuada
 6.  (§20, 21) Explora a homogeneidade pessoal do homem com relação a apropriação dos produtos de sua atividade e a produção como fase excretória
 	1. "ocorrem por meio de uma homogeneidade (identidade) mais ou menos convencional estabelecida entre o possuidor e o objeto possuído
+7. (§23) Aponta a homogeneidade de aspecto como consequência de uma homogeneidade mais ampla
+	1. o homem buscou substituir os objetos exteriores, "a priori inconcebíveis, por séries ordenadas de concepções ou de ideias"
+	2. essa apropriação, tanto da ciência, do senso comum e da filosofia, "teve por objetivo o estabelecimento de uma homogeneidade do mundo"
+		1. por tanto, inevitavelmente, culminará em uma "fase terminal no sentido da excreção", a partir que os "dejetos irredutíveis da operação se encontrarem determinados"

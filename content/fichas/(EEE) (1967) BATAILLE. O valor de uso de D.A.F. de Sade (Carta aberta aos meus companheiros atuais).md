@@ -123,4 +123,6 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 	3. essa apropriação, tanto da ciência, do senso comum e da filosofia, "teve por objetivo o estabelecimento de uma **homogeneidade do mundo**"
 		1. por tanto, inevitavelmente, culminará em uma "fase terminal no sentido da excreção", a partir que os "dejetos irredutíveis da operação se encontrarem determinados"
 
-## 3. Descreve os impulsos apropriação e excreção e as suas características homogêneas e heterogêneas (§15-23)
+## 4. Filosofia, religião e poesia em relação à heterologia (§24-27)
+
+1. (§24,XX) 

@@ -104,3 +104,5 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 2. Relaciona o objeto da atividade desses impulsos a noção de corpo estranho (heterogêneo) (§16)
 	1. um "inteiramente outro" ("das ganz Anderes"), que pode tanto ser *" **expulso** no rastro de ruptura brutal"* ou **reabsorvido** *"no desejo de pôr o corpo e o espírito num completo **estado de expulsão** (de projeção) mais ou menos violento"*
 3. Explica como se da a produção de um "ritmo alternativo" entre o "processo de apropriação simples" e o "processo de excreção composto" (§17)
+4. Explora a forma elementar da apropriação, o consumo oral (comunhão)
+	1. consumo que pode ser sacramental (sacrificial) ou não

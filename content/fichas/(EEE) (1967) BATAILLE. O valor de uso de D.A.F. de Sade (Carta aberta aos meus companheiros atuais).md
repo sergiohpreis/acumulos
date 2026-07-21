@@ -153,8 +153,16 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 	4. Explora o processo intelectual e a liberação dos dejetos
 	5. Apresenta heterologia como retomada consciente do processo terminal
 	6. Explica a heterologia como inversão do processo filosófico (passa de instrumento de apropriação para estar a serviço da excreção)
-2. () xxxx
+2. (§30,31) Delimita a objetividade do elemento heterogêneo pela sua forma abstrata (obtida de negações)
 	1. Delimita os processos contemplados pela heterologia, obtidos pela "afirmação do elemento heterogêneo" -- limitação, antagonismo (expulsão) e amor (reabsorção)
-	2. Exploa
+	2. Explora o elemento heterogêneo como objeto de negações
+	3. Apresenta a anulação hipócrita do caráter excremencial mediante a tentativa de uma objetivação
+	4. Justifica a limitação da objetividade dos elementos heterogêneos como  interesse puramente teórico (possibilidades de uma heterogeneidade objetiva e subjetiva)
+3. (§32) Crítica a necessidade de uma apropriação homogênea do elemento heterogêneo
+	1. representação da busca por um mundo homogêneo e servil
+4. (§33, 34) Propõe a prática da heterologia em oposição a "regressão rumo a uma natureza homogênea
+	1. Atribui a necessidade da consideração da "obstinação inconsciente que vem com as defecções e as escapatórias" como o ponto fraco das concepções de excreção e apropriação
+	2. Propõe superação de uma forma dialética, ir além de uma busca por uma "noção de unidade do ser"
+	3. 
 
 ## 6. Princípios de heterologia prática (§35-48)

@@ -106,11 +106,15 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 	2. um "inteiramente outro" ("das ganz Anderes"), que pode tanto ser *" **expulso** no rastro de ruptura brutal"* ou **reabsorvido** *"no desejo de pôr o corpo e o espírito num completo **estado de expulsão** (de projeção) mais ou menos violento"*
 3. (§17) Explica como se da a produção de um "ritmo alternativo" entre o "processo de apropriação simples" e o "processo de excreção composto"
 	1. Utiliza como exemplo uma citação de Sade, através do exemplo de Verneuil: *"Verneuil faz alguém cagar, come o cocô e quer que comam o dele. Aquela que ele faz comer sua merda vomita, ele engole o que ela põe pra fora"*
-4. (§18) Explora a forma elementar da apropriação, o consumo oral (comunhão)
-	1. se o caráter heterogêneo dos alimentos não é destruído, o consumo é sacramental, do contrário, é realizado com os alimentos preparados para um aspecto homogêneo
+4. (§18) Explora o consumo oral como forma elementar da apropriação
+	1. o consumo pode ser sacramental (sacrificial) ou não, conforme "se acuse ou se destrua convencionalmente o caráter heterogêneo dos alimentos"
+	2. ao se apresentar os alimentos sob um "aspecto de homogeneidade notável", o caráter heterogêneo dos alimentos é destruído; forma não sacramental
+	3. a manducação por si só já representa por si só uma "ruptura parcial do equilíbrio fisiológico"
+	4. a apropriação feita de "forma medida e racional", predomina (manducação para o tumulto fisiológico é exceção)
 5. (§19) Caracteriza o processo de apropriação e de excreção com relação a sua homogeneidade e heterogeneidade
 	1. a apropriação é caracterizada por uma "homogeneidade (equilíbrio estático) entre o autor da apropriação e os objetos como resultado final"
 	2. a excreção é o resultado de uma "heterogeneidade cada vez maior ao liberar impulsos cuja ambivalência é cada vez mais acentuada
+	3. exemplifica o
 6.  (§20, 21) Explora a homogeneidade pessoal do homem com relação a apropriação dos produtos de sua atividade e a produção como fase excretória
 	1. "ocorrem por meio de uma homogeneidade (identidade) mais ou menos convencional estabelecida entre o possuidor e o objeto possuído
 7. (§23) Aponta a homogeneidade de aspecto como consequência de uma homogeneidade mais ampla

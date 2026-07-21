@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-20T23:05:06-03:00
+modified: 2026-07-20T23:57:46-03:00
 draft: false
 tags:
   - bataille
@@ -126,19 +126,20 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 ## 4. Filosofia, religião e poesia em relação à heterologia (§24-27)
 
 1. (§24) Demarca os limites do interesse da filosofia
-	1. te
-	2. encara os dejetos sob "formas abstratas da totalidade"
-	3. objetivo das especulações: *"identificar suficientemente, no fim das contas, um mundo sem fim ao mundo findo, um mundo incognoscível (numenal) ao mundo conhecido (fenomenal)"*
+	1. tem como objetivo "encarar positivamente os dejetos da apropriação intelectual" 
+	2. entretanto, muitas vezes acaba os encarando como "dejetos sob formas abstratas da totalidade (nada, infinito, absoluto)"; incapacidade de dar um conteúdo positivo
+	3. pode proceder livremente as especulações, cujo objetivo é: *"identificar suficientemente, no fim das contas, um mundo sem fim ao mundo findo, um mundo incognoscível (numenal) ao mundo conhecido (fenomenal)"*
 2. (§25,26) Avalia a elaboração intelectual de forma religiosa, suas características e os desdobramentos
 	1. tese: "apenas a elaboração intelectual de forma religiosa pode, em seus períodos de desenvolvimento autônomo, oferecer o dejeto do pensamento apropriativo como o objeto definitivamente heterogêneo (sagrado) da especulação"
 	2. cisão no domínio sagrado entre mundo superior e inferior culmina em uma "homogeneidade progressiva de todo o domínio superior"
 		1. Deus como "signo (paterno) da homogeneidade universal"
-	3. define religião como "o conjunto de proibições, de obrigações e de licenças parciais que canalizam e regularizam socialmente essa projeção". Ou seja, não apenas algo que meramente "responde a necessidade de projeção (expulsão ou excreção)"
+	3. nega que a religião seja apenas algo que meramente "responde a necessidade de projeção (expulsão ou excreção)", definindo-a como "o conjunto de proibições, de obrigações e de licenças parciais que canalizam e regularizam socialmente essa projeção"
 	4. diferencia religião de uma "heterologia teórica e prática" em dois aspectos
 		1. religião exclui o "rigor científico"
-		2. religião "trai nas condições normais as necessidades que rpetendera não apenas regular como também satisfazer"
+		2. religião "trai nas condições normais as necessidades que pretendera não apenas regular como também satisfazer"
 3. (§27) Demarca os limites da poesia
 	1. como um método de projeção mental, "permite ter acesso a um mundo inteiramente heterogêneo"
 	2. tanto quanto a religião, esta a "mercê dos grandes sistemas históricos de apropriação"
 	3. de maneira autônoma, culminaria numa "concepção poética total do mundo" -- uma "homogeneidade estética"
-	4. se a irrealidade se constituir como "realidade superior", com objetivo de eliminar o vulgar, a poesia se torna "medida das coisas", e a vulgaridade assume "valor excremencial"
+	4. "a irrealidade prática dos elementos heterogêneos que ela põe em jogo é de fato uma condição indispensável da duraçã
+	5. a poesia coloca uma irrealidade prática dos elementos heterogêneos, que são indispensáveis para a duração de uma heterogeneidade, entretanto, a poesia pode ser reduzida a "medida das coisas", se constituir como uma realidade superior e fazer com que "a pior vulgaridade assume um valor excremencial mais forte"

@@ -125,4 +125,6 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 
 ## 4. Filosofia, religião e poesia em relação à heterologia (§24-27)
 
-1. (§24,XX) 
+1. (§24) Demarca os limites do interesse da filosofia
+	1. encara os dejetos sob "formas abstratas da totalidade"
+	2. objetivo das especulações: *"identificar suficientemente, no fim das contas, um mundo sem fim ao mundo findo, um mundo incognoscível (numenal) ao mundo conhecido (fenomenal)"*

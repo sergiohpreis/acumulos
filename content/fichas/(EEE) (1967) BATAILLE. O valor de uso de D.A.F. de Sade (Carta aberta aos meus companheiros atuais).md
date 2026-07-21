@@ -146,4 +146,15 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 
 ## 5. Teoria heterológica do conhecimento (§28-34)
 
+1. (§28,29) Opõe a heterologia a qualquer representação homogênea do mundo, apresentando-a como uma inversão do processo filosófico
+	1. Nega a concepção da heterologia como "ciência do heterogêneo"
+	2. Opõe a heterologia a qualquer sistema filosófico (representação homogênea) do mundo
+	3. Crítica as representações homogêneas do mundo e o desenvolvimento de uma espécie humana servil dedicada a fabricação
+	4. Explora o processo intelectual e a liberação dos dejetos
+	5. Apresenta heterologia como retomada consciente do processo terminal
+	6. Explica a heterologia como inversão do processo filosófico (passa de instrumento de apropriação para estar a serviço da excreção)
+2. () xxxx
+	1. Delimita os processos contemplados pela heterologia, obtidos pela "afirmação do elemento heterogêneo" -- limitação, antagonismo (expulsão) e amor (reabsorção)
+	2. Exploa
+
 ## 6. Princípios de heterologia prática (§35-48)

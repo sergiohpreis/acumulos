@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-21T18:08:58-03:00
+modified: 2026-07-21T23:43:35-03:00
 draft: false
 tags:
   - bataille
@@ -89,7 +89,7 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 	4. Exemplifica a gargalhada como essa *"dejeção dos elementos inassimiláveis"*, que devem ser o fim, e não o meio da especulação filosófica
 	5. Propõe a passagem de *"uma especulação que incide sobre fatos abstratos"* e uma prática de mesmo mecanismo, mas que *"atinge imediatamente a heterogeneidade concreta para chegar aos transes extáticos e ao orgasmo"*
 
-## 6. Princípios de heterologia prática (§35-48)
+## 6. Apresenta os princípios de heterologia prática (§35-48)
 
 1. (§35) Argumenta sobre a necessidade da excreção como fim
 	1. Define a excreção como um fim em si
@@ -111,18 +111,21 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 	2. Descreve o fenômeno empréstimo de caráter excremenciais dos grupos separados como causa do tratamento dos impulsos revolucionários como sagrados
 4. (40, 41) Defende a compreensão sádica no processo revolucionário
 	1. Elabora a participação sobre um ponto de vista psicológico, como participação moral na ação destruidora
-	2. Crítica a vontade revolucionária e a relação que estabelece com essas ações
+	2. Caracteriza a vontade revolucionária e a relação que estabelece com essas ações, em oposição a destruição inútil e inevitável promovida pelos exploradores 
 	3. Justifica a realidade dessa participação como base da cisão dos partidos entre reformistas e revolucionários
 	4. Afirma a impossibilidade de um ser revolucionário sem compreensão sádica da natureza (produção de um sentimentalismo utópico)
 5. (§42) Defende a participação e a exaltação do excesso
 	1. Aponta movimento de participação consciente no horrível e no sagrado
 	2. Defende uma afirmação do gozo e do excesso de alegria
-6. (§43-46) Defende uma nova organização da sociedade em suas fases revolucionária e pós revolucionária
+6. (§43-46) Defende uma nova organização da sociedade em suas fase pós revolucionária com base na concepção moral de Sade
 	1. Delimita período histórico dos acontecimentos, entre jacobismo e bolchevismo
 	2. Apresenta revolução como única saída aos impulsos coletivos
 	3. Propõe cisão "entre a organização política e econômica da sociedade" no período pós revolucionário, culminando na formação de uma "organização antirreligiosa e associal que tenha por objetivo a participação orgíaca nas diferentes formas de destruição, isto é, a satisfação coletiva das necessidades correspondentes à premência de provocar a excitação violenta que resulta da expulsão dos elementos heterogêneos"
+	4. Afirma que essa organização deve ser baseada na concepção moral de Sade
 7. (§47, 48) Extrai as consequências dessa nova forma de sociedade
 	1. Declara posição de proximidade e distância da organização com as religiões 
 		1. proximidade: "religiões anteriores à formação dos Estados autocráticos"
 		2. distância: "religiões como cristianismo, ou o budismo"
-	2. 
+	2. Propõe novas formas de troca com as culturas comum dos elementos de cor
+	3. Justifica a necessidade de uma nova organização, que substitua uma concepção primitiva por uma heterológica
+	4. Propõe colusão entre uma teoria científica europeia e a prática negra como base para o desenvolvimento de instituições que sirvam de saída para os impulsos coletivos

@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-21T23:57:14-03:00
+modified: 2026-07-22T00:04:10-03:00
 draft: false
 tags:
   - bataille
@@ -93,7 +93,7 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 
 1. (§35) Argumenta sobre a necessidade da excreção como fim
 	1. Estabelece a excreção como a negação e como fim -- "a excreção não é apenas um meio termo entre duas apropriações, assim como a podridão não é apenas um meio termo entre o grão e a espiga"
-	2. Compara pontos de vista intelectual e humano a partir da análise dos sonhos -- a "apropriação como meio da excreção
+	2. Compara pontos de vista intelectual e humano a partir da análise dos sonhos -- a "apropriação como meio da excreção"
 	3. Exemplifica o acúmulo para o dispêndio a partir relação de trabalho do operário
 	4. Atribui as causas da identificação subconsciente entre operário e escravo com relação a apropriação
 	5. Crítica a moral apropriativa dos exploradores e a possibilidade de orgias de riqueza
@@ -109,16 +109,16 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 		1. Primeira fase: separação
 		2. Segunda fase: expulsão
 	2. Descreve o fenômeno empréstimo de caráter excremenciais dos grupos separados como causa do tratamento dos impulsos revolucionários como sagrados
-4. (40, 41) Defende a compreensão sádica no processo revolucionário
+4. (§40, 41) Defende a compreensão sádica no processo revolucionário
 	1. Elabora a participação sobre um ponto de vista psicológico, como participação moral na ação destruidora
 	2. Caracteriza a vontade revolucionária e a relação que estabelece com essas ações, em oposição a destruição inútil e inevitável promovida pelos exploradores 
-	3. Justifica a realidade dessa participação como base da cisão dos partidos entre reformistas e revolucionários
+	3. Justifica a realidade dessa participação como base da cisão dos partidos socialistas entre reformistas e revolucionários
 	4. Afirma a impossibilidade de um ser revolucionário sem compreensão sádica da natureza (produção de um sentimentalismo utópico)
 5. (§42) Defende a participação e a exaltação do excesso
 	1. Aponta movimento de tomada de consciência consciente no horrível e no sagrado como fruto de uma consciência "cada vez mais cínica do **laço erótico** que os liga à morte, aos cadáveres e às terríveis dores do corpo"
-	2. Defende uma afirmação do gozo e do excesso de alegria em oposição a um temor moralista covarde
+	2. Defende uma afirmação do gozo e do excesso de alegria em oposição a um temor moralista covarde -- devemos ser aqueles que "tem que olhar todos os histriões da moral como cães."
 6. (§43-46) Defende uma nova organização da sociedade em suas fase pós revolucionária com base na concepção moral de Sade
-	1. Delimita período histórico dos acontecimentos, entre jacobismo e bolchevismo
+	1. Delimita período histórico dos acontecimentos, entre jacobinismo e bolchevismo
 	2. Apresenta revolução como única saída aos impulsos coletivos
 	3. Propõe cisão "entre a organização política e econômica da sociedade" no período pós revolucionário, culminando na formação de uma "organização antirreligiosa e associal que tenha por objetivo a participação orgíaca nas diferentes formas de destruição, isto é, a satisfação coletiva das necessidades correspondentes à premência de provocar a excitação violenta que resulta da expulsão dos elementos heterogêneos"
 	4. Afirma que essa organização deve ser baseada na concepção moral de Sade

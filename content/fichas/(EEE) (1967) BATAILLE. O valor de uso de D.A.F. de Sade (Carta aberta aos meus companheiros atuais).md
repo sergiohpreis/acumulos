@@ -90,3 +90,8 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 	5. Propõe a passagem de *"uma especulação que incide sobre fatos abstratos"* e uma prática de mesmo mecanismo, mas que *"atinge imediatamente a heterogeneidade concreta para chegar aos transes extáticos e ao orgasmo"*
 
 ## 6. Princípios de heterologia prática (§35-48)
+
+1. (§35) Argumenta sobre a necessidade da excreção como fim
+	1. Define a excreção como um fim em si
+	2. Compara pontos de vista intelectual e humano a partir da análise dos sonhos -- a "apropriação como meio da excreção
+	3. Exemplifica o acúmulo para o despêndio por meio do exempl

@@ -1,6 +1,6 @@
 ---
 created: 2026-07-07T13:39:28-03:00
-modified: 2026-07-21T23:43:35-03:00
+modified: 2026-07-21T23:57:14-03:00
 draft: false
 tags:
   - bataille
@@ -92,7 +92,7 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 ## 6. Apresenta os princípios de heterologia prática (§35-48)
 
 1. (§35) Argumenta sobre a necessidade da excreção como fim
-	1. Define a excreção como um fim em si
+	1. Estabelece a excreção como a negação e como fim -- "a excreção não é apenas um meio termo entre duas apropriações, assim como a podridão não é apenas um meio termo entre o grão e a espiga"
 	2. Compara pontos de vista intelectual e humano a partir da análise dos sonhos -- a "apropriação como meio da excreção
 	3. Exemplifica o acúmulo para o dispêndio a partir relação de trabalho do operário
 	4. Atribui as causas da identificação subconsciente entre operário e escravo com relação a apropriação
@@ -115,8 +115,8 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 	3. Justifica a realidade dessa participação como base da cisão dos partidos entre reformistas e revolucionários
 	4. Afirma a impossibilidade de um ser revolucionário sem compreensão sádica da natureza (produção de um sentimentalismo utópico)
 5. (§42) Defende a participação e a exaltação do excesso
-	1. Aponta movimento de participação consciente no horrível e no sagrado
-	2. Defende uma afirmação do gozo e do excesso de alegria
+	1. Aponta movimento de tomada de consciência consciente no horrível e no sagrado como fruto de uma consciência "cada vez mais cínica do **laço erótico** que os liga à morte, aos cadáveres e às terríveis dores do corpo"
+	2. Defende uma afirmação do gozo e do excesso de alegria em oposição a um temor moralista covarde
 6. (§43-46) Defende uma nova organização da sociedade em suas fase pós revolucionária com base na concepção moral de Sade
 	1. Delimita período histórico dos acontecimentos, entre jacobismo e bolchevismo
 	2. Apresenta revolução como única saída aos impulsos coletivos
@@ -126,6 +126,8 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 	1. Declara posição de proximidade e distância da organização com as religiões 
 		1. proximidade: "religiões anteriores à formação dos Estados autocráticos"
 		2. distância: "religiões como cristianismo, ou o budismo"
-	2. Propõe novas formas de troca com as culturas comum dos elementos de cor
-	3. Justifica a necessidade de uma nova organização, que substitua uma concepção primitiva por uma heterológica
-	4. Propõe colusão entre uma teoria científica europeia e a prática negra como base para o desenvolvimento de instituições que sirvam de saída para os impulsos coletivos
+	2. Propõe novas formas de troca com as culturas comum dos elementos de cor em condições radicalmente diferentes das atuais relações com os negros civilizados da América
+	3. Justifica a necessidade de uma nova organização, onde as necessidades extáticas não precisem desaparecer
+		1. mediante uma concepção heterológica, e não mais primitiva
+	4. Propõe uma transformação mediante uma generalização sob "o impulso violento de uma doutrina moral de origem branca" -- ensinadas por homem brancos conscientes da "abominável inibição que paralisa as coletividades de sua própria raça"
+	5. Propõe colusão entre uma teoria científica europeia e a prática negra como base para o desenvolvimento de instituições que sirvam de saída para os impulsos coletivos

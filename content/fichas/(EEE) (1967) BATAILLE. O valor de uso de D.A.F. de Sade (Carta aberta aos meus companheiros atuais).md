@@ -116,7 +116,7 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 	4. Afirma a impossibilidade de um ser revolucionário sem compreensão sádica da natureza (produção de um sentimentalismo utópico)
 5. (§42) Defende a participação e a exaltação do excesso
 	1. Aponta movimento de tomada de consciência consciente no horrível e no sagrado como fruto de uma consciência "cada vez mais cínica do **laço erótico** que os liga à morte, aos cadáveres e às terríveis dores do corpo"
-	2. Defende uma afirmação do gozo e do excesso de alegria em oposição a um temor moralista covarde -- devemos ser aqueles que "tem que olhar todos os histriões da moral como cães."
+	2. Defende uma afirmação do gozo e do excesso de alegria em oposição a um temor moralista covarde -- devemos ser aqueles que "têm que olhar todos os histriões da moral como cães."
 6. (§43-46) Defende uma nova organização da sociedade em suas fase pós revolucionária com base na concepção moral de Sade
 	1. Delimita período histórico dos acontecimentos, entre jacobinismo e bolchevismo
 	2. Apresenta revolução como única saída aos impulsos coletivos

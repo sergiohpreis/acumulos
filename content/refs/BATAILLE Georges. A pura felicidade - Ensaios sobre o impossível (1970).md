@@ -4,6 +4,7 @@ authors:
   - Georges Bataille
 status:
   - Lendo
+rating: 4
 published_year: 1970
 categories:
   - Sociologia
@@ -32,23 +33,42 @@ tags:
   - bataille
   - filosofia
 draft: false
-date: 2026-07-12T23:23:11.230961635-03:00
+date: 2026-07-22T00:28:33.556013103-03:00
 ---
 
 **Georges Bataille** · 1970 · Autêntica · 9786559283491
 
 ## Resumo
 
-- Sessões: 13
+- Sessões: 31
 - Páginas lidas: 40
-- Tempo total: 6h 49m
+- Tempo total: 18h 42m
+- Avaliação: ⭐⭐⭐⭐ (4/5)
 - Autores: Georges Bataille
 - Status: Lendo
 - Total de páginas: 253
 
 ## Sessões
 
-- **2026-07-12 22:32 - 23:22** - Páginas 21-28 (8 páginas) - Produzindo um fichamento - 0h50m
+- **2026-07-21 23:17 - 00:06** - Páginas 32-36 (5 páginas) - Repassando fichamento EED (§35-48) - 0h48m
+- **2026-07-21 21:10 - 21:52** - Páginas 32-36 (5 páginas) - Produzindo fichamento EED (§35-48) - 0h42m
+- **2026-07-21 16:59 - 17:30** - Páginas 29-32 (4 páginas) - Repassando fichamento EED (§28-34) - 0h30m
+- **2026-07-21 13:11 - 13:55** - Páginas 29-32 (4 páginas) - Produzindo fichamento EED (§28-34) - 0h43m
+- **2026-07-20 23:14 - 00:09** - Páginas 28-29 (2 páginas) - Produzindo fichamento EED (§24-27) - 0h55m
+- **2026-07-20 22:45 - 23:08** - Páginas 25-28 (4 páginas) - Finalizando fichamento EEE (§15-23) - 0h23m
+- **2026-07-20 22:28 - 22:45** - Páginas 25-28 (4 páginas) - Escrevendo fichamento EEE (§15-23) - 0h16m
+- **2026-07-20 22:17 - 22:28** - Páginas 35-36 (2 páginas) - Fazendo anotações (de §40 até §48) - 0h10m
+- **2026-07-20 20:59 - 21:19** - Páginas 33-34 (2 páginas) - Fazendo anotações (de §38 até §40) - 0h19m
+- **2026-07-20 20:53 - 20:58** - Páginas 25-26 (2 páginas) - Ajustando anotações - 0h04m
+- **2026-07-20 19:39 - 20:44** - Páginas 32-33 (2 páginas) - Fazendo anotações (de §35 até §37) - 1h04m
+- **2026-07-20 19:14 - 19:39** - Páginas 25-26 (2 páginas) - Revisando o fichamento de §15 a §17. Mas vou seguir com o fichamento dos "Princípios de heterologia prática" - 0h25m
+- **2026-07-20 13:09 - 13:59** - Páginas 32-36 (5 páginas) - Fazendo anotações (de §35 até §48) - 0h49m
+- **2026-07-19 21:17 - 22:32** - Páginas 29-32 (4 páginas) - Releitura de §28 até §34, fazendo fichamento EEE - 1h14m
+- **2026-07-18 11:03 - 12:29** - Páginas 28-29 (2 páginas) - Releitura de §24 até §27, fazendo fichamento EEE - 1h25m
+- **2026-07-18 00:27 - 01:28** - Páginas 25-28 (4 páginas) - Releitura de §15 até §23, fazendo fichamento EEE - 1h00m
+- **2026-07-17 23:24 - 00:17** - Páginas 21-24 (4 páginas) - Releitura de §1 até §14, fazendo fichamento EEE - 0h53m
+- **2026-07-12 23:25 - 23:36** - Páginas 28-30 (3 páginas) - Filosofia, religião e poesia em relação à heterologia (fazendo anotações no livro) - 0h11m
+- **2026-07-12 22:32 - 23:22** - Páginas 21-28 (8 páginas) - Produzindo um fichamento: XXXXXXXXXX - 0h50m
 - **2026-07-12 19:31 - 21:05** - Páginas 26-28 (3 páginas) - Apropriação e Excreção - 1h33m
 - **2026-07-12 18:10 - 18:58** - Páginas 21-25 (5 páginas) - O valor de uso de D.A.F. de Sade (Carta aberta aos meus companheiros atuais) - §1 ao §13
 
@@ -65,6 +85,9 @@ Introdução onde Bataille apresenta suas justificativas para a escrita do texto
 - **2026-07-02 10:01 - 10:06** - Páginas 1-12 (12 páginas) - Contracapa; Orelhas: Apresentação “A desmedida, fim da medida” por Marcelo Jacques de Moraes - 0h04m
 
 ## Notas
+
+### 2026-07-21 09:16
+Utilizando o claude para revisão do fichamento: https://claude.ai/chat/292ba9fe-e211-43c2-8d4c-08210b8d2de5
 
 ### 2026-07-12 21:05
 4º, 5º e 6º
@@ -125,6 +148,18 @@ Para o grupo "DAI Diálogos Alem do Impossível", iremos inicialmente ler dois t
 ## Citações
 
 BATAILLE, Georges. A pura felicidade - Ensaios sobre o impossível. [s.l.]: Autêntica, 2024.
+
+"... (em outros termos, a heterogeneidade objetiva tem o defeito de só pode ser encarada sob uma forma abstrata, enquanto apenas a heterogeneidade subjetiva dos elementos particulares é, na prática, concreta)" (BATAILLE, 2024, p. 31, cap. Teoria heterológica do conhecimento).
+
+"É por esse viés que ela procede à inversão completa do processo filosófico, que, de instrumento de apropriação que era, passa a estar serviço da excreção e introduz a reivindicação das satisfações violentas implicadas pela existência social" (BATAILLE, 2024, p. 30, cap. Teoria heterológica do conhecimento).
+
+"Deus perde rapidamente e quase inteiramente os elementos aterradores e os empréstimos tomados ao cadáver em simples decomposição para tornar-se, no último termo da degradação, o simples signo (paterno) da homogeneidade universal" (BATAILLE, 2024, p. 28, cap. Filosofia, religião e poesia em relação à heterologia).
+
+"A noção de corpo estranho (heterogêneo) permite demarcar a identidade elementar subjetiva dos excrementos (esperma, mênstruos, urina, matérias fecais) e de tudo o que pôde ser olhado como sagrado, divino ou maravilhoso" (BATAILLE, 2024, p. 26, cap. Apropriação e excreção).
+
+"O cadáver não é muito mais repugnante do que a merda, e o espectro que projeta o horror em relação a ele é sagrado..." (BATAILLE, 2024, p. 26, cap. Apropriação e excreção).
+
+"... quando o processo de progresso material e de transformação rápida de que tiveram que participar (tanto dócil quanto insurgentemente) culminar numa estagnação desagradável e sem saída" (BATAILLE, 2024, p. 22, cap. Apropriação e excreção).
 
 "... a produção pode ser vista como a fase excretória de um processo de apropriação, e a mesma coisa vale para a venda" (BATAILLE, 2024, p. 27, cap. Apropriação e excreção).
 

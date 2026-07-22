@@ -39,11 +39,14 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(
-      {
-        title: "Conteúdo",
-      }
-    ),
+    Component.Explorer({
+      title: "Conteúdo",
+      mapFn: (node) => {
+        if (node.slugSegment === "prompts,-threads,-etc") {
+          node.displayName = "prompts, threads & etc"
+        }
+      },
+    }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -67,7 +70,13 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node) => {
+        if (node.slugSegment === "prompts,-threads,-etc") {
+          node.displayName = "prompts, threads & etc"
+        }
+      },
+    }),
   ],
-  right: [],
+  right: [Component.Graph(), Component.Backlinks()],
 }

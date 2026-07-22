@@ -1,3 +1,32 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// textura sutil de papel/ficha no fundo
+body {
+  background-image: radial-gradient(var(--lightgray) 0.5px, transparent 0.5px);
+  background-size: 18px 18px;
+}
+
+// citações como fichamento: aspas de carimbo, atribuição em itálico
+blockquote {
+  border-left-width: 4px;
+  padding: 0.25rem 0 0.25rem 1.25rem;
+  font-style: italic;
+
+  p {
+    margin: 0.5rem 0;
+  }
+
+  em {
+    font-style: normal;
+  }
+}
+
+// callouts com borda lateral tipo carimbo, em vez de moldura uniforme
+.callout {
+  border: none;
+  border-left: 4px solid var(--color);
+  border-radius: 2px;
+  background-color: var(--bg);
+}

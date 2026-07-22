@@ -33,7 +33,7 @@ tags:
   - bataille
   - filosofia
 draft: false
-date: 2026-07-22T00:28:33.556013103-03:00
+date: 2026-07-22T00:33:51.704985838-03:00
 ---
 
 **Georges Bataille** · 1970 · Autêntica · 9786559283491
@@ -70,9 +70,7 @@ date: 2026-07-22T00:28:33.556013103-03:00
 - **2026-07-12 23:25 - 23:36** - Páginas 28-30 (3 páginas) - Filosofia, religião e poesia em relação à heterologia (fazendo anotações no livro) - 0h11m
 - **2026-07-12 22:32 - 23:22** - Páginas 21-28 (8 páginas) - Produzindo um fichamento: XXXXXXXXXX - 0h50m
 - **2026-07-12 19:31 - 21:05** - Páginas 26-28 (3 páginas) - Apropriação e Excreção - 1h33m
-- **2026-07-12 18:10 - 18:58** - Páginas 21-25 (5 páginas) - O valor de uso de D.A.F. de Sade (Carta aberta aos meus companheiros atuais) - §1 ao §13
-
-Introdução onde Bataille apresenta suas justificativas para a escrita do texto e a sua defesa de uma apropriação correta de Sade - 0h48m
+- **2026-07-12 18:10 - 18:58** - Páginas 21-25 (5 páginas) - O valor de uso de D.A.F. de Sade (Carta aberta aos meus companheiros atuais) - §1 ao §13 -- Introdução onde Bataille apresenta suas justificativas para a escrita do texto e a sua defesa de uma apropriação correta de Sade - 0h48m
 - **2026-07-12 17:35 - 17:55** - Páginas 21-36 (16 páginas) - O valor de uso de D.A.F. de Sade (Carta aberta aos meus companheiros atuais). Primeira leitura mais superficial - 0h20m
 - **2026-07-07 17:13 - 17:28** - Páginas 169-172 (4 páginas) - Diante de Lascaux, o homem civilizado se redescobre homem de desejo (releitura) - 0h15m
 - **2026-07-07 12:59 - 13:34** - Páginas 169-172 (4 páginas) - Diante de Lascaux, o homem civilizado se redescobre homem de desejo (grifando e anotando) - 0h34m

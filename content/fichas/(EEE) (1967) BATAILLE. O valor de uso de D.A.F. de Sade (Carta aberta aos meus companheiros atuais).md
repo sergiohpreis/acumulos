@@ -94,4 +94,19 @@ Sugere que é necessário ir além das visões reducionistas dos **apologistas**
 1. (§35) Argumenta sobre a necessidade da excreção como fim
 	1. Define a excreção como um fim em si
 	2. Compara pontos de vista intelectual e humano a partir da análise dos sonhos -- a "apropriação como meio da excreção
-	3. Exemplifica o acúmulo para o despêndio por meio do exempl
+	3. Exemplifica o acúmulo para o dispêndio a partir relação de trabalho do operário
+	4. Atribui as causas da identificação subconsciente entre operário e escravo com relação a apropriação
+	5. Crítica a moral apropriativa dos exploradores e a possibilidade de orgias de riqueza
+	6. Explora as causas da associação do homem a violência e a culminação na depravação
+2. (§36,37) Explora a manifestação dos impulsos identificados pela heterologia no meio social
+	1. Nega a abolição da exploração do homem pelo homem como única razão da ligação da prática da heterologia com a derrubada da ordem vigente
+	2. Exemplifica como esses impulsos podem ser classificados como antissociais
+	3. Argumenta sobre como os impulsos encontram a revolução social em uma sociedade estagnada
+		1. Estabelece as diferenças entre as fases de apropriação (estagnação) e de excreção (revolução)
+	4. Conclui que a força violenta da excreção revolucionária é *"a razão de ser prática quanto o meio de desenvolvimento das sociedades"*
+3. (§38, 39) Explora o sentido da excreção no processo revolucionário
+	1. Explica o sentido etimológico do termo excreção aplicado a revolução, dividindo-a em duas fases
+		1. Primeira fase: separação
+		2. Segunda fase: expulsão
+	2. Descreve o fenômeno empréstimo de características excremenciaisJustifica as causas que levam ao tratamento dos impulsos revolucionários como sagrados
+		1. 

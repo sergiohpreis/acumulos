@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-06-23T21:28:51-03:00
+modified: 2026-07-24T13:38:11-03:00
 draft: false
 tags:
   - erotismo
@@ -20,6 +20,15 @@ tags:
 - **2026-06-23**
 	- **13:54**: Na verdade, reconsiderei... vou reler com mais atenção [[BATAILLE Georges. O erotismo (1957)]]
 	- **21:28**: Comecei a fazer um [[(EEE) (1957) BATAILLE. O Erotismo|fichamento]]
+
+## [[BATAILLE Georges. A pura felicidade - Ensaios sobre o impossível (1970)]]
+
+1. A América desaparecida (1928)
+	- [[(EEE) (1928) BATAILLE. A América desaparecida|Fichamento EEE]]
+2. Diante de Lascaux, o homem civilizado se redescobre homem de desejo (1953)
+3. O valor de uso de D.A.F de Sade (Carta aberta aos meus companheiros atuais) (1967)
+	- [[(EEE) (1967) BATAILLE. O valor de uso de D.A.F. de Sade (Carta aberta aos meus companheiros atuais)|Fichamento EEE]]
+4. Sade, 1740-1814 (1953)
 
 ## LIVE CABEÇUDA (por QnS)
 

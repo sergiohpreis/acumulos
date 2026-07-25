@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-25T00:14:28-03:00
+modified: 2026-07-25T00:34:56-03:00
 draft: false
 tags:
   - bataille
@@ -35,3 +35,5 @@ A classe burguesa ou capitalista (possuidores dos meios de produção ou os poss
 ## 6. Argumenta sobre as causas da irredutibilidade do operário ao homogêneo (§6)
 
 O operário ocupa uma **dupla posição** na atividade homogênea: *"o operário é, em relação a uma pessoa homogênea... um **estrangeiro**, um homem de outra natureza, de uma natureza reduzida, não submissa"*; apenas faz parte da organização social enquanto um agente da produção, enquanto um **profissional**, e não enquanto um **humano**.
+
+# 2. O Estado

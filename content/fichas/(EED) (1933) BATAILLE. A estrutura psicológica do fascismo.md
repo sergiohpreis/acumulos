@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-24T23:59:32-03:00
+modified: 2026-07-25T00:09:57-03:00
 draft: false
 tags:
   - bataille
@@ -14,9 +14,9 @@ tags:
 
 ## 1. Define o significado de homogeneidade e os impactos nas relações humanas (§1)
 
-"**comensurabilidade** dos elementos e a consciência desta comensurabilidade"; relações humanas são mantidas via uma **redução a regras** baseadas em uma consciência de "**identidade** possível de pessoas e situações definidas"; exclusão da **violência**
+Significa uma *"comensurabilidade dos elementos e a consciência desta comensurabilidade"*; relações humanas são mantidas via uma redução a regras baseadas em uma consciência de *"identidade possível de pessoas e situações definidas"*; a exclusão da violência
 
-## 2. Descreve a produção como base da homogeneidade social (§2)
+## 2. Descreve a relação de utilidade da produção como base da homogeneidade social (§2)
 
 A sociedade homogênea (produtiva) é uma sociedade útil, o inútil é excluído de sua parte homogênea; cada elemento deve ser útil não por si, mas em relação ao outro através de uma "medida comum"
 
@@ -30,4 +30,8 @@ Ao contrário da produção artesanal (onde o artesão pode possuir os meios de 
 
 ## 5. Delimita as classes afetadas pela redução tendencial do caráter humano ao homogêneo  (§5,6)
 
-A classe burguesa ou capitalista (possuidores dos meios de produção ou os possuidores de dinheiro destinado a sua manutenção e compra) formam a parte homogênea da sociedade, e na parte média dessa classe, acontece uma "redução tendencial do caráter humano a uma entidade abstrata e intercambiável, reflexo das coisas homogêneas possuídas". A classe média afetada pois se beneficiam de "partes
+A classe burguesa ou capitalista (possuidores dos meios de produção ou os possuidores de dinheiro destinado a sua manutenção e compra) formam a parte homogênea da sociedade, e na parte média dessa classe, acontece uma "redução tendencial do caráter humano a uma entidade abstrata e intercambiável, reflexo das coisas homogêneas possuídas". A classe média afetada pois se beneficiam de "partes apreciadas do lucro".
+
+## 6. Argumenta sobre as causas da irredutibilidade do operário ao homogêneo (§6)
+
+O operário ocupa uma **dupla posição** na atividade homogênea: "o operário é, em relação a uma pessoa homogênea... um **estrangeiro**, um homem de outra natureza, de uma natureza reduzida, não submissa".

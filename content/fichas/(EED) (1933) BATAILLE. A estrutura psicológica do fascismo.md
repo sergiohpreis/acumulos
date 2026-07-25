@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-25T00:34:56-03:00
+modified: 2026-07-25T11:59:08-03:00
 draft: false
 tags:
   - bataille
@@ -8,32 +8,9 @@ tags:
   - heterologia
   - religião
   - fascismo
+  - estado
 ---
 
-# 1. A base homogênea da sociedade
-
-## 1. Define o significado de homogeneidade e como se manifesta nas relações humanas (§1)
-
-Significa uma *"**comensurabilidade** dos elementos e a consciência desta comensurabilidade"*; relações humanas são mantidas via uma redução a regras baseadas em uma consciência de *"**identidade** possível de pessoas e situações definidas"*; a **exclusão** da violência
-
-## 2. Descreve a relação de utilidade da produção como base da homogeneidade social (§2)
-
-A sociedade homogênea (produtiva) é uma sociedade **útil** onde o **inútil** é excluído de sua parte homogênea; cada elemento deve ser útil não por si, mas em relação ao outro através de uma *"**medida comum**"*
-
-## 3. Descreve o dinheiro como medida comum e fundamento da homogeneidade social (§3)
-
-O dinheiro é uma "**equivalência cifrável** dos diferentes produtos da atividade coletiva", o homem existe em função do dinheiro, sendo uma função da produção coletiva; cessa a existência *"por si"* dando lugar a existência *"para outra coisa que não por si"*
-
-## 4. Argumenta que o possuidor é o verdadeiro fundante da homogeneidade social, e não o produtor (§4)
-
-Ao contrário da produção **artesanal** (onde o artesão pode possuir os meios de produção), na civilização **industrial**, quem se apropria dos produtor é o possuidor dos meios de produção, e não o produtor -- o possuidor é **função** dos seus produtos
-
-## 5. Delimita as classes afetadas pela redução tendencial ao homogêneo (§5,6)
-
-A classe burguesa ou capitalista (possuidores dos meios de produção ou os possuidores de dinheiro destinado a sua manutenção e compra) formam a parte homogênea da sociedade, e na parte média dessa classe, acontece uma *"redução tendencial do caráter humano a uma entidade **abstrata** e **intercambiável**, reflexo das **coisas homogêneas** possuídas"*. A classe média afetada pois se beneficiam de *"partes apreciadas do lucro"*.
-
-## 6. Argumenta sobre as causas da irredutibilidade do operário ao homogêneo (§6)
-
-O operário ocupa uma **dupla posição** na atividade homogênea: *"o operário é, em relação a uma pessoa homogênea... um **estrangeiro**, um homem de outra natureza, de uma natureza reduzida, não submissa"*; apenas faz parte da organização social enquanto um agente da produção, enquanto um **profissional**, e não enquanto um **humano**.
-
-# 2. O Estado
+1. [A base homogênea da sociedade](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=63174279-9d89-4700-bd7f-f4c241f9dd8e)
+2. [O Estado](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d91c6b4d-0989-4cc1-aa56-2b715b468b0d)
+3. [Dissociações, críticas a homogeneidade social e do Estado](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d140ac3b-ebae-4a25-a491-41e8feea32b7)

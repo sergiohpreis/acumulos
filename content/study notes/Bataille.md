@@ -27,7 +27,7 @@ tags:
 	- [[(EEE) (1928) BATAILLE. A América desaparecida|Fichamento EEE]]
 2. Diante de Lascaux, o homem civilizado se redescobre homem de desejo (1953)
 3. O valor de uso de D.A.F de Sade (Carta aberta aos meus companheiros atuais) (1967)
-	- [[(EEE) (1967) BATAILLE. O valor de uso de D.A.F. de Sade (Carta aberta aos meus companheiros atuais)|Fichamento EEE]]
+	- [[(EED) (1967) BATAILLE. O valor de uso de D.A.F. de Sade (Carta aberta aos meus companheiros atuais)|Fichamento EEE]]
 4. Sade, 1740-1814 (1953)
 
 ## LIVE CABEÇUDA (por QnS)

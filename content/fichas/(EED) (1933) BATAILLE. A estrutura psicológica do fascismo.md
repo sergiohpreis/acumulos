@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-25T11:59:08-03:00
+modified: 2026-07-25T12:04:48-03:00
 draft: false
 tags:
   - bataille

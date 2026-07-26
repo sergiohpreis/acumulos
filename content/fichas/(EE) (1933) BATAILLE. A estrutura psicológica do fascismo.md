@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-25T20:19:22-03:00
+modified: 2026-07-25T21:52:25-03:00
 draft: false
 tags:
   - bataille
@@ -15,4 +15,4 @@ tags:
 2. [O Estado](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d91c6b4d-0989-4cc1-aa56-2b715b468b0d)
 3. [Dissociações, críticas a homogeneidade social e do Estado](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d140ac3b-ebae-4a25-a491-41e8feea32b7)
 4. [A existência social heterogênea](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=5a4e718f-ac0b-4850-865e-020051d2e620)
-5. O dualismo fundamental do mundo heterogêneo
+5. [O dualismo fundamental do mundo heterogêneo](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=43a938fb-ba9e-4c13-b77b-65c7e6d47b31)

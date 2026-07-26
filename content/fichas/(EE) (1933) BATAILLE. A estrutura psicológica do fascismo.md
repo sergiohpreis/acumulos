@@ -15,7 +15,7 @@ tags:
 	1. Fala sobre como a sociedade produtiva é dedicada a uma utilidade, onde se exclui tudo que não for útil e o todo pautado por uma medida comum (o dinheiro); as diferentes classes são afetadas de diferentes maneiras quanto a sua incorporação ao homogêneo
 2. [O Estado](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d91c6b4d-0989-4cc1-aa56-2b715b468b0d)
 	1. A sociedade homogênea sempre ira apresentar elementos agitados, tanto por não usufruirem da produção, quanto por não usufruírem o suficiente pra realização de seus desejos, ou por não suportarem os freios da homogeneidade.
-	2. 
+	2. Jogo de adaptação e autoridade, homogeneidade espontânea como regra, forças inadmissíveis, autoridade;
 3. [Dissociações, críticas a homogeneidade social e do Estado](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d140ac3b-ebae-4a25-a491-41e8feea32b7)
 4. [A existência social heterogênea](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=5a4e718f-ac0b-4850-865e-020051d2e620)
 5. [O dualismo fundamental do mundo heterogêneo](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=43a938fb-ba9e-4c13-b77b-65c7e6d47b31)

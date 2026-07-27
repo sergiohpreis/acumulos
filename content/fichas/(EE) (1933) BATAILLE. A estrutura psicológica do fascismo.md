@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-27T00:30:52-03:00
+modified: 2026-07-27T09:28:18-03:00
 draft: false
 tags:
   - bataille
@@ -28,7 +28,7 @@ tags:
 
 ## 1. Define o significado de homogeneidade como comensurabilidade consciente (§1)
 
-Em uma descrição psicológica da sociedade, a parte fundamental é a *"homogeneidade tendencial"*, que significa uma *"**comensurabilidade** dos elementos e a consciência desta comensurabilidade"*; relações humanas são mantidas via uma redução a regras baseadas em uma consciência de *"**identidade** possível de pessoas e situações definidas"*; é a **exclusão** da violência
+Em uma descrição psicológica da sociedade, a parte fundamental é a *"homogeneidade tendencial"*, que significa uma *"**comensurabilidade** dos elementos e a consciência desta comensurabilidade"*; relações humanas são mantidas via uma redução a regras baseadas em uma consciência de *"**identidade possível** de **pessoas e situações** definidas"*; é a **exclusão** da violência
 
 ## 2. Descreve a relação de utilidade da produção como base da homogeneidade social (§2)
 
@@ -58,11 +58,11 @@ Bataille concorda com a concepção marxista quando o Estado *"é representado a
 
 ## Propõe o Estado como formação intermediária das classes homogêneas e as instâncias soberanas (§3)
 
-O Estado é o resultado das modificações produzidas pelo contato entre parte da sociedade homogêneas com seus elementos imperativos (reis e chefes de exército ou nação). Essa parte torna-se uma "formação intermediária entre as classes homogêneas e as instâncias soberanas", que adquire um caráter obrigatório dessas instâncias, sendo possível se exercer a soberania somente por seu intermédio. Essa formação não é uma "existência valida em si (heterogênea)", mas uma atividade cuja utilidade se manifesta em relação ao outro
+O Estado é o resultado das modificações produzidas pelo contato entre parte da sociedade homogêneas com seus **elementos imperativos** (reis e chefes de exército ou nação). Essa parte torna-se uma *"**formação intermediária** entre as classes homogêneas e as instâncias soberanas"*, que adquire um caráter obrigatório dessas instâncias, sendo possível se exercer a soberania somente por seu intermédio. Essa formação não é uma *"existência **valida em si** (heterogênea)"*, mas uma atividade cuja utilidade se manifesta em relação ao outro
 
 ## Descreve a função do Estado em termos práticos como um duplo jogo de autoridade e adaptação (§4,5)
 
-A prática parlamentar é a expressão do mecanismo interno de "adaptação necessária a homogeneidade", entretanto contra as "forças inadmissíveis", o Estado opta pela autoridade. "Sendo o Estado democrático ou despótico, a tendência que prevalece é a adaptação ou a autoridade." Na democracia, a força vem de uma "homogeneidade espontânea" que é fixada e tida como regra; o princípio de nação, soberania, se enfraquece devido ao fato dos indivíduos isolados se considerarem como "fins com relação ao Estado... existiria para eles antes de existir para a nação", surge uma vida pessoal que possui um valor "incomparável" a "existência homogênea"
+A prática parlamentar é a expressão do mecanismo interno de *"adaptação necessária a homogeneidade"*, entretanto contra as *"forças inadmissíveis"*, o Estado opta pela autoridade. *"Sendo o Estado democrático ou despótico, a tendência que prevalece é a adaptação ou a autoridade";* Na democracia, a força vem de uma *"homogeneidade **espontânea**"* que é fixada e tida como regra; o princípio de nação, soberania, se enfraquece devido ao fato dos indivíduos isolados se considerarem como *"fins com relação ao Estado... existiria para eles antes de existir para a nação"*, surge uma vida pessoal que possui um valor *"**incomparável**"* a *"existência homogênea"*
 
 # 3. Dissociações, críticas a homogeneidade social e do Estado
 

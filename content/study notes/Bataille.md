@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-07-24T13:38:11-03:00
+modified: 2026-07-26T22:01:05-03:00
 draft: false
 tags:
   - erotismo
@@ -10,6 +10,8 @@ tags:
   - sagrado
   - violência
   - sacrifício
+  - fascismo
+  - psicologia
 ---
 
 ## [[BATAILLE Georges. O erotismo (1957)]]
@@ -30,7 +32,9 @@ tags:
 	- [[(EED) (1967) BATAILLE. O valor de uso de D.A.F. de Sade (Carta aberta aos meus companheiros atuais)|Fichamento EEE]]
 4. Sade, 1740-1814 (1953)
 
-## [[(EE) (1933) BATAILLE. A estrutura psicológica do fascismo]]
+## [[BATAILLE Georges. A estrutura psicológica do fascismo (1933)]]
+
+Fichamento: [[[(EE) (1933) BATAILLE. A estrutura psicológica do fascismo]]]
 
 ## LIVE CABEÇUDA (por QnS)
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-26T21:59:28-03:00
+modified: 2026-07-26T22:27:21-03:00
 draft: false
 tags:
   - bataille
@@ -25,7 +25,7 @@ tags:
 
 # 1. A base homogênea da sociedade
 
-## 1. Define o significado de homogeneidade e como se manifesta nas relações humanas (§1)
+## 1. Define o significado de homogeneidade como comensurabilidade consciente (§1)
 
 Significa uma *"**comensurabilidade** dos elementos e a consciência desta comensurabilidade"*; relações humanas são mantidas via uma redução a regras baseadas em uma consciência de *"**identidade** possível de pessoas e situações definidas"*; a **exclusão** da violência
 

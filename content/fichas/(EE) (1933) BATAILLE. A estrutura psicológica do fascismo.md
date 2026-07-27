@@ -200,7 +200,9 @@ Colocando-se como *"princípio da associação de elementos inumeráveis"*, o po
 
 Enquanto a existência miserável se produz necessariamente como multidão e a sociedade homogênea como redução a uma medida comum, a instância imperativa *"se desenvolve necessariamente no sentido de uma redução à unidade sob a forma de um ser humano excluindo a própria possibilidade de um semelhante"* — *"uma forma radical da exclusão exigindo uma avidez"*.
 
-# 7. A concentração tendencial## Descreve os princípios da concentração dos poderes religioso e sagrado no poder real (§1-3)
+# 7. A concentração tendencial
+
+## Descreve os princípios da concentração dos poderes religioso e sagrado no poder real (§1-3)
 
 P.S: Bataille afirma que a base para entender as funções militares e religiosa em relação a forma imperativa esta em *Freud, Psicologia das massas e a análise do eu*
 

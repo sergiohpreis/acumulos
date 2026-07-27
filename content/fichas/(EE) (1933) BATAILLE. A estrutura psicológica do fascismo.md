@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-26T22:27:21-03:00
+modified: 2026-07-26T22:34:36-03:00
 draft: false
 tags:
   - bataille
@@ -27,7 +27,7 @@ tags:
 
 ## 1. Define o significado de homogeneidade como comensurabilidade consciente (§1)
 
-Significa uma *"**comensurabilidade** dos elementos e a consciência desta comensurabilidade"*; relações humanas são mantidas via uma redução a regras baseadas em uma consciência de *"**identidade** possível de pessoas e situações definidas"*; a **exclusão** da violência
+Em uma descrição psicológica da sociedade, a parte fundamental é a *"homogeneidade tendencial"*, que significa uma *"**comensurabilidade** dos elementos e a consciência desta comensurabilidade"*; relações humanas são mantidas via uma redução a regras baseadas em uma consciência de *"**identidade** possível de pessoas e situações definidas"*; é a **exclusão** da violência
 
 ## 2. Descreve a relação de utilidade da produção como base da homogeneidade social (§2)
 

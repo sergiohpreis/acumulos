@@ -30,6 +30,8 @@ tags:
 	- [[(EED) (1967) BATAILLE. O valor de uso de D.A.F. de Sade (Carta aberta aos meus companheiros atuais)|Fichamento EEE]]
 4. Sade, 1740-1814 (1953)
 
+## [[(EE) (1933) BATAILLE. A estrutura psicológica do fascismo]]
+
 ## LIVE CABEÇUDA (por QnS)
 
 [parte 1](https://www.youtube.com/watch?v=7cd90b7ELCE&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=15) | [parte 2](https://www.youtube.com/watch?v=LF3E0YakdVU&list=PLi_a2oq_6xYJ_fB3n9Zj7ohH1xjVw-IeV&index=14) | [parte 3](https://www.youtube.com/live/t2P7BoWBetU?si=6AZMm6qHoEzLFZ07)

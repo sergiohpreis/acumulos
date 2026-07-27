@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-25T22:55:21-03:00
+modified: 2026-07-26T21:59:28-03:00
 draft: false
 tags:
   - bataille
@@ -19,8 +19,127 @@ tags:
 3. [Dissociações, críticas a homogeneidade social e do Estado](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d140ac3b-ebae-4a25-a491-41e8feea32b7)
 4. [A existência social heterogênea](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=5a4e718f-ac0b-4850-865e-020051d2e620)
 5. [O dualismo fundamental do mundo heterogêneo](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=43a938fb-ba9e-4c13-b77b-65c7e6d47b31)
+6. [A forma imperativa da existência heterogênea: a soberania](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=a27f7d9e-5c49-4f20-948d-fd8542b7aa92)
 
 ---
+
+# 1. A base homogênea da sociedade
+
+## 1. Define o significado de homogeneidade e como se manifesta nas relações humanas (§1)
+
+Significa uma *"**comensurabilidade** dos elementos e a consciência desta comensurabilidade"*; relações humanas são mantidas via uma redução a regras baseadas em uma consciência de *"**identidade** possível de pessoas e situações definidas"*; a **exclusão** da violência
+
+## 2. Descreve a relação de utilidade da produção como base da homogeneidade social (§2)
+
+A sociedade homogênea (produtiva) é uma sociedade **útil** onde o **inútil** é excluído de sua parte homogênea; cada elemento deve ser útil não por si, mas em relação ao outro através de uma *"**medida comum**"*
+
+## 3. Descreve o dinheiro como medida comum e fundamento da homogeneidade social (§3)
+
+O dinheiro é uma "**equivalência cifrável** dos diferentes produtos da atividade coletiva", o homem existe em função do dinheiro, sendo uma função da produção coletiva; cessa a existência *"por si"* dando lugar a existência *"para outra coisa que não por si"*
+
+## 4. Argumenta que o possuidor é o verdadeiro fundante da homogeneidade social, e não o produtor (§4)
+
+Ao contrário da produção **artesanal** (onde o artesão pode possuir os meios de produção), na civilização **industrial**, quem se apropria dos produtor é o possuidor dos meios de produção, e não o produtor -- o possuidor é **função** dos seus produtos
+
+## 5. Delimita as classes afetadas pela redução tendencial ao homogêneo (§5,6)
+
+A classe burguesa ou capitalista (possuidores dos meios de produção ou os possuidores de dinheiro destinado a sua manutenção e compra) formam a parte homogênea da sociedade, e na parte média dessa classe, acontece uma *"redução tendencial do caráter humano a uma entidade **abstrata** e **intercambiável**, reflexo das **coisas homogêneas** possuídas"*. A classe média afetada pois se beneficiam de *"partes apreciadas do lucro"*.
+
+## 6. Argumenta sobre as causas da irredutibilidade do operário ao homogêneo (§6)
+
+O operário ocupa uma **dupla posição** na atividade homogênea: *"o operário é, em relação a uma pessoa homogênea... um **estrangeiro**, um homem de outra natureza, de uma natureza não reduzida, não submissa"*; apenas faz parte da organização social enquanto um agente da produção, enquanto um **profissional**, e não enquanto um **humano**.
+
+# 2. O Estado
+
+## Descreve as causas da formação dos elementos agitados da homogeneidade social e suas consequências (§1,2)
+
+Bataille concorda com a concepção marxista quando o Estado *"é representado a serviço da homogeneidade ameaçada"*, em seguida argumenta que a homogeneidade social é uma *"forma precária"*, que sempre estará a mercê de elementos agitados, compostos por aqueles que *"**não** se aproveitam da produção, ou se aproveitam **insuficientemente** segundo seu desejo, ou simplesmente, que não podem suportar os **freios** que a homogeneidade põe à agitação"*, e nesse sentido, *"elementos imperativos"* são acionados para *"aniquilar ou reduzir a uma regra as diferentes forças desordenadas"*
+
+## Propõe o Estado como formação intermediária das classes homogêneas e as instâncias soberanas (§3)
+
+O Estado é o resultado das modificações produzidas pelo contato entre parte da sociedade homogêneas com seus elementos imperativos (reis e chefes de exército ou nação). Essa parte torna-se uma "formação intermediária entre as classes homogêneas e as instâncias soberanas", que adquire um caráter obrigatório dessas instâncias, sendo possível se exercer a soberania somente por seu intermédio. Essa formação não é uma "existência valida em si (heterogênea)", mas uma atividade cuja utilidade se manifesta em relação ao outro
+
+## Descreve a função do Estado em termos práticos como um duplo jogo de autoridade e adaptação (§4,5)
+
+A prática parlamentar é a expressão do mecanismo interno de "adaptação necessária a homogeneidade", entretanto contra as "forças inadmissíveis", o Estado opta pela autoridade. "Sendo o Estado democrático ou despótico, a tendência que prevalece é a adaptação ou a autoridade." Na democracia, a força vem de uma "homogeneidade espontânea" que é fixada e tida como regra; o princípio de nação, soberania, se enfraquece devido ao fato dos indivíduos isolados se considerarem como "fins com relação ao Estado... existiria para eles antes de existir para a nação", surge uma vida pessoal que possui um valor "incomparável" a "existência homogênea"
+
+# 3. Dissociações, críticas a homogeneidade social e do Estado
+
+## Descreve o processo de dissociação tendencial da existência social homogênea (§1,2)
+
+As forças heterogêneas da sociedade agem constantemente, e embora o Estado seja suficiente para mantê-las na impotência através da sua coerção, sempre corre o risco de sucumbir a uma *"dissociação interna por parte da sociedade que não domina, senão pela forma constritiva"*; As inúmeras contradições do sistema produtivo carregam uma tendência a uma dissociação, que de maneira isolada não atinge *"formas agudas e perigosas"*, mas quando *"uma parte apreciável da massa de indivíduos homogêneos deixa de ter interesse na conservação da forma da homogeneidade"* (não pela sua homogeneidade, mas justamente por uma perda de caráter próprio), **associam-se espontaneamente a forças heterogêneas** já existentes e compostas.
+
+## Descreve o processo de junção da massa homogênea dissociada ao heterogêneo (§3,4)
+
+A desintegração é apenas a *"forma **negativa** da efervescência social"*, pois os elementos dissociados, ao se juntar as formações heterogêneas já existentes *"tomam-lhes emprestado um caráter novo, o caráter **positivo** geral da heterogeneidade"*, esse é o modo positivo da efervescência, que operam uma "alteração completa" nos elementos dissociados, que passam a ter a sua ação *"condicionada pela estrutura atual desta parte"*, que *"tende a uma estrutura definida"*, que não acontece de maneira *"informe e desorientado"*; **"o modo de solução de contradições econômicas agudas depende ao mesmo tempo do **estado histórico** e das **leis gerais da região** social heterogênea"**, ou seja, os elementos heterogêneos que se formam de maneira estruturada influenciam diretamente *"o modo de solução de contradições econômicas agudas"* da parte homogênea.
+
+# 4. A existência social heterogênea
+
+## Compara os problemas na assimilação dos elementos heterogêneos pela psicologia social e pela ciência (§1,2)
+
+Apresenta o problema da psicologia social ao tratar sobre uma forma que "não foi ainda objeto de uma determinação positiva";A assimilação científica também não é possível sobre os elementos heterogêneos, justamente pelo caráter homogêneo da ciência (ciência em função da homogeneidade).
+
+## Extrai as consequências da ausência de satisfação funcional na assimilação científica dos elementos heterogêneos (§3)
+
+Uma vez que os objetos heterogêneos não satisfazem uma satisfação funcional, não são mantidos no campo de atenção das ciências.
+
+## Concebe uma noção de inconsciente como um dos aspectos do heterogêneo  (§4)
+
+Associa a exclusão dos elementos heterogêneo a censura dos elementos inconscientes (excluídos do eu consciente)
+
+## Esclarece algumas noções sobre o termo heterogêneo (§4,5)
+
+Defende que o número de incursões ao heterogêneo é insuficiente para oferecer uma "revelação de sua existência positiva e claramente separada", portanto, realiza algumas considerações sobre o termo heterogêneo
+
+### Limita o sagrado como "forma restrita" com relação ao heterogêneo
+
+Exemplifica os fatos precisos que caracterizam as noções de "mana" e "tabu" e aponta as dificuldades de se estabelecer uma "compreensão explicita do sagrado", apresentando a tentativa de Durkheim
+
+### Sintetiza a maneira implícita pelo qual o sagrado é conhecido e a relação com a coisa heterogênea
+
+Relaciona a reação as coisas heterogêneas e sagradas, justificando essa reação devido a coisa heterogênea ser "imbuída de uma força desconhecida e perigosa"
+
+### Apresenta o conjunto dos resultados do dispêndio improdutivo como parte do mundo heterogêneo
+
+É "tudo o que a sociedade homogênea rejeita, seja como dejeto, seja como valor superior transcendente". Apresenta diversos exemplos dessas rejeições
+
+### Descreve as reações afetivas provocadas pelos elementos heterogêneos
+
+"é possível supor que o objeto de toda reação afetiva é necessariamente heterogêneo (senão geralmente, pelo menos em relação ao sujeito)"
+
+### A violência, desmesura, delírio e loucura como caracterizadores dos elementos heterogêneos e a relação com objetos inertes
+
+### Compara a realidade dos elementos heterogêneos e dos homogêneos
+
+A realidade homogênea se apresenta com "aspecto abstrato e neutro dos objetos estritamente definidos e identificados". A realidade heterogênea é "da força e do choque", uma mudança que parece não operar "no mundo dos objetos, mas somente no dos julgamentos do sujeito". Mas isso não os torna subjetivos, os objetos da atividade eróticas tem base em sua natureza objetiva. Mas ainda assim é possível "deslocar o valor excitante de um elemento sobre outro análogo ou vizinho". Os elementos fundamentais podem adquirir a mesma importância que determinados símbolos, "a parte pode ter o mesmo valor que o todo"
+
+### Propõe a estrutura do conhecimento de uma realidade heterogênea em detrimento a estrutura de conhecimento homogênea
+
+Enquanto a realidade homogênea é pautada na ciência, a heterogênea se funda em um pensamento místico ("dos primitivos e nas representações do sonho: é idêntica à estrutura do inconsciente"). A vida corrente como "totalmente outra, incomensurável".
+
+## Apresenta exemplos de elementos heterogêneos (§6,7)
+
+### Explora a forma das lideranças fascistas como elemento heterogêneo (§6)
+
+Explica porque os "líderes fascistas pertencem incontestavelmente à existência heterogênea", enquanto totalmente outros com relação aos "políticos democratas", apresentam uma "força que os situa acima dos homens, dos partidos e mesmo das leis", uma força hipnótica (a força de um líder é "análoga aquela que se exerce na hipnose".
+
+O fluxo afetivo ("função da consciência comum de poderes e energia cada vez mais violentos, cada vez mais desmedidos") se acumulam nesse líder, e essa acumulação em "uma só pessoa" é o um elemento distintivo da formação fascista dentro do domínio do heterogêneo. Essa forma monárquica, não exclusiva a Itália e Alemanha, indica "que se devem renunciar, sob coerção, às necessidades naturais imediatas dos homens em benefício de um princípio transcendente", sem precisar de nenhuma explicação exata.
+
+### Explora as camadas sociais mais baixas como elemento heterogêneo (§7)
+
+A repulsão as classes mais baixas fazem com que essas não sejam assimiladas pelo conjunto dos homens. A Índia apresenta um caso onde as essas classes são vistas de maneira quase como sagrada, enquanto "intocáveis", e embora os países de civilização avançada sejam "menos ritual" e que essa qualidade intocável não seja "transmitida pela hereditariedade", ainda assim, o ser humano marcado pela miséria cria entre si e o outro ("expressão do homem normal"), "um fosso intransponível", a "calamidade material" influência diretamente na ordem psicológica. Exemplifica as reações dos homens felizes que "não sofreram a redução homogênea"que podem levar a violência , interpretada como "um desafio à razão"
+
+# 5. O dualismo fundamental do mundo heterogêneo
+
+## Revela a compatibilidade entre as formas heterogêneas e o sagrado (§1)
+
+Os heterogêneos constituído tanto pelos lideres, quanto pelos miseráveis possuem características sagradas, e no caso do primeiro, torna-se mais evidente por ser objeto de um culto (diferente da miséria)
+
+## Relaciona as duas formas sagradas (puras e impuras) as manifestações opostas do heterogêneo (§2)
+
+As formas elevadas e imperativas (**superiores**) e as formas miseráveis (**inferiores**) possuem em algum sentido uma *"identidade dos contrários"* e essa oposição é um dos elementos fundamentais da heterogeneidade -- *"divide o conjunto do mundo heterogêneo".* Afirma que nas sociedades evoluídas, formas "heterogêneas indiferenciadas são raras" e que em geral se reduzem a essa "oposição de dois contrários"
+
+# 6. A forma imperativa da existência heterogênea: a soberania
 
 ## Explica o vocabulário tradicional (nobre, elevado, superior) usado para descrever a ação fascista (§1,2)
 
@@ -46,18 +165,32 @@ A sociedade homogênea "afasta qualquer elemento heterogêneo, imundo ou nobre" 
 
 ## Apresenta as contradições do estabelecimento do rei como razão de ser da sociedade homogênea e a mutua transformação realizada nas formas heterogênea e homogênea (§10,11)
 
-Uma vez que o rei é o objeto em que a sociedade homogênea encontra a sua "razão de ser", ele deve se comportar para que essa relação seja mantida, ou seja, para que "a sociedade homogênea" possa "existir por ele. Entretanto, essa exigência de comportamento entra em confronto direto com a "heterogeneidade fundamental do rei garantida pelas numerosas proibições de contato (tabus)". A heterogeneidade da instância imperativa (o rei) não pode ser mantida em estado livre, e por isso, direciona-se a sua "paixão destruidora (o sadismo) para "as sociedades estrangeiras", "classes miseráveis" e "elementos externos ou internos hostis à homogeneidade". 
+Uma vez que o rei é o objeto em que a sociedade homogênea encontra a sua "razão de ser", deve se comportar para que essa relação seja mantida, ou seja, para que "a sociedade homogênea" possa "existir por ele". Entretanto, essa exigência de comportamento entra em confronto direto com a "heterogeneidade fundamental do rei garantida pelas numerosas proibições de contato (tabus)". A heterogeneidade da instância imperativa (o rei) não pode ser mantida em estado livre, e por isso, direciona-se a sua "paixão destruidora (o sadismo)" para "as sociedades estrangeiras", "classes miseráveis" e "elementos externos ou internos hostis à homogeneidade".
 
-> "A união, princípio da homogeneidade, é apenas um fato tendencial, incapaz de encontrar em si mesmo um motivo para exigir e impor sua existência e, na maioria das circunstâncias, o recurso a uma exigência proveniente de fora tem o valor de uma necessidade primeira"
+> "A união, princípio da homogeneidade, é apenas um fato tendencial, incapaz de encontrar em si mesmo um motivo para exigir e impor sua existência e, na maioria das circunstâncias, o recurso a uma exigência proveniente de fora tem o valor de uma necessidade primeira."
 
-A união da homogeneidade não se sustenta, pois sempre se faz presente um apelo exterior ao homogêneo.
+A união da homogeneidade não se sustenta por si só, pois na maioria dos casos se faz necessário um apelo exterior ao homogêneo.
 
 > "Ora, o dever ser puro, o imperativo moral, exige o ser por si, quer dizer, o modo específico da existência heterogênea. Mas esta existência, precisamente, escapa, no que concerne a ela mesma, ao princípio do dever ser, e não pode em nenhum caso ser-lhe subordinada: ela acede imediatamente ao ser (em outros termos, ela se produz como valor sendo ou não sendo, e nunca como valor devendo ser)."
 
-O "dever ser puro" (poder régio histórico, "imperativo moral") exige o "ser por si", mas ela escapa do "dever ser" (não é subordinada a ninguém), portanto, "acede imediatamente ao ser", como "sendo ou não sendo, e nunca como valor devendo ser". Sendo assim, podemos dizer que existe uma modificação mutua realizada tanto na parte heterogênea, quanto na parte homogênea, onde "a resolução desta incompatibilidade impõe nas existências heterogêneas **o dever ser** da existência **homogênea**"
+Ou seja: o "dever ser puro" — a exigência que a própria homogeneidade formula, por não encontrar em si mesma razão de existir — busca o "ser por si" próprio do heterogêneo (o rei), mas esse "ser por si" escapa ao dever ser e não pode lhe ser subordinado; ele "acede imediatamente ao ser", "sendo ou não sendo, e nunca como valor devendo ser".
 
-> Assim, a heterogeneidade imperativa não representa somente uma forma diferenciada em relação à heterogeneidade vaga: supõe, além disso, a modificação da estrutura das duas partes, homogênea e heterogênea, em contato.
+Dessa incompatibilidade resulta uma modificação mútua nas duas partes:
 
-O Estado não representa mais do que "a homogeneidade vaga transformada em coerção", um "dever ser desnudado e frio", mas que entretanto, penetra a existência imperativa, resultando em na forma da homogeneidade negando a si mesma onde "se absorve na homogeneidade e se destrói enquanto estritamente homogênea pelo fato de que, transformada em negação do princípio de utilidade, recusa-se qualquer subordinação"
+> "a resolução desta incompatibilidade impõe nas existências heterogêneas o dever ser da existência homogênea. Assim, a heterogeneidade imperativa não representa somente uma forma diferenciada em relação à heterogeneidade vaga: supõe, além disso, a modificação da estrutura das duas partes, homogênea e heterogênea, em contato."
 
-> Penetrado profundamente pela razão de Estado, o rei não se identifica, portanto, com esta última: integralmente, mantém o caráter distinto próprio da maioria divina. Ele escapa ao princípio específico da homogeneidade, à compensação dos direitos e dos deveres que constitui a lei formal do Estado: os direitos do rei são incondicionais."
+Por um lado, "a formação homogênea, vizinha da instância régia, o Estado, toma emprestado a essa instância o seu caráter imperativo" e "parece aceder à existência *por si* realizando o *dever ser* desnudado e frio do conjunto da sociedade homogênea." Mas, na realidade, "o Estado... não \[é\] mais que a forma abstrata, degradada, do *dever ser* vivente exigido, no cume... ele é apenas a *homogeneidade* vaga transformada em coerção."
+
+Por outro lado, esse mesmo modo de formação intermediário "penetra por reação a existência imperativa": ao longo dessa introjeção, "a forma própria da homogeneidade torna-se, dessa vez realmente, existência por si negando-se a si mesma: ela se absorve na homogeneidade e se destrói enquanto estritamente homogênea pelo fato de que, transformada em negação do princípio de utilidade, recusa-se qualquer subordinação".
+
+Ainda assim, "penetrado profundamente pela razão de Estado, o rei não se identifica... com esta última: integralmente, mantém o caráter distinto próprio da maioria divina. Ele escapa ao princípio específico da homogeneidade... os direitos do rei são incondicionais."
+
+## Descreve a soberania enquanto forma tendencial de toda autoridade, que se reduz à unidade e sustenta a redução homogênea (§12,13)
+
+Apontando que a possibilidade da soberania "trouxe a servidão infinita que degrada a maior parte das formas de vida humanas", Bataille analisa a soberania sob sua forma tendencial — "tal como historicamente vivida pelos sujeitos responsáveis por seu valor atrativo, independentemente, todavia, de uma realidade particular". Ela apresenta um caráter nobre, puro, como um local isento das intrigas de interesses mundanos, onde "realiza o ideal da sociedade e do curso das coisas". Ao mesmo tempo, é "autoridade estrita": está acima tanto da sociedade homogênea quanto da população miserável ou da hierarquia aristocrática que dela emana, e "exige de uma maneira encarniçada a repressão do que lhe é contrário", confundindo-se, em sua forma definida, "com os fundamentos heterogêneos da lei" — sendo, ao mesmo tempo, "a possibilidade e a exigência da unidade coletiva".
+
+> "...é na órbita da realeza que se elaboram o Estado e suas funções de coerção e de adaptação; é em benefício da grandeza real que se desenvolve, tanto como destruição quanto como fundação, a redução homogênea."
+
+Colocando-se como "princípio da associação de elementos inumeráveis", o poder régio "se desenvolve espontaneamente enquanto força imperativa e destrutiva contra qualquer outra forma imperativa que lhe poderia ser oposta" — dessa forma, manifesta "a tendência fundamental e o princípio de toda a autoridade": "a redução à unidade pessoal, a individualização do poder". 
+
+Enquanto a existência miserável se produz necessariamente como multidão e a sociedade homogênea como redução a uma medida comum, a instância imperativa "se desenvolve necessariamente no sentido de uma redução à unidade sob a forma de um ser humano excluindo a própria possibilidade de um semelhante" — "uma forma radical da exclusão exigindo uma avidez".

@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-27T09:28:18-03:00
+modified: 2026-07-27T09:30:32-03:00
 draft: false
 tags:
   - bataille
@@ -68,11 +68,11 @@ A prática parlamentar é a expressão do mecanismo interno de *"adaptação nec
 
 ## Descreve o processo de dissociação tendencial da existência social homogênea (§1,2)
 
-As forças heterogêneas da sociedade agem constantemente, e embora o Estado seja suficiente para mantê-las na impotência através da sua coerção, sempre corre o risco de sucumbir a uma *"dissociação interna por parte da sociedade que não domina, senão pela forma constritiva"*; As inúmeras contradições do sistema produtivo carregam uma tendência a uma dissociação, que de maneira isolada não atinge *"formas agudas e perigosas"*, mas quando *"uma parte apreciável da massa de indivíduos homogêneos deixa de ter interesse na conservação da forma da homogeneidade"* (não pela sua homogeneidade, mas justamente por uma perda de caráter próprio), **associam-se espontaneamente a forças heterogêneas** já existentes e compostas.
+As **forças heterogêneas** da sociedade agem constantemente, e embora o Estado seja suficiente para mantê-las na impotência através da sua coerção, sempre corre o risco de sucumbir a uma *"**dissociação interna** por parte da sociedade que não domina, senão pela forma constritiva"*; As inúmeras contradições do sistema produtivo carregam uma tendência a uma dissociação, que de maneira isolada não atinge *"formas agudas e perigosas"*, mas quando *"uma parte apreciável da massa de indivíduos homogêneos deixa de ter interesse na **conservação** da forma da homogeneidade"* (não pela sua homogeneidade, mas justamente por uma perda de caráter próprio), **associam-se espontaneamente a forças heterogêneas** já existentes e compostas.
 
 ## Descreve o processo de junção da massa homogênea dissociada ao heterogêneo (§3,4)
 
-A desintegração é apenas a *"forma **negativa** da efervescência social"*, pois os elementos dissociados, ao se juntar as formações heterogêneas já existentes *"tomam-lhes emprestado um caráter novo, o caráter **positivo** geral da heterogeneidade"*, esse é o modo positivo da efervescência, que operam uma "alteração completa" nos elementos dissociados, que passam a ter a sua ação *"condicionada pela estrutura atual desta parte"*, que *"tende a uma estrutura definida"*, que não acontece de maneira *"informe e desorientado"*; **"o modo de solução de contradições econômicas agudas depende ao mesmo tempo do **estado histórico** e das **leis gerais da região** social heterogênea"**, ou seja, os elementos heterogêneos que se formam de maneira estruturada influenciam diretamente *"o modo de solução de contradições econômicas agudas"* da parte homogênea.
+A desintegração é apenas a *"forma **negativa** da efervescência social"*, pois os elementos dissociados, ao se juntar as formações heterogêneas já existentes *"tomam-lhes emprestado um caráter novo, o caráter **positivo** geral da heterogeneidade"*, esse é o modo positivo da efervescência, que operam uma "alteração completa" nos elementos dissociados, que passam a ter a sua ação *"condicionada pela estrutura atual desta parte"*, que *"tende a uma estrutura definida"*, que não acontece de maneira *"informe e desorientado"*; *"o modo de solução de contradições econômicas agudas depende ao mesmo tempo do estado histórico e das leis gerais da região social heterogênea"*, ou seja, os elementos heterogêneos que se formam de maneira estruturada influenciam diretamente *"o **modo de solução de contradições** econômicas agudas"* da parte homogênea.
 
 # 4. A existência social heterogênea
 

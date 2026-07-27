@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-27T00:15:17-03:00
+modified: 2026-07-27T00:30:52-03:00
 draft: false
 tags:
   - bataille
@@ -20,7 +20,7 @@ tags:
 4. [A existência social heterogênea](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=5a4e718f-ac0b-4850-865e-020051d2e620)
 5. [O dualismo fundamental do mundo heterogêneo](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=43a938fb-ba9e-4c13-b77b-65c7e6d47b31)
 6. [A forma imperativa da existência heterogênea: a soberania](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=a27f7d9e-5c49-4f20-948d-fd8542b7aa92)
-7. A concentração tendencial
+7. [A concentração tendencial](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=24125b5a-b3bb-45b4-9fba-929013f8619e)
 
 ---
 
@@ -198,3 +198,14 @@ Enquanto a existência miserável se produz necessariamente como multidão e a s
 
 # 7. A concentração tendencial
 
+## Descreve os princípios da concentração dos poderes religioso e sagrado no poder real (§1-3)
+
+A coexistência de domínios distintos (soberania real, autoridade religiosa e potência militar) faz a tendência à concentração parecer contraditória; no entanto, o poder real é composto por elementos constitutivos dos poderes religioso e militar — diferente desses poderes, o poder real não é autônomo, podendo ser definido exata e unicamente como "a concentração realizada desses dois elementos formados em duas direções diferentes" — independente das formas de renascimento desses poderes ao longo da história, esse "princípio de sua concentração tendencial sob a forma de uma soberania una" se manteve inalterado (não bastou uma recusa formal para impedir "a cruz de perambular pelos degraus do trono com o sabre").
+
+Independente da forma de realização dessa concentração (se pela força, ou espontânea), "mesmo no caso em que a realeza é usurpada, a possibilidade da reunião dos poderes dependeu de suas afinidades fundamentais e, sobretudo, de sua concentração tendencial".
+
+## Propõe o fascismo enquanto uma reunião das autoridades militar e religiosa (§4)
+
+Justifica que a consideração dos princípios dessa concentração tendencial são relevantes pois o fascismo "reúne uma vez mais as autoridades militar e religiosa para realizar uma opressão total" — afirmando que (buscando isolar o juízo político) "toda realização ilimitada das formas imperativas tem o sentido de uma negação da humanidade enquanto valor dependente do jogo de suas oposições internas".
+
+Compara o fascismo ao bonapartismo, onde ambos podem ser definidos como "uma reativação aguda da instância soberana latente, mas com um caráter de alguma forma purificado" — purificação que se dá pelo fato de que as milícias que substituem o exército têm imediatamente o próprio "poder como objeto".

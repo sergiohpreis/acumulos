@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-27T09:30:32-03:00
+modified: 2026-07-27T09:48:20-03:00
 draft: false
 tags:
   - bataille
@@ -78,45 +78,43 @@ A desintegração é apenas a *"forma **negativa** da efervescência social"*, p
 
 ## Compara os problemas na assimilação dos elementos heterogêneos pela psicologia social e pela ciência (§1,2)
 
-Apresenta o problema da psicologia social ao tratar sobre uma forma que "não foi ainda objeto de uma determinação positiva";A assimilação científica também não é possível sobre os elementos heterogêneos, justamente pelo caráter homogêneo da ciência (ciência em função da homogeneidade).
+Apresenta o problema da psicologia social ao tratar sobre uma forma que *"não foi ainda objeto de uma **determinação positiva**"*; A assimilação científica também não é possível sobre os elementos heterogêneos, justamente pelo **caráter homogêneo da ciência** (ciência em função da homogeneidade).
 
-## Extrai as consequências da ausência de satisfação funcional na assimilação científica dos elementos heterogêneos (§3)
+## Esclarece a ausência de satisfação funcional na assimilação científica dos elementos heterogêneos (§3)
 
-Uma vez que os objetos heterogêneos não satisfazem uma satisfação funcional, não são mantidos no campo de atenção das ciências.
+Uma vez que os objetos heterogêneos não satisfazem uma **satisfação funcional**, não são mantidos no campo de atenção das ciências.
 
 ## Concebe uma noção de inconsciente como um dos aspectos do heterogêneo  (§4)
 
-Associa a exclusão dos elementos heterogêneo a censura dos elementos inconscientes (excluídos do eu consciente)
+Associa a exclusão dos elementos **heterogêneo** a censura dos elementos **inconscientes** (excluídos do eu consciente)
 
 ## Esclarece algumas noções sobre o termo heterogêneo (§4,5)
 
-Defende que o número de incursões ao heterogêneo é insuficiente para oferecer uma "revelação de sua existência positiva e claramente separada", portanto, realiza algumas considerações sobre o termo heterogêneo
+Defende que o número de incursões ao heterogêneo é insuficiente para oferecer uma *"revelação de sua existência positiva e claramente separada"*, portanto, realiza algumas considerações sobre o termo heterogêneo
 
-### Limita o sagrado como "forma restrita" com relação ao heterogêneo
+### Limita o sagrado como "forma restrita" com relação ao heterogêneo (§5)
 
-Exemplifica os fatos precisos que caracterizam as noções de "mana" e "tabu" e aponta as dificuldades de se estabelecer uma "compreensão explicita do sagrado", apresentando a tentativa de Durkheim
+Exemplifica os fatos precisos que caracterizam as noções de *"mana"* e *"tabu"* e aponta as dificuldades de se estabelecer uma *"compreensão explicita do sagrado"*, apresentando a tentativa de **Durkheim**
 
-### Sintetiza a maneira implícita pelo qual o sagrado é conhecido e a relação com a coisa heterogênea
+### Sintetiza a maneira implícita pelo qual o sagrado é conhecido e a relação com a coisa heterogênea (§5)
 
-Relaciona a reação as coisas heterogêneas e sagradas, justificando essa reação devido a coisa heterogênea ser "imbuída de uma força desconhecida e perigosa"
+Relaciona a reação as coisas heterogêneas e sagradas, justificando essa reação devido a coisa heterogênea ser *"imbuída de uma força **desconhecida** e **perigosa**"*
 
-### Apresenta o conjunto dos resultados do dispêndio improdutivo como parte do mundo heterogêneo
+### Apresenta o conjunto dos resultados do dispêndio improdutivo como parte do mundo heterogêneo (§5)
 
-É "tudo o que a sociedade homogênea rejeita, seja como dejeto, seja como valor superior transcendente". Apresenta diversos exemplos dessas rejeições
+Define esse conjunto como *"tudo o que a sociedade homogênea **rejeita**, seja como **dejeto**, seja como **valor superior transcendente**"*, apresentando diversos **exemplos dessas rejeições**
 
-### Descreve as reações afetivas provocadas pelos elementos heterogêneos
+### Descreve as reações afetivas provocadas pelos elementos heterogêneos e a relação com objetos inertes (§5)
 
-"é possível supor que o objeto de toda reação afetiva é necessariamente heterogêneo (senão geralmente, pelo menos em relação ao sujeito)"
+Argumenta que *"é possível supor que o **objeto de toda reação afetiva é necessariamente heterogêneo** (senão geralmente, pelo menos em relação ao sujeito)", apontando a "violência, desmesura, delírio e loucura como caracterizadores dos elementos heterogêneos" e a relação com objetos inertes ...*
 
-### A violência, desmesura, delírio e loucura como caracterizadores dos elementos heterogêneos e a relação com objetos inertes
+### Compara a realidade dos elementos heterogêneos e dos homogêneos e os objetos da atividade erótica (§5)
 
-### Compara a realidade dos elementos heterogêneos e dos homogêneos
+A **realidade homogênea** se apresenta com *"aspecto **abstrato** e **neutro** dos objetos estritamente definidos e identificados"*. A **realidade heterogênea** é "da **força** e do **choque**", uma mudança que parece não operar *"no mundo dos objetos, mas somente no dos julgamentos do sujeito"*. Mas isso não os torna subjetivos, os objetos da atividade eróticas tem base em sua natureza objetiva. Mas ainda assim é possível *"**deslocar o valor excitante** de um elemento sobre outro análogo ou vizinho"*. Os elementos fundamentais podem adquirir a mesma importância que determinados símbolos: *"a parte pode ter o mesmo valor que o todo"*
 
-A realidade homogênea se apresenta com "aspecto abstrato e neutro dos objetos estritamente definidos e identificados". A realidade heterogênea é "da força e do choque", uma mudança que parece não operar "no mundo dos objetos, mas somente no dos julgamentos do sujeito". Mas isso não os torna subjetivos, os objetos da atividade eróticas tem base em sua natureza objetiva. Mas ainda assim é possível "deslocar o valor excitante de um elemento sobre outro análogo ou vizinho". Os elementos fundamentais podem adquirir a mesma importância que determinados símbolos, "a parte pode ter o mesmo valor que o todo"
+### Propõe a estrutura do conhecimento de uma realidade heterogênea em detrimento a estrutura de conhecimento homogênea (§5)
 
-### Propõe a estrutura do conhecimento de uma realidade heterogênea em detrimento a estrutura de conhecimento homogênea
-
-Enquanto a realidade homogênea é pautada na ciência, a heterogênea se funda em um pensamento místico ("dos primitivos e nas representações do sonho: é idêntica à estrutura do inconsciente"). A vida corrente como "totalmente outra, incomensurável".
+Enquanto a realidade homogênea é pautada na ciência, a heterogênea se funda em um pensamento místico (*"dos primitivos e nas representações do sonho: é idêntica à estrutura do inconsciente"*). A vida corrente como *"**totalmente outra**, incomensurável"*.
 
 ## Apresenta exemplos de elementos heterogêneos (§6,7)
 

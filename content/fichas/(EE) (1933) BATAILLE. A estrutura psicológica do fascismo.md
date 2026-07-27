@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-26T22:34:36-03:00
+modified: 2026-07-27T00:15:17-03:00
 draft: false
 tags:
   - bataille
@@ -20,6 +20,7 @@ tags:
 4. [A existência social heterogênea](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=5a4e718f-ac0b-4850-865e-020051d2e620)
 5. [O dualismo fundamental do mundo heterogêneo](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=43a938fb-ba9e-4c13-b77b-65c7e6d47b31)
 6. [A forma imperativa da existência heterogênea: a soberania](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=a27f7d9e-5c49-4f20-948d-fd8542b7aa92)
+7. A concentração tendencial
 
 ---
 
@@ -194,3 +195,6 @@ Apontando que a possibilidade da soberania "trouxe a servidão infinita que degr
 Colocando-se como "princípio da associação de elementos inumeráveis", o poder régio "se desenvolve espontaneamente enquanto força imperativa e destrutiva contra qualquer outra forma imperativa que lhe poderia ser oposta" — dessa forma, manifesta "a tendência fundamental e o princípio de toda a autoridade": "a redução à unidade pessoal, a individualização do poder". 
 
 Enquanto a existência miserável se produz necessariamente como multidão e a sociedade homogênea como redução a uma medida comum, a instância imperativa "se desenvolve necessariamente no sentido de uma redução à unidade sob a forma de um ser humano excluindo a própria possibilidade de um semelhante" — "uma forma radical da exclusão exigindo uma avidez".
+
+# 7. A concentração tendencial
+

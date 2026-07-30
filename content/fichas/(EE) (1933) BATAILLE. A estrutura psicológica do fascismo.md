@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-27T19:00:06-03:00
+modified: 2026-07-30T00:41:28-03:00
 draft: false
 tags:
   - bataille
@@ -21,6 +21,7 @@ tags:
 5. [O dualismo fundamental do mundo heterogêneo](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=43a938fb-ba9e-4c13-b77b-65c7e6d47b31)
 6. [A forma imperativa da existência heterogênea: a soberania](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=a27f7d9e-5c49-4f20-948d-fd8542b7aa92)
 7. [A concentração tendencial](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=24125b5a-b3bb-45b4-9fba-929013f8619e)
+8. [O exercito e os chefes do exército](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d2816d9d-8dae-4cac-b318-8da5e9720b24)
 
 ---
 
@@ -215,3 +216,36 @@ Independente da forma de realização dessa concentração (se pela força, ou e
 Justifica que a consideração dos princípios dessa concentração tendencial são relevantes pois o fascismo *"reúne uma vez mais as autoridades militar e religiosa para realizar uma **opressão total**"* — afirmando que (buscando isolar o juízo político) *"toda realização ilimitada das formas imperativas tem o sentido de uma **negação da humanidade** enquanto valor dependente do jogo de suas oposições internas"*.
 
 Compara o fascismo ao bonapartismo, onde ambos podem ser definidos como *"uma **reativação aguda da instância soberana latente**, mas com um caráter de alguma forma **purificado**"* — purificação que se dá pelo fato de que as milícias que substituem o exército têm imediatamente o próprio *"poder como objeto"*.
+
+# 8. O exercito e os chefes do exército
+
+## Descreve a organização afetiva do exército (§1-3)
+
+Bataille argumenta que o que determina o **caráter imperativo** do exército não é o fato de possuírem as armas, mas sim a sua organização interna (**disciplina** e **hierarquia**), que o tornam "a sociedade nobre por excelência". Uma vez que a natureza das armas é outra (carnificina, morte etc.) e o próprio "horror ambíguo" da guerra possui uma "heterogeneidade baixa (a rigor, indiferenciada)", a nobreza das armas necessita de uma "heterogeneidade intensa" (sendo a disciplina e a hierarquia apenas "formas e não fundamentos da heterogeneidade"), e por isso:
+
+> "A direção elevada, exaltante, das armas supõe a unificação afetiva necessária a sua coesão, quer dizer, ao seu valor eficaz"
+
+Essa unificação tem o seu **caráter afetivo** manifesto na "forma de aderência do soldado ao chefe do exército", que transforma a glória desse último em sua própria — glória essa ("atração pura e intensa") que transforma toda a carnificina nojenta da guerra em seu oposto, constituindo-se então como uma "espécie de **polo afetivo**", que se opõe à natureza ignóbil dos soldados.
+
+Os soldados, pertencentes em princípio à parte infame da população ("classes miseráveis"), fundam a **organização afetiva do exército** sobre essa infâmia social — e essa estrutura se mantém **independentemente da origem real** dos recrutas: mesmo que se eliminasse todo recrutamento das classes miseráveis, isso "não seria suficiente para mudar a estrutura profunda do exército". Esses soldados se tornam "elementos negados" violentamente, e essa negação violenta é encarnada no chefe (imperativo), cuja glória anula "o populacho infame (que constitui o exército) enquanto tal — da mesma maneira que ele anula a carnificina enquanto tal".
+
+> "Seres humanos incorporados em um exército não são mais do que elementos negados, negados com uma espécie de ira (de sadismo) manifesta no tom de cada comando, negados na parada pelo uniforme e pela regularidade geométrica perfeita dos movimentos cadenciados."
+
+## Explica a negação da perspectiva da psicologia social (§4,5)
+
+> "toda **ação social afirmada** toma necessariamente a forma psicológica unificada da soberania"
+
+Partindo do ponto de vista da **psicologia social**, Bataille defende que a negação imperativa aparece em geral como "o caráter social próprio da ação" — toda forma inferior, toda ignomínia, sendo "por definição **socialmente passiva**", transforma-se em seu **contrário** pela simples passagem à ação. A carnificina, enquanto resultado inerte, é ignóbil; mas esse "valor heterogêneo ignóbil" torna-se nobre quando deslocado sobre "a ação social que o determinou" — "ação de matar e nobreza foram associadas por laços históricos indefectíveis" —, contanto que essa ação se afirme efetivamente como tal, isto é, que assuma livremente o seu caráter imperativo. É justamente "o fato de assumir com toda a liberdade o caráter imperativo da ação" que é o próprio do chefe.
+
+## Argumenta sobre o papel da "unificação" na modificação das estruturas que caracterizam a "homogeneidade superior" (§5-7)
+
+1. Expõe nova possibilidade: apreender o papel da "unificação **(a individualização)**" na modificação das estruturas que caracterizam a "homogeneidade superior".
+2. Descreve a realização da forma homogênea interior: a partir de um impulso imperativo, os elementos desordenados que compõem o exército realizam essa forma homogênea "em razão da negação da qual o caráter desordenado de seus elementos é objeto", ou seja, essa massa que antes era desordenada, caótica, passa, nas palavras de Bataille, "do estado amorfo à rigidez agressiva".
+3. Conclui que a massa negada torna-se afetivamente (em comportamentos psicológicos simples, por exemplo "marchar" e "sentido!") uma "coisa do chefe": o comando do chefe, por exemplo, ao colocar a tropa em **sentido**, absorve-a totalmente na própria "negação de si mesma".
+4. Qualifica o exército como a "forma regular (geometricamente) da soberania imperativa": associando o sentido a um "movimento trópico... geotropismo negativo" (quase como uma resposta biológica), não somente o chefe, mas todo o conjunto do exército é elevado a essa forma regular. Assim, "a infâmia implicada dos soldados não é senão uma infâmia na base que, sob o uniforme, **se transforma em seu contrário, em ordem e brilho**".
+5. Descreve a alteração profunda no "modo da heterogeneidade": o exército sofre essa homogeneização interna sem que sua heterogeneidade fundamental decresça.
+  6. O exército subsiste, no meio da população, com uma maneira de ser "totalmente outra", mas essa maneira de ser é ela mesma **soberana** — ligada à dominação e ao caráter imperativo do chefe, que é **comunicado aos seus soldados** (não uma subordinação, mas um compartilhamento da natureza soberana do chefe).
+7. Associa a honra e o dever como fatores determinantes na "direção dominante do exército": desligada de seus fundamentos afetivos (infâmia e carnificina), essa direção passa a depender de **uma heterogeneidade contrária a essa primeira** — a heterogeneidade da honra e do dever, encarnados na pessoa do chefe.
+  8. Ressalva: se o chefe **não for subordinado a nenhuma instância real ou ideia** (isto é, se for autônomo), o dever se encarna nele pessoalmente, "da mesma maneira que no rei".
+9. Aponta honra e dever como formas tendenciais que situam a existência militar acima da existência homogênea, como imperativo e pura razão de ser: a honra e o dever são expressos na geometria dos desfiles; embora tenham alcance limitado a certo plano de ações e sejam compatíveis com crimes **infinitamente** covardes, bastam para fazer da dominação interna do exército **um dos elementos fundamentais** da autoridade psicológica suprema instituída acima da sociedade coagida.
+10. Extrai a consequência da integração de um poder militar em um poder social: o poder do chefe se dá apenas internamente, na estrutura do exército, gerando uma homogeneidade interna, e não social — ao passo que o poder da realeza só existe em relação à sociedade homogênea. Por isso, torna-se necessário adquirir as "modalidades próprias do poder régio" para que o poder militar se integre à administração do Estado.

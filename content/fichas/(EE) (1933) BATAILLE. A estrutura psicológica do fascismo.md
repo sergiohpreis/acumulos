@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-30T00:41:28-03:00
+modified: 2026-07-31T00:10:22-03:00
 draft: false
 tags:
   - bataille
@@ -22,6 +22,7 @@ tags:
 6. [A forma imperativa da existência heterogênea: a soberania](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=a27f7d9e-5c49-4f20-948d-fd8542b7aa92)
 7. [A concentração tendencial](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=24125b5a-b3bb-45b4-9fba-929013f8619e)
 8. [O exercito e os chefes do exército](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d2816d9d-8dae-4cac-b318-8da5e9720b24)
+9. [O poder religioso](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=cd05e29e-c82d-4a62-a9a1-cea0ddc3dfd8)
 
 ---
 
@@ -249,3 +250,32 @@ Partindo do ponto de vista da **psicologia social**, Bataille defende que a nega
   8. Ressalva: se o chefe **não for subordinado a nenhuma instância real ou ideia** (isto é, se for autônomo), o dever se encarna nele pessoalmente, "da mesma maneira que no rei".
 9. Aponta honra e dever como formas tendenciais que situam a existência militar acima da existência homogênea, como imperativo e pura razão de ser: a honra e o dever são expressos na geometria dos desfiles; embora tenham alcance limitado a certo plano de ações e sejam compatíveis com crimes **infinitamente** covardes, bastam para fazer da dominação interna do exército **um dos elementos fundamentais** da autoridade psicológica suprema instituída acima da sociedade coagida.
 10. Extrai a consequência da integração de um poder militar em um poder social: o poder do chefe se dá apenas internamente, na estrutura do exército, gerando uma homogeneidade interna, e não social — ao passo que o poder da realeza só existe em relação à sociedade homogênea. Por isso, torna-se necessário adquirir as "modalidades próprias do poder régio" para que o poder militar se integre à administração do Estado.
+
+# 9. O poder religioso
+
+## Defende que a religião é a fonte da autoridade social (§1,2)
+
+1. Propõe a tese da **necessidade da atração religiosa** para a efetivação do domínio: se o chefe quiser exercer domínio sobre a sociedade, precisará adquirir "os elementos de uma **atração externa**, uma atração religiosa válida para toda a população" — não existem dominações exclusivamente militares que sejam duráveis. Isso porque "a força armada simples, material, **não pode fundar nenhum poder**: ela depende em primeiro lugar da **atração interna exercida pelo chefe** (o dinheiro é insuficiente para realizar um exército)".
+2. Compara os papéis exercidos pela **atração religiosa** e pela **atração militar** para a constituição da religião como **fonte de autoridade social**: a atração militar pode sim apresentar elementos da forma religiosa, entretanto, ela não tem "valor primordial" em relação à atração religiosa.
+  3. Associa a introdução da **hereditariedade** a uma forma religiosa que adquire seu princípio do sangue; já o poder militar depende do valor pessoal.
+
+## Esclarece sobre as modificações de estrutura na sociedade causada pela heterogeneidade religiosa (§3-5)
+
+1. Justifica a **dificuldade de significação explícita** ao que é propriamente religioso no sangue ou nos aspectos régios: adentrando então na "forma nua e ilimitada da **heterogeneidade indiferenciada**".
+2. Extrai as consequências das **modificações de estrutura** causadas por essa heterogeneidade religiosa: abrem o campo para se tornarem "projeção livre das **formas afetivas gerais**, como a **angústia** ou a **atração sagrada**".
+  3. Tanto no contato fisiológico da **hereditariedade** como pelos ritos nas **sagrações**, o que é transmitido não são as próprias modificações de estrutura, mas uma "**heterogeneidade fundamental**".
+    1. Comentário: Pode se dizer em suma que, o que se herda tanto do sangue, quanto de um ritual sagrado, **não carrega as mudanças da estrutura de maneira bem definida**, o que se herda é uma **heterogeneidade fundamental**. Essa indefinição abre espaço para a manifestações de formas afetivas
+4. Qualifica a **comunidade de estrutura** entre a **natureza régia** e a **natureza divina**: ambas correspondem a *"fatos inequívocos"* (identificações com o deus, genealogias míticas, culto imperial romano ou xintoísta, teoria cristã do direito divino); o rei é, de qualquer forma, considerado como "**emanação da natureza divina**, com tudo o que o princípio da emanação carrega de **identidade** quando se trata de elementos heterogêneos" — ressalvando que, embora não seja possível, "em uma rápida exposição", tornar sensível todo o conjunto de movimentos afetivos envolvidos, "**uma simples aproximação possui em si um valor significativo suficiente**".
+  5. Comentário: Para compreendermos o que há de propriamente religioso no rei, é preciso perceber que ele compartilha origem e estrutura com a natureza divina — o rei é entendido como emanação da natureza divina, não apenas como seu representante.
+6. Propõe que as **modificações de estrutura** são realizadas pela própria posição de soberania: a **evolução da representação do divino** (*"a partir da violência livre e irresponsável"*) é caracterizada por *"notáveis modificações de estrutura"*, que só explicam aquelas que caracterizam *"a formação da **natureza da realeza**"*. A **estrutura heterogênea** é dirigida pela própria posição de soberania nos dois casos (o divino e o real), que concentra os atributos e as forças — entretanto, Deus é representado por forças compostas de uma existência fictícia (*"sem a limitação ligada à necessidade de realizar"*), tornando possível chegar a esquemas mais perfeitos, mais *"puramente lógicos"*.
+  7. Comentário: A figura do rei se transformou historicamente tal qual Deus, por meio de modificações estruturais. Assim como Deus abandona a "violência livre e irresponsável" (o Deus do velho testamento era muito mais cruel). A lógica interna que rege essa transformação é a da soberania (capítulo 6), que expressam tendência à unidade, à concentração (capítulo 7). Essa concentração pode atingir uma forma "pura e perfeita" devido a sua "existência fictícia", que não enfrenta a fricção da realidade concreta ("sem limitação ligada a necessidade de realizar")
+
+## Qualifica o "ser supremo dos teólogos e dos filósofos"  (§6)
+
+Para Bataille, esse ser supremo dos teólogos e filósofos é "a introjeção mais profunda da estrutura própria da homogeneidade na existência heterogênea" — ou seja, herdam características da homogeneidade e trazem para dentro da existência heterogênea.
+
+Deus, do ponto de vista teológico, realiza a "forma soberana por excelência". No entanto, uma contrapartida dessa possibilidade de realização é implicada pelo caráter fictício da existência divina: sua natureza heterogênea, não possuindo o valor limitativo da realidade (retomando o ponto anterior sobre a ausência de "necessidade de realizar"), pode ser "eludida em uma concepção filosófica" — reduzida a uma "afirmação formal de modo algum vivida" (isto é, puramente abstrata, esvaziada de qualquer vivência heterogênea concreta).
+
+Na ordem da especulação intelectual livre, é possível substituir a ideia a Deus como "existência e poder supremos", o que de fato implica, em certa medida, a revelação de uma "heterogeneidade relativa da Ideia" — como acontece quando "Hegel eleva a Ideia acima do simples dever ser".
+
+- Comentário: Bataille distingue duas vias a partir do mesmo Ser Supremo. Pela via teológica, Deus permanece vivido, afetivo — mantém carga heterogênea real. Pela via filosófica (como em Hegel, que substitui Deus pela Ideia), a mesma posição estrutural é preservada, mas esvaziada de vivência — vira pura afirmação formal, abstrata, revelando apenas uma heterogeneidade "relativa" da Ideia, e não mais a heterogeneidade plena e vivida do Deus religioso.

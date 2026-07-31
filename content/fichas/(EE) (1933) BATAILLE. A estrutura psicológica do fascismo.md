@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-07-31T19:09:57-03:00
+modified: 2026-07-31T00:10:22-03:00
 draft: false
 tags:
   - bataille
@@ -26,6 +26,8 @@ tags:
 
 ---
 
+# 1. A base homogênea da sociedade
+
 ## Define o significado de homogeneidade como comensurabilidade consciente (§1)
 
 Em uma descrição psicológica da sociedade, a parte fundamental é a *"homogeneidade tendencial"*, que significa uma *"**comensurabilidade** dos elementos e a consciência desta comensurabilidade"*; relações humanas são mantidas via uma redução a regras baseadas em uma consciência de *"**identidade possível** de **pessoas e situações** definidas"*; é a **exclusão** da violência
@@ -50,7 +52,7 @@ A classe burguesa ou capitalista (possuidores dos meios de produção ou os poss
 
 O operário ocupa uma **dupla posição** na atividade homogênea: *"o operário é, em relação a uma pessoa homogênea... um **estrangeiro**, um homem de outra natureza, de uma natureza não reduzida, não submissa"*; apenas faz parte da organização social enquanto um agente da produção, enquanto um **profissional**, e não enquanto um **humano**.
 
----
+# 2. O Estado
 
 ## Descreve as causas da formação dos elementos agitados da homogeneidade social e suas consequências (§1,2)
 
@@ -64,7 +66,7 @@ O Estado é o resultado das modificações produzidas pelo contato entre parte d
 
 A prática parlamentar é a expressão do mecanismo interno de *"adaptação necessária a homogeneidade"*, entretanto contra as *"forças inadmissíveis"*, o Estado opta pela autoridade. *"Sendo o Estado democrático ou despótico, a tendência que prevalece é a adaptação ou a autoridade";* Na democracia, a força vem de uma *"homogeneidade **espontânea**"* que é fixada e tida como regra; o princípio de nação, soberania, se enfraquece devido ao fato dos indivíduos isolados se considerarem como *"fins com relação ao Estado... existiria para eles antes de existir para a nação"*, surge uma vida pessoal que possui um valor *"**incomparável**"* a *"existência homogênea"*
 
----
+# 3. Dissociações, críticas a homogeneidade social e do Estado
 
 ## Descreve o processo de dissociação tendencial da existência social homogênea (§1,2)
 
@@ -74,7 +76,7 @@ As **forças heterogêneas** da sociedade agem constantemente, e embora o Estado
 
 A desintegração é apenas a *"forma **negativa** da efervescência social"*, pois os elementos dissociados, ao se juntar as formações heterogêneas já existentes *"tomam-lhes emprestado um caráter novo, o caráter **positivo** geral da heterogeneidade"*, esse é o modo positivo da efervescência, que operam uma "alteração completa" nos elementos dissociados, que passam a ter a sua ação *"condicionada pela estrutura atual desta parte"*, que *"tende a uma estrutura definida"*, que não acontece de maneira *"informe e desorientado"*; *"o modo de solução de contradições econômicas agudas depende ao mesmo tempo do estado histórico e das leis gerais da região social heterogênea"*, ou seja, os elementos heterogêneos que se formam de maneira estruturada influenciam diretamente *"o **modo de solução de contradições** econômicas agudas"* da parte homogênea.
 
----
+# 4. A existência social heterogênea
 
 ## Compara os problemas na assimilação dos elementos heterogêneos pela psicologia social e pela ciência (§1,2)
 
@@ -130,7 +132,7 @@ O fluxo afetivo ("função da consciência comum de poderes e energia cada vez m
 
 A repulsão as classes mais baixas fazem com que essas não sejam assimiladas pelo conjunto dos homens. A Índia apresenta um caso onde as essas classes são vistas de maneira quase como sagrada, enquanto "intocáveis", e embora os países de civilização avançada sejam "menos ritual" e que essa qualidade intocável não seja "transmitida pela hereditariedade", ainda assim, o ser humano marcado pela miséria cria entre si e o outro ("expressão do homem normal"), "um fosso intransponível", a "calamidade material" influência diretamente na ordem psicológica. Exemplifica as reações dos homens felizes que "não sofreram a redução homogênea"que podem levar a violência , interpretada como "um desafio à razão"
 
----
+# 5. O dualismo fundamental do mundo heterogêneo
 
 ## Revela a compatibilidade entre as formas heterogêneas e o sagrado (§1)
 
@@ -138,9 +140,9 @@ Os heterogêneos constituído tanto pelos lideres, quanto pelos miseráveis poss
 
 ## Relaciona as duas formas sagradas (puras e impuras) as manifestações opostas do heterogêneo (§2)
 
-As formas elevadas e imperativas (**superiores**) e as formas miseráveis (**inferiores**) possuem em algum sentido uma *"identidade dos contrários"* e essa oposição é um dos elementos fundamentais da heterogeneidade -- *"divide o conjunto do mundo heterogêneo".* Afirma que nas sociedades evoluídas, formas *"heterogêneas indiferenciadas são raras"* e que em geral se reduzem a essa *"oposição de dois contrários"*
+As formas elevadas e imperativas (**superiores**) e as formas miseráveis (**inferiores**) possuem em algum sentido uma *"identidade dos contrários"* e essa oposição é um dos elementos fundamentais da heterogeneidade -- *"divide o conjunto do mundo heterogêneo".* Afirma que nas sociedades evoluídas, formas "heterogêneas indiferenciadas são raras" e que em geral se reduzem a essa "oposição de dois contrários"
 
----
+# 6. A forma imperativa da existência heterogênea: a soberania
 
 ## Explica o vocabulário tradicional (nobre, elevado, superior) usado para descrever a ação fascista (§1,2)
 
@@ -200,7 +202,7 @@ Colocando-se como *"princípio da associação de elementos inumeráveis"*, o po
 
 Enquanto a existência miserável se produz necessariamente como multidão e a sociedade homogênea como redução a uma medida comum, a instância imperativa *"se desenvolve necessariamente no sentido de uma redução à unidade sob a forma de um ser humano excluindo a própria possibilidade de um semelhante"* — *"uma forma radical da exclusão exigindo uma avidez"*.
 
----
+# 7. A concentração tendencial
 
 ## Descreve os princípios da concentração dos poderes religioso e sagrado no poder real (§1-3)
 
@@ -216,7 +218,7 @@ Justifica que a consideração dos princípios dessa concentração tendencial s
 
 Compara o fascismo ao bonapartismo, onde ambos podem ser definidos como *"uma **reativação aguda da instância soberana latente**, mas com um caráter de alguma forma **purificado**"* — purificação que se dá pelo fato de que as milícias que substituem o exército têm imediatamente o próprio *"poder como objeto"*.
 
----
+# 8. O exercito e os chefes do exército
 
 ## Descreve a organização afetiva do exército (§1-3)
 
@@ -249,7 +251,7 @@ Partindo do ponto de vista da **psicologia social**, Bataille defende que a nega
 9. Aponta honra e dever como formas tendenciais que situam a existência militar acima da existência homogênea, como imperativo e pura razão de ser: a honra e o dever são expressos na geometria dos desfiles; embora tenham alcance limitado a certo plano de ações e sejam compatíveis com crimes **infinitamente** covardes, bastam para fazer da dominação interna do exército **um dos elementos fundamentais** da autoridade psicológica suprema instituída acima da sociedade coagida.
 10. Extrai a consequência da integração de um poder militar em um poder social: o poder do chefe se dá apenas internamente, na estrutura do exército, gerando uma homogeneidade interna, e não social — ao passo que o poder da realeza só existe em relação à sociedade homogênea. Por isso, torna-se necessário adquirir as "modalidades próprias do poder régio" para que o poder militar se integre à administração do Estado.
 
----
+# 9. O poder religioso
 
 ## Defende que a religião é a fonte da autoridade social (§1,2)
 
@@ -277,17 +279,3 @@ Deus, do ponto de vista teológico, realiza a "forma soberana por excelência". 
 Na ordem da especulação intelectual livre, é possível substituir a ideia a Deus como "existência e poder supremos", o que de fato implica, em certa medida, a revelação de uma "heterogeneidade relativa da Ideia" — como acontece quando "Hegel eleva a Ideia acima do simples dever ser".
 
 - Comentário: Bataille distingue duas vias a partir do mesmo Ser Supremo. Pela via teológica, Deus permanece vivido, afetivo — mantém carga heterogênea real. Pela via filosófica (como em Hegel, que substitui Deus pela Ideia), a mesma posição estrutural é preservada, mas esvaziada de vivência — vira pura afirmação formal, abstrata, revelando apenas uma heterogeneidade "relativa" da Ideia, e não mais a heterogeneidade plena e vivida do Deus religioso.
-
----
-
-## Explora os elementos que tornam o fascismo forma soberana da heterogeneidade (§1-3)
-
-1. Justifica o porque o fascismo é a expressão de uma forma soberana de heterogeneidade: O fascismo tornou evidente o processo de fundação de um poder religioso por reconstituído esse processo da base ao topo
-
-2. Compara a formação do Islã nascente com o fascismo: Antes do fascismo, só houve um exemplo de "brusca formação de um poder total", que fosse militar e religioso, e tivesse se apoiado em nada estabelecido antes: o Islã ("Califado Islâmico"). Esse último não tinha Estado, que assumiu um lugar de "conquista... um meio... um quadro" para o fascismo; "não muda o esquema de sua formação" ao ser integrado
-  3. ambos representam representam "a constituição de um poder heterogêneo total que encontra sua origem manifesta na efervescência atual"
-4. Revela o fenômeno da **concentração tendencial** presente no fascismo: sua fundação é militar e religiosa, "sem que os elementos habitualmente distintos possam ser separados uns dos outros"
-5. Explora o **aspecto militar (predominante)** no fascismo: as relações afetivas que ligam um membro do partido ao líder "são análogas em princípio àquelas que unem o chefe e seus soldados"
-  6. pessoa imperativa do líder: alcance de uma "negação do aspecto revolucionário fundamental da efervescência drenada por ele"; exerce uma **dominação interna** em termos militares sobre as milícias, não subordinada aos atos de guerras, estabelecendo se como um meio-termo de uma **dominação externa** sobre a sociedade e o Estado, o meio termo de um "valor imperativo total"
-7. Qualifica o **valor religioso do chefe como valor fundamental** (ou formal) do fascismo: no fascismo, se fazem presente qualidades das duas dominações ("interna e externa, militar e religiosa"), decorrentes da "homogeneidade introjetada" (disciplina, dever, ordem) e da "heterogeneidade essencial" (violência impessoal, chefe como objeto transcendental da afetividade coletiva), entretanto, é a forma religiosa que caracteriza a atividade dos milicianos com uma "tonalidade afetiva própria", diferente da do soldado e do chefe -- no fascismo, o chefe é a emanação da "existência gloriosa de uma pátria alçada ao valor de uma força divina"
-  8. comparando-se ao Islã, no fascismo a pátria desempenha o mesmo papel que Alá encarnado em Maomé ou no Califa

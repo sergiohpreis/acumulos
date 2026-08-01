@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-08-01T10:37:58-03:00
+modified: 2026-08-01T11:45:57-03:00
 draft: false
 tags:
   - bataille
@@ -23,6 +23,7 @@ tags:
 7. [A concentração tendencial](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=24125b5a-b3bb-45b4-9fba-929013f8619e)
 8. [O exercito e os chefes do exército](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d2816d9d-8dae-4cac-b318-8da5e9720b24)
 9. [O poder religioso](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=cd05e29e-c82d-4a62-a9a1-cea0ddc3dfd8)
+10. [O fascismo enquanto forma soberana da heterogeneidade](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=a4d7c192-02b4-4b87-8c92-144e3831195b)
 
 ---
 

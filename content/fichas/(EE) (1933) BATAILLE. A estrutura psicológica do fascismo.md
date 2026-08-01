@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-08-01T10:28:58-03:00
+modified: 2026-08-01T10:37:58-03:00
 draft: false
 tags:
   - bataille
@@ -52,8 +52,6 @@ A classe burguesa ou capitalista (possuidores dos meios de produção ou os poss
 
 O operário ocupa uma **dupla posição** na atividade homogênea: *"o operário é, em relação a uma pessoa homogênea... um **estrangeiro**, um homem de outra natureza, de uma natureza não reduzida, não submissa"*; apenas faz parte da organização social enquanto um agente da produção, enquanto um **profissional**, e não enquanto um **humano**.
 
----
-
 # 2. O Estado
 
 ## Descreve as causas da formação dos elementos agitados da homogeneidade social e suas consequências (§1,2)
@@ -68,8 +66,6 @@ O Estado é o resultado das modificações produzidas pelo contato entre parte d
 
 A prática parlamentar é a expressão do mecanismo interno de *"adaptação necessária a homogeneidade"*, entretanto contra as *"forças inadmissíveis"*, o Estado opta pela autoridade. *"Sendo o Estado democrático ou despótico, a tendência que prevalece é a adaptação ou a autoridade";* Na democracia, a força vem de uma *"homogeneidade **espontânea**"* que é fixada e tida como regra; o princípio de nação, soberania, se enfraquece devido ao fato dos indivíduos isolados se considerarem como *"fins com relação ao Estado... existiria para eles antes de existir para a nação"*, surge uma vida pessoal que possui um valor *"**incomparável**"* a *"existência homogênea"*
 
----
-
 # 3. Dissociações, críticas da homogeneidade social e do Estado
 
 ## Descreve o processo de dissociação tendencial da existência social homogênea (§1,2)
@@ -79,8 +75,6 @@ As **forças heterogêneas** da sociedade agem constantemente, e embora o Estado
 ## Descreve o processo de junção da massa homogênea dissociada ao heterogêneo (§3,4)
 
 A desintegração é apenas a *"forma **negativa** da efervescência social"*, pois os elementos dissociados, ao se juntar as formações heterogêneas já existentes *"tomam-lhes emprestado um caráter novo, o caráter **positivo** geral da heterogeneidade"*, esse é o modo positivo da efervescência, que operam uma "alteração completa" nos elementos dissociados, que passam a ter a sua ação *"condicionada pela estrutura atual desta parte"*, que *"tende a uma estrutura definida"*, que não acontece de maneira *"informe e desorientado"*; *"o modo de solução de contradições econômicas agudas depende ao mesmo tempo do estado histórico e das leis gerais da região social heterogênea"*, ou seja, os elementos heterogêneos que se formam de maneira estruturada influenciam diretamente *"o **modo de solução de contradições** econômicas agudas"* da parte homogênea.
-
----
 
 # 4. A existência social heterogênea
 
@@ -138,8 +132,6 @@ O fluxo afetivo ("função da consciência comum de poderes e energia cada vez m
 
 A repulsão as classes mais baixas fazem com que essas não sejam assimiladas pelo conjunto dos homens. A Índia apresenta um caso onde as essas classes são vistas de maneira quase como sagrada, enquanto "intocáveis", e embora os países de civilização avançada sejam "menos ritual" e que essa qualidade intocável não seja "transmitida pela hereditariedade", ainda assim, o ser humano marcado pela miséria cria entre si e o outro ("expressão do homem normal"), "um fosso intransponível", a "calamidade material" influência diretamente na ordem psicológica. Exemplifica as reações dos homens felizes que "não sofreram a redução homogênea"que podem levar a violência , interpretada como "um desafio à razão"
 
----
-
 # 5. O dualismo fundamental do mundo heterogêneo
 
 ## Revela a compatibilidade entre as formas heterogêneas e o sagrado (§1)
@@ -149,8 +141,6 @@ Os heterogêneos constituído tanto pelos lideres, quanto pelos miseráveis poss
 ## Relaciona as duas formas sagradas (puras e impuras) as manifestações opostas do heterogêneo (§2)
 
 As formas elevadas e imperativas (**superiores**) e as formas miseráveis (**inferiores**) possuem em algum sentido uma *"identidade dos contrários"* e essa oposição é um dos elementos fundamentais da heterogeneidade -- *"divide o conjunto do mundo heterogêneo".* Afirma que nas sociedades evoluídas, formas *"heterogêneas indiferenciadas são raras"* e que em geral se reduzem a essa *"oposição de dois contrários"*
-
----
 
 # 6. A forma imperativa da existência heterogênea: a soberania
 
@@ -212,8 +202,6 @@ Colocando-se como *"princípio da associação de elementos inumeráveis"*, o po
 
 Enquanto a existência miserável se produz necessariamente como multidão e a sociedade homogênea como redução a uma medida comum, a instância imperativa *"se desenvolve necessariamente no sentido de uma redução à unidade sob a forma de um ser humano excluindo a própria possibilidade de um semelhante"* — *"uma forma radical da exclusão exigindo uma avidez"*.
 
----
-
 # 7. A concentração tendencial
 
 ## Descreve os princípios da concentração dos poderes religioso e sagrado no poder real (§1-3)
@@ -229,8 +217,6 @@ Independente da forma de realização dessa concentração (se pela força, ou e
 Justifica que a consideração dos princípios dessa concentração tendencial são relevantes pois o fascismo *"reúne uma vez mais as autoridades militar e religiosa para realizar uma **opressão total**"* — afirmando que (buscando isolar o juízo político) *"toda realização ilimitada das formas imperativas tem o sentido de uma **negação da humanidade** enquanto valor dependente do jogo de suas oposições internas"*.
 
 Compara o fascismo ao bonapartismo, onde ambos podem ser definidos como *"uma **reativação aguda da instância soberana latente**, mas com um caráter de alguma forma **purificado**"* — purificação que se dá pelo fato de que as milícias que substituem o exército têm imediatamente o próprio *"poder como objeto"*.
-
----
 
 # 8. O exercito e os chefes do exército
 
@@ -265,8 +251,6 @@ Partindo do ponto de vista da **psicologia social**, Bataille defende que a nega
 9. Aponta honra e dever como formas tendenciais que situam a existência militar acima da existência homogênea, como imperativo e pura razão de ser: a honra e o dever são expressos na geometria dos desfiles; embora tenham alcance limitado a certo plano de ações e sejam compatíveis com crimes **infinitamente** covardes, bastam para fazer da dominação interna do exército **um dos elementos fundamentais** da autoridade psicológica suprema instituída acima da sociedade coagida.
 10. Extrai a consequência da integração de um poder militar em um poder social: o poder do chefe se dá apenas internamente, na estrutura do exército, gerando uma homogeneidade interna, e não social — ao passo que o poder da realeza só existe em relação à sociedade homogênea. Por isso, torna-se necessário adquirir as "modalidades próprias do poder régio" para que o poder militar se integre à administração do Estado.
 
----
-
 # 9. O poder religioso
 
 ## Defende que a religião é a fonte da autoridade social (§1,2)
@@ -295,8 +279,6 @@ Deus, do ponto de vista teológico, realiza a "forma soberana por excelência". 
 Na ordem da especulação intelectual livre, é possível substituir a ideia a Deus como "existência e poder supremos", o que de fato implica, em certa medida, a revelação de uma "heterogeneidade relativa da Ideia" — como acontece quando "Hegel eleva a Ideia acima do simples dever ser".
 
 - Comentário: Bataille distingue duas vias a partir do mesmo Ser Supremo. Pela via teológica, Deus permanece vivido, afetivo — mantém carga heterogênea real. Pela via filosófica (como em Hegel, que substitui Deus pela Ideia), a mesma posição estrutural é preservada, mas esvaziada de vivência — vira pura afirmação formal, abstrata, revelando apenas uma heterogeneidade "relativa" da Ideia, e não mais a heterogeneidade plena e vivida do Deus religioso.
-
----
 
 # 10. O fascismo enquanto forma soberana da heterogeneidade
 

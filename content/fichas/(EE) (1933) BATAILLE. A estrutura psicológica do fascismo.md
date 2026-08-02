@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-08-01T11:45:57-03:00
+modified: 2026-08-02T18:19:23-03:00
 draft: false
 tags:
   - bataille
@@ -9,22 +9,6 @@ tags:
   - religião
   - fascismo
   - estado
----
-
-1. [A base homogênea da sociedade](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=63174279-9d89-4700-bd7f-f4c241f9dd8e)
-	1. Fala sobre como a sociedade produtiva é dedicada a uma utilidade, onde se exclui tudo que não for útil e o todo pautado por uma medida comum (o dinheiro); as diferentes classes são afetadas de diferentes maneiras quanto a sua incorporação ao homogêneo
-2. [O Estado](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d91c6b4d-0989-4cc1-aa56-2b715b468b0d)
-	1. A sociedade homogênea sempre ira apresentar elementos agitados, tanto por não usufruirem da produção, quanto por não usufruírem o suficiente pra realização de seus desejos, ou por não suportarem os freios da homogeneidade.
-	2. Jogo de adaptação e autoridade, homogeneidade espontânea como regra, forças inadmissíveis, autoridade;
-3. [Dissociações, críticas a homogeneidade social e do Estado](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d140ac3b-ebae-4a25-a491-41e8feea32b7)
-4. [A existência social heterogênea](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=5a4e718f-ac0b-4850-865e-020051d2e620)
-5. [O dualismo fundamental do mundo heterogêneo](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=43a938fb-ba9e-4c13-b77b-65c7e6d47b31)
-6. [A forma imperativa da existência heterogênea: a soberania](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=a27f7d9e-5c49-4f20-948d-fd8542b7aa92)
-7. [A concentração tendencial](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=24125b5a-b3bb-45b4-9fba-929013f8619e)
-8. [O exercito e os chefes do exército](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=d2816d9d-8dae-4cac-b318-8da5e9720b24)
-9. [O poder religioso](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=cd05e29e-c82d-4a62-a9a1-cea0ddc3dfd8)
-10. [O fascismo enquanto forma soberana da heterogeneidade](https://collector.bacana.info/collections/c92f3c7b-d593-4e0c-9e47-887a92e5700d/items/e8111122-aab0-4fcc-8ee9-890b6abcb967?tab=structuralNotes&note=a4d7c192-02b4-4b87-8c92-144e3831195b)
-
 ---
 
 # 1. A base homogênea da sociedade
@@ -298,3 +282,76 @@ Na ordem da especulação intelectual livre, é possível substituir a ideia a D
   11. Oposição ao socialismo: é **reunião de classes**, não por adesão consciente, mas porque "elementos expressivos de cada classe foram representados nos movimentos de adesão profundos que culminaram na tomada do poder".
   12. Tipo específico da reunião: emprestado à afetividade propriamente militar — elementos representativos das classes exploradas foram compreendidos no processo afetivo apenas pela **negação de sua natureza própria**, "da mesma maneira \[que\] a natureza social de um recruta é negada por meio dos uniformes e dos desfiles" (retomando o capítulo 8).
 13. Explora o **valor significativo da formação do chefe**, que determina o esquema do processo fundamental de formação do fascismo: esse processo "que amalgama de cima a baixo as diferentes formatações sociais" tira seu valor significativo do fato de que **o chefe viveu o estado de abandono e miséria do proletariado**. Mas, "assim como no caso da organização militar" (capítulo 8), o valor afetivo próprio da existência miserável é apenas deslocado e transformado em seu contrário — um alcance desmedido que dá conformação ao "tom da violência", fundamental a todo exército e a todo fascismo.
+
+# 11. O Estado fascista
+
+## Diferencia a formação fascista enquanto uma reunião dos elementos heterogêneos e homogêneos (§1,2)
+
+Estabelece as diferenças entre a formação fascista (reunião) e a sociedade régia clássica: essa última é caracterizada "por uma perda de contato mais ou menos definida da instância soberana com as classes inferiores" — diferença que o fascismo rompe, mantendo estreita relação com as classes miseráveis. Mas o fascismo não é apenas essa proximidade: não é apenas "reunião de poderes de diferentes origens" ou "reunião simbólica de classes", é ainda "reunião completa dos elementos heterogêneos com os elementos homogêneos, da soberania propriamente dita com o Estado" — duas reuniões distintas e paralelas.
+
+Esclarece o papel do Estado na formação fascista: enquanto reunião, o fascismo se opõe tanto ao Islã quanto à monarquia tradicional — no caso do Islã, o Estado ainda não existia e não desempenhou nenhum papel em sua constituição; o Estado existente serviu como "quadro para o conjunto do processo fascista de aglutinação orgânica", tornando-se um elemento central. Isso, no entanto, "não implica necessariamente" a confusão entre o Estado e a força imperativa que domina a sociedade como um todo — abrindo espaço para investigar se, em algum caso específico, essa confusão de fato ocorre.
+
+## Explora a soberania superior distinta da formação fascista (§2-4)
+
+Explora o princípio de soberania superior distinto do fascismo: inclinado a uma "divinização hegeliana do Estado", o próprio Mussolini reconhece, "em termos voluntariamente obscuros", a existência de um "princípio de soberania distinto" que ele designa ao mesmo tempo como "povo, nação e personalidade superior" — mas que deve ser identificado à própria formação fascista e a seu chefe. "Povo", nessa formulação, é definido de modo condicional: "ao menos se o povo... significa a ideia... que se encarna no povo como vontade de um pequeno número ou mesmo de um só"; não se trata "nem de raça, nem de região geográfica determinada", mas de um agrupamento que se perpetua historicamente, unificado por uma "vontade de existência e de potência: é a consciência de si, personalidade" — personalidade essa entendida como "individualização" (que culmina no próprio Mussolini), personalidade superior que é "nação enquanto Estado". Com isso:
+
+- substitui-se o velho princípio democrático de soberania da nação pelo princípio de soberania da "formação fascista individualizada";
+- estabelecem-se as bases de uma interpretação consumada da instância soberana e do Estado.
+
+Compara o princípio de autoridade da Alemanha nacional-socialista: diferente da Itália, não aderiu ao "hegelianismo e a teoria do Estado alma do mundo"; entretanto, a ideia mística de raça assumiu o papel de fim imperativo dessa forma fascista, encarnada na pessoa do Führer e dos seus. Embora à concepção de raça falte uma base "objetiva", ela não é menos "subjetivamente" fundada. A necessidade de manter o valor racial acima de outros afastou teorias que colocassem o Estado nesse papel de princípio dos valores. Portanto, o que fez Mussolini — e o valor por ele atribuído ao Estado — não é necessário para uma teoria do fascismo.
+
+Propõe as causas da identidade entre fascismo e razão de Estado: Mussolini não distinguiu formalmente a "instância heterogênea", o que fez com que ela penetrasse profundamente no interior do Estado, e isso pode ser interpretado tanto como uma "apropriação absoluta do Estado", quanto como uma "adaptação difícil da instância soberana" às necessidades do regime de produção homogêneo — no desenvolvimento de ambos esses "processos recíprocos" que "fascismo e razão de Estado puderam parecer idênticos".
+
+Justifica a soberania da forma heterogênea na dualidade das formas: as formas de vida (fascismo e razão de Estado) carregam uma oposição fundamental onde a pessoa detentora do poder carrega uma "dualidade radical de princípios": o Führer e o Duce têm formas de atividade distintas do presidente do conselho italiano ou chanceler alemão. A origem fundamental do poder desses personagens não está na sua função oficial do Estado, "como os outros primeiros-ministros", mas sim na "existência de um partido fascista e de sua situação pessoal à frente deste partido". Por isso, do ponto de vista do princípio da soberania, tem-se a supremacia incondicional da forma heterogênea nessa dualidade das formas (homogênea e heterogênea).
+
+# 12. As condições fundamentais do fascismo
+
+## Propõe a estrutura psicológica como base da unidade do fascismo (§1-3)
+
+Explora as causas que levam as **forças heterogêneas a atenderem aos interesses do conjunto dos capitalistas**: para que os processos heterogêneos possam funcionar, é necessário que o aparelho de produção (homogeneidade fundamental da sociedade) não esteja cindido devido às suas contradições internas. Por mais "às cegas" que seja o desenvolvimento das forças heterogêneas, elas ganham necessariamente o sentido de "solução do problema apresentado pelas contradições da homogeneidade"; e, quando tomam o poder, dispõem dos "meios de coerção" necessários para arbitrar os diferendos entre elementos antes inconciliáveis — arbitragem essa que, ao excluir toda a subversão, se mantém na **"direção geral da homogeneidade existente"**, ou seja, atendendo aos interesses do "conjunto dos capitalistas".
+
+Descreve a **alteração na estrutura do capitalismo**: ao recorrer à homogeneidade fascista, os interesses do conjunto dos capitalistas passam a se opor aos das empresas privadas a partir do período de crise, fazendo com que a "estrutura do capitalismo" se altere profundamente — o princípio anterior poderia ser descrito como uma homogeneidade espontânea da produção baseada na concorrência, onde o interesse do conjunto dos produtores coincidia com a "liberdade absoluta de cada empresa".
+
+- Diferencia a consciência alemã e italiana: os capitalistas alemães desenvolveram uma consciência sobre os perigos da liberdade individual, o que pode ter sido a origem da "efervescência e triunfo" dos nacional-socialistas; já os capitalistas italianos preocupavam-se somente com o caráter indissolúvel de seus conflitos com os operários.
+
+Propõe que "**a unidade do fascismo se encontra na sua estrutura psicológica própria** e não nas condições econômicas que lhe servem de base": embora admita que um "desenvolvimento lógico geral da economia" dê aos diferentes fascismos um "sentido econômico comum", esse sentido é compartilhado também com a atividade política do governo atual dos EUA — atividade essa "absolutamente estranha ao fascismo propriamente dito".
+
+Argumenta que a **estrutura da região heterogênea** condiciona a possibilidade de realização da força necessária à satisfação do desejo e à utilização do dinheiro: a consciência de qualquer perigo econômico que se apresente ao fascismo, e a necessidade de remediá-lo, representam apenas um "desejo ainda vazio, secundado pelo rigor de um meio poderoso de apoio como o dinheiro". A "realização da força suscetível de responder ao desejo e de utilizar as disponibilidades do dinheiro acontece somente na região heterogênea", e a possibilidade dessa realização depende manifestamente da "estrutura atual dessa região", que pode variar a depender de a sociedade ser "**democrática** ou **monárquica**".
+
+## Contrasta a instância imperativa da sociedade monárquica real e da sociedade democrática (§4,5)
+
+Aponta a contradição presente na parte superior da região heterogênea da sociedade monárquica real: nessa forma de sociedade, existe uma instância soberana (de origem formal e absoluta) que é "ligada à homogeneidade estabelecida" (ainda que se tenha mudanças, sempre orientado a essa minoria real) — a necessidade de mudança, mesmo quando existe, "não é nunca representada no interior a não ser por uma minoria prevenida". Mas ao mesmo tempo, a autoridade do rei se confunde com toda essa manutenção das formas jurídicas e dos quadros administrativos — essa parte superior é, de uma vez, "imobilizada e imobilizadora".
+
+Justifica o papel das classes inferiores como aglutinadora dos elementos rejeitados pela decomposição social: uma vez que a parte superior da heterogeneidade está nessa situação de imobilidade, apenas as classes inferiores (miseráveis e oprimidas) podem entrar em movimento — o que significa, por sua vez, uma "alteração profunda em sua natureza" — devem passar, na luta contra os opressores, "de um estado passivo e difuso para uma forma de atividade consciente".
+
+- Em termos marxistas: as classes devem tomar consciência de si próprias enquanto proletariado revolucionário, e não devendo se limitar a si mesmo, devem se tornar um "ponto de concentração para todo elemento social dissociado e rejeitado na heterogeneidade"; inclusive, esse "centro de atração" existe antes mesmo da tomada de consciência ("proletariado consciente").
+- Elemento constitutivo da estrutura de conjunto que compreende não só "formas imperativas" e as "formas miseráveis", mas também as "formas subversivas".
+  - Formas subversivas: formas inferiores quando em luta contra as formas soberanas.
+  - Natureza da subversão: exigência de que o que é baixo torne-se alto e que o que é alto torne-se baixo.
+- Os elementos rejeitados na heterogeneidade pela decomposição social, portanto, só podem se reunir às formações resultantes da entrada em ação das classes oprimidas (subversão).
+  - Inclusive no caso da burguesia, que se uniu contra a autoridade e se confundiu com as massas efervescentes e revoltadas; mesmo após a destruição da monarquia, os movimentos continuam a ser comandados pelo comportamento antiautoritário inicial.
+
+Descreve a instância imperativa heterogênea da sociedade democrática e suas possibilidades: em uma sociedade democrática — "ao menos quando não está galvanizada pela necessidade de fazer a guerra" —, a instância imperativa é "reduzida a uma existência atrofiada", e "qualquer mudança possível não parece mais necessariamente ligada à sua destruição". Nesse caso, as formas imperativas podem até ser consideradas como um "campo livre", aberto às possibilidades de efervescência (tal qual as formas subversivas eram na monarquia).
+
+Aponta as causas que levam as classes inferiores a não mais aderir à solução subversiva para o escoamento de sua "efervescência": essa instância imperativa então torna possível que, quando a sociedade homogênea sofra uma "desintegração crítica", "os elementos dissociados não entram mais necessariamente na órbita da atração subversiva" — a atração imperativa que se forma no topo não mais condena aqueles que a sofrem ao imobilismo, tornando-se uma opção para as classes inferiores.
+
+- A atração imperativa no sentido da restauração e suas limitações: destaca exemplos recentes de uma atração no sentido de uma restauração, entretanto, "limitada de antemão pela natureza preestabelecida da soberania desaparecida", implicando uma "perda de contato proibitiva entre a instância autoritária e as classes inferiores". Cita o bonapartismo como única restauração histórica espontânea — exceção que se explica justamente por suas "fontes populares manifestas".
+  - A formação fascista francesa se formou em torno de uma atração imperativa dirigida no sentido de uma restauração dinástica, diferente da Itália, onde a monarquia "subsistia em estado reduzido"; portanto, foi precisamente "a insuficiência, juntando-se à subsistência da realeza, que necessitou da formação, à qual ela deixava ao mesmo tempo o campo livre, de uma atração imperativa inteiramente renovada e recebendo uma base popular".
+
+## Extrai a impossibilidade da revolução operária como consequência da dualidade (duas revoluções) (§6,7)
+
+Justifica as causas que possibilitam "conexões" e um tipo de "cumplicidade profunda" entre o fascismo e o socialismo: a sociedade então vê a formação (concorrentemente) de duas revoluções "hostis entre si e hostis à ordem social estabelecida" — ambas surgem opostas à **dissociação geral da sociedade homogênea "como fator comum"**, isto é, essa dissociação é o que gera, ao mesmo tempo, as duas frações rivais.
+
+Aponta a existência de um "jogo de equilíbrio" que faz com que "o sucesso de uma das frações implica aquele da fração contrária": isso é tanto sua causa como seu sinal (por exemplo, o crescimento do fascismo como resposta à ameaça crescente do movimento operário).
+
+Propõe que o desfecho leva a um fortalecimento dos elementos dissociados (burgueses e pequeno-burgueses): a menos que seja possível restabelecer a homogeneidade abalada, na medida em que "a efervescência cresce", "a importância dos elementos dissociados cresce com relação àquela dos elementos que nunca foram integrados (proletariado)", resultando no desaparecimento das chances de uma revolução proletária ("subversão libertadora da sociedade").
+
+Demarca o limite dos movimentos revolucionários que se desenvolvem em uma democracia: ao menos enquanto não se fixam mais as "reações heterogêneas no sentido contrário ao das formas imperativas", parece que toda esperança está proibida a esses movimentos revolucionários. Bataille reforça esse pessimismo com uma constatação direta: **"é óbvio, com efeito, que a situação das principais potências democráticas, no território das quais joga-se a sorte da Revolução, não justifica a menor confiança"** — sendo apenas a atitude "um pouco indiferente" do proletariado o que permitiu, até então, que esses países escapassem de qualquer formação fascista.
+
+## Defende um sistema de conhecimentos sobre os movimentos sociais de atração e de repulsão como uma arma (§7)
+
+Todavia, em contraponto a esse pessimismo, "seria pueril acreditar em fechar o mundo em um esquema": desde o início, a simples consideração das formações sociais afetivas revela os imensos recursos, a inesgotável riqueza de formas próprias a toda vida afetiva. Não apenas as situações psicológicas das coletividades democráticas são, como qualquer situação humana, transitórias, mas permanece possível vislumbrar — ainda que como "representação ainda imprecisa" — forças de atração diferentes daquelas já utilizadas, tão diferentes do comunismo (atual ou passado) quanto o fascismo se afastou das reivindicações dinásticas.
+
+Defende o desenvolvimento de um sistema de conhecimento que permita "prever as reações afetivas sociais que percorrem a superestrutura" — e, "talvez, até um certo ponto", dispor delas. O próprio fascismo, ao colocar em questão a existência do movimento operário, já mostrou o que é possível esperar de um "recurso oportuno a forças afetivas renovadas". Por isso, "um sistema de conhecimentos sobre os movimentos sociais de atração e repulsão mostra-se da maneira mais despojada como uma arma".
+
+Fechamento do livro: o que essa vasta convulsão histórica opõe não é exatamente fascismo e comunismo, mas sim "formas imperativas radicais à profunda subversão que continua a buscar a emancipação de vidas humanas"

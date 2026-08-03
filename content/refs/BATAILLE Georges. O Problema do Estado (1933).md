@@ -1,6 +1,6 @@
 ---
 created: 2026-08-03T11:02:41-03:00
-modified: 2026-08-03T15:37:28-03:00
+modified: 2026-08-03T15:54:05-03:00
 title: O PROBLEMA DO ESTADO - Georges Bataille em meio à ascensão nazista
 url: https://www.glacedicoes.com/post/o-problema-do-estado
 source: Glac Edições
@@ -17,6 +17,8 @@ tags:
   - fascismo
 draft: false
 ---
+
+https://www.glacedicoes.com/post/o-problema-do-estado
 
 > [!info] Os conceitos hegelianos de **consciência infeliz** e **consciência dilacerada**
 > *"com os quais Bataille entra em contato através da Fenomenologia do Espírito - e entra em embate desde pelo menos 1929 na revista Documents - e dos cursos de Kojève na École Pratique des Hautes Études entre 1933 e 1939"*

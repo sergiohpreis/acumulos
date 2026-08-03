@@ -1,6 +1,6 @@
 ---
 created: 2026-08-03T11:02:41-03:00
-modified: 2026-08-03T13:45:17-03:00
+modified: 2026-08-03T15:37:28-03:00
 title: O PROBLEMA DO ESTADO - Georges Bataille em meio à ascensão nazista
 url: https://www.glacedicoes.com/post/o-problema-do-estado
 source: Glac Edições
@@ -19,6 +19,7 @@ draft: false
 ---
 
 > [!info] Os conceitos hegelianos de **consciência infeliz** e **consciência dilacerada**
+> *"com os quais Bataille entra em contato através da Fenomenologia do Espírito - e entra em embate desde pelo menos 1929 na revista Documents - e dos cursos de Kojève na École Pratique des Hautes Études entre 1933 e 1939"*
 > 
 > **Consciência infeliz (das unglückliche Bewusstsein)**
 > Aparece no capítulo IV da Fenomenologia, na seção sobre a Autoconsciência, logo depois da dialética senhor-escravo e das figuras do estoicismo e do ceticismo. É a consciência que se cindiu internamente entre dois polos: de um lado, ela mesma como algo mutável, contingente, particular; de outro, um "imutável" que ela projeta como essência verdadeira, mas colocado num Além inatingível (paradigmaticamente, a consciência religiosa medieval — o devoto, o asceta). O drama dessa figura é que ela não consegue se reconhecer nesse imutável: por mais que se volte a ele através da devoção, do sacrifício, da mortificação de si, permanece separada dele, e cada tentativa de unificação reproduz a cisão. É uma consciência que sofre precisamente por não conseguir coincidir consigo mesma através do Absoluto que ela mesma instituiu como estranho a si.
@@ -30,6 +31,14 @@ draft: false
 
 ---
 
-> "A consciência operária se desenvolveu em função de uma dissolução da autoridade tradicional. A menor esperança da Revolução foi descrita como perecimento do Estado: mas são, ao contrário, as forças revolucionárias que o mundo atual vê perecer e, ao mesmo tempo, toda força viva tomou hoje a forma do Estado totalitário. A consciência revolucionária que desperta nesse mundo da coerção é também levada a se considerar _historicamente_ como não-sentido: ela se tornou, para empregar as velhas fórmulas de Hegel, _consciência dilacerada_ e _consciência infeliz._"
+Sobre:
+> "possibilidades de sustentação da revolta e da realização da revolução"
+
+
+> "Certas coincidências de resultados do fascismo e do bolchevismo têm criado as perspectivas gerais de uma consciência da história desconcertada – de uma consciência que, nas novas condições, se transforma pouco a pouco em ironia e se habitua a considerar a morte."
+
+> "A consciência operária se desenvolveu em função de uma dissolução da autoridade tradicional. A menor esperança da Revolução foi descrita como perecimento do Estado: mas são, ao contrário, as forças revolucionárias que o mundo atual vê perecer e, ao mesmo tempo, toda força viva tomou hoje a forma do Estado totalitário. 
+
+> "A consciência revolucionária que desperta nesse mundo da coerção é também levada a se considerar historicamente como não-sentido: ela se tornou, para empregar as velhas fórmulas de Hegel, consciência dilacerada e consciência infeliz."
 
 > "...o otimismo pode se tornar o equivalente da morte da consciência revolucionária"

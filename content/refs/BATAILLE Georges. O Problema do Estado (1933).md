@@ -41,4 +41,10 @@ Sobre:
 
 > "A consciência revolucionária que desperta nesse mundo da coerção é também levada a se considerar historicamente como não-sentido: ela se tornou, para empregar as velhas fórmulas de Hegel, consciência dilacerada e consciência infeliz."
 
+> "aceitaram as piores contorções feitas aos princípios revolucionários fundamentais como se fossem a própria expressão da autenticidade proletária"
+
 > "...o otimismo pode se tornar o equivalente da morte da consciência revolucionária"
+
+> "Seria necessário, atualmente, renunciar a toda compreensão para não ver que a admirável confiança ao mesmo tempo própria à Marx e ao conjunto do socialismo foi justificada afetivamente e não cientificamente: a possibilidade (talvez o dever) de uma tal justificação afetiva não desapareceu senão em uma data recente."
+
+> 

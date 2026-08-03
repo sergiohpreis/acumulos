@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-08-02T18:19:23-03:00
+modified: 2026-08-03T16:43:51-03:00
 draft: false
 tags:
   - bataille
@@ -103,7 +103,7 @@ A **realidade homogênea** se apresenta com *"aspecto **abstrato** e **neutro** 
 
 Enquanto a realidade homogênea é pautada na ciência, a heterogênea se funda em um pensamento místico (*"dos primitivos e nas representações do sonho: é idêntica à estrutura do inconsciente"*). A vida corrente como *"**totalmente outra**, incomensurável"*.
 
-## Apresenta exemplos de elementos heterogêneos (§6,7)
+## Apresenta lideranças fascistas e camadas sociais mais baixas exemplos de elementos heterogêneos (§6,7)
 
 Por meio dos exemplos das lideranças **fascistas** e das **camadas sociais mais baixas**
 

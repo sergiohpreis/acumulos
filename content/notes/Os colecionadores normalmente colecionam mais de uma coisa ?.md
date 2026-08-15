@@ -4,7 +4,7 @@ modified: 2026-02-03T21:37:42-03:00
 tags:
   - colecionismo
   - ideias
-draft: true
+draft: false
 ---
 
 Pensei que varias coisas da sociedade atual (capitalista) impulsionam um colecionismo, por exemplo, as coisas são lançadas em série.

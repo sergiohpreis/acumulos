@@ -216,3 +216,37 @@ TBD
 ## Apresenta necessidade de se considerar outras "relações mútuas entre o objeto e o Eu" antes de utilizar os conceitos para compreensão da organização libidinal da massa (§13)
 
 TBD
+
+# 8. Enamoramento e hipnose
+
+## Descreve o enamoramento (§1,2)
+
+TBD
+
+## Descreve o desenvolvimento da vida amorosa do ser humano (primeira fase e puberdade) (§3,4)
+
+TBD
+
+## Descreve o fenômeno da superestimação sexual e a idealização como seu mecanismo (§5,6)
+
+TBD
+
+## Explica o autossacrifício do Eu diante do objeto, exemplificado no amor infeliz — "O objeto se colocou no lugar do ideal do Eu" (§7,8)
+
+TBD
+
+## Esclarece a distinção entre identificação e enamoramento com relação ao Eu e o investimento no objeto (§9)
+
+TBD
+
+## Descreve a relação hipnótica com relação ao enamoramento e em comparação ao processo de formação de uma massa (§10-12)
+
+TBD
+
+## Apresenta os limites da relação hipnótica enquanto estado de enamoramento (§13)
+
+TBD
+
+## Propõe uma fórmula relativa à constituição libidinal de uma massa determinada (não excessivamente organizada e com líder) (§14)
+
+TBD

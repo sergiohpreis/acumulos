@@ -1,6 +1,6 @@
 ---
 created: 2026-08-04T21:01:04-03:00
-modified: 2026-08-17T13:37:05-03:00
+modified: 2026-08-18T22:23:25-03:00
 draft: false
 tags:
   - fichamento
@@ -248,5 +248,45 @@ TBD
 TBD
 
 ## Propõe uma fórmula relativa à constituição libidinal de uma massa determinada (não excessivamente organizada e com líder) (§14)
+
+TBD
+
+# 9. O instinto gregário
+
+## Revisa os fenômenos da massa em Le Bon e as limitações com relação a influência da sugestão (§1-3)
+
+TBD
+
+## Descreve as teorias de W. Trotter sobre o "instinto gregário", apresentando a sugestionabilidade como um derivado deste (§4-7)
+
+TBD
+
+## Esclarece os limites da teoria de W. Trotter: ausência do papel do líder e exemplo da angustia da criança (§8,9)
+
+TBD
+
+## Explora o sentimento social de exigência por justiça e igualdade com base nos exemplos da escola e família com mais de uma criança (§9,10)
+
+TBD
+
+## Propõe a correção de W. Trotter: o homem como animal de horda, antes de animal de rebanho (§11)
+
+TBD
+
+# 10. A massa e a horda primeva
+
+## Argumenta sobre a massa enquanto uma revivescência da horda primeva (§1-3)
+
+TBD
+
+## Explora a psicologia individual com relação ao pai primordial da horda primeva, estabelecendo uma relação com a psicologia de massas (§3-7)
+
+TBD
+
+## Explora a união da massa com base na premissa do "amor igual do pai" (§8)
+
+TBD
+
+## Descreve a hipnose e a sugestão remontando com base na horda primeva (§9-13)
 
 TBD

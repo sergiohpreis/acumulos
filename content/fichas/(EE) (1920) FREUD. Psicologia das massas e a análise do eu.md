@@ -1,6 +1,6 @@
 ---
 created: 2026-08-04T21:01:04-03:00
-modified: 2026-08-18T22:23:25-03:00
+modified: 2026-08-24T18:33:39-03:00
 draft: false
 tags:
   - fichamento
@@ -288,5 +288,57 @@ TBD
 TBD
 
 ## Descreve a hipnose e a sugestão remontando com base na horda primeva (§9-13)
+
+TBD
+
+# 11. Um grau no interior do eu
+
+## Explora o processo de renúncia ao ideal do Eu em troca do ideal da massa corporificado no líder (§1,2)
+
+TBD
+
+## Explora a estrutura libidinal de um grupo ("diferença entre o Eu e ideal do Eu") com base nos estudos da neurose e uma de suas possíveis consequências (§3,4)
+
+TBD
+
+## Aplica a instabilidade das distinções psíquicas à separação periódica entre Eu e ideal do Eu, e descreve os afetos que essa tensão produz — triunfo e culpa (§5,6)
+
+TBD
+
+## Descreve os processos de oscilação de humor (mania e melancolia) a partir de uma análise do Eu (§7-12)
+
+TBD
+
+# 12. Complementos
+
+## Justifica a retomada das trilhas secundárias (§1)
+
+TBD
+
+## A - Compara os processos de "distinção entre identificação do Eu \[com um objeto\]" e "substituição do ideal do Eu por um objeto" nos dois grandes grupos artificiais: "Exército e a Igreja cristã" (§2-4)
+
+TBD
+
+## B.1 - Explica o mito científico do pai da horda primordial (§5-8)
+
+TBD
+
+## B.2 - Argumenta que o mito é o ponto em que se efetua o progresso da psicologia das massas para a psicologia individual (§9,10)
+
+TBD
+
+## C - Descreve mais detalhadamente os instintos sexuais diretos e inibidos em sua meta (§11-16)
+
+TBD
+
+## D.1 - Descreve o desenvolvimento do enamoramento e o amor sexual a dois (§17-21)
+
+TBD
+
+## D.2 - Propõe a relação de antagonismo entre neurose e formação de grupo, fundamentada nos impulsos sexuais diretos reprimidos (§22,23)
+
+TBD
+
+## E - Compara o enamoramento, a hipnose, a formação de grupos e a neurose a partir da teoria da libido (§24-29)
 
 TBD

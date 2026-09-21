@@ -1,6 +1,10 @@
 ---
 created: 2026-09-21T18:15:55-03:00
 modified: 2026-09-21T18:19:37-03:00
+draft: false
+tags:
+  - byung-chul-han
+  - filosofia
 ---
 
 >[!note] Resumo de [[HAN Byung-Chul. Sociedade do Cansaço (2010)]] feito com o apoio do Claude para consulta e apoio durante a leitura

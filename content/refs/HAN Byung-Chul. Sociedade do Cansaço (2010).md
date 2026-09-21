@@ -29,9 +29,8 @@ tags:
   - filosofia
   - sociologia
 draft: false
-date: 2026-09-21T18:15:10.051086822-03:00
 created: 2026-09-21T18:15:10-03:00
-modified: 2026-09-21T18:15:32-03:00
+modified: 2026-09-21T18:20:40-03:00
 ---
 
 **Byung-Chul Han** · 2010 · Vozes · 9788532649966

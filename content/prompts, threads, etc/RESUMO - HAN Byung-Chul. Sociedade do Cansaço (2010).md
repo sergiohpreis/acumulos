@@ -1,6 +1,6 @@
 ---
 created: 2026-09-21T18:15:55-03:00
-modified: 2026-09-22T13:54:00-03:00
+modified: 2026-09-22T13:55:28-03:00
 draft: false
 tags:
   - byung-chul-han
@@ -191,24 +191,16 @@ Sustenta que "Bartleby" retrata ainda a sociedade disciplinar, marcada por muros
 
 ### §3 - "A interpretação ontoteológica de Bartleby feita por Agamben, que abstrai de todo e qualquer aspecto patológico, já fracassa nos dados da narrativa..."
 
-Critica a leitura de Agamben, que eleva Bartleby a figura metafísica de "pura potência" — o escrivão que se tornou a própria escrivaninha vazia, "ser de pura potência" ainda por escrever.
+Critica a leitura de Agamben, que eleva Bartleby a figura metafísica de "pura potência" — o escrivão que se tornou a própria escrivaninha vazia, "ser de pura potência" ainda por escrever, incorporando o "espírito" numa folha em branco.
 
 ### §4 - "Bartleby é uma figura sem referência para consigo mesmo ou algo outro..."
 
-Han contesta: Bartleby não é uma "folha em branco" pura, mas um sujeito esvaziado de referência de mundo e sentido — seus "olhos cansados e turvos" já contradizem a pureza da potência divina que Agamben lhe atribui.
+Han contesta essa leitura: Bartleby não é "folha em branco" pura, mas um sujeito esvaziado de mundo e sentido (seus "olhos cansados e turvos" já contradizem a potência divina). Nota que ele recusa também qualquer _errand_ (inclusive ir ao correio), e que a narrativa revela seu passado num escritório de cartas mortas (_Dead Letter Office_) — sua existência é "um ser negativo para a morte", o que contradiz a "des-criação" messiânica que Agamben lhe atribui.
 
-### §5 - "Pouco convincente é também a afirmação de Agamben de que, com sua recusa teimosa de escrever, Bartleby continua na potência perseverante..."
-
-Aprofunda a crítica: Agamben lê a recusa de Bartleby como anúncio querigmático de uma potência absoluta, um "anjo da anunciação". Mas Han nota que Bartleby recusa também qualquer _errand_ (missão, recado) — inclusive ir ao correio —, e que a narrativa termina revelando seu passado num escritório de cartas mortas (_Dead Letter Office_), reforçando a associação entre sua existência e a morte, não a criação.
-
-### §6 - "É bem verdade que, em meio aos tombs, Melville deixa surgir uma minúscula semente de vida..."
+### §5 - "É bem verdade que, em meio aos tombs, Melville deixa surgir uma minúscula semente de vida..."
 
 Mesmo a pequena mancha de relva (sinal de vida que Agamben lê como messiânico) serve, para Han, apenas para reforçar o vazio sem esperança do relato — a resposta indiferente de Bartleby ("I know where I am") mostra que todo esforço em favor da vida ali leva à morte.
 
-### §7 - "O artista faminto de Kafka, ao contrário, não está carregado com essas ilusões..."
+### §6 - "O artista faminto de Kafka, ao contrário, não está carregado com essas ilusões..."
 
-Contrasta Bartleby com o artista da fome de Kafka, cuja morte libera espaço para a jovem pantera, símbolo da alegria de viver — enquanto ao artista da fome resta só a negatividade ilusória da negação. Refere também a figura irônica do "Sr. Kotellet" e a alusão sarcástica do advogado à morte de Bartleby.
-
-### §8 - "A narrativa não se volta na direção de uma esperança messiânica..."
-
-Conclui que a morte de Bartleby é o colapso da "última coluna do templo decaído" — sua fórmula se afasta de qualquer leitura messiânico-cristológica. Han propõe que "Bartleby" não é uma história da "des-criação" (_Ent-schöpfung_, termo de Agamben), mas uma história do esgotamento (_Erschöpfung_) — jogo de palavras que sintetiza sua tese central sobre o capítulo.
+Contrasta Bartleby com o artista da fome de Kafka, cuja morte libera espaço para a jovem pantera, símbolo da alegria de viver. Conclui que a morte de Bartleby é o colapso da "última coluna do templo decaído", afastando-se de qualquer leitura messiânico-cristológica: "Bartleby" não é uma história da "des-criação" (_Ent-schöpfung_, Agamben), mas uma história do esgotamento (_Erschöpfung_) — o jogo de palavras que sintetiza a tese central do capítulo.

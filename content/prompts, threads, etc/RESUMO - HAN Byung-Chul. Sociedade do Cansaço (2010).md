@@ -1,6 +1,6 @@
 ---
 created: 2026-09-21T18:15:55-03:00
-modified: 2026-09-21T18:19:37-03:00
+modified: 2026-09-21T23:57:51-03:00
 draft: false
 tags:
   - byung-chul-han
@@ -10,6 +10,8 @@ tags:
 >[!note] Resumo de [[HAN Byung-Chul. Sociedade do Cansaço (2010)]] feito com o apoio do Claude para consulta e apoio durante a leitura
 
 ## Capítulo 1 — A violência neuronal
+
+_Han diagnostica o século XXI como a época das doenças neuronais (depressão, TDAH, TPL, burnout), causadas não por uma negatividade estranha ao sistema, mas por excesso de positividade. Argumenta que o paradigma imunológico do século XX (dentro/fora, amigo/inimigo) está em declínio, criticando Esposito e Baudrillard por ainda descreverem esse novo tipo de violência — imanente, saturante, sistêmica — com um vocabulário inadequado, herdado da lógica da alteridade._
 
 ### §1 - "Cada época possuiu suas enfermidades fundamentais..."
 
@@ -61,6 +63,8 @@ Conclusão do capítulo: o esquema imunológico (interior/exterior, próprio/out
 
 ## Capítulo 2 — Além da sociedade disciplinar
 
+_Han contrapõe a sociedade disciplinar de Foucault (organizada pela negatividade e pela proibição) à atual sociedade de desempenho (organizada pela positividade e pelo poder ilimitado). Criticando a leitura de Ehrenberg sobre a depressão, argumenta que o sujeito de desempenho, livre de dominação externa, se torna ao mesmo tempo senhor e escravo de si mesmo — uma "liberdade coercitiva" cuja autoexploração é a raiz das patologias psíquicas contemporâneas._
+
 ### §1 - "A sociedade disciplinar de Foucault, feita de hospitais, asilos, presídios..."
 
 Contrapõe a sociedade disciplinar de Foucault (hospitais, asilos, presídios, quartéis, fábricas) à sociedade de desempenho atual (academias, escritórios, bancos, aeroportos, shoppings, laboratórios). Os "sujeitos de obediência" tornam-se "sujeitos de desempenho", empresários de si mesmos. Han descarta tanto a analítica do poder de Foucault quanto o conceito de "sociedade de controle" (Deleuze) por conterem ainda negatividade demais para descrever essa mudança.
@@ -87,6 +91,8 @@ Conclusão do capítulo: sem instância dominadora externa, liberdade e coação
 
 ## Capítulo 3 — O tédio profundo
 
+_Han analisa como o excesso de estímulos fragmenta a atenção, aproximando a hiperatenção humana da atenção difusa e vigilante dos animais selvagens. Resgatando o "tédio profundo" de Walter Benjamin, defende a atenção contemplativa — capaz de gerar cultura e até formas de movimento genuinamente novas — como antídoto à hiperatividade que apenas acelera o que já existe._
+
 ### §1 - "O excesso de positividade se manifesta também como excesso de estímulos, informações e impulsos..."
 
 O excesso de positividade fragmenta a atenção. A sobrecarga de trabalho exige a técnica da multitarefa, que Han não vê como progresso civilizatório, mas como retrocesso — é a técnica de atenção típica dos animais selvagens, que precisam dividir a vigilância entre comer, cuidar da prole e vigiar o predador.
@@ -106,3 +112,39 @@ Quem tolera o tédio descobre novos movimentos (a dança, em vez do andar aceler
 ### §5 - "Com o título Vita contemplativa não deveria ser reconjurado aquele mundo no qual esta estava alocada originariamente..."
 
 Ilustra a atenção contemplativa com Cézanne (que "via o perfume das coisas") e Merleau-Ponty (a paisagem "pensa-se" no pintor). Sem recolhimento contemplativo, o olhar perambula sem produzir nada. Encerra com Nietzsche: sem repouso, a civilização caminha para uma "nova barbárie" — é preciso fortalecer o elemento contemplativo contra o excesso de atividade/inquietação.
+
+## Capítulo 4 — Vita activa
+
+_Han dialoga criticamente com Hannah Arendt, questionando sua explicação para o triunfo do animal laborans na modernidade. Contra a tese de que o sujeito moderno se funde passivamente ao processo da espécie, propõe que a hiperatividade contemporânea é reação à perda da fé e à consequente transitoriedade radical da vida — e aponta que a própria Arendt, ao final de seu livro, acaba reconhecendo involuntariamente a importância da vita contemplativa que buscava superar._
+
+### §1 - "Em seu escrito Vita activa, Hannah Arendt procura reabilitar a vida ativa..."  
+
+Apresenta o projeto de Arendt: reabilitar a _vita activa_ contra o primado tradicional da _vita contemplativa_, ligando-a ao primado da ação. Diferente de Heidegger (que pauta o agir pela morte), Arendt orienta a ação pelo _nascimento_ — o "milagre" do novo começo que cada ser humano pode realizar por nascer. A ação ganha, assim, uma dimensão quase religiosa, substituindo a fé que opera milagres.
+
+### §2 - "Segundo Arendt, a sociedade moderna, enquanto sociedade do trabalho, aniquila toda possibilidade de agir..."  
+
+Para Arendt, a modernidade degrada o homem a _animal laborans_, passivamente exposto ao processo anônimo da vida, com o pensamento reduzido a cálculo. Toda _vita activa_ (produzir e agir) decai ao nível do trabalho — a Modernidade, que começou com ativação heróica, termina numa passividade mortal.
+
+### §3 - "A explicação de Arendt para o triunfo do animal laborans não resiste a um teste comprobatório..."  
+
+Han expõe a tese de Arendt: a vida individual estaria "mergulhada" no processo de vida da espécie, e a única decisão ativa restante seria "soltar-se", renunciar à individualidade, para "funcionar" melhor — como visto por um observador distante, para quem toda atividade humana pareceria mero processo biológico (ela chega a comparar a motorização a uma mutação biológica).
+
+### §4 - "As descrições do animal laborans moderno de Arendt não correspondem às observações..."  
+
+Han contesta empiricamente: o _animal laborans_ pós-moderno não abandona sua individualidade nem se funde ao processo da espécie — é hiperativo, hiperneurótico, "provido do ego ao ponto de quase dilacerar-se". Se de fato renunciasse ao eu, teria ao menos a serenidade de um animal — mas não tem nada de animalesco. É preciso, portanto, buscar outra explicação para essa hiperatividade nervosa.
+
+### §5 - "A perda moderna da fé, que não diz respeito apenas a Deus e ao além..."  
+
+Apresenta a explicação de Han: a perda moderna da fé (em Deus, no além, na própria realidade) torna a vida radicalmente transitória — mais que nunca antes. Sem religiões-enquanto-técnica-da-morte para suprimir o medo e dar sentimento de duração, e com a "desnarrativização" geral do mundo, resta a "vida desnua" e o "trabalho desnudo", que se condicionam mutuamente, gerando a coação de manter a vida incondicionalmente saudável.
+
+### §6 - "Mais desnuda que a vida do homo sacer é a vida hoje..."  
+
+Retoma o conceito de _homo sacer_ de Agamben (vida absolutamente passível de ser morta) e o expande: se a sociedade de desempenho reduz todos à vida desnuda, todos somos _homines sacri_ — mas invertidos, "absolutamente não passíveis de serem mortos", como mortos-vivos, numa vida sagrada que deve ser preservada a qualquer preço.
+
+### §7 - "Precisamente frente à vida desnuda, que acabou se tornando radicalmente transitória, reagimos com hiperatividade..."  
+
+A hiperatividade e a histeria de produção são reação direta a essa vida desnuda e transitória — não há liberdade real na sociedade do trabalho, apenas novas coerções: o senhor se torna escravo do próprio trabalho, prisioneiro e vigia de si mesmo simultaneamente. Os sintomas de depressão, TPL e burnout se assemelham, diz Han, aos dos "muçulmanos" dos campos de concentração — com a diferença de que o sujeito pós-moderno está bem-nutrido, às vezes obeso.
+
+### §8 - "O último capítulo da Vita activa de Hannah Arendt trata do triunfo do animal laborans..."  
+
+Conclusão crítica: Arendt não oferece alternativa efetiva, refugiando-se no elogio final ao pensamento (citando Catão via Cícero). Han aponta a ironia: essa citação, no original de Cícero, elogia justamente a _vida contemplativa_ — e Arendt, ao encerrar seu livro louvando a _vita activa_, acaba "sem querer" falando a linguagem da contemplação. Ela não percebe que é exatamente a perda da capacidade contemplativa, decorrente da absolutização da _vita activa_, corresponsável pela histeria da sociedade ativa moderna.

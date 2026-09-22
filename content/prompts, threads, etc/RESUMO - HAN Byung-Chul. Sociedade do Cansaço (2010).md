@@ -1,6 +1,6 @@
 ---
 created: 2026-09-21T18:15:55-03:00
-modified: 2026-09-22T10:56:22-03:00
+modified: 2026-09-22T13:54:00-03:00
 draft: false
 tags:
   - byung-chul-han
@@ -176,3 +176,39 @@ Distingue potência positiva (fazer algo) de potência negativa (não fazer, diz
 ### §6 - "A negatividade do não-para é também um traço essencial da contemplação..."
 
 Exemplifica com a meditação zen: buscar o vazio (o não-para) é processo extremamente ativo, não passivo — um exercício de soberania. Sem potência negativa, estaríamos passivamente expostos ao objeto. Conclui que a hiperatividade é, paradoxalmente, uma forma extremamente passiva de fazer, que não admite mais ação livre — resultado de uma absolutização unilateral da potência positiva.
+
+## Capítulo 6 — O Caso Bartleby
+
+_Han propõe uma leitura patológica de "Bartleby, o escrivão", de Melville, contra a interpretação ontoteológica de Agamben. Argumenta que Bartleby ainda pertence à sociedade disciplinar — não conhece o imperativo pós-moderno de "ser ele mesmo" nem a autoacusação depressiva —, sendo antes uma figura de apatia e neurastenia do que de pura potência messiânica. Sua fórmula "I would prefer not to" expressaria, assim, não a potência negativa soberana, mas o esgotamento de um sujeito ainda de obediência._
+
+### §1 - "O relato de Melvilles 'Bartleby', que foi objeto de diversas interpretações metafísicas ou teológicas, admite também uma leitura patológica..."
+
+Apresenta a narrativa como um universo de trabalho desumano onde todos os personagens são degradados a _animal laborans_. Descreve a atmosfera sombria do escritório e os distúrbios neuróticos dos auxiliares do advogado (Turkey, hiperativo e confuso; Nippers, ambicioso e psicossomático) como polo oposto a Bartleby, calado e petrificado — cuja fórmula "I would prefer not to" não expressaria a potência negativa do não-para, mas antes a falta de iniciativa e a apatia que o levam a sucumbir.
+
+### §2 - "A sociedade descrita por Melville é ainda uma sociedade disciplinar..."
+
+Sustenta que "Bartleby" retrata ainda a sociedade disciplinar, marcada por muros ("Wall Street", "dead wall") sempre associados à morte. Bartleby permanece sujeito de obediência: não conhece sentimentos de insuficiência, autoacusação ou o imperativo pós-moderno de "ser ele mesmo". O copiar monótono — sua única atividade — não deixa espaço para iniciativa própria; o que o adoece é o excesso de positividade/possibilidade que ele não suporta, não o cansaço do eu depressivo típico da sociedade de desempenho.
+
+### §3 - "A interpretação ontoteológica de Bartleby feita por Agamben, que abstrai de todo e qualquer aspecto patológico, já fracassa nos dados da narrativa..."
+
+Critica a leitura de Agamben, que eleva Bartleby a figura metafísica de "pura potência" — o escrivão que se tornou a própria escrivaninha vazia, "ser de pura potência" ainda por escrever.
+
+### §4 - "Bartleby é uma figura sem referência para consigo mesmo ou algo outro..."
+
+Han contesta: Bartleby não é uma "folha em branco" pura, mas um sujeito esvaziado de referência de mundo e sentido — seus "olhos cansados e turvos" já contradizem a pureza da potência divina que Agamben lhe atribui.
+
+### §5 - "Pouco convincente é também a afirmação de Agamben de que, com sua recusa teimosa de escrever, Bartleby continua na potência perseverante..."
+
+Aprofunda a crítica: Agamben lê a recusa de Bartleby como anúncio querigmático de uma potência absoluta, um "anjo da anunciação". Mas Han nota que Bartleby recusa também qualquer _errand_ (missão, recado) — inclusive ir ao correio —, e que a narrativa termina revelando seu passado num escritório de cartas mortas (_Dead Letter Office_), reforçando a associação entre sua existência e a morte, não a criação.
+
+### §6 - "É bem verdade que, em meio aos tombs, Melville deixa surgir uma minúscula semente de vida..."
+
+Mesmo a pequena mancha de relva (sinal de vida que Agamben lê como messiânico) serve, para Han, apenas para reforçar o vazio sem esperança do relato — a resposta indiferente de Bartleby ("I know where I am") mostra que todo esforço em favor da vida ali leva à morte.
+
+### §7 - "O artista faminto de Kafka, ao contrário, não está carregado com essas ilusões..."
+
+Contrasta Bartleby com o artista da fome de Kafka, cuja morte libera espaço para a jovem pantera, símbolo da alegria de viver — enquanto ao artista da fome resta só a negatividade ilusória da negação. Refere também a figura irônica do "Sr. Kotellet" e a alusão sarcástica do advogado à morte de Bartleby.
+
+### §8 - "A narrativa não se volta na direção de uma esperança messiânica..."
+
+Conclui que a morte de Bartleby é o colapso da "última coluna do templo decaído" — sua fórmula se afasta de qualquer leitura messiânico-cristológica. Han propõe que "Bartleby" não é uma história da "des-criação" (_Ent-schöpfung_, termo de Agamben), mas uma história do esgotamento (_Erschöpfung_) — jogo de palavras que sintetiza sua tese central sobre o capítulo.

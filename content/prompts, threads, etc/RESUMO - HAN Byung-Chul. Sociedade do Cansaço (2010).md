@@ -1,6 +1,6 @@
 ---
 created: 2026-09-21T18:15:55-03:00
-modified: 2026-09-21T23:57:51-03:00
+modified: 2026-09-22T10:56:22-03:00
 draft: false
 tags:
   - byung-chul-han
@@ -148,3 +148,31 @@ A hiperatividade e a histeria de produção são reação direta a essa vida des
 ### §8 - "O último capítulo da Vita activa de Hannah Arendt trata do triunfo do animal laborans..."  
 
 Conclusão crítica: Arendt não oferece alternativa efetiva, refugiando-se no elogio final ao pensamento (citando Catão via Cícero). Han aponta a ironia: essa citação, no original de Cícero, elogia justamente a _vida contemplativa_ — e Arendt, ao encerrar seu livro louvando a _vita activa_, acaba "sem querer" falando a linguagem da contemplação. Ela não percebe que é exatamente a perda da capacidade contemplativa, decorrente da absolutização da _vita activa_, corresponsável pela histeria da sociedade ativa moderna.
+
+## Capítulo 5 — Pedagogia do ver
+
+_Han retoma Nietzsche para defender uma pedagogia da atenção contemplativa: aprender a ver é aprender a resistir ao estímulo imediato, e não simplesmente reagir a ele. Contrapõe a atividade pura — que apenas reage e prolonga o que já existe — a uma capacidade negativa (o "não fazer", o hesitar, a ira) hoje enfraquecida pela crescente positivação do mundo, que empobrece sentimentos negativos como a angústia e a ira, essenciais para interromper o presente e abrir espaço ao outro._
+
+### §1 - "A vita contemplativa pressupõe uma pedagogia específica do ver. No Crepúsculo dos ídolos..."
+
+Recorre a Nietzsche: aprender a ver é "habituar o olho ao descanso, à paciência, ao deixar-aproximar-se-de-si" — resistir ao estímulo em vez de reagir de imediato a ele. Reagir sem controle dos "instintos inibitórios" já seria sintoma de decadência e esgotamento espiritual. Nietzsche propõe, assim, a revitalização da _vita contemplativa_ como fazer soberano, mais ativo que qualquer hiperatividade.
+
+### §2 - "Sem aqueles 'instintos limitativos', o agir se deteriora numa reação e ab-reação inquieta e hiperativa..."
+
+Sem esses instintos limitativos, o agir vira mera reação hiperativa que só prolonga o já existente. Uma virada real ao outro exige a negatividade da interrupção — o hesitar, embora não seja ação positiva, é indispensável para que a ação não decaia ao nível do trabalho. Cita Nietzsche: aos ativos falta a "atividade superior"; rolam "como rola a pedra, segundo a estupidez da mecânica" — o computador é burro justamente por não conseguir hesitar.
+
+### §3 - "No empuxo da aceleração geral e da hiperatividade desaprendemos também a ira..."
+
+A aceleração faz desaprendermos a ira — que tem temporalidade própria, incompatível com a hiperatividade, pois exige uma pausa interruptora que questiona o presente. Distingue ira (nega o todo, é um estado de exceção) de irritação (não produz mudança decisiva), assim como distingue angústia (referida ao ser como tal) de medo (referido a um objeto). A positivação crescente do mundo torna-o pobre em estados de exceção — e o interesse atual por conceitos como "estado de exceção" ou "imunidade" seria sinal não de sua atualidade, mas de seu desaparecimento.
+
+### §4 - "A crescente positivação da sociedade enfraquece também sentimentos como angústia e luto..."
+
+A positivação enfraquece sentimentos negativos como angústia e luto. Se o pensamento fosse mera "rede de anticorpos", sua ausência de negatividade o reduziria a cálculo — como o computador, que calcula rápido justamente por estar livre de toda alteridade, sendo "uma máquina positiva". O esforço por maximizar desempenho afasta a negatividade porque ela atrasaria a aceleração; mas, para Hegel, é justamente a negatividade que mantém viva a existência.
+
+### §5 - "Há duas formas de potência. A potência positiva é a potência de fazer alguma coisa..."
+
+Distingue potência positiva (fazer algo) de potência negativa (não fazer, dizer não — distinta da mera impotência, que é incapacidade). A potência negativa é o que permite não perceber, não pensar tudo — sem ela, a percepção estaria irremediavelmente exposta a todo estímulo, e o pensamento, disperso, incorreria em hiperatividade fatal, incapaz de reflexão (_Nachdenken_), apenas capaz do "continuar pensando" (_Fortdenken_).
+
+### §6 - "A negatividade do não-para é também um traço essencial da contemplação..."
+
+Exemplifica com a meditação zen: buscar o vazio (o não-para) é processo extremamente ativo, não passivo — um exercício de soberania. Sem potência negativa, estaríamos passivamente expostos ao objeto. Conclui que a hiperatividade é, paradoxalmente, uma forma extremamente passiva de fazer, que não admite mais ação livre — resultado de uma absolutização unilateral da potência positiva.

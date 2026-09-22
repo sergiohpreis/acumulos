@@ -204,3 +204,35 @@ Mesmo a pequena mancha de relva (sinal de vida que Agamben lê como messiânico)
 ### §6 - "O artista faminto de Kafka, ao contrário, não está carregado com essas ilusões..."
 
 Contrasta Bartleby com o artista da fome de Kafka, cuja morte libera espaço para a jovem pantera, símbolo da alegria de viver. Conclui que a morte de Bartleby é o colapso da "última coluna do templo decaído", afastando-se de qualquer leitura messiânico-cristológica: "Bartleby" não é uma história da "des-criação" (_Ent-schöpfung_, Agamben), mas uma história do esgotamento (_Erschöpfung_) — o jogo de palavras que sintetiza a tese central do capítulo.
+
+## Capítulo 7 — Sociedade do cansaço
+
+_Han encerra o livro analisando o cansaço da sociedade de desempenho como um cansaço solitário e destruidor, contrapondo-o ao "cansaço fundamental" de Peter Handke — um cansaço plural, contemplativo e comunitário, capaz de restaurar a proximidade entre eu, outro e mundo. Nesse cansaço inspirador, não da exaustão mas da potência negativa do não-para, Han vislumbra a possibilidade de uma "sociedade do cansaço" alternativa à sociedade ativa: uma comunidade pacífica, lenta e amistosa, avessa ao princípio de desempenho._
+
+### §1 - "A sociedade do cansaço, enquanto uma sociedade ativa, desdobra-se lentamente numa sociedade do doping..."
+
+Descreve a sociedade de desempenho evoluindo para uma "sociedade do doping" — o _neuro-enhancement_ como desempenho sem desempenho, defendido até por cientistas como imperativo (ex.: o cirurgião dopado que erraria menos). Han argumenta que apenas proibir não resolve, pois o problema é estrutural: o homem inteiro, não só o corpo, transforma-se em máquina de desempenho. O doping é consequência dessa redução da vitalidade a mera função e desempenho vital — gerando cansaço e esgotamento excessivos, não por negatividade imunológica, mas por excesso de positividade.
+
+### §2 - "O cansaço da sociedade do desempenho é um cansaço solitário, que atua individualizando e isolando..."
+
+Introduz, via Peter Handke (_Versuch über die Müdigkeit_), o "cansaço dividido em dois": um cansaço isolante que separa as pessoas ("o meu aqui e o teu lá"), consumindo a própria capacidade de falar e a linguagem — violência que se manifesta no olhar que desfigura o outro.
+
+### §3 - "A um cansaço calado, cego, dividido, Handke contrapõe um cansaço falaz, vidente, reconciliador..."
+
+Contrapõe a esse cansaço isolante o "cansaço fundamental" de Handke: um "mais do menos eu" que afrouxa as presilhas do eu, abrindo um espaço de amizade e indiferença onde ninguém domina. É um cansaço que "confia no mundo", que abre e torna o eu permeável, restabelecendo a "dualidade" — ver e ser visto, tocar e ser tocado.
+
+### §4 - "Nesse 'cansaço fundamental', Handke reúne todas aquelas formas de existência e de convivência..."
+
+O cansaço fundamental não é incapacidade, mas capacidade especial: inspira, faz surgir o espírito. Handke compara essa inspiração a uma ode a um cansado (não a um vencedor) e à recepção do espírito na sociedade pentecostal. Permite acesso a uma atenção lenta e a formas longas que escapam à hiperatenção — Han cita o "cansaço translúcido" e associa esse estado a uma forma de salvação e rejuvenescimento (o exemplo de Odisseu e Nausícaa).
+
+### §5 - "À mão trabalhadora, que agarra, Handke contrapõe a mão lúdica..."
+
+Contrapõe a mão trabalhadora (que agarra) à mão lúdica (que já não agarra). O cansaço profundo afrouxa as presilhas da identidade, tornando as coisas mais indeterminadas e permeáveis — concedendo-lhes uma aura de amizade que suspende a rígida delimitação entre elas. Han ilustra com a imagem da natureza-morta holandesa de flores, onde diferentes seres coexistem sem se notarem, mas "todos estão junto a todos". Esse é o "cansaço-nós" de Handke — não cansaço "de" alguém, mas cansaço "para" alguém, um cansaço comum e compartilhado.
+
+### §6 - "O cansaço de esgotamento não é um cansaço da potência positiva..."
+
+Distingue o cansaço de esgotamento (que incapacita, ligado à potência positiva) do cansaço que inspira (ligado à potência negativa do não-para). Compara-o ao Sabá — dia sagrado não por ser o dia do "para-isso", mas o dia do não-para, tempo lúdico livre de toda cura ou trabalho, diferente até do tempo de cura heideggeriano. Handke descreve-o como tempo de paz, com "fator de desarme", capaz de mitigar iniciativas de violência.
+
+### §7 - "Handke projeta uma religião imanente do cansaço..."
+
+Conclusão do capítulo e do livro: o "cansaço fundamental" suspende a individualização egológica, fundando uma comunidade sem necessidade de parentesco ou vínculo funcional — como Orfeu cercado pelos animais selvagens, agora "cocansados". Han encerra sugerindo que, se essa "sociedade pentecostal" (avessa ao fazer, inspirada pelo cansaço) fosse a sociedade do futuro, ela poderia chamar-se, então, sociedade do cansaço.

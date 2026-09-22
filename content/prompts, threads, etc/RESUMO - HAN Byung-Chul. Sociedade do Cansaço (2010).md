@@ -1,6 +1,6 @@
 ---
 created: 2026-09-21T18:15:55-03:00
-modified: 2026-09-22T13:55:28-03:00
+modified: 2026-09-22T19:11:59-03:00
 draft: false
 tags:
   - byung-chul-han
@@ -163,11 +163,11 @@ Sem esses instintos limitativos, o agir vira mera reação hiperativa que só pr
 
 ### §3 - "No empuxo da aceleração geral e da hiperatividade desaprendemos também a ira..."
 
-A aceleração faz desaprendermos a ira — que tem temporalidade própria, incompatível com a hiperatividade, pois exige uma pausa interruptora que questiona o presente. Distingue ira (nega o todo, é um estado de exceção) de irritação (não produz mudança decisiva), assim como distingue angústia (referida ao ser como tal) de medo (referido a um objeto). A positivação crescente do mundo torna-o pobre em estados de exceção — e o interesse atual por conceitos como "estado de exceção" ou "imunidade" seria sinal não de sua atualidade, mas de seu desaparecimento.
+A aceleração faz desaprendermos a ira — que tem temporalidade própria, incompatível com a hiperatividade, pois exige uma pausa interruptora que questiona o presente. Distingue ira (nega o todo, é um estado de exceção) de irritação (não produz mudança decisiva), assim como distingue angústia (referida ao ser como tal) de medo (referido a um objeto). Contesta a tese de Agamben de que o estado de exceção se estenderia à normalidade: para Han, é o contrário — a positivação geral absorve todo estado de exceção, tornando totalitário o próprio estado de normalidade. A positivação crescente do mundo torna-o pobre em estados de exceção, e o interesse atual por conceitos como "estado de exceção" ou "imunidade" seria sinal não de sua atualidade, mas de seu desaparecimento.
 
 ### §4 - "A crescente positivação da sociedade enfraquece também sentimentos como angústia e luto..."
 
-A positivação enfraquece sentimentos negativos como angústia e luto. Se o pensamento fosse mera "rede de anticorpos", sua ausência de negatividade o reduziria a cálculo — como o computador, que calcula rápido justamente por estar livre de toda alteridade, sendo "uma máquina positiva". O esforço por maximizar desempenho afasta a negatividade porque ela atrasaria a aceleração; mas, para Hegel, é justamente a negatividade que mantém viva a existência.
+A positivação enfraquece sentimentos negativos como angústia e luto. Se o pensamento fosse mera "rede de anticorpos", sua ausência de negatividade o reduziria a cálculo — como o computador, que calcula rápido justamente por estar livre de toda alteridade, sendo "uma máquina positiva". Pela mesma "autorrelação autista" e falta de alteridade, o _idiot savant_ realiza desempenhos equiparáveis aos de uma máquina computacional — tanto o homem quanto a sociedade se transformam numa máquina de desempenho autista. O esforço por maximizar desempenho afasta a negatividade porque ela atrasaria a aceleração; mas, para Hegel, é justamente a negatividade que mantém viva a existência.
 
 ### §5 - "Há duas formas de potência. A potência positiva é a potência de fazer alguma coisa..."
 

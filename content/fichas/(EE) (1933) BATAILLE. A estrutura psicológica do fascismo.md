@@ -55,7 +55,7 @@ A prática parlamentar é a expressão do mecanismo interno de *"adaptação nec
 
 ## Descreve o processo de dissociação tendencial da existência social homogênea (§1,2)
 
-As **forças heterogêneas** da sociedade agem constantemente, e embora o Estado seja suficiente para mantê-las na impotência através da sua coerção, sempre corre o risco de sucumbir a uma *"**dissociação interna** por parte da sociedade que não domina, senão pela forma constritiva"*; As inúmeras contradições do sistema produtivo carregam uma tendência a uma dissociação, que de maneira isolada não atinge *"formas agudas e perigosas"*, mas quando *"uma parte apreciável da massa de indivíduos homogêneos deixa de ter interesse na **conservação** da forma da homogeneidade"* (não pela sua homogeneidade, mas justamente por uma perda de caráter próprio), **associam-se espontaneamente a forças heterogêneas** já existentes e compostas.
+As **forças heterogêneas** da sociedade só cedem sob sua coerção; embora o Estado seja suficiente para mantê-las na impotência, sempre corre o risco de sucumbir a uma *"**dissociação interna** por parte da sociedade que não domina, senão pela forma constritiva"*; As inúmeras contradições do sistema produtivo carregam uma tendência a uma dissociação, que de maneira isolada não atinge *"formas agudas e perigosas"*, mas quando *"uma parte apreciável da massa de indivíduos homogêneos deixa de ter interesse na **conservação** da forma da homogeneidade"* (não pela sua homogeneidade, mas justamente por uma perda de caráter próprio), **associam-se espontaneamente a forças heterogêneas** já existentes e compostas.
 
 ## Descreve o processo de junção da massa homogênea dissociada ao heterogêneo (§3,4)
 
@@ -103,21 +103,21 @@ A **realidade homogênea** se apresenta com *"aspecto **abstrato** e **neutro** 
 
 Enquanto a realidade homogênea é pautada na ciência, a heterogênea se funda em um pensamento místico (*"dos primitivos e nas representações do sonho: é idêntica à estrutura do inconsciente"*). A vida corrente como *"**totalmente outra**, incomensurável"*.
 
-## Apresenta lideranças fascistas e camadas sociais mais baixas exemplos de elementos heterogêneos (§6,7)
+## Apresenta lideranças fascistas e camadas sociais mais baixas como exemplos de elementos heterogêneos (§6,7)
 
 Por meio dos exemplos das lideranças **fascistas** e das **camadas sociais mais baixas**
 
 ### Explora a forma das lideranças fascistas como elemento heterogêneo (§6)
 
-Explica porque os "líderes fascistas pertencem incontestavelmente à existência heterogênea", enquanto totalmente outros com relação aos "políticos democratas", apresentam uma "força que os situa acima dos homens, dos partidos e mesmo das leis", uma força hipnótica (a força de um líder é "análoga aquela que se exerce na hipnose".
+Explica porque os "líderes fascistas pertencem incontestavelmente à existência heterogênea", enquanto totalmente outros com relação aos "políticos democratas", apresentam uma "força que os situa acima dos homens, dos partidos e mesmo das leis", uma força hipnótica (a força de um líder é "análoga àquela que se exerce na hipnose").
 
 > nota p. 35: "Sobre a relação afetiva dos seguidores com o líder e analogia com a hipnose, cf. Freud, Psychologie collective et analyse du "moi"
 
-O fluxo afetivo ("função da consciência comum de poderes e energia cada vez mais violentos, cada vez mais desmedidos") se acumulam nesse líder, e essa acumulação em "uma só pessoa" é o um elemento distintivo da formação fascista dentro do domínio do heterogêneo. Essa forma monárquica, não exclusiva a Itália e Alemanha, indica "que se devem renunciar, sob coerção, às necessidades naturais imediatas dos homens em benefício de um princípio transcendente", sem precisar de nenhuma explicação exata.
+O fluxo afetivo ("função da consciência comum de poderes e energia cada vez mais violentos, cada vez mais desmedidos") se acumulam nesse líder, e essa acumulação em “uma só pessoa” distingue a formação fascista no interior do domínio heterogêneo: por culminar na unidade, ela constitui uma instância dirigida, enquanto “autoridade, **contra** os homens” — distinta de uma sublevação disforme, de uma ação “pelos homens sublevados”. Essa monarquia, não exclusiva da Itália e da Alemanha, indica que se devem renunciar, sob coerção, às necessidades naturais imediatas dos homens em benefício de um princípio transcendente, “que não pode ser objeto de nenhuma explicação exata”.
 
 ### Explora as camadas sociais mais baixas como elemento heterogêneo (§7)
 
-A repulsão as classes mais baixas fazem com que essas não sejam assimiladas pelo conjunto dos homens. A Índia apresenta um caso onde as essas classes são vistas de maneira quase como sagrada, enquanto "intocáveis", e embora os países de civilização avançada sejam "menos ritual" e que essa qualidade intocável não seja "transmitida pela hereditariedade", ainda assim, o ser humano marcado pela miséria cria entre si e o outro ("expressão do homem normal"), "um fosso intransponível", a "calamidade material" influência diretamente na ordem psicológica. Exemplifica as reações dos homens felizes que "não sofreram a redução homogênea"que podem levar a violência , interpretada como "um desafio à razão"
+A repulsão as classes mais baixas fazem com que essas não sejam assimiladas pelo conjunto dos homens. A Índia apresenta um caso onde as essas classes são vistas de maneira quase como sagrada, enquanto "intocáveis", e embora os países de civilização avançada sejam "menos ritual" e que essa qualidade intocável não seja "transmitida pela hereditariedade", ainda assim, o ser humano marcado pela miséria cria entre si e o outro ("expressão do homem normal"), "um fosso intransponível", a "calamidade material" influência diretamente na ordem psicológica. Exemplifica as reações dos homens felizes que "não sofreram a redução homogênea" que podem levar a violência, interpretada como "um desafio à razão"
 
 # 5. O dualismo fundamental do mundo heterogêneo
 
@@ -127,7 +127,9 @@ Os heterogêneos constituído tanto pelos lideres, quanto pelos miseráveis poss
 
 ## Relaciona as duas formas sagradas (puras e impuras) as manifestações opostas do heterogêneo (§2)
 
-As formas elevadas e imperativas (**superiores**) e as formas miseráveis (**inferiores**) possuem em algum sentido uma *"identidade dos contrários"* e essa oposição é um dos elementos fundamentais da heterogeneidade -- *"divide o conjunto do mundo heterogêneo".* Afirma que nas sociedades evoluídas, formas *"heterogêneas indiferenciadas são raras"* e que em geral se reduzem a essa *"oposição de dois contrários"*
+As formas elevadas e imperativas (**superiores**) e as formas miseráveis (**inferiores**) possuem em algum sentido uma *"identidade dos contrários"* e essa oposição é um dos elementos fundamentais da heterogeneidade -- *"divide o conjunto do mundo heterogêneo".* Afirma que nas sociedades evoluídas, formas *"heterogêneas indiferenciadas são raras"* e que em geral se reduzem a essa *"oposição de dois contrários".*
+
+*puras = formas superiores/imperativas; impuras = inferiores/miseráveis; exemplos do texto: sangue menstrual (impuro, mas sagrado) e o uso medieval de* sacer *para a sífilis.*
 
 # 6. A forma imperativa da existência heterogênea: a soberania
 
@@ -147,7 +149,7 @@ O simples fato de dominar seus semelhantes já implica a heterogeneidade do mest
 
 ## Argumenta que a soberania política é uma "atividade sádica claramente diferenciada" (§7)
 
-A psicologia considera que as tendências sádicas e masoquistas estão associadas, entretanto, não é como essas tendências se apresentam na sociedade, onde se mostram como *"instancias distintas"*. A **atitude sádica** pode ser manifestada como *"uma pessoa imperativa excluindo qualquer participação das atitudes masoquistas correspondentes"*, a *"exclusão das formas imundas"* não é erótica (o erótico também é rejeitado) -- *"nenhuma atividade erótica pode ser associada à crueldade"* e, assim, *"o sadismo acede a uma pureza deslumbrante"*, como em atitudes religiosas.  Embora existam exceções (como as *"orgias de sangue"*, em geral: 
+A psicologia considera que as tendências sádicas e masoquistas estão associadas, entretanto, não é como essas tendências se apresentam na sociedade, onde cada tendência é normalmente representada por ‘uma instância distinta’. A **atitude sádica** pode ser manifestada como *"uma pessoa imperativa excluindo qualquer participação das atitudes masoquistas correspondentes"*, a *"exclusão das formas imundas"* não é erótica (o erótico também é rejeitado) -- *"nenhuma atividade erótica pode ser associada à crueldade"* e, assim, *"o sadismo acede a uma pureza deslumbrante"*, como em atitudes religiosas.  Embora existam exceções (como as *"orgias de sangue"*, em geral): 
 
 > *"a forma real imperativa realizou historicamente, no interior do domínio heterogêneo, uma **exclusão das formas miseráveis ou imundas** suficiente para encontrar, em certo plano, uma conexão com as formas homogêneas"*
 
@@ -157,7 +159,7 @@ A sociedade homogênea *"afasta qualquer elemento heterogêneo, imundo ou nobre"
 
 ## Apresenta as contradições do estabelecimento do rei como razão de ser da sociedade homogênea e a mutua transformação realizada nas formas heterogênea e homogênea (§10,11)
 
-Uma vez que o rei é o objeto em que a sociedade homogênea encontra a sua *"razão de ser"*, deve se comportar para que essa relação seja mantida, ou seja, para que *"a sociedade homogênea"* possa *"existir por ele"*. Entretanto, essa exigência de comportamento entra em confronto direto com a *"**heterogeneidade fundamental do rei** garantida pelas numerosas proibições de contato (tabus)".* A heterogeneidade da instância imperativa (o rei) não pode ser mantida em estado livre, e por isso, direciona-se a sua *"**paixão destruidora (o sadismo)**"* para *"as sociedades estrangeiras"*, *"classes miseráveis"* e *"elementos externos ou internos hostis à homogeneidade"*.
+Uma vez que o rei é o objeto em que a sociedade homogênea encontra a sua *"razão de ser"*, ele deve se comportar para que essa relação seja mantida, ou seja, para que *"a sociedade homogênea"* possa *"existir por ele"*. Entretanto, essa exigência de comportamento entra em confronto direto com a *"**heterogeneidade fundamental do rei** garantida pelas numerosas proibições de contato (tabus)".* A heterogeneidade da instância imperativa (o rei) não pode ser mantida em estado livre, e por isso, direciona-se a sua "**paixão destruidora (o sadismo)**" para *"as sociedades estrangeiras"*, *"classes miseráveis"* e *"elementos externos ou internos hostis à homogeneidade"*.
 
 > "A união, princípio da homogeneidade, é apenas um fato tendencial, incapaz de encontrar em si mesmo um motivo para exigir e impor sua existência e, na maioria das circunstâncias, o recurso a uma exigência proveniente de fora tem o valor de uma necessidade primeira"
 
@@ -191,7 +193,7 @@ Enquanto a existência miserável se produz necessariamente como multidão e a s
 
 # 7. A concentração tendencial
 
-## Descreve os princípios da concentração dos poderes religioso e sagrado no poder real (com base em Freud) (§1-3)
+## Descreve os princípios da concentração dos poderes religioso e militar no poder real (com base em Freud) (§1-3)
 
 > nota p. 57: "Na Psychanalyse collective et analyse du "moi", op.cit., Freud estudou precisamente as duas funções militares (exército) e religiosa (Igreja) em relação à forma imperativa (inconsciente) da psicologia individual que ele nomeia ideal do eu ou supereu... essa obra ... surge como uma introdução essencial à compreensão do fascismo"
 
@@ -207,7 +209,7 @@ Justifica que a consideração dos princípios dessa concentração tendencial s
 
 Compara o fascismo ao bonapartismo, onde ambos podem ser definidos como *"uma **reativação aguda da instância soberana latente**, mas com um caráter de alguma forma **purificado**"* — purificação que se dá pelo fato de que as milícias que substituem o exército têm imediatamente o próprio *"poder como objeto"*.
 
-# 8. O exercito e os chefes do exército
+# 8. O exército e os chefes do exército
 
 ## Descreve a organização afetiva do exército (§1-3)
 
@@ -235,7 +237,7 @@ Partindo do ponto de vista da **psicologia social**, Bataille defende que a nega
 4. Qualifica o exército como a "forma regular (geometricamente) da soberania imperativa": associando o sentido a um "movimento trópico... geotropismo negativo" (quase como uma resposta biológica), não somente o chefe, mas todo o conjunto do exército é elevado a essa forma regular. Assim, "a infâmia implicada dos soldados não é senão uma infâmia na base que, sob o uniforme, **se transforma em seu contrário, em ordem e brilho**".
 5. Descreve a alteração profunda no "modo da heterogeneidade": o exército sofre essa homogeneização interna sem que sua heterogeneidade fundamental decresça.
   6. O exército subsiste, no meio da população, com uma maneira de ser "totalmente outra", mas essa maneira de ser é ela mesma **soberana** — ligada à dominação e ao caráter imperativo do chefe, que é **comunicado aos seus soldados** (não uma subordinação, mas um compartilhamento da natureza soberana do chefe).
-7. Associa a honra e o dever como fatores determinantes na "direção dominante do exército": desligada de seus fundamentos afetivos (infâmia e carnificina), essa direção passa a depender de **uma heterogeneidade contrária a essa primeira** — a heterogeneidade da honra e do dever, encarnados na pessoa do chefe.
+7. Associa a honra e o dever como fatores determinantes na "direção dominante do exército": desligada de seus fundamentos afetivos (infâmia e carnificina), essa direção passa a depender de uma heterogeneidade “contrária à honra e ao dever” incarnados na pessoa do chefe.
   8. Ressalva: se o chefe **não for subordinado a nenhuma instância real ou ideia** (isto é, se for autônomo), o dever se encarna nele pessoalmente, "da mesma maneira que no rei".
 9. Aponta honra e dever como formas tendenciais que situam a existência militar acima da existência homogênea, como imperativo e pura razão de ser: a honra e o dever são expressos na geometria dos desfiles; embora tenham alcance limitado a certo plano de ações e sejam compatíveis com crimes **infinitamente** covardes, bastam para fazer da dominação interna do exército **um dos elementos fundamentais** da autoridade psicológica suprema instituída acima da sociedade coagida.
 10. Extrai a consequência da integração de um poder militar em um poder social: o poder do chefe se dá apenas internamente, na estrutura do exército, gerando uma homogeneidade interna, e não social — ao passo que o poder da realeza só existe em relação à sociedade homogênea. Por isso, torna-se necessário adquirir as "modalidades próprias do poder régio" para que o poder militar se integre à administração do Estado.
@@ -244,8 +246,8 @@ Partindo do ponto de vista da **psicologia social**, Bataille defende que a nega
 
 ## Defende que a religião é a fonte da autoridade social (§1,2)
 
-1. Propõe a tese da **necessidade da atração religiosa** para a efetivação do domínio: se o chefe quiser exercer domínio sobre a sociedade, precisará adquirir "os elementos de uma **atração externa**, uma atração religiosa válida para toda a população" — não existem dominações exclusivamente militares que sejam duráveis. Isso porque "a força armada simples, material, **não pode fundar nenhum poder**: ela depende em primeiro lugar da **atração interna exercida pelo chefe** (o dinheiro é insuficiente para realizar um exército)".
-2. Compara os papéis exercidos pela **atração religiosa** e pela **atração militar** para a constituição da religião como **fonte de autoridade social**: a atração militar pode sim apresentar elementos da forma religiosa, entretanto, ela não tem "valor primordial" em relação à atração religiosa.
+1. Propõe a tese da **necessidade da atração religiosa** para a efetivação do domínio: se o chefe quiser exercer domínio sobre a sociedade, precisará adquirir “os elementos de uma **atração externa**, uma atração religiosa válida para toda a população” — excetuadas as colonizações, “é difícil encontrar exemplos de dominação duráveis exclusivamente militares”. Isso porque “a força armada simples, material, **não pode fundar nenhum poder**: ela depende em primeiro lugar da **atração interna exercida pelo chefe** (o dinheiro é insuficiente para realizar um exército)".
+2. Compara os papéis exercidos pela **atração religiosa** e pela **atração militar** para a constituição da religião como **fonte de autoridade social**: a atração militar pode apresentar elementos da forma religiosa, mas “**provavelmente** não tem um valor primordial com relação à atração religiosa”; e “surge **com certa clareza**” que a religião, não o exército, é a fonte da autoridade social.
   3. Associa a introdução da **hereditariedade** a uma forma religiosa que adquire seu princípio do sangue; já o poder militar depende do valor pessoal.
 
 ## Esclarece sobre as modificações de estrutura na sociedade causada pela heterogeneidade religiosa (§3-5)
@@ -253,11 +255,11 @@ Partindo do ponto de vista da **psicologia social**, Bataille defende que a nega
 1. Justifica a **dificuldade de significação explícita** ao que é propriamente religioso no sangue ou nos aspectos régios: adentrando então na "forma nua e ilimitada da **heterogeneidade indiferenciada**".
 2. Extrai as consequências das **modificações de estrutura** causadas por essa heterogeneidade religiosa: abrem o campo para se tornarem "projeção livre das **formas afetivas gerais**, como a **angústia** ou a **atração sagrada**".
   3. Tanto no contato fisiológico da **hereditariedade** como pelos ritos nas **sagrações**, o que é transmitido não são as próprias modificações de estrutura, mas uma "**heterogeneidade fundamental**".
-    1. Comentário: Pode se dizer em suma que, o que se herda tanto do sangue, quanto de um ritual sagrado, **não carrega as mudanças da estrutura de maneira bem definida**, o que se herda é uma **heterogeneidade fundamental**. Essa indefinição abre espaço para a manifestações de formas afetivas
+    1. Comentário: Pode se dizer em suma que, o que se herda tanto do sangue, quanto de um ritual sagrado, **não carrega as mudanças da estrutura de maneira bem definida**, o que se herda é uma **heterogeneidade fundamental**. Essa indefinição abre espaço para as manifestações de formas afetivas
 4. Qualifica a **comunidade de estrutura** entre a **natureza régia** e a **natureza divina**: ambas correspondem a *"fatos inequívocos"* (identificações com o deus, genealogias míticas, culto imperial romano ou xintoísta, teoria cristã do direito divino); o rei é, de qualquer forma, considerado como "**emanação da natureza divina**, com tudo o que o princípio da emanação carrega de **identidade** quando se trata de elementos heterogêneos" — ressalvando que, embora não seja possível, "em uma rápida exposição", tornar sensível todo o conjunto de movimentos afetivos envolvidos, "**uma simples aproximação possui em si um valor significativo suficiente**".
   5. Comentário: Para compreendermos o que há de propriamente religioso no rei, é preciso perceber que ele compartilha origem e estrutura com a natureza divina — o rei é entendido como emanação da natureza divina, não apenas como seu representante.
 6. Propõe que as **modificações de estrutura** são realizadas pela própria posição de soberania: a **evolução da representação do divino** (*"a partir da violência livre e irresponsável"*) é caracterizada por *"notáveis modificações de estrutura"*, que só explicam aquelas que caracterizam *"a formação da **natureza da realeza**"*. A **estrutura heterogênea** é dirigida pela própria posição de soberania nos dois casos (o divino e o real), que concentra os atributos e as forças — entretanto, Deus é representado por forças compostas de uma existência fictícia (*"sem a limitação ligada à necessidade de realizar"*), tornando possível chegar a esquemas mais perfeitos, mais *"puramente lógicos"*.
-  7. Comentário: A figura do rei se transformou historicamente tal qual Deus, por meio de modificações estruturais. Assim como Deus abandona a "violência livre e irresponsável" (o Deus do velho testamento era muito mais cruel). A lógica interna que rege essa transformação é a da soberania (capítulo 6), que expressam tendência à unidade, à concentração (capítulo 7). Essa concentração pode atingir uma forma "pura e perfeita" devido a sua "existência fictícia", que não enfrenta a fricção da realidade concreta ("sem limitação ligada a necessidade de realizar")
+  7. Comentário: A figura do rei se transformou historicamente tal qual Deus, por meio de modificações estruturais. Assim como Deus abandona a "violência livre e irresponsável" (o Deus do velho testamento era muito mais cruel). A lógica interna que rege essa transformação é a da soberania (capítulo 6), que expressam tendência à unidade, à concentração (capítulo 7). Essa concentração pode atingir uma forma pura e perfeita devido a sua "existência fictícia", que não enfrenta a fricção da realidade concreta ("sem limitação ligada a necessidade de realizar")
 
 ## Qualifica o "ser supremo dos teólogos e dos filósofos"  (§6)
 
@@ -267,14 +269,14 @@ Deus, do ponto de vista teológico, realiza a "forma soberana por excelência". 
 
 Na ordem da especulação intelectual livre, é possível substituir a ideia a Deus como "existência e poder supremos", o que de fato implica, em certa medida, a revelação de uma "heterogeneidade relativa da Ideia" — como acontece quando "Hegel eleva a Ideia acima do simples dever ser".
 
-- Comentário: Bataille distingue duas vias a partir do mesmo Ser Supremo. Pela via teológica, Deus permanece vivido, afetivo — mantém carga heterogênea real. Pela via filosófica (como em Hegel, que substitui Deus pela Ideia), a mesma posição estrutural é preservada, mas esvaziada de vivência — vira pura afirmação formal, abstrata, revelando apenas uma heterogeneidade "relativa" da Ideia, e não mais a heterogeneidade plena e vivida do Deus religioso.
+- Comentário: Bataille distingue duas vias (interpretação minha) a partir do mesmo Ser Supremo. Pela via teológica, Deus permanece vivido, afetivo — mantém carga heterogênea real. Pela via filosófica (como em Hegel, que substitui Deus pela Ideia), a mesma posição estrutural é preservada, mas esvaziada de vivência — vira pura afirmação formal, abstrata, revelando apenas uma heterogeneidade "relativa" da Ideia, e não mais a heterogeneidade plena e vivida do Deus religioso.
 
 # 10. O fascismo enquanto forma soberana da heterogeneidade
 
 ## Explora os elementos que tornam o fascismo forma soberana da heterogeneidade (§1-4)
 
 1. Justifica por que o fascismo é a expressão de uma **forma soberana da heterogeneidade**: essa "agitação de fantasmas — aparentemente anacrônicos —" (reis, deuses, chefes militares, descritos nos capítulos anteriores) passaria por vã se o fascismo não tivesse, sob nossos olhos, "**retomado e reconstituído da base ao topo** — partindo por assim dizer do vazio" — o próprio processo de fundação do poder tal como já foi descrito.
-2. Compara a formação do **Islã** nascente com o **fascismo**: antes do fascismo, só houve um exemplo de *"brusca formação de um poder total"*, que fosse **militar e religioso**, e que não se apoiasse em nada estabelecido antes: o Islã ("Califado Islâmico"). O Islã é comparável ao fascismo "por sua fraca riqueza humana" — não tinha sequer o recurso de uma pátria, muito menos de um Estado constituído. O Estado, para os movimentos fascistas, foi apenas "uma conquista... um meio... um quadro", e "a **integração da pátria não muda o esquema de sua formação**".
+2. Compara a formação do **Islã** nascente com o **fascismo**: antes do fascismo, só houve um exemplo de *"brusca formação de um poder total"*, que fosse **militar e religioso**, **mas principalmente régio**, e que não se apoiasse em nada estabelecido antes: o Islã ("Califado Islâmico"). O Islã é comparável ao fascismo "por sua fraca riqueza humana" — não tinha sequer o recurso de uma pátria, muito menos de um Estado constituído. O Estado, para os movimentos fascistas, foi apenas "uma conquista... um meio... um quadro", e "a **integração da pátria não muda o esquema de sua formação**".
   3. Ambos representam "a **constituição de um poder heterogêneo total** que encontra sua origem manifesta na efervescência atual".
 4. Revela o fenômeno da **concentração tendencial** presente no fascismo: sua fundação é militar e religiosa, "sem que os elementos habitualmente distintos possam ser separados uns dos outros".
 5. Explora o **aspecto militar** (predominante) no fascismo: as **relações afetivas** que ligam um membro do partido ao líder "são análogas em princípio àquelas que unem o chefe e seus soldados".
@@ -293,7 +295,7 @@ Na ordem da especulação intelectual livre, é possível substituir a ideia a D
 
 Estabelece as diferenças entre a formação fascista (reunião) e a sociedade régia clássica: essa última é caracterizada "por uma perda de contato mais ou menos definida da instância soberana com as classes inferiores" — diferença que o fascismo rompe, mantendo estreita relação com as classes miseráveis. Mas o fascismo não é apenas essa proximidade: não é apenas "reunião de poderes de diferentes origens" ou "reunião simbólica de classes", é ainda "reunião completa dos elementos heterogêneos com os elementos homogêneos, da soberania propriamente dita com o Estado" — duas reuniões distintas e paralelas.
 
-Esclarece o papel do Estado na formação fascista: enquanto reunião, o fascismo se opõe tanto ao Islã quanto à monarquia tradicional — no caso do Islã, o Estado ainda não existia e não desempenhou nenhum papel em sua constituição; o Estado existente serviu como "quadro para o conjunto do processo fascista de aglutinação orgânica", tornando-se um elemento central. Isso, no entanto, "não implica necessariamente" a confusão entre o Estado e a força imperativa que domina a sociedade como um todo — abrindo espaço para investigar se, em algum caso específico, essa confusão de fato ocorre.
+Esclarece o papel do Estado na formação fascista: enquanto reunião, o fascismo se opõe tanto ao Islã quanto à monarquia tradicional — no caso do Islã, o Estado ainda não existia e não desempenhou nenhum papel em sua constituição; o Estado existente serviu como "quadro para o conjunto do processo fascista de aglutinação orgânica". Isso, no entanto, "não implica necessariamente" a confusão entre o Estado e a força imperativa que domina a sociedade como um todo — abrindo espaço para investigar se, em algum caso específico, essa confusão de fato ocorre.
 
 ## Explora a soberania superior distinta da formação fascista (§2-4)
 
@@ -313,6 +315,8 @@ Justifica a soberania da forma heterogênea na dualidade das formas: as formas d
 ## Propõe a estrutura psicológica como base da unidade do fascismo (§1-3)
 
 Explora as causas que levam as **forças heterogêneas a atenderem aos interesses do conjunto dos capitalistas**: os processos heterogêneos só entram em jogo quando a homogeneidade fundamental da sociedade (o aparelho de produção) está cindida por suas contradições internas. Por mais “às cegas” que seja o desenvolvimento dessas forças, elas ganham necessariamente o sentido de “solução do problema apresentado pelas contradições da homogeneidade”; e, quando tomam o poder, dispõem dos "meios de coerção" necessários para arbitrar os diferendos entre elementos antes inconciliáveis — arbitragem essa que, ao excluir toda a subversão, se mantém na **"direção geral da homogeneidade existente"**, ou seja, atendendo aos interesses do "conjunto dos capitalistas".
+
+- Comentário (interpretação minha): o texto literal diz que os processos heterogêneos “não podem ser colocados em jogo **se** a homogeneidade fundamental da sociedade (o aparelho de produção) está cindida por causa de suas contradições internas”. Essa leitura parece contradizer o cap. 3 (a dissociação da homogeneidade alimenta o heterogêneo), a continuação do próprio parágrafo (as forças heterogêneas são “solução do problema apresentado pelas contradições da homogeneidade”) e o marcador “a partir do período de crise”. Por isso, aqui o trecho foi lido como “só entram em jogo quando há cisão”. Possível problema de tradução; conferir no original e levar a dúvida ao grupo.
 
 Descreve a **alteração na estrutura do capitalismo**: ao recorrer à homogeneidade fascista, os interesses do conjunto dos capitalistas passam a se opor aos das empresas privadas a partir do período de crise, fazendo com que a "estrutura do capitalismo" se altere profundamente — o princípio anterior poderia ser descrito como uma homogeneidade espontânea da produção baseada na concorrência, onde o interesse do conjunto dos produtores coincidia com a "liberdade absoluta de cada empresa".
 
@@ -342,7 +346,7 @@ Aponta as causas que levam as classes inferiores a não mais aderir à solução
 - A atração imperativa no sentido da restauração e suas limitações: destaca exemplos recentes de uma atração no sentido de uma restauração, entretanto, "limitada de antemão pela natureza preestabelecida da soberania desaparecida", implicando uma "perda de contato proibitiva entre a instância autoritária e as classes inferiores". Cita o bonapartismo como única restauração histórica espontânea — exceção que se explica justamente por suas "fontes populares manifestas".
   - A formação fascista francesa se formou em torno de uma atração imperativa dirigida no sentido de uma restauração dinástica, diferente da Itália, onde a monarquia "subsistia em estado reduzido"; portanto, foi precisamente "a insuficiência, juntando-se à subsistência da realeza, que necessitou da formação, à qual ela deixava ao mesmo tempo o campo livre, de uma atração imperativa inteiramente renovada e recebendo uma base popular".
 
-## Extrai a impossibilidade da revolução operária como consequência da dualidade (duas revoluções) (§6,7)
+## Extrai a diminuição das chances da revolução operária como consequência da dualidade (duas revoluções) (§6,7)
 
 Justifica as causas que possibilitam "conexões" e um tipo de "cumplicidade profunda" entre o fascismo e o socialismo: a sociedade então vê a formação (concorrentemente) de duas revoluções "hostis entre si e hostis à ordem social estabelecida" — ambas surgem opostas à **dissociação geral da sociedade homogênea "como fator comum"**, isto é, essa dissociação é o que gera, ao mesmo tempo, as duas frações rivais.
 

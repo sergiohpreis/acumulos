@@ -1,6 +1,6 @@
 ---
 created: 2026-06-14T22:23:01-03:00
-modified: 2026-07-26T22:01:05-03:00
+modified: 2026-10-13T10:05:43-03:00
 draft: false
 tags:
   - erotismo
@@ -34,7 +34,7 @@ tags:
 
 ## [[BATAILLE Georges. A estrutura psicológica do fascismo (1933)]]
 
-Fichamento: [[[(EE) (1933) BATAILLE. A estrutura psicológica do fascismo]]]
+Fichamento: [[(EE) (1933) BATAILLE. A estrutura psicológica do fascismo]]
 
 ## LIVE CABEÇUDA (por QnS)
 

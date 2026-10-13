@@ -1,6 +1,6 @@
 ---
 created: 2026-07-24T21:15:45-03:00
-modified: 2026-08-04T21:00:23-03:00
+modified: 2026-10-13T10:38:41-03:00
 draft: false
 tags:
   - bataille
@@ -312,7 +312,7 @@ Justifica a soberania da forma heterogênea na dualidade das formas: as formas d
 
 ## Propõe a estrutura psicológica como base da unidade do fascismo (§1-3)
 
-Explora as causas que levam as **forças heterogêneas a atenderem aos interesses do conjunto dos capitalistas**: para que os processos heterogêneos possam funcionar, é necessário que o aparelho de produção (homogeneidade fundamental da sociedade) não esteja cindido devido às suas contradições internas. Por mais "às cegas" que seja o desenvolvimento das forças heterogêneas, elas ganham necessariamente o sentido de "solução do problema apresentado pelas contradições da homogeneidade"; e, quando tomam o poder, dispõem dos "meios de coerção" necessários para arbitrar os diferendos entre elementos antes inconciliáveis — arbitragem essa que, ao excluir toda a subversão, se mantém na **"direção geral da homogeneidade existente"**, ou seja, atendendo aos interesses do "conjunto dos capitalistas".
+Explora as causas que levam as **forças heterogêneas a atenderem aos interesses do conjunto dos capitalistas**: os processos heterogêneos só entram em jogo quando a homogeneidade fundamental da sociedade (o aparelho de produção) está cindida por suas contradições internas. Por mais “às cegas” que seja o desenvolvimento dessas forças, elas ganham necessariamente o sentido de “solução do problema apresentado pelas contradições da homogeneidade”; e, quando tomam o poder, dispõem dos "meios de coerção" necessários para arbitrar os diferendos entre elementos antes inconciliáveis — arbitragem essa que, ao excluir toda a subversão, se mantém na **"direção geral da homogeneidade existente"**, ou seja, atendendo aos interesses do "conjunto dos capitalistas".
 
 Descreve a **alteração na estrutura do capitalismo**: ao recorrer à homogeneidade fascista, os interesses do conjunto dos capitalistas passam a se opor aos das empresas privadas a partir do período de crise, fazendo com que a "estrutura do capitalismo" se altere profundamente — o princípio anterior poderia ser descrito como uma homogeneidade espontânea da produção baseada na concorrência, onde o interesse do conjunto dos produtores coincidia com a "liberdade absoluta de cada empresa".
 

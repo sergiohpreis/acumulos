@@ -33,16 +33,16 @@ tags:
   - bataille
   - filosofia
 draft: false
-date: 2026-07-22T00:33:51.704985838-03:00
+date: 2026-11-25T11:22:26.723616864-03:00
 ---
 
 **Georges Bataille** · 1970 · Autêntica · 9786559283491
 
 ## Resumo
 
-- Sessões: 31
-- Páginas lidas: 40
-- Tempo total: 18h 42m
+- Sessões: 46
+- Páginas lidas: 60
+- Tempo total: 25h 19m
 - Avaliação: ⭐⭐⭐⭐ (4/5)
 - Autores: Georges Bataille
 - Status: Lendo
@@ -50,6 +50,21 @@ date: 2026-07-22T00:33:51.704985838-03:00
 
 ## Sessões
 
+- **2026-11-25 10:18 - 11:18** - Páginas 146-150 (5 páginas) - O soberano (III); Resumo - 0h59m
+- **2026-11-24 17:34 - 18:02** - Páginas 144-146 (3 páginas) - O soberano (II); Resumo - 0h28m
+- **2026-11-23 09:16 - 09:45** - Páginas 144-145 (2 páginas) - O soberano (II); Resumo - 0h29m
+- **2026-11-18 23:03 - 23:52** - Páginas 143-144 (2 páginas) - O soberano (I); Resumo - 0h48m
+- **2026-11-18 22:39 - 22:52** - Páginas 154-156 (3 páginas) - O soberano (V); Anotações - 0h13m
+- **2026-11-18 08:59 - 09:19** - Páginas 150-154 (5 páginas) - O soberano (IV); Anotações - 0h20m
+- **2026-11-17 23:43 - 00:09** - Páginas 150-152 (3 páginas) - O soberano (IV); Anotações - 0h26m
+- **2026-11-13 10:02 - 10:36** - Páginas 146-150 (5 páginas) - O soberano (III); Anotações - 0h34m
+- **2026-11-12 23:03 - 23:31** - Páginas 146-148 (3 páginas) - O soberano (III); Anotações - 0h28m
+- **2026-11-12 22:51 - 23:03** - Páginas 143-146 (4 páginas) - O soberano (II); Releitura - 0h12m
+- **2026-11-12 10:35 - 11:02** - Páginas 143-146 (4 páginas) - O soberano (II); Anotações - 0h26m
+- **2026-11-10 14:59 - 15:40** - Páginas 143-144 (2 páginas) - O soberano (I); Anotações + Claude - 0h40m
+- **2026-11-08 12:14 - 12:24** - Páginas 150-156 (7 páginas) - O soberano (IV e V) - 0h09m
+- **2026-11-08 11:10 - 11:25** - Páginas 143-149 (7 páginas) - O soberano (I até III) - 0h14m
+- **2026-07-22 22:29 - 22:38** - Páginas 173-178 (6 páginas) - Sade, 1740-1814 - 0h08m
 - **2026-07-21 23:17 - 00:06** - Páginas 32-36 (5 páginas) - Repassando fichamento EED (§35-48) - 0h48m
 - **2026-07-21 21:10 - 21:52** - Páginas 32-36 (5 páginas) - Produzindo fichamento EED (§35-48) - 0h42m
 - **2026-07-21 16:59 - 17:30** - Páginas 29-32 (4 páginas) - Repassando fichamento EED (§28-34) - 0h30m
@@ -83,6 +98,29 @@ date: 2026-07-22T00:33:51.704985838-03:00
 - **2026-07-02 10:01 - 10:06** - Páginas 1-12 (12 páginas) - Contracapa; Orelhas: Apresentação “A desmedida, fim da medida” por Marcelo Jacques de Moraes - 0h04m
 
 ## Notas
+
+### 2026-11-25 11:18
+O revoltado perde ao entrar na via das consequências, subordinando o presente a fins distante. Na história, antes da submissão, existiam aqueles que não se submetiam, que viviam o instante, mas depois, com o surgimento do trabalho imposto, o homem passou a ver vantagem em submeter ao cálculo, tendo como limite a sua subjugação (tendo a possibilidade então de escolher a morte ao invés dessa). Houveram príncipes que dispuseram daquilo que desejavam, e esses, enquanto uma pequena parte da humanidade, se colocaram acima da servidão, mas em seu conjunto, a humanidade se colocou abaixo da servidão, em uma subjugação voluntaria, renunciando a soberania animal, por meio dos interditos e das leis do trabalho, tendo como necessidade uma compensação, onde a coerção não pesava. 
+
+E assim, os homens criaram o tempo de licença, e assim, podem viver um movimento soberano, o instante sem cálculo, e o soberano equivale de algum modo a esse tempo de festa, uma vez que não se subordina a nada, e as leis só regulam sua relação com os outros, não vivendo sob o cálculo. Entretanto, o escravo só serve sob a coerção, e não por si (diferentemente do súdito, onde havia algo de consentido), e o soberano não é mais insubmisso (ou seja, soberano) quando coage o outro a servidão, se retirando do jogo e ficando ao abrigo do perigo, desejando então que o instante dure. O movimento soberano, para ser intacto,  não pode reduzir a soberania em outrem (como fez o soberano antigo com o escravo) e nem adiá-la em nós mesmos esperando uma "liberação final" (como faz o revoltado moderno que se prende ao cálculo das consequências)
+
+### 2026-11-24 18:02
+Nem todos são revoltados, ou "igualmente revoltados", e a revolta está relacionada a condição do homem na história, onde muitas vezes, "a revolta veio à luz sob o aspecto da submissão" - e que não devemos confundir essa com os rancores que falam em seu nome. Ser é ser revoltado, mas a sua plena manifestação exige um "abandono da revolta". Mas não é nessa concessão que se manifesta o ser verdadeiramente, mas sim, no "sobressalto de uma recusa".
+
+Essa revolta, que é uma negligência ao cálculo,  "nos condena a desviar de seu objeto", nos leva a uma solidão, entretanto, a um instante - que é o "ser soberano". Portanto, a revolta não deve se submeter a uma utilidade, mas sim, arder por nada, pois do contrário, sai-se então de uma "prisão da servidão" para entrar nos "encadeamentos de uma revolta consequente", a verdadeira revolta arde por nada.
+
+
+
+## Dúvidas
+
+- O que é esse **objeto** que a revolta nos condena a desviar?
+
+### 2026-11-18 23:27
+O mundo de que somos originados é um mundo de submissão, mas ainda assim, a revolta é forte e não podemos amar mais nada que tenha a "marca da submissão". Naturalmente, se nos deixarmos levar, iremos acabar submetidos a verbalismos, aos "mecanismos das palavras", que nos subordinam, entretanto, será que as nos recusarmos a nos subordinarmos, não estamos apenas sendo odiosos ou invejosos?
+
+O homem é contraditório e não age de maneira desinteressada, e nas profundezas do espírito humano, encontram-se verdades que são equivalente a meras aparências (falsidades). Frente a isso, podemos rir ou temer, mas ao rir, demonstramos que ao menos, nos recusamos a ser manipulados. E ainda que o homem seja contraditório, e que sua boa fé seja duvidável, esse riso feliz e "insidioso" demonstra a própria pretensão da revolta,  onde seu próprio é o de "não se deixar submeter facilmente", e sua pretensão é a de "nada reconhecer de soberano acima de mim", encarando de frente a solidão e o silêncio do universo.
+
+Submeter-se em algum nível é confortável, entretanto, um "instante nu, imensamente alegre e trêmulo" se faz presente ao recusar esse conforto e abraçar esse silêncio da recusa da submissão.
 
 ### 2026-07-21 09:16
 Utilizando o claude para revisão do fichamento: https://claude.ai/chat/292ba9fe-e211-43c2-8d4c-08210b8d2de5

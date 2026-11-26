@@ -4,7 +4,7 @@ authors:
   - Georges Bataille
 status:
   - Lendo
-rating: 4
+rating: 5
 published_year: 1970
 categories:
   - Sociologia
@@ -33,23 +33,25 @@ tags:
   - bataille
   - filosofia
 draft: false
-date: 2026-11-25T11:22:26.723616864-03:00
+date: 2026-11-26T19:04:35.520993984-03:00
 ---
 
 **Georges Bataille** · 1970 · Autêntica · 9786559283491
 
 ## Resumo
 
-- Sessões: 46
+- Sessões: 48
 - Páginas lidas: 60
-- Tempo total: 25h 19m
-- Avaliação: ⭐⭐⭐⭐ (4/5)
+- Tempo total: 26h 43m
+- Avaliação: ⭐⭐⭐⭐⭐ (5/5)
 - Autores: Georges Bataille
 - Status: Lendo
 - Total de páginas: 253
 
 ## Sessões
 
+- **2026-11-26 18:09 - 19:04** - Páginas 152-154 (3 páginas) - O soberano (IV); Resumo - 0h54m
+- **2026-11-26 10:02 - 10:32** - Páginas 150-152 (3 páginas) - O soberano (IV); Resumo - 0h30m
 - **2026-11-25 10:18 - 11:18** - Páginas 146-150 (5 páginas) - O soberano (III); Resumo - 0h59m
 - **2026-11-24 17:34 - 18:02** - Páginas 144-146 (3 páginas) - O soberano (II); Resumo - 0h28m
 - **2026-11-23 09:16 - 09:45** - Páginas 144-145 (2 páginas) - O soberano (II); Resumo - 0h29m
@@ -98,6 +100,15 @@ date: 2026-11-25T11:22:26.723616864-03:00
 - **2026-07-02 10:01 - 10:06** - Páginas 1-12 (12 páginas) - Contracapa; Orelhas: Apresentação “A desmedida, fim da medida” por Marcelo Jacques de Moraes - 0h04m
 
 ## Notas
+
+### 2026-11-26 18:45
+Aos olhos do submisso, o estado soberano é como um pecado que se deve eliminar, no homem submisso, "piedoso e religioso", a soberania na submissão visa um **outro mundo**. Por meio da configuração religiosa, dificilmente se mantém a distância entre ser soberano e o homem submisso, e esse ser, responde as exigências do homem - o cálculo torna-se uma "figura vazia" em oposição a esse imenso, e **o instante é aniquilado**.
+
+A submissão afasta o ser da soberania, que é o fim da religião, e por isso o "religioso" exige constantemente uma revolta limitada que o negue e o recomece. Ainda assim, esse impulso logo se embaraça nos cálculos essenciais ao "espírito dócil" — cálculos que a piedade deveria esquecer e que, às vezes, de fato esquece, fazendo com que o medo do inferno e o desejo de salvação percam o sentido na alma extasiada. Por outro lado, nenhum movimento humano é totalmente simples (nem livre de algum cálculo), embora Bataille critique a ilusão de tentar prever o acesso ao estado soberano como uma viagem planejada por meio de "métodos ofegantes e meditações pesadas". Em oposição ao "gozo ingênuo e soberano", o devoto subordina o instante imediato a uma salvação futura ("bem ulterior"), acreditando que aceder a esse "soberano bem" depende apenas de si e de seu esforço — diferentemente dos atrativos do amor ou do assassinato (aos quais não se cede sem pecado), que dependem da sorte, da força e de outros seres colocados à nossa mercê.
+
+Assim como o "assassinato" e a "sensualidade", o divino também foi revelado de fora, de maneira objetivamente sensível, através dos ritos, por meio da relação com destruição e sacrifício (como Deus na cruz). Depois, essa sensibilidade evoca-se por meio da memória, onde o ser humano pode meditar sobre a esfera divina, "desprezando um mundo de carne e de sangue, ao estado soberano mais despreocupado". Apenas a atenção ao instante não seria capaz de trazer um momento soberano, e ao mirar a finalidade, "a salvação", a meditação leva a consciência a esse atrativo sensível, e o homem então, "não encontrou o que buscava e não buscava o que encontrou" - buscou a salvação mas encontrou o êxtase soberano (e não planejado) do instante.
+
+O esforço do mundo religioso na história, no fundo, se apresenta como uma revolta contra a submissão ao mundo real, que coloca os momentos soberanos como dependentes da força e da sorte
 
 ### 2026-11-25 11:18
 O revoltado perde ao entrar na via das consequências, subordinando o presente a fins distante. Na história, antes da submissão, existiam aqueles que não se submetiam, que viviam o instante, mas depois, com o surgimento do trabalho imposto, o homem passou a ver vantagem em submeter ao cálculo, tendo como limite a sua subjugação (tendo a possibilidade então de escolher a morte ao invés dessa). Houveram príncipes que dispuseram daquilo que desejavam, e esses, enquanto uma pequena parte da humanidade, se colocaram acima da servidão, mas em seu conjunto, a humanidade se colocou abaixo da servidão, em uma subjugação voluntaria, renunciando a soberania animal, por meio dos interditos e das leis do trabalho, tendo como necessidade uma compensação, onde a coerção não pesava. 

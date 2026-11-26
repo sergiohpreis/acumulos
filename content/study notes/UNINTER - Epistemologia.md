@@ -1,6 +1,6 @@
 ---
 created: 2026-11-26T19:15:10-03:00
-modified: 2026-11-26T19:29:48-03:00
+modified: 2026-11-26T19:39:52-03:00
 draft: false
 tags:
   - epistemologia
@@ -9,9 +9,11 @@ tags:
 
 ## Introdução
 
-Significados do termo "epistemologia"
+Significados do termo **"epistemologia"**
 - Na tradição francesa, mais conhecido como "teoria da **ciência**" 
+- Gnosiologia: também pode ser usado como teoria / estudo do conhecimento
 - Atualmente, significado predominante é como "teoria do **conhecimento**"
+	- Influência do mundo anglo-saxão
 
 Algumas questões da epistemologia
 - O que é possível conhecer? 
@@ -30,4 +32,21 @@ Problema central: distinção entre "episteme" (verdade) e "doxa" (opinião)
 	- Se parte das sensações, e então, desenvolvem-se as abstrações
 - **Criticismo**: síntese entre **sensibilidade** e **entendimento** (Kant)
 	- Resposta de Kant (em resumo didático): o empirismo tem razão, porque há algo no conhecimento que depende da sensibilidade; mas o conhecimento também depende do intelecto / entendimento
+
+## Natureza e Critérios da Ciência
+
+**Filosofia da ciência**
+- Reflexão sobre métodos, fundamentos e validade do saber científico
+
+**Ciência**
+- Tem seus limites, não pode conhecer tudo
+	- exemplo: fé e filosofia também traz conhecimento
+- Conhecimento científico tem regras, nem todo conhecimento é científico
+- É um saber sistemático: elementos interdependentes e correlacionados
+- Não é só registro das coisas observadas no mundo, é uma busca dos fatos de maneira estruturada
+- Busca por **objetividade** e explicação
+	- objetividade: aquilo que não depende apenas do sujeito, da vontade, dos desejos e crenças; algo que se impõe independente disso
+
+Distinção: ciência x senso comum
+- 
 

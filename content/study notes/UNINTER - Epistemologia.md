@@ -1,6 +1,6 @@
 ---
 created: 2026-11-26T19:15:10-03:00
-modified: 2026-11-26T19:39:52-03:00
+modified: 2026-11-26T19:42:48-03:00
 draft: false
 tags:
   - epistemologia
@@ -46,7 +46,13 @@ Problema central: distinção entre "episteme" (verdade) e "doxa" (opinião)
 - Não é só registro das coisas observadas no mundo, é uma busca dos fatos de maneira estruturada
 - Busca por **objetividade** e explicação
 	- objetividade: aquilo que não depende apenas do sujeito, da vontade, dos desejos e crenças; algo que se impõe independente disso
+		- pode ser compartilhado, provado
 
 Distinção: ciência x senso comum
-- 
+- o senso comum não é necessariamente errado, é outro tipo de conhecimento, sem necessidade de justificação
+	- as vezes são mais apoiados em preconceitos, que não são necessariamente erros, mas não suficiente demonstrados
+
+## Dúvidas
+
+- Izabel: Considerando a distinção platônica entre _episteme_ e _doxa_ e a importância da justificação do conhecimento, seria filosoficamente legítimo afirmar que a inteligência artificial produz conhecimento ou sua atuação se restringe ao processamento de informações, sem efetiva compreensão daquilo que enuncia?
 

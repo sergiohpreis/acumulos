@@ -121,7 +121,7 @@ Essa revolta, que é uma negligência ao cálculo,  "nos condena a desviar de se
 
 
 
-## Dúvidas
+**Dúvidas:**
 
 - O que é esse **objeto** que a revolta nos condena a desviar?
 

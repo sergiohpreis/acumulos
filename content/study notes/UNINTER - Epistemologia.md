@@ -1,6 +1,6 @@
 ---
 created: 2026-11-26T19:15:10-03:00
-modified: 2026-11-26T19:51:43-03:00
+modified: 2026-11-26T19:59:51-03:00
 draft: false
 tags:
   - epistemologia
@@ -51,6 +51,16 @@ Problema central: distinção entre "episteme" (verdade) e "doxa" (opinião)
 Distinção: ciência x senso comum
 - o senso comum não é necessariamente errado, é outro tipo de conhecimento, sem necessidade de justificação
 	- as vezes são mais apoiados em preconceitos, que não são necessariamente erros, mas não suficiente demonstrados
+
+Ciência normal: atividade orientada por **paradigmas** (Thomas Kuhn)
+- de vez em quando, os paradigmas sofrem abalos
+- as anomalias começam a se acumular, e então, se
+
+Paradigma: modelo explicativo compartilhado
+
+Crises: anomalias acumuladas
+
+Ciência: processo histórico e não-linear
 
 ## Dúvidas
 

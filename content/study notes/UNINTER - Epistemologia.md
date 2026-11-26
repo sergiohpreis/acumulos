@@ -55,4 +55,5 @@ Distinção: ciência x senso comum
 ## Dúvidas
 
 - Izabel: Considerando a distinção platônica entre _episteme_ e _doxa_ e a importância da justificação do conhecimento, seria filosoficamente legítimo afirmar que a inteligência artificial produz conhecimento ou sua atuação se restringe ao processamento de informações, sem efetiva compreensão daquilo que enuncia?
+	- Ainda é um debate, pela própria forma que funciona, trabalh
 

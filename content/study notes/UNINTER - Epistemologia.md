@@ -1,0 +1,33 @@
+---
+created: 2026-11-26T19:15:10-03:00
+modified: 2026-11-26T19:29:48-03:00
+draft: false
+tags:
+  - epistemologia
+  - filosofia
+---
+
+## Introdução
+
+Significados do termo "epistemologia"
+- Na tradição francesa, mais conhecido como "teoria da **ciência**" 
+- Atualmente, significado predominante é como "teoria do **conhecimento**"
+
+Algumas questões da epistemologia
+- O que é possível conhecer? 
+- O que conhecemos? 
+- Existem conhecimentos mais ou menos válidos?
+
+Problema central: distinção entre "episteme" (verdade) e "doxa" (opinião)
+- também contempla o problema da justificação
+	- o conhecimento precisa de provas, para se saber como chegou-se aos resultados
+
+## Correntes
+
+- **Racionalismo**: primazia da **razão** (Descartes)
+	- Metódico, põe em dúvidas varias certezas
+- **Empirismo**: primazia da **experiência** (Hume, Locke)
+	- Se parte das sensações, e então, desenvolvem-se as abstrações
+- **Criticismo**: síntese entre **sensibilidade** e **entendimento** (Kant)
+	- Resposta de Kant (em resumo didático): o empirismo tem razão, porque há algo no conhecimento que depende da sensibilidade; mas o conhecimento também depende do intelecto / entendimento
+

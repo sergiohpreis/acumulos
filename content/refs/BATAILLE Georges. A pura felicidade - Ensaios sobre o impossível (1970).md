@@ -33,7 +33,6 @@ tags:
   - bataille
   - filosofia
 draft: false
-date: 2026-11-26T19:04:35.520993984-03:00
 ---
 
 **Georges Bataille** · 1970 · Autêntica · 9786559283491

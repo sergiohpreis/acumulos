@@ -1,6 +1,6 @@
 ---
 created: 2026-11-26T19:15:10-03:00
-modified: 2026-11-26T19:42:48-03:00
+modified: 2026-11-26T19:51:43-03:00
 draft: false
 tags:
   - epistemologia
@@ -54,6 +54,7 @@ Distinção: ciência x senso comum
 
 ## Dúvidas
 
-- Izabel: Considerando a distinção platônica entre _episteme_ e _doxa_ e a importância da justificação do conhecimento, seria filosoficamente legítimo afirmar que a inteligência artificial produz conhecimento ou sua atuação se restringe ao processamento de informações, sem efetiva compreensão daquilo que enuncia?
-	- Ainda é um debate, pela própria forma que funciona, trabalh
+- **Izabel**: Considerando a distinção platônica entre _episteme_ e _doxa_ e a importância da justificação do conhecimento, seria filosoficamente legítimo afirmar que a inteligência artificial produz conhecimento ou sua atuação se restringe ao processamento de informações, sem efetiva compreensão daquilo que enuncia?
+	- Ainda é um debate, pela própria forma que funciona, trabalha com estatísticas e etc, mas um caso interessante, é o da Hipótese de Riemann ([“O objeto sagrado da matemática”: a hipótese de Riemann, a IA e uma prova que nenhum ser humano consegue ler](https://theconversation.com/o-objeto-sagrado-da-matematica-a-hipotese-de-riemann-a-ia-e-uma-prova-que-nenhum-ser-humano-consegue-ler-297360))
+	- A IA é uma ferramenta, não o substitui
 
